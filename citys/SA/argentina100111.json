@@ -1,0 +1,131 @@
+[
+  {
+    "cname": "布宜诺斯艾利斯",
+    "suggest_places": [
+      {
+        "cname": "五月广场",
+        "url": "/sight/buenosaires931/140045.html"
+      },
+      {
+        "cname": "雷科莱塔墓地",
+        "url": "/sight/buenosaires931/140043.html"
+      },
+      {
+        "cname": "总统府",
+        "url": "/sight/buenosaires931/77510.html"
+      },
+      {
+        "cname": "博卡街区",
+        "url": "/sight/buenosaires931/140046.html"
+      },
+      {
+        "cname": "七月九日大道",
+        "url": "/sight/buenosaires931/140047.html"
+      }
+    ],
+    "url": "/sightlist/buenosaires931.html"
+  },
+  {
+    "cname": "乌斯怀亚",
+    "suggest_places": [
+      {
+        "cname": "也格来日斯灯塔",
+        "url": "/sight/ushuaia1685/142360.html"
+      },
+      {
+        "cname": "泛美公路起点",
+        "url": "/sight/ushuaia1685/142357.html"
+      },
+      {
+        "cname": "拉帕塔亚湾",
+        "url": "/sight/ushuaia1685/142358.html"
+      },
+      {
+        "cname": "世界尽头的小邮局",
+        "url": "/sight/ushuaia1685/142356.html"
+      },
+      {
+        "cname": "火地岛国家公园",
+        "url": "/sight/ushuaia1685/142355.html"
+      }
+    ],
+    "url": "/sightlist/ushuaia1685.html"
+  },
+  {
+    "cname": "伊瓜苏国家公园",
+    "suggest_places": [],
+    "url": "/sightlist/iguazunationalpark1717.html"
+  },
+  {
+    "cname": "圣克鲁斯省",
+    "suggest_places": [
+      {
+        "cname": "莫雷诺冰川",
+        "url": "/sight/santacruz143865/72965.html"
+      },
+      {
+        "cname": "阿根廷冰川国家公园",
+        "url": "/sight/santacruz143865/1416256.html"
+      },
+      {
+        "cname": "阿根廷湖",
+        "url": "/sight/santacruz143865/72971.html"
+      },
+      {
+        "cname": "洛斯马诺斯岩画",
+        "url": "/sight/santacruz143865/1416211.html"
+      }
+    ],
+    "url": "/sightlist/santacruz143865.html"
+  },
+  {
+    "cname": "马德普拉塔",
+    "suggest_places": [
+      {
+        "cname": "马德普拉塔",
+        "url": "/sight/mardelplata1679/72966.html"
+      }
+    ],
+    "url": "/sightlist/mardelplata1679.html"
+  },
+  {
+    "cname": "火地岛省",
+    "suggest_places": [
+      {
+        "cname": "也格来日斯灯塔",
+        "url": "/sight/provinceoftierradelfuego13712/142360.html"
+      },
+      {
+        "cname": "泛美公路起点",
+        "url": "/sight/provinceoftierradelfuego13712/142357.html"
+      },
+      {
+        "cname": "拉帕塔亚湾",
+        "url": "/sight/provinceoftierradelfuego13712/142358.html"
+      },
+      {
+        "cname": "世界尽头的小邮局",
+        "url": "/sight/provinceoftierradelfuego13712/142356.html"
+      },
+      {
+        "cname": "火地岛国家公园",
+        "url": "/sight/provinceoftierradelfuego13712/142355.html"
+      }
+    ],
+    "url": "/sightlist/provinceoftierradelfuego13712.html"
+  },
+  {
+    "cname": "里奥内格罗省",
+    "suggest_places": [
+      {
+        "cname": "科尔多瓦耶稣会街区和庄园",
+        "url": "/sight/rionegro123869/1416231.html"
+      },
+      {
+        "cname": "纳韦尔瓦皮湖国家公园",
+        "url": "/sight/rionegro123869/72964.html"
+      }
+    ],
+    "url": "/sightlist/rionegro123869.html"
+  }
+]

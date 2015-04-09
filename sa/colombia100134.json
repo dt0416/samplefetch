@@ -1,0 +1,26 @@
+[
+  {
+    "cname": "波哥大",
+    "url": "http://you.ctrip.com/sightlist/bogota1702.html",
+    "places": [
+      {
+        "cname": "圣克拉拉教堂",
+        "url": "/sight/bogota1702/1417903.html",
+        "s_img": "",
+        "caddress": "Carrera 8, Bogotá, Bogotá, D.C."
+      },
+      {
+        "cname": "圣弗朗西斯科教堂",
+        "url": "/sight/bogota1702/1418162.html",
+        "s_img": "",
+        "caddress": "Avenida Carrera 7, Bogotá, Bogotá, D.C."
+      },
+      {
+        "cname": "圣伊格纳西奥教堂",
+        "url": "/sight/bogota1702/1418161.html",
+        "s_img": "",
+        "caddress": "Calle 10 # Cra 6 y 7, Bogotá, Bogotá, D.C."
+      }
+    ]
+  }
+]

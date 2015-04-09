@@ -1,0 +1,17 @@
+[
+  {
+    "cname": "卢萨卡",
+    "suggest_places": [],
+    "url": "/sightlist/lusaka1312.html"
+  },
+  {
+    "cname": "利文斯顿",
+    "suggest_places": [
+      {
+        "cname": "维多利亚瀑布",
+        "url": "/sight/livingstone20042/134359.html"
+      }
+    ],
+    "url": "/sightlist/livingstone20042.html"
+  }
+]

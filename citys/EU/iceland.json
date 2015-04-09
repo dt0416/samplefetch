@@ -1,0 +1,94 @@
+[
+  {
+    "cname": "雷克雅未克",
+    "suggest_places": [
+      {
+        "cname": "蓝湖",
+        "url": "/sight/reykjavik1044/26391.html"
+      },
+      {
+        "cname": "黄金瀑布",
+        "url": "/sight/reykjavik1044/61911.html"
+      },
+      {
+        "cname": "雷克雅未克",
+        "url": "/sight/reykjavik1044/65518.html"
+      },
+      {
+        "cname": "间歇喷泉",
+        "url": "/sight/reykjavik1044/61951.html"
+      },
+      {
+        "cname": "雷克雅未克大教堂",
+        "url": "/sight/reykjavik1044/146772.html"
+      }
+    ],
+    "url": "/sightlist/reykjavik1044.html"
+  },
+  {
+    "cname": "冰岛南部区",
+    "suggest_places": [
+      {
+        "cname": "塞里雅兰瀑布",
+        "url": "/sight/southiceland123789/140469.html"
+      },
+      {
+        "cname": "森林瀑布",
+        "url": "/sight/southiceland123789/140465.html"
+      },
+      {
+        "cname": "维克小镇",
+        "url": "/sight/southiceland123789/140436.html"
+      }
+    ],
+    "url": "/sightlist/southiceland123789.html"
+  },
+  {
+    "cname": "冰岛东部区",
+    "suggest_places": [
+      {
+        "cname": "冰河湖",
+        "url": "/sight/easticeland123786/140454.html"
+      },
+      {
+        "cname": "史卡法特国家公园",
+        "url": "/sight/easticeland123786/140462.html"
+      }
+    ],
+    "url": "/sightlist/easticeland123786.html"
+  },
+  {
+    "cname": "米湖",
+    "suggest_places": [
+      {
+        "cname": "米湖景区",
+        "url": "/sight/myvatn2114/140381.html"
+      }
+    ],
+    "url": "/sightlist/myvatn2114.html"
+  },
+  {
+    "cname": "胡萨维克",
+    "suggest_places": [],
+    "url": "/sightlist/husavik2115.html"
+  },
+  {
+    "cname": "阿克雷里",
+    "suggest_places": [],
+    "url": "/sightlist/akureyri2113.html"
+  },
+  {
+    "cname": "埃伊尔斯塔奇",
+    "suggest_places": [
+      {
+        "cname": "东部峡湾",
+        "url": "/sight/egilsstadir2111/85557.html"
+      },
+      {
+        "cname": "默兹勒达勒农场",
+        "url": "/sight/egilsstadir2111/85559.html"
+      }
+    ],
+    "url": "/sightlist/egilsstadir2111.html"
+  }
+]

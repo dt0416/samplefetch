@@ -1,0 +1,336 @@
+[
+  {
+    "cname": "胡志明市",
+    "suggest_places": [
+      {
+        "cname": "西贡圣母大教堂",
+        "url": "/sight/hochiminhcity434/13423.html"
+      },
+      {
+        "cname": "中央邮局",
+        "url": "/sight/hochiminhcity434/23320.html"
+      },
+      {
+        "cname": "湄公河",
+        "url": "/sight/hochiminhcity434/54083.html"
+      },
+      {
+        "cname": "范五老街",
+        "url": "/sight/hochiminhcity434/134878.html"
+      },
+      {
+        "cname": "市政厅",
+        "url": "/sight/hochiminhcity434/21035.html"
+      }
+    ],
+    "url": "/sightlist/hochiminhcity434.html"
+  },
+  {
+    "cname": "河内",
+    "suggest_places": [
+      {
+        "cname": "河内",
+        "url": "/sight/hanoi181/137310.html"
+      },
+      {
+        "cname": "还剑湖",
+        "url": "/sight/hanoi181/13332.html"
+      },
+      {
+        "cname": "河内大教堂",
+        "url": "/sight/hanoi181/107392.html"
+      },
+      {
+        "cname": "巴亭广场",
+        "url": "/sight/hanoi181/13331.html"
+      },
+      {
+        "cname": "胡志明故居",
+        "url": "/sight/hanoi181/13426.html"
+      }
+    ],
+    "url": "/sightlist/hanoi181.html"
+  },
+  {
+    "cname": "芽庄",
+    "suggest_places": [
+      {
+        "cname": "芽庄",
+        "url": "/sight/nhatrang670/137441.html"
+      },
+      {
+        "cname": "芽庄四岛",
+        "url": "/sight/nhatrang670/54537.html"
+      },
+      {
+        "cname": "芽庄大教堂",
+        "url": "/sight/nhatrang670/133197.html"
+      },
+      {
+        "cname": "钟屿石岬角",
+        "url": "/sight/nhatrang670/133198.html"
+      },
+      {
+        "cname": "婆那加占婆塔",
+        "url": "/sight/nhatrang670/54534.html"
+      }
+    ],
+    "url": "/sightlist/nhatrang670.html"
+  },
+  {
+    "cname": "会安",
+    "suggest_places": [
+      {
+        "cname": "会安古城",
+        "url": "/sight/hoian668/52802.html"
+      },
+      {
+        "cname": "会安",
+        "url": "/sight/hoian668/145954.html"
+      },
+      {
+        "cname": "美山占婆国遗址群",
+        "url": "/sight/hoian668/54101.html"
+      },
+      {
+        "cname": "日本廊桥",
+        "url": "/sight/hoian668/52833.html"
+      },
+      {
+        "cname": "福建会馆",
+        "url": "/sight/hoian668/52829.html"
+      }
+    ],
+    "url": "/sightlist/hoian668.html"
+  },
+  {
+    "cname": "美奈",
+    "suggest_places": [
+      {
+        "cname": "美奈",
+        "url": "/sight/muine1751/137424.html"
+      },
+      {
+        "cname": "白沙丘",
+        "url": "/sight/muine1751/137418.html"
+      },
+      {
+        "cname": "仙女溪",
+        "url": "/sight/muine1751/133645.html"
+      },
+      {
+        "cname": "红沙丘",
+        "url": "/sight/muine1751/137419.html"
+      },
+      {
+        "cname": "美奈渔村",
+        "url": "/sight/muine1751/1411386.html"
+      }
+    ],
+    "url": "/sightlist/muine1751.html"
+  },
+  {
+    "cname": "下龙湾",
+    "suggest_places": [
+      {
+        "cname": "下龙湾",
+        "url": "/sight/halongbay218/23337.html"
+      },
+      {
+        "cname": "斗鸡石",
+        "url": "/sight/halongbay218/133529.html"
+      },
+      {
+        "cname": "天堂岛",
+        "url": "/sight/halongbay218/133528.html"
+      },
+      {
+        "cname": "天宫洞",
+        "url": "/sight/halongbay218/133530.html"
+      },
+      {
+        "cname": "下龙市",
+        "url": "/sight/halongbay218/137415.html"
+      }
+    ],
+    "url": "/sightlist/halongbay218.html"
+  },
+  {
+    "cname": "岘港",
+    "suggest_places": [
+      {
+        "cname": "岘港",
+        "url": "/sight/danang669/137072.html"
+      },
+      {
+        "cname": "美溪海滩",
+        "url": "/sight/danang669/134904.html"
+      },
+      {
+        "cname": "山茶半岛",
+        "url": "/sight/danang669/134901.html"
+      },
+      {
+        "cname": "美山占婆国遗址群",
+        "url": "/sight/danang669/54101.html"
+      },
+      {
+        "cname": "占族雕刻博物馆",
+        "url": "/sight/danang669/54103.html"
+      }
+    ],
+    "url": "/sightlist/danang669.html"
+  },
+  {
+    "cname": "顺化",
+    "suggest_places": [
+      {
+        "cname": "顺化皇城",
+        "url": "/sight/hue667/23338.html"
+      },
+      {
+        "cname": "顺化",
+        "url": "/sight/hue667/145953.html"
+      },
+      {
+        "cname": "启定皇陵",
+        "url": "/sight/hue667/52602.html"
+      },
+      {
+        "cname": "嗣德皇陵",
+        "url": "/sight/hue667/52597.html"
+      },
+      {
+        "cname": "天姥寺",
+        "url": "/sight/hue667/52603.html"
+      }
+    ],
+    "url": "/sightlist/hue667.html"
+  },
+  {
+    "cname": "大叻",
+    "suggest_places": [
+      {
+        "cname": "疯屋子",
+        "url": "/sight/dalat1393/54568.html"
+      },
+      {
+        "cname": "春香湖",
+        "url": "/sight/dalat1393/54482.html"
+      },
+      {
+        "cname": "大叻",
+        "url": "/sight/dalat1393/54457.html"
+      },
+      {
+        "cname": "大叻窄轨火车站",
+        "url": "/sight/dalat1393/54484.html"
+      },
+      {
+        "cname": "保大3号避暑行宫",
+        "url": "/sight/dalat1393/54461.html"
+      }
+    ],
+    "url": "/sightlist/dalat1393.html"
+  },
+  {
+    "cname": "老街市",
+    "suggest_places": [
+      {
+        "cname": "沙坝",
+        "url": "/sight/laocai24735/13427.html"
+      }
+    ],
+    "url": "/sightlist/laocai24735.html"
+  },
+  {
+    "cname": "海防",
+    "suggest_places": [
+      {
+        "cname": "吉婆岛",
+        "url": "/sight/haiphong180/21004.html"
+      },
+      {
+        "cname": "涂山风景区",
+        "url": "/sight/haiphong180/21007.html"
+      },
+      {
+        "cname": "仁寿祠",
+        "url": "/sight/haiphong180/21008.html"
+      },
+      {
+        "cname": "福林寺",
+        "url": "/sight/haiphong180/134899.html"
+      }
+    ],
+    "url": "/sightlist/haiphong180.html"
+  },
+  {
+    "cname": "平顺",
+    "suggest_places": [
+      {
+        "cname": "芽庄珍珠岛",
+        "url": "/sight/binhthuan3168/30069.html"
+      },
+      {
+        "cname": "大叻天主教堂",
+        "url": "/sight/binhthuan3168/30071.html"
+      },
+      {
+        "cname": "大叻竹林禅寺",
+        "url": "/sight/binhthuan3168/30070.html"
+      }
+    ],
+    "url": "/sightlist/binhthuan3168.html"
+  },
+  {
+    "cname": "富国岛",
+    "suggest_places": [],
+    "url": "/sightlist/phuquocisland24779.html"
+  },
+  {
+    "cname": "头顿",
+    "suggest_places": [],
+    "url": "/sightlist/vungtau1389.html"
+  },
+  {
+    "cname": "湄公河三角洲",
+    "suggest_places": [
+      {
+        "cname": "美托市九龙江风景区",
+        "url": "/sight/mekongdelta24755/123019.html"
+      }
+    ],
+    "url": "/sightlist/mekongdelta24755.html"
+  },
+  {
+    "cname": "广南省",
+    "suggest_places": [
+      {
+        "cname": "Hoi An Day Spa",
+        "url": "/sight/quangnam3171/30263.html"
+      }
+    ],
+    "url": "/sightlist/quangnam3171.html"
+  },
+  {
+    "cname": "古芝",
+    "suggest_places": [],
+    "url": "/sightlist/cuchi24765.html"
+  },
+  {
+    "cname": "同海",
+    "suggest_places": [
+      {
+        "cname": "韩松洞",
+        "url": "/sight/donghoi24726/1412522.html"
+      }
+    ],
+    "url": "/sightlist/donghoi24726.html"
+  },
+  {
+    "cname": "河仙",
+    "suggest_places": [],
+    "url": "/sightlist/hatien24758.html"
+  }
+]

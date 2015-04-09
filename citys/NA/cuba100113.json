@@ -1,0 +1,86 @@
+[
+  {
+    "cname": "哈瓦那",
+    "suggest_places": [
+      {
+        "cname": "哈瓦那旧城",
+        "url": "/sight/havana353/146734.html"
+      },
+      {
+        "cname": "武器广场",
+        "url": "/sight/havana353/75167.html"
+      },
+      {
+        "cname": "革命广场",
+        "url": "/sight/havana353/142473.html"
+      },
+      {
+        "cname": "教堂广场",
+        "url": "/sight/havana353/142468.html"
+      },
+      {
+        "cname": "圣弗朗西斯科广场",
+        "url": "/sight/havana353/142469.html"
+      }
+    ],
+    "url": "/sightlist/havana353.html"
+  },
+  {
+    "cname": "巴拉德罗",
+    "suggest_places": [
+      {
+        "cname": "巴拉德罗海滩",
+        "url": "/sight/varadero31947/75171.html"
+      },
+      {
+        "cname": "Ambrosio Cave",
+        "url": "/sight/varadero31947/142508.html"
+      }
+    ],
+    "url": "/sightlist/varadero31947.html"
+  },
+  {
+    "cname": "古巴圣地亚哥",
+    "suggest_places": [
+      {
+        "cname": "塞斯佩蒂斯广场",
+        "url": "/sight/santiagodecuba31939/142509.html"
+      },
+      {
+        "cname": "726历史纪念馆",
+        "url": "/sight/santiagodecuba31939/142511.html"
+      },
+      {
+        "cname": "莫罗要塞",
+        "url": "/sight/santiagodecuba31939/142512.html"
+      },
+      {
+        "cname": "圣伊菲赫尼亚公墓",
+        "url": "/sight/santiagodecuba31939/142510.html"
+      }
+    ],
+    "url": "/sightlist/santiagodecuba31939.html"
+  },
+  {
+    "cname": "特立尼达",
+    "suggest_places": [
+      {
+        "cname": "Ancon Beach",
+        "url": "/sight/trinidad31943/142504.html"
+      },
+      {
+        "cname": "Plaza Mayor",
+        "url": "/sight/trinidad31943/142502.html"
+      },
+      {
+        "cname": "特立尼达老城",
+        "url": "/sight/trinidad31943/142501.html"
+      },
+      {
+        "cname": "Omance Museum",
+        "url": "/sight/trinidad31943/142503.html"
+      }
+    ],
+    "url": "/sightlist/trinidad31943.html"
+  }
+]

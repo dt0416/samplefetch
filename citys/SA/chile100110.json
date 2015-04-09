@@ -1,0 +1,46 @@
+[
+  {
+    "cname": "复活节岛",
+    "suggest_places": [
+      {
+        "cname": "拉帕·努伊国家公园",
+        "url": "/sight/easterisland1418/71188.html"
+      },
+      {
+        "cname": "阿胡汤加里基",
+        "url": "/sight/easterisland1418/71187.html"
+      },
+      {
+        "cname": "阿纳凯海滩",
+        "url": "/sight/easterisland1418/1412754.html"
+      },
+      {
+        "cname": "塞巴斯蒂安博物馆",
+        "url": "/sight/easterisland1418/71202.html"
+      },
+      {
+        "cname": "Ovahe海滩",
+        "url": "/sight/easterisland1418/1412755.html"
+      }
+    ],
+    "url": "/sightlist/easterisland1418.html"
+  },
+  {
+    "cname": "智利圣地亚哥",
+    "suggest_places": [
+      {
+        "cname": "武器(阿玛斯)广场",
+        "url": "/sight/santiagodechile1611/139981.html"
+      },
+      {
+        "cname": "瓦尔帕来索海滨",
+        "url": "/sight/santiagodechile1611/139977.html"
+      },
+      {
+        "cname": "维尼亚德尔马",
+        "url": "/sight/santiagodechile1611/139980.html"
+      }
+    ],
+    "url": "/sightlist/santiagodechile1611.html"
+  }
+]

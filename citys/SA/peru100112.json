@@ -1,0 +1,90 @@
+[
+  {
+    "cname": "马丘比丘",
+    "suggest_places": [
+      {
+        "cname": "马丘比丘",
+        "url": "/sight/machupicchu1413/73435.html"
+      },
+      {
+        "cname": "三窗庙",
+        "url": "/sight/machupicchu1413/140017.html"
+      },
+      {
+        "cname": "神鹰庙",
+        "url": "/sight/machupicchu1413/140018.html"
+      },
+      {
+        "cname": "圣石",
+        "url": "/sight/machupicchu1413/140019.html"
+      },
+      {
+        "cname": "栓日石",
+        "url": "/sight/machupicchu1413/140016.html"
+      }
+    ],
+    "url": "/sightlist/machupicchu1413.html"
+  },
+  {
+    "cname": "利马",
+    "suggest_places": [
+      {
+        "cname": "唐人街",
+        "url": "/sight/lima934/139971.html"
+      },
+      {
+        "cname": "爱情公园",
+        "url": "/sight/lima934/139916.html"
+      },
+      {
+        "cname": "利马大广场",
+        "url": "/sight/lima934/73718.html"
+      },
+      {
+        "cname": "秘鲁总统府",
+        "url": "/sight/lima934/73720.html"
+      },
+      {
+        "cname": "圣马丁广场",
+        "url": "/sight/lima934/139962.html"
+      }
+    ],
+    "url": "/sightlist/lima934.html"
+  },
+  {
+    "cname": "库斯科",
+    "suggest_places": [
+      {
+        "cname": "武器广场",
+        "url": "/sight/cuzco1414/140021.html"
+      },
+      {
+        "cname": "太阳神庙",
+        "url": "/sight/cuzco1414/139967.html"
+      },
+      {
+        "cname": "库斯科城",
+        "url": "/sight/cuzco1414/139944.html"
+      },
+      {
+        "cname": "大教堂",
+        "url": "/sight/cuzco1414/140022.html"
+      },
+      {
+        "cname": "印加古道和十二边形印加石",
+        "url": "/sight/cuzco1414/140024.html"
+      }
+    ],
+    "url": "/sightlist/cuzco1414.html"
+  },
+  {
+    "cname": "普诺",
+    "suggest_places": [
+      {
+        "cname": "的的喀喀湖",
+        "url": "/sight/puno1866/147463.html"
+      }
+    ],
+    "url": "/sightlist/puno1866.html"
+  }
+]

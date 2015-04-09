@@ -1,0 +1,80 @@
+[
+  {
+    "cname": "复活节岛",
+    "url": "http://you.ctrip.com/sightlist/easterisland1418.html",
+    "places": [
+      {
+        "cname": "拉帕·努伊国家公园",
+        "url": "/sight/easterisland1418/71188.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/171/367/075/89ad1c674c5447c5931a656476c059a7_C_220_140.jpg",
+        "caddress": "Rapa Nui National Park, Easter Island"
+      },
+      {
+        "cname": "阿胡汤加里基",
+        "url": "/sight/easterisland1418/71187.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/854/221/534/dc6fd67c7a92435eb22bc9c56262bd3f_C_220_140.jpg",
+        "caddress": "Tongariki‎, Easter Island"
+      },
+      {
+        "cname": "阿纳凯海滩",
+        "url": "/sight/easterisland1418/1412754.html",
+        "s_img": "",
+        "caddress": "Anakena Beach, North the Easter Island"
+      },
+      {
+        "cname": "塞巴斯蒂安博物馆",
+        "url": "/sight/easterisland1418/71202.html",
+        "s_img": "",
+        "caddress": "Museo Antropologico Sebastian Englert"
+      },
+      {
+        "cname": "Ovahe海滩",
+        "url": "/sight/easterisland1418/1412755.html",
+        "s_img": "",
+        "caddress": "Ovahe, Easter Island"
+      },
+      {
+        "cname": "拉诺廓火山",
+        "url": "/sight/easterisland1418/71231.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/700/869/275/0a4169e99afe4f1a8b3560c24a753c2e_C_220_140.jpg",
+        "caddress": "Easter Island, Chile"
+      },
+      {
+        "cname": "拉诺·拉拉库采石场",
+        "url": "/sight/easterisland1418/71218.html",
+        "s_img": "",
+        "caddress": "瓦尔帕莱索大区复活节岛 Parque Nacional Hanga Roa ‎"
+      },
+      {
+        "cname": "安加罗阿",
+        "url": "/sight/easterisland1418/71212.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/960/706/047/bb25c63c39cc44d78b7c8dddb0385e3b_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "智利圣地亚哥",
+    "url": "http://you.ctrip.com/sightlist/santiagodechile1611.html",
+    "places": [
+      {
+        "cname": "武器(阿玛斯)广场",
+        "url": "/sight/santiagodechile1611/139981.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/168/731/641/b8aa02a0fa5947b9bfc1165b3e44bfa5_C_220_140.jpg",
+        "caddress": "Plaza de Armas, Santiago Centro, Chile"
+      },
+      {
+        "cname": "瓦尔帕来索海滨",
+        "url": "/sight/santiagodechile1611/139977.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/718/696/761/e1bbb64f6e5b4f5c9427a01a95c1c119_C_220_140.jpg",
+        "caddress": "Valparaíso, Chile"
+      },
+      {
+        "cname": "维尼亚德尔马",
+        "url": "/sight/santiagodechile1611/139980.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/654/661/241/96760a28c6274097a7322c5e592992f7_C_220_140.jpg",
+        "caddress": "Valparaíso, Chile"
+      }
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "cname": "莫斯科",
+    "suggest_places": [
+      {
+        "cname": "红场",
+        "url": "/sight/moscow358/25747.html"
+      },
+      {
+        "cname": "克里姆林宫",
+        "url": "/sight/moscow358/25748.html"
+      },
+      {
+        "cname": "圣瓦西里升天大教堂",
+        "url": "/sight/moscow358/25756.html"
+      },
+      {
+        "cname": "列宁墓",
+        "url": "/sight/moscow358/25750.html"
+      },
+      {
+        "cname": "新圣女公墓",
+        "url": "/sight/moscow358/54670.html"
+      }
+    ],
+    "url": "/sightlist/moscow358.html"
+  },
+  {
+    "cname": "圣彼得堡",
+    "suggest_places": [
+      {
+        "cname": "冬宫",
+        "url": "/sight/stpetersburg359/20146.html"
+      },
+      {
+        "cname": "夏宫",
+        "url": "/sight/stpetersburg359/20148.html"
+      },
+      {
+        "cname": "滴血大教堂",
+        "url": "/sight/stpetersburg359/55063.html"
+      },
+      {
+        "cname": "涅瓦大街",
+        "url": "/sight/stpetersburg359/20415.html"
+      },
+      {
+        "cname": "叶卡捷琳娜宫",
+        "url": "/sight/stpetersburg359/122937.html"
+      }
+    ],
+    "url": "/sightlist/stpetersburg359.html"
+  },
+  {
+    "cname": "海参崴",
+    "suggest_places": [
+      {
+        "cname": "东正教堂",
+        "url": "/sight/vladivostok4690/141296.html"
+      },
+      {
+        "cname": "潜水艇C-56博物馆",
+        "url": "/sight/vladivostok4690/1412539.html"
+      },
+      {
+        "cname": "金角湾",
+        "url": "/sight/vladivostok4690/141295.html"
+      },
+      {
+        "cname": "列宁纪念碑",
+        "url": "/sight/vladivostok4690/1412538.html"
+      },
+      {
+        "cname": "铁路车站",
+        "url": "/sight/vladivostok4690/141294.html"
+      }
+    ],
+    "url": "/sightlist/vladivostok4690.html"
+  },
+  {
+    "cname": "索契",
+    "suggest_places": [
+      {
+        "cname": "天使长米迦勒大教堂",
+        "url": "/sight/sochi4674/1408526.html"
+      },
+      {
+        "cname": "阿德勒灯塔",
+        "url": "/sight/sochi4674/1408527.html"
+      },
+      {
+        "cname": "绿松石湖",
+        "url": "/sight/sochi4674/1408528.html"
+      },
+      {
+        "cname": "索契艺术博物馆",
+        "url": "/sight/sochi4674/1408610.html"
+      },
+      {
+        "cname": "索契植物园",
+        "url": "/sight/sochi4674/1408529.html"
+      }
+    ],
+    "url": "/sightlist/sochi4674.html"
+  },
+  {
+    "cname": "布拉戈维申斯克",
+    "suggest_places": [
+      {
+        "cname": "列宁广场",
+        "url": "/sight/blagoveshchensk4684/123085.html"
+      },
+      {
+        "cname": "绿顶教堂",
+        "url": "/sight/blagoveshchensk4684/123089.html"
+      },
+      {
+        "cname": "无名英雄纪念碑",
+        "url": "/sight/blagoveshchensk4684/123081.html"
+      },
+      {
+        "cname": "俄罗斯布拉戈维申斯克火车站",
+        "url": "/sight/blagoveshchensk4684/123086.html"
+      }
+    ],
+    "url": "/sightlist/blagoveshchensk4684.html"
+  },
+  {
+    "cname": "弗拉基米尔",
+    "suggest_places": [
+      {
+        "cname": "圣母升天大教堂",
+        "url": "/sight/vladimir1051/26655.html"
+      },
+      {
+        "cname": "金门建筑",
+        "url": "/sight/vladimir1051/26656.html"
+      },
+      {
+        "cname": "德米特里耶夫斯基教堂",
+        "url": "/sight/vladimir1051/26657.html"
+      }
+    ],
+    "url": "/sightlist/vladimir1051.html"
+  },
+  {
+    "cname": "苏滋达里",
+    "suggest_places": [
+      {
+        "cname": "叶辅米罗夫救世主修道院",
+        "url": "/sight/suzdal1050/26680.html"
+      },
+      {
+        "cname": "城乡博物馆",
+        "url": "/sight/suzdal1050/26679.html"
+      },
+      {
+        "cname": "基督诞生教堂",
+        "url": "/sight/suzdal1050/26683.html"
+      }
+    ],
+    "url": "/sightlist/suzdal1050.html"
+  },
+  {
+    "cname": "Siberia",
+    "suggest_places": [
+      {
+        "cname": "贝加尔湖",
+        "url": "/sight/siberia21157/110555.html"
+      }
+    ],
+    "url": "/sightlist/siberia21157.html"
+  },
+  {
+    "cname": "Yaroslavl",
+    "suggest_places": [],
+    "url": "/sightlist/yaroslavl4656.html"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "cname": "突尼斯市",
+    "suggest_places": [
+      {
+        "cname": "迦太基古城遗址",
+        "url": "/sight/tunis940/139938.html"
+      },
+      {
+        "cname": "蓝白小镇",
+        "url": "/sight/tunis940/139945.html"
+      },
+      {
+        "cname": "巴尔杜国家博物馆",
+        "url": "/sight/tunis940/139918.html"
+      },
+      {
+        "cname": "红蜥蜴列车",
+        "url": "/sight/tunis940/139936.html"
+      }
+    ],
+    "url": "/sightlist/tunis940.html"
+  },
+  {
+    "cname": "苏斯",
+    "suggest_places": [
+      {
+        "cname": "埃尔·杰姆斗兽场",
+        "url": "/sight/sousse2097/139914.html"
+      },
+      {
+        "cname": "艾勒·甘塔乌依港",
+        "url": "/sight/sousse2097/139915.html"
+      },
+      {
+        "cname": "苏斯海港",
+        "url": "/sight/sousse2097/139965.html"
+      }
+    ],
+    "url": "/sightlist/sousse2097.html"
+  },
+  {
+    "cname": "哈马迈特",
+    "suggest_places": [
+      {
+        "cname": "哈马马特",
+        "url": "/sight/hammamet2070/139933.html"
+      }
+    ],
+    "url": "/sightlist/hammamet2070.html"
+  },
+  {
+    "cname": "马特马他",
+    "suggest_places": [
+      {
+        "cname": "柏柏尔人洞穴民居",
+        "url": "/sight/matmata21877/139921.html"
+      },
+      {
+        "cname": "马特马他",
+        "url": "/sight/matmata21877/139948.html"
+      }
+    ],
+    "url": "/sightlist/matmata21877.html"
+  },
+  {
+    "cname": "托泽尔",
+    "suggest_places": [
+      {
+        "cname": "杰瑞德盐湖",
+        "url": "/sight/tozeur21902/139939.html"
+      },
+      {
+        "cname": "托泽尔",
+        "url": "/sight/tozeur21902/139976.html"
+      },
+      {
+        "cname": "歇比卡绿洲",
+        "url": "/sight/tozeur21902/139985.html"
+      }
+    ],
+    "url": "/sightlist/tozeur21902.html"
+  },
+  {
+    "cname": "Douz",
+    "suggest_places": [
+      {
+        "cname": "杜兹",
+        "url": "/sight/douz21891/1409629.html"
+      }
+    ],
+    "url": "/sightlist/douz21891.html"
+  }
+]

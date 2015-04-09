@@ -1,0 +1,3076 @@
+[
+  {
+    "cname": "吉隆坡",
+    "url": "http://you.ctrip.com/sightlist/kualalumpur45.html",
+    "places": [
+      {
+        "cname": "国家石油公司双塔大楼",
+        "url": "/sight/kualalumpur45/3500.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/007/288/644/a821fa29303f457e9b23bb79420c1b6e_C_220_140.jpg",
+        "caddress": "Kuala Lumpur City Centre, Kuala Lumpur 50088"
+      },
+      {
+        "cname": "独立广场",
+        "url": "/sight/kualalumpur45/3514.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/087/727/498/06ff9533c81b4699b3ad422a4c99712b_C_220_140.jpg",
+        "caddress": "Dataran Merdeka, Merdeka Square, 57000 Kuala Lumpur"
+      },
+      {
+        "cname": "国家清真寺",
+        "url": "/sight/kualalumpur45/8006.html",
+        "s_img": "http://p.chanyouji.cn/123485/1400393099549p18o6usdur14g0uedie969nc7of.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Lembbah Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lump"
+      },
+      {
+        "cname": "茨厂街",
+        "url": "/sight/kualalumpur45/136580.html",
+        "s_img": "http://p.chanyouji.cn/144125/1405566764274p18t14th541ponglk6gv10881lqc2.jpg?imageView/1/w/220/h/140",
+        "caddress": "City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "吉隆坡塔",
+        "url": "/sight/kualalumpur45/3509.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/647/282/872/3d37eac288c34e5f8201e005df6dce64_C_220_140.jpg",
+        "caddress": "Jalan Punchak, Kuala Lumpur 50250"
+      },
+      {
+        "cname": "黑风洞",
+        "url": "/sight/kualalumpur45/8097.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/730/326/542/93f79b9ff04c4f8792923327ba9996f0_C_220_140.jpg",
+        "caddress": "Batu Caves Temple Complex, Jalan Batu Caves, off MRR2, 68100 Batu Caves, Selangor"
+      },
+      {
+        "cname": "武吉免登",
+        "url": "/sight/kualalumpur45/3505.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/359/618/55ffc96212694f2bba1fdfd180c86bb5_C_220_140.jpg",
+        "caddress": "43000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "小印度",
+        "url": "/sight/kualalumpur45/136824.html",
+        "s_img": "http://p.chanyouji.cn/37056/1368020445286p17q25e183169huf81v651q8o1qns3l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Masjid India, City Centre, 50100 Kuala Lumpur"
+      },
+      {
+        "cname": "吉隆坡火车总站",
+        "url": "/sight/kualalumpur45/3503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/720/976/b2d4131885724e72bccdf3656efdbca5_C_220_140.jpg",
+        "caddress": "Bangunan Stesen Keretapi, Jalan Sultan Hishamuddin, 50050 Kuala Lumpur"
+      },
+      {
+        "cname": "粉红清真寺",
+        "url": "/sight/kualalumpur45/136800.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/379/685/58f529ffc45e40e1b34a71c540ba1c47_C_220_140.jpg",
+        "caddress": "Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya"
+      },
+      {
+        "cname": "马来西亚国家博物馆",
+        "url": "/sight/kualalumpur45/3512.html",
+        "s_img": "http://p.chanyouji.cn/30459/1364999637553p17n84nbrj134p13b013qqiqlf9n1l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jabatan Muzium Malaysia\nJalan Damansara, 50566 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "旧国家皇宫",
+        "url": "/sight/kualalumpur45/8100.html",
+        "s_img": "http://p.chanyouji.cn/98384/1391834607438p18g7sseg6hgt1dnl1n8t2u71d8lh.jpg?imageView/1/w/220/h/140",
+        "caddress": "Istana Negara, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpu"
+      },
+      {
+        "cname": "高等法院（外观）",
+        "url": "/sight/kualalumpur45/137079.html",
+        "s_img": "http://p.chanyouji.cn/98384/1391834785287p18g7t0bmrsq61aqmcb711fd145o20.jpg?imageView/1/w/220/h/140",
+        "caddress": "City Centre, 43200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "Jamek清真寺",
+        "url": "/sight/kualalumpur45/3504.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/952/950/ded418b3bcd94f2aabf13794cca1d6b2_C_220_140.jpg",
+        "caddress": "Jalan Tun Perak, 50050 Kuala Lumpur"
+      },
+      {
+        "cname": "鸟类公园",
+        "url": "/sight/kualalumpur45/8014.html",
+        "s_img": "http://p.chanyouji.cn/12405/1351949636699p17b3781fm10lc17k91ep11ese70e.jpg?imageView/1/w/220/h/140",
+        "caddress": "KL Bird Park, 920 Jalan Cenderawasih, 50480 Kuala Lumpu"
+      },
+      {
+        "cname": "伊斯兰艺术博物馆",
+        "url": "/sight/kualalumpur45/132839.html",
+        "s_img": "http://p.chanyouji.cn/10471/1350917671432p17a4fbin315t21rp91bpk15sg1m71f.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Lembah Perdana, 50480 Kuala Lumpur 50480"
+      },
+      {
+        "cname": "天后宫",
+        "url": "/sight/kualalumpur45/132853.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/732/885/227/b68f96dadc7d4f8cbbb50beb011d68d8_C_220_140.jpg",
+        "caddress": "65 Persiaran Endah, Taman Persiaran Desa, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "国家皇宫（外观） ",
+        "url": "/sight/kualalumpur45/136588.html",
+        "s_img": "http://p.chanyouji.cn/1402646/6D903F06-7625-49CB-A577-E1B2CA1FBC75.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Duta, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "国家英雄纪念碑",
+        "url": "/sight/kualalumpur45/8021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/686/762/005/f9d0a0c6f63c410986bc818ef6358910_C_220_140.jpg",
+        "caddress": "Jalan Parlimen, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "湖滨公园",
+        "url": "/sight/kualalumpur45/8012.html",
+        "s_img": "http://p.chanyouji.cn/1051554/5EEB76A2-87E9-407A-916A-B964DBB7578A.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Kebun Bunga, Tasik Perdana, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "皇家雪兰莪锡器厂",
+        "url": "/sight/kualalumpur45/107422.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/421/708/746/dd76577d7fca4b3b8905d09f25eca8de_C_220_140.jpg",
+        "caddress": "Jalan Usahawan 6, 53300 Setapak Jaya, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "蝴蝶公园",
+        "url": "/sight/kualalumpur45/8017.html",
+        "s_img": "http://p.chanyouji.cn/115513/1398508829459p18meptqfagf4e061g8s6sc1hrjb.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Cenderasari, Taman Tasik Perdana, Kuala Lumpur, 50480"
+      },
+      {
+        "cname": "国会大厦",
+        "url": "/sight/kualalumpur45/8020.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/384/104/819/180a1051a0444ab9a497a4f2ff117d22_C_220_140.jpg",
+        "caddress": "50680 Kuala Lumpur, Selangor"
+      },
+      {
+        "cname": "波德申海滩",
+        "url": "/sight/kualalumpur45/67521.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/498/264/110/cc27986ceb894c4fa66961dd02077ddc_C_220_140.jpg",
+        "caddress": "Jalan Pantai Port Dickson, Negeri Sembilan"
+      },
+      {
+        "cname": "伊斯兰中心",
+        "url": "/sight/kualalumpur45/3502.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/444/958/357/5fa05b6a9b254b8ea15d69b6754199df_C_220_140.jpg",
+        "caddress": "Jalan Perdana, Kuala Lumpur, 55300"
+      },
+      {
+        "cname": "太子广场",
+        "url": "/sight/kualalumpur45/138950.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/101/802/686/0ac0c1dccfd146cabe33f97a35ef7e74_C_220_140.jpg",
+        "caddress": "Selangor（马来西亚境内）"
+      },
+      {
+        "cname": "皇后公园",
+        "url": "/sight/kualalumpur45/8025.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/739/006/307/5f9762c4b19c4fa6859633e89df7114a_C_220_140.jpg",
+        "caddress": "Jalan Tasik Permaisuri 2, Bandar Tun Razak, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "国家天文馆",
+        "url": "/sight/kualalumpur45/3511.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/133/916/226/4045f0a2d289473caa8d7d822ee27411_C_220_140.jpg",
+        "caddress": "Lot 53, Jalan Perdana, Kuala Lumpur"
+      },
+      {
+        "cname": "鹿园",
+        "url": "/sight/kualalumpur45/8018.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/114/905/456/6ae6bf90eb5046fa9eae1b5e1b225e9a_C_220_140.jpg",
+        "caddress": "Jalan Perdana Lake Gardens"
+      },
+      {
+        "cname": "老城区",
+        "url": "/sight/kualalumpur45/3499.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/164/643/725/80681c994c0047ac99fcee9276e359ba_C_220_140.jpg",
+        "caddress": "吉隆坡中央商场到国家清真寺一带"
+      },
+      {
+        "cname": "国家动物园",
+        "url": "/sight/kualalumpur45/8075.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/132/719/625/01fa6797b97c473989db7c6511181fdf_C_220_140.jpg",
+        "caddress": "Hulu Kelang, Ampang, Selangor 68000"
+      },
+      {
+        "cname": "双威水上乐园",
+        "url": "/sight/kualalumpur45/8084.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/170/503/870/cf3c969fa4c947c1ac4ba65de319313a_C_220_140.jpg",
+        "caddress": "3 Jalan PJS 11/11, 46150 Petaling Jaya"
+      },
+      {
+        "cname": "吉隆坡城市历史回顾馆",
+        "url": "/sight/kualalumpur45/141847.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/968/908/057847f3c62f4e8eb617842d874f753f_C_220_140.jpg",
+        "caddress": "No. 27, Jalan Raja, Dataran Merdeka,, 50050 Dataran Merdeka, Federal Territory of Kuala Lumpur,"
+      },
+      {
+        "cname": "蒂蒂旺沙湖",
+        "url": "/sight/kualalumpur45/132847.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/729/272/782/dad4e92c11cd4f83af193be897c3639f_C_220_140.jpg",
+        "caddress": "Titiwangsa, 68100 Kuala Lumpur"
+      },
+      {
+        "cname": "兰花公园",
+        "url": "/sight/kualalumpur45/8013.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/715/963/159/15e74e3fd097417197f4c214c69f9ddd_C_220_140.jpg",
+        "caddress": "Jalan Tembusu, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur,"
+      },
+      {
+        "cname": "高等法院（苏丹亚都沙）",
+        "url": "/sight/kualalumpur45/8101.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/672/373/883/0a5c0dc3b5e84eb8a475bfaa630e0043_C_220_140.jpg",
+        "caddress": "City Centre, 43200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "马来西亚大学植物园",
+        "url": "/sight/kualalumpur45/8026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/690/858/661/61175afabff24117b6cccebe750f786a_C_220_140.jpg",
+        "caddress": "University of Malaya, Universiti Malaya, 50603 Kuala Lumpur, Federal Territory of Kuala Lumpur"
+      },
+      {
+        "cname": "新村",
+        "url": "/sight/kualalumpur45/132849.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/152/937/696/071b81189935478292db076ac4a85a48_C_220_140.jpg",
+        "caddress": "68100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "马里安曼印度庙",
+        "url": "/sight/kualalumpur45/30300.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113780.jpg?imageView/1/w/220/h/140",
+        "caddress": "No. 163, Jalan Tun H S Lee, 50000, Kuala Lumpur, Kuala Lumpur, 50050"
+      },
+      {
+        "cname": "布城",
+        "url": "/sight/kualalumpur45/1415999.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/312/831/246/f714867e665d49b8a4bfc34624af893a_C_220_140.jpg",
+        "caddress": "Presint 2, 62100 Putrajaya, Wilayah Persekutuan Putrajaya"
+      },
+      {
+        "cname": "惠里纪念馆",
+        "url": "/sight/kualalumpur45/8027.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/231/609/cfc76d90a7db42128f567cd895e18c8e_C_220_140.jpg",
+        "caddress": "22 Jalan Dedap, Taman P Ramlee, 53000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "Beryl's巧克力工厂",
+        "url": "/sight/kualalumpur45/140785.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/905/515/989/523891cc58ef4415ba2385956fd50cc9_C_220_140.jpg",
+        "caddress": "38, Jalan Utara, Off Jalan Imbi, 55100 Kuala Lumpur"
+      },
+      {
+        "cname": "国家艺术馆",
+        "url": "/sight/kualalumpur45/8011.html",
+        "s_img": "",
+        "caddress": "2 Jalan Temerloh, Off Jalan Tun Razak 53200 Kuala Lumpur"
+      },
+      {
+        "cname": "木槿花园",
+        "url": "/sight/kualalumpur45/8016.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/487/659/802/a9b7f55fc0bd4c27a63859dc4eae48b9_C_220_140.jpg",
+        "caddress": "Jalan Chenderawasih, Kuala Lumpur"
+      },
+      {
+        "cname": "独立体育场",
+        "url": "/sight/kualalumpur45/8099.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/081/689/192/50568e42d8284686a2068d1cd0ed3b6a_C_220_140.jpg",
+        "caddress": "Jalan Maharajalela, Kuala Lumpur, Selangor."
+      },
+      {
+        "cname": "首相署（外观）",
+        "url": "/sight/kualalumpur45/136619.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/507/270/099/8d2fb4cfd5894c6d853a1c0a36fcd972_C_220_140.jpg",
+        "caddress": "Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya,"
+      },
+      {
+        "cname": "丹普乐公园",
+        "url": "/sight/kualalumpur45/8080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/210/517/211/5672cd06dd54484e8932986f35d7e6d4_C_220_140.jpg",
+        "caddress": "Templer Park, 68100 Selangor,"
+      },
+      {
+        "cname": "亚洲文化博物馆",
+        "url": "/sight/kualalumpur45/3497.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/414/936/832/480da05a74964b238e2702d75e7792a0_C_220_140.jpg",
+        "caddress": "Jalan Ilmu, Universiti Malaya, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "翡翠博物馆",
+        "url": "/sight/kualalumpur45/3498.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/609/172/034/b5b5620a326b4dda912b3d06f8b51b22_C_220_140.jpg",
+        "caddress": "Jalan Delima, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "亚洲传统文化街",
+        "url": "/sight/kualalumpur45/132854.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/748/057/302/1167e33cf37c41e6a41b79c5dc5b9cc2_C_220_140.jpg",
+        "caddress": "11-01 Heritage House, 33 Jalan Yap Ah Shak, WP Kuala Lumpur"
+      },
+      {
+        "cname": "吉隆坡水族馆",
+        "url": "/sight/kualalumpur45/1415964.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/562/462/210/b64da006dfda4d32bee7daba446d65de_C_220_140.jpg",
+        "caddress": "Kuala Lumpur Convention Centre Complex, Jalang Pinang, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "朝圣基金局",
+        "url": "/sight/kualalumpur45/1415916.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/476/907/550/d1fbc33801c04c00b46f3007d1942628_C_220_140.jpg",
+        "caddress": "Kawasan 18, 41300 Klang, Selangor"
+      },
+      {
+        "cname": "国家银行钱币博物馆",
+        "url": "/sight/kualalumpur45/3506.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/423/533/497/8fbd1159bae24b44874103054443e054_C_220_140.jpg",
+        "caddress": "Jalan Dato Onn, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "圣玛丽大教堂",
+        "url": "/sight/kualalumpur45/1415996.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/133/668/174/03a50d51b3a7473dadf92e6f3daa6f2f_C_220_140.jpg",
+        "caddress": "Jalan Raja, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "首相署",
+        "url": "/sight/kualalumpur45/136616.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/189/365/972/5d48094c2d064805979ef6804dfc4391_C_220_140.jpg",
+        "caddress": "太子城广场，距离吉隆坡只有25公里"
+      },
+      {
+        "cname": "马来西亚农业公园",
+        "url": "/sight/kualalumpur45/8087.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/515/131/162/0d89fb9c35cc4c8bbf0a92d44ec0aaf4_C_220_140.jpg",
+        "caddress": "40150 Shah Alam, Selangor,"
+      },
+      {
+        "cname": "吉隆坡国立纺织博物馆",
+        "url": "/sight/kualalumpur45/1415950.html",
+        "s_img": "",
+        "caddress": "Jalan Sultan Hishamudin, 50050 Kuala Lumpur, 50000"
+      },
+      {
+        "cname": "敦阿都拉沙纪念馆",
+        "url": "/sight/kualalumpur45/8019.html",
+        "s_img": "",
+        "caddress": "Sri Taman, Jalan Perdana, 50480 Kuala Lumpur"
+      },
+      {
+        "cname": "土著居民博物馆",
+        "url": "/sight/kualalumpur45/8092.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/357/235/296/c9a0bacdea534a5a8739f6497aa0e093_C_220_140.jpg",
+        "caddress": "KM 24, Gombak, Kuala Lumpur"
+      },
+      {
+        "cname": "前首相马哈迪尔故居",
+        "url": "/sight/kualalumpur45/136589.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/791/898/903/76e562a26724427d84f75e10b8799031_C_220_140.jpg",
+        "caddress": "Taman Sultan Badlishah, 08000 Alor Setar, Kedah"
+      },
+      {
+        "cname": "吉隆坡国家历史博物馆",
+        "url": "/sight/kualalumpur45/1416032.html",
+        "s_img": "",
+        "caddress": "29, Jalan Raja, Kuala Lumpur, 50300"
+      },
+      {
+        "cname": "玫瑰堂",
+        "url": "/sight/kualalumpur45/1415997.html",
+        "s_img": "",
+        "caddress": "Holy Rosary Church, 10 Jalan Tun Sambanthan, 50470 Kuala Lumpur, WP Kuala Lumpur"
+      },
+      {
+        "cname": "马来西亚铁路公司行政大楼",
+        "url": "/sight/kualalumpur45/1415920.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/936/633/082/388c888bab29448285bd228ec51eac02_C_220_140.jpg",
+        "caddress": "Keretapi Tanah Melayu Berhad (ktmb) Jalan Sultan Hishamuddin, 50621 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "马来西亚皇家警察博物馆",
+        "url": "/sight/kualalumpur45/1415940.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/744/202/211/6fde789c1d434fb79fadeefe5be129c6_C_220_140.jpg",
+        "caddress": "5 Jalan Perdana, Tasik Perdana, Kuala Lumpur., Jalan Istana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "I-City",
+        "url": "/sight/kualalumpur45/1415918.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/90/1D/CghzgVTFBdKAQDRnAAFSS8iHopI336_C_220_140.jpg",
+        "caddress": "I-city, 40000 Shah Alam, Selangor"
+      },
+      {
+        "cname": "柏嘉雅时代广场",
+        "url": "/sight/kualalumpur45/136934.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/018/422/960/5f575fc8c3e645a69943959ec26fb911_C_220_140.jpg",
+        "caddress": "吉隆坡中央商业区"
+      },
+      {
+        "cname": "陈氏书院",
+        "url": "/sight/kualalumpur45/1415998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/827/997/258/4bf9f587297842fdafb99a768343968c_C_220_140.jpg",
+        "caddress": "Jalan Stadium, City Centre, Wilayah Persekutuan, 50150 Kuala Lumpur"
+      },
+      {
+        "cname": "关帝庙",
+        "url": "/sight/kualalumpur45/1416031.html",
+        "s_img": "",
+        "caddress": "City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "咖啡山森林保护公园",
+        "url": "/sight/kualalumpur45/1415742.html",
+        "s_img": "",
+        "caddress": "Hutan Simpan Bukit Nanas, Jalan Raja Chulan, Kuala Lumpur, Kuala Lumpur Wilayah Persekutuan"
+      },
+      {
+        "cname": "吉隆坡中央公园",
+        "url": "/sight/kualalumpur45/1416036.html",
+        "s_img": "",
+        "caddress": "Jalan Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "电信博物馆",
+        "url": "/sight/kualalumpur45/1415764.html",
+        "s_img": "",
+        "caddress": "36 Jalan Raja Chulan, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "东古阿卜杜勒纪念馆",
+        "url": "/sight/kualalumpur45/1415659.html",
+        "s_img": "",
+        "caddress": "Jalan Dato Onn, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "敦•阿卜杜勒•拉扎克纪念碑",
+        "url": "/sight/kualalumpur45/1415937.html",
+        "s_img": "",
+        "caddress": "Jalan Perdana, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "科索莫世界",
+        "url": "/sight/kualalumpur45/1415776.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/186/532/691/17815858a00247fb9bd7c44449ebdcbe_C_220_140.jpg",
+        "caddress": "Berjaya Times Square Hotel, 1 Jalan Imbi, 55100 Kuala Lumpur, Kuala Lumpur Wilayah Persekutuan"
+      },
+      {
+        "cname": "马来西亚皇家空军博物馆",
+        "url": "/sight/kualalumpur45/1415660.html",
+        "s_img": "",
+        "caddress": "Jalan Lapangan Terbang Sungai Besi, Wilayah Persekutuan, 50634 Kuala Lumpur"
+      },
+      {
+        "cname": "锡克庙",
+        "url": "/sight/kualalumpur45/1415762.html",
+        "s_img": "",
+        "caddress": "51, Jalan Taman Pantai, Pantai Hill, Wilayah Persekutuan, 59100 Kuala Lumpur"
+      },
+      {
+        "cname": "梅彬钱币博物馆",
+        "url": "/sight/kualalumpur45/3508.html",
+        "s_img": "",
+        "caddress": "100 Jalan Tun Perak, Bukit Bintang, 47000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "仙四师爷庙",
+        "url": "/sight/kualalumpur45/1415983.html",
+        "s_img": "",
+        "caddress": "14A Leboh Pudu, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "观音庙",
+        "url": "/sight/kualalumpur45/1415958.html",
+        "s_img": "",
+        "caddress": "Kuan Yin Temple Jalan Maharajalela, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "魏玲画廊",
+        "url": "/sight/kualalumpur45/1415624.html",
+        "s_img": "",
+        "caddress": "8 Jalan Scott, Brickfields, 50470 Kuala Lumpur, 50470"
+      },
+      {
+        "cname": "大石养鱼场",
+        "url": "/sight/kualalumpur45/1415745.html",
+        "s_img": "",
+        "caddress": "Jalan Strachan, Sentul Park, 51100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "吉隆坡尊孔独立中学",
+        "url": "/sight/kualalumpur45/1415700.html",
+        "s_img": "",
+        "caddress": "Lorong Hang Jebat, 50150 Kuala Lumpur"
+      },
+      {
+        "cname": "糖宝巧克力专卖店",
+        "url": "/sight/kualalumpur45/136621.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/857/660/672/61ccf951a90f43679dd4277e60be0f5b_C_220_140.jpg",
+        "caddress": "吉隆坡黑风洞"
+      },
+      {
+        "cname": "阿布卡瑞清真寺",
+        "url": "/sight/kualalumpur45/1415767.html",
+        "s_img": "",
+        "caddress": "1 Jalan Hang Tuah, 50150 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "布城公园",
+        "url": "/sight/kualalumpur45/1415771.html",
+        "s_img": "",
+        "caddress": "Putrajaya, Wilayah Persekutuan Putrajaya"
+      },
+      {
+        "cname": "天宝珠宝展示中心",
+        "url": "/sight/kualalumpur45/136623.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/427/499/131/1f0cc61ff08e4b52b8b0848c8fc47185_C_220_140.jpg",
+        "caddress": "NO.56 JALAN 2/10B,SPRING CRENT INDUSTRIAL PARK,68100BATU CAVES,SELANGOR D.E"
+      },
+      {
+        "cname": "陆家别墅",
+        "url": "/sight/kualalumpur45/1415765.html",
+        "s_img": "",
+        "caddress": "273 Jalan Medan Tuanku, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "苏梅药草园",
+        "url": "/sight/kualalumpur45/1416047.html",
+        "s_img": "",
+        "caddress": "75/10 หมู่ 5 ซ.ด๊อกเตอร์ ต.ลิปะน้อย อ.เกาะสมุย จ.สุราษฎร์ธานี 84140"
+      }
+    ]
+  },
+  {
+    "cname": "沙巴",
+    "url": "http://you.ctrip.com/sightlist/sabah538.html",
+    "places": [
+      {
+        "cname": "水上清真寺",
+        "url": "/sight/kotakinabalu583/66647.html",
+        "s_img": "http://p.chanyouji.cn/1395578026/A4EC66C5-8021-4FE8-A55F-4B83F6C76353.jpg?imageView/1/w/220/h/140",
+        "caddress": "Masjid Bandaraya Kota Kinabalu, Jalan Pasir, Kampung Likas, 88450 Kota Kinabalu"
+      },
+      {
+        "cname": "亚庇",
+        "url": "/sight/kotakinabalu583/137088.html",
+        "s_img": "http://p.chanyouji.cn/123993/1400508650031p18oad18qm1v0m1jss6pe15f01t4cs.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "丹容亚路海滩",
+        "url": "/sight/kotakinabalu583/137043.html",
+        "s_img": "http://p.chanyouji.cn/1409668520/7727r8qetnnx2spk7jqty3qyp.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Bandaran, 88675 Kota Kinabalu"
+      },
+      {
+        "cname": "马布岛",
+        "url": "/sight/semporna14898/109837.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/335/490/497/002aef9030e84a0da6aa6df2fcf2e2e6_C_220_140.jpg",
+        "caddress": "诗巴丹附近"
+      },
+      {
+        "cname": "美人鱼岛",
+        "url": "/sight/kotabelud14891/87605.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/319/542/938/e02dd716530d49d28f079a07489ebf8b_C_220_140.jpg",
+        "caddress": "Mantanani Island, Sabah"
+      },
+      {
+        "cname": "仙本那",
+        "url": "/sight/semporna14898/146837.html",
+        "s_img": "http://p.chanyouji.cn/47928/1371736300321p17tgtku3jsbu1ee9d8equjhm3c.jpg?imageView/1/w/220/h/140",
+        "caddress": "Semporna，马来西亚"
+      },
+      {
+        "cname": "卡帕莱岛",
+        "url": "/sight/semporna14898/109854.html",
+        "s_img": "http://p.chanyouji.cn/70328/1379764821304p18505r8i54nqtt07tka4lbcb32.jpg?imageView/1/w/220/h/140",
+        "caddress": "坐落在西巴丹岛和马布尔岛之间的一块沙洲形成的岛屿"
+      },
+      {
+        "cname": "拉卜湾长鼻猴保护区",
+        "url": "/sight/sandakan14894/66657.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/109/673/578/dd8a61ae425b46e89d400d0f7f7cb457_C_220_140.jpg",
+        "caddress": "Off Jalan Labuk, 90000 Sandakan, Sabah"
+      },
+      {
+        "cname": "东姑阿都拉曼国家公园",
+        "url": "/sight/kotakinabalu583/18446.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/853/372/393/df9879aeed1b435b8339786c13b55079_C_220_140.jpg",
+        "caddress": "Tunku Abdul Rahman Marine Park, Manukan Island, Kota Kinabalu, 88100"
+      },
+      {
+        "cname": "马达京岛",
+        "url": "/sight/semporna14898/133502.html",
+        "s_img": "http://p.chanyouji.cn/1415094511/DB637213-57D3-431B-BD79-B744A6C5438A.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Mataking Kechil"
+      },
+      {
+        "cname": "山打根",
+        "url": "/sight/sandakan14894/66664.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/711/570/266/282918b4bcc24162bd7a661bbe72c698_C_220_140.jpg",
+        "caddress": "90000 Sandakan, Sabah"
+      },
+      {
+        "cname": "西巴丹岛",
+        "url": "/sight/semporna14898/20863.html",
+        "s_img": "http://p.chanyouji.cn/1197993/5C3BCFBA-959B-4416-89AA-29170F649AD6.jpg?imageView/1/w/220/h/140",
+        "caddress": "坐落于东马来西亚西南，距离仙本那港36公里的北西里伯海上"
+      },
+      {
+        "cname": "沙碧岛",
+        "url": "/sight/kotakinabalu583/146458.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113728.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabalu, Malaysia"
+      },
+      {
+        "cname": "Gaya街",
+        "url": "/sight/kotakinabalu583/147393.html",
+        "s_img": "http://m.chanyouji.cn/attractions/154883.jpg?imageView/1/w/220/h/140",
+        "caddress": "距离亚庇机场15分钟车程"
+      },
+      {
+        "cname": "京那巴登岸河",
+        "url": "/sight/sandakan14894/66658.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/801/157/8221d91d53454f4fa6097e6e14dcdc1b_C_220_140.jpg",
+        "caddress": "Kota Kinabatangan，Sabah。"
+      },
+      {
+        "cname": "艾京生钟楼",
+        "url": "/sight/kotakinabalu583/136515.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/283/741/400/2b30843976cd495391e4fc200374ba4c_C_220_140.jpg",
+        "caddress": "Atkinson Clock Tower, 88400 Kota Kinabalu, Sabah,"
+      },
+      {
+        "cname": "环滩岛",
+        "url": "/sight/kotakinabalu583/30040.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156294.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Mengalum，Sabah"
+      },
+      {
+        "cname": "西必洛猿人保护区",
+        "url": "/sight/sandakan14894/20862.html",
+        "s_img": "http://p.chanyouji.cn/40000/1369214859690p17r5p0e68eor1qte1dd113pnvtkv.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pantai Cenang, Kedah Darul Aman, Langkawi, Kota Kinabalu"
+      },
+      {
+        "cname": "迪加岛（蛇岛）国家公园",
+        "url": "/sight/sabah538/66655.html",
+        "s_img": "http://p.chanyouji.cn/32953/1366213303534p17oca4vo01lqfi2srfr1lf7hlb24.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kuala Penyu, Sabah"
+      },
+      {
+        "cname": "马里马里文化村",
+        "url": "/sight/kotakinabalu583/137257.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/064/674/807/61057f666d8946479f4026d2f9cc0848_C_220_140.jpg",
+        "caddress": "Jln Kiansom, Kota Kinabalu"
+      },
+      {
+        "cname": "曼奴干岛",
+        "url": "/sight/kotakinabalu583/146459.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113730.jpg?imageView/1/w/220/h/140",
+        "caddress": "Manukan Island, Kota Kinabalu"
+      },
+      {
+        "cname": "京那巴鲁国家公园",
+        "url": "/sight/ranau14905/18447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/035/094/844/3e1052473c8a45e09959879df21d68a0_C_220_140.jpg",
+        "caddress": "距离哥打京那巴鲁83公里"
+      },
+      {
+        "cname": "邦邦岛",
+        "url": "/sight/semporna14898/146970.html",
+        "s_img": "http://m.chanyouji.cn/attractions/154111.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Pom Pom, 马来西亚"
+      },
+      {
+        "cname": "凯尔斯红树林保护区",
+        "url": "/sight/sandakan14894/141853.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/507/923/e0c9e14486c44fb58b0393ddbd895581_C_220_140.jpg",
+        "caddress": "Off Jalan Labuk, 90000 Sandakan, Sabah"
+      },
+      {
+        "cname": "海龟岛国家公园",
+        "url": "/sight/sandakan14894/20852.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/742/904/651/1cd7e52dc8fe4fafa654fe5bbba52cdc_C_220_140.jpg",
+        "caddress": "Selingan Island, Wisma Khoo Siak Chiew, 90708 Sandakan, Sabah"
+      },
+      {
+        "cname": "马穆迪岛",
+        "url": "/sight/kotakinabalu583/30023.html",
+        "s_img": "http://m.chanyouji.cn/attractions/120116.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabalu, Sabah, 马来西亚"
+      },
+      {
+        "cname": "苏禄岛",
+        "url": "/sight/kotakinabalu583/30056.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156869.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Sulug, Sabah"
+      },
+      {
+        "cname": "哥曼东洞穴",
+        "url": "/sight/sandakan14894/66665.html",
+        "s_img": "http://p.chanyouji.cn/1389972612/D92676C6-E4B3-4CEC-82D5-6590460554B3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Sandakan, Sabah"
+      },
+      {
+        "cname": "大王花保护区",
+        "url": "/sight/sabah538/66653.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/351/721/830/bdd6622f28e34a4499e09cc7bc63bdc2_C_220_140.jpg",
+        "caddress": "Rafflesia Forest Reserve Centre, Jalan Tambunan, Penampang, 89500, Penampang"
+      },
+      {
+        "cname": "汀娜湾",
+        "url": "/sight/kotakinabalu583/86497.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/239/646/395/26cb3cd192a848b692354ace47c29ee0_C_220_140.jpg",
+        "caddress": "89500 Penampang, Sabah"
+      },
+      {
+        "cname": "沙巴博物馆",
+        "url": "/sight/kotakinabalu583/66648.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/291/522/10368e38e7004f28b5c87fef75c814a1_C_220_140.jpg",
+        "caddress": "Jalan Muzium, 88300 Kota Kinabalu"
+      },
+      {
+        "cname": "丹浓谷自然保护区",
+        "url": "/sight/lahaddatu14907/20832.html",
+        "s_img": "http://p.chanyouji.cn/40000/1369043190055p17r0l0na51v3akvr117n1qdnr3a1m.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabatangan, Danum Valley (Lembah Danum)"
+      },
+      {
+        "cname": "普陀寺",
+        "url": "/sight/kotakinabalu583/141850.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/460/338/072/faaebf6b2dc04bc7bf1d0b060d376028_C_220_140.jpg",
+        "caddress": "88300 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "蒙索毕悦文化村",
+        "url": "/sight/kotakinabalu583/66651.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/181/809/324/102289a9f29547e8a88287e37ad668fb_C_220_140.jpg",
+        "caddress": "Kota Kinabalu, Sabah,"
+      },
+      {
+        "cname": "纳闽岛",
+        "url": "/sight/sabah538/48264.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/843/276/415/18614709dcdd4337995875e73a0857f7_C_220_140.jpg",
+        "caddress": "位于沙巴州西南方，文莱湾口东侧"
+      },
+      {
+        "cname": "斗湖山公园",
+        "url": "/sight/tawau14906/66661.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/741/855/398/ff7d60cbd5aa4faca013443735464245_C_220_140.jpg",
+        "caddress": "Tawau, Sabah（马来西亚东部）"
+      },
+      {
+        "cname": "亚庇市湿地中心",
+        "url": "/sight/kotakinabalu583/1417641.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/074/112/b4864deee2d94862bab858d94755a584_C_220_140.jpg",
+        "caddress": "Jalan Bukit Bendera Upper, Likas, 88400 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "韦斯顿红树林",
+        "url": "/sight/kotakinabalu583/30301.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113904.jpg?imageView/1/w/220/h/140",
+        "caddress": "89800 Weston, Sabah, Malaysia"
+      },
+      {
+        "cname": "加雅岛",
+        "url": "/sight/kotakinabalu583/30055.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156818.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      },
+      {
+        "cname": "兰卡央岛",
+        "url": "/sight/sandakan14894/1417596.html",
+        "s_img": "",
+        "caddress": "Lankayan Island"
+      },
+      {
+        "cname": "沙巴农业公园",
+        "url": "/sight/sabah538/66654.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/348/986/071/6e14c72c8d3f4a38b9ce6f3f5afc8bef_C_220_140.jpg",
+        "caddress": "Taman Pertanian28, Tenom 89909"
+      },
+      {
+        "cname": "纳闽战争纪念园",
+        "url": "/sight/sabah538/1417546.html",
+        "s_img": "",
+        "caddress": "87000 Labuan, Wilayah Persekutuan Labuan"
+      },
+      {
+        "cname": "仙本那群岛公园",
+        "url": "/sight/semporna14898/1417524.html",
+        "s_img": "",
+        "caddress": "Semporna, Sabah"
+      },
+      {
+        "cname": "沙巴州回教堂",
+        "url": "/sight/kotakinabalu583/1417644.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/C4/FE/CghzgVTpno6AWmDvAAEacIQq53k279_C_220_140.jpg",
+        "caddress": "Jalan Tunku Abdul Rahman, 88100 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "龙古斯族长屋",
+        "url": "/sight/sabah538/1679554.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/7F/05/CghzflULxnaAabXVAAHhYaXumBk340_C_220_140.jpg",
+        "caddress": "Kampung Bavanggazo, Matunggong Sub-District of Kudat，Malaysia"
+      },
+      {
+        "cname": "马来乡村",
+        "url": "/sight/sabah538/1679553.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/A0/14/CghzfVULw8iAHGKjAAKM--X-PKs170_C_220_140.jpg",
+        "caddress": "Pekan Weston, Sabah,89800 Beaufort, Malaysia"
+      },
+      {
+        "cname": "踏缤野生动物保护区",
+        "url": "/sight/lahaddatu14907/66660.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/904/455/3b57871d29764e378ce1446eec00663b_C_220_140.jpg",
+        "caddress": "Lahad Datu, Sabah"
+      },
+      {
+        "cname": "山打根纪念公园",
+        "url": "/sight/sandakan14894/66656.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/643/813/616/a2215d56449d407197cff8ceb958d703_C_220_140.jpg",
+        "caddress": "Mile 8, Jalan Labuk Utara, Taman Rimba,, 90702 Sandakan, Sabah, 马来西亚"
+      },
+      {
+        "cname": "阿格尼丝·凯斯故居",
+        "url": "/sight/sandakan14894/66650.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/745/482/500/931b9415cda84fbdbd48368adecfc161_C_220_140.jpg",
+        "caddress": "Wisma Warisan Sandakan，90702 Sandakan，Sabah，Malaysia"
+      },
+      {
+        "cname": "沙巴大伯公庙",
+        "url": "/sight/sabah538/1417530.html",
+        "s_img": "",
+        "caddress": "Kampung Dangulad, 89000 Keningau, Sabah"
+      },
+      {
+        "cname": "马廖盆地保护区",
+        "url": "/sight/sandakan14894/66659.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/641/226/240/47ab2785f6474e4a8ce4632b15ed461c_C_220_140.jpg",
+        "caddress": "Sabah,（马来西亚东南方）"
+      },
+      {
+        "cname": "婆罗洲大堡礁",
+        "url": "/sight/sabah538/1481431.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/788/408/551/d4eea76e4a6042749ec92f5f474fb3ac_C_220_140.jpg",
+        "caddress": "Unit No.G08, Wisma Sabah, Jalan Tun Razak, 88000 Kota Kinabalu, Sabah"
+      }
+    ]
+  },
+  {
+    "cname": "兰卡威",
+    "url": "http://you.ctrip.com/sightlist/langkawi539.html",
+    "places": [
+      {
+        "cname": "巨鹰广场",
+        "url": "/sight/langkawi539/20051.html",
+        "s_img": "http://p.chanyouji.cn/106057/1395852590331p18jvkltp1b381m32vn4135p1h3pb.jpg?imageView/1/w/220/h/140",
+        "caddress": "Eagle Square, Kuah, 07000 Langkawi, Kedah"
+      },
+      {
+        "cname": "珍南海滩",
+        "url": "/sight/langkawi539/18459.html",
+        "s_img": "http://p.chanyouji.cn/67661/1378370795767p183mkqe6k19ac8vg1acj1loq15r22.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pantai Cenang ，Mukim Kedawang,Kuah"
+      },
+      {
+        "cname": "瓜镇",
+        "url": "/sight/langkawi539/110099.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/564/357/630/7932ec2742a74d3ab809054d44b3d376_C_220_140.jpg",
+        "caddress": "兰卡威岛东南角，本岛的行政中心"
+      },
+      {
+        "cname": "丹绒鲁海滩",
+        "url": "/sight/langkawi539/18456.html",
+        "s_img": "http://p.chanyouji.cn/1377954888/75113B1F-E7B8-4AF2-91F7-F0E69DBACC57.jpg?imageView/1/w/220/h/140",
+        "caddress": "Langkawi Island, Langkawi"
+      },
+      {
+        "cname": "东方村",
+        "url": "/sight/langkawi539/109787.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/357/492/592/ee0858d4ecaa4a5abb814cf983dadf8d_C_220_140.jpg",
+        "caddress": "Oriental Village, Telaga Harbour Park, 07000"
+      },
+      {
+        "cname": "芭雅岛",
+        "url": "/sight/langkawi539/48028.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/256/894/910/9af8267c8bd648f3880eeb1482cef07f_C_220_140.jpg",
+        "caddress": "兰卡威以南19海里"
+      },
+      {
+        "cname": "孕妇岛",
+        "url": "/sight/langkawi539/110100.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/698/892/788/9c00595f067d4135990914fb9125366e_C_220_140.jpg",
+        "caddress": "位于兰卡威群岛Pulau Dayang Buntung"
+      },
+      {
+        "cname": "七仙井",
+        "url": "/sight/langkawi539/18454.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/288/499/408/b0eb4c62de784963af9d83f1cb212d6a_C_220_140.jpg",
+        "caddress": "Telaga Harbour Park, Langkawi, Kedah。位于兰卡威西北角达带海滩附近。"
+      },
+      {
+        "cname": "蝙蝠洞",
+        "url": "/sight/langkawi539/110104.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/647/333/510/75e0391e93a84e5e9a2e832898f8fa48_C_220_140.jpg",
+        "caddress": "Kedah（兰卡威红树林内）"
+      },
+      {
+        "cname": "黑沙滩",
+        "url": "/sight/langkawi539/20052.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/901/570/368/c348d4926d8e4406912f6bc8d4f6dfa9_C_220_140.jpg",
+        "caddress": "Black Sand Beach，Langkawi"
+      },
+      {
+        "cname": "天空之桥",
+        "url": "/sight/langkawi539/30017.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113669.jpg?imageView/1/w/220/h/140",
+        "caddress": "Langkawi, Malaysia"
+      },
+      {
+        "cname": "芭雅岛海洋公园",
+        "url": "/sight/langkawi539/136928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/116/748/868/0b93b99e97bd4701a1daa715e34ae9a9_C_220_140.jpg",
+        "caddress": "Kedah（马六甲海峡）"
+      },
+      {
+        "cname": "红树林生态保护区",
+        "url": "/sight/langkawi539/47368.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/499/391/157/83499361d5224c53b79bd31effe75f90_C_220_140.jpg",
+        "caddress": "Jetty Kilim, Jalan Ayer Hangat, 07000 Langkawi, Kedah"
+      },
+      {
+        "cname": "兰卡威海底世界",
+        "url": "/sight/langkawi539/109788.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/325/109/410/1be2f2e8714349e893d93fccdacfc24d_C_220_140.jpg",
+        "caddress": "Zon Pantai Cenang, Mukim Kedawang, 07000 Langkawi"
+      },
+      {
+        "cname": "玛苏丽之墓",
+        "url": "/sight/langkawi539/20050.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/799/293/581/4ffc9aa1a0204299b3ad53f845bd85ac_C_220_140.jpg",
+        "caddress": "Lot FF8, Jalan Persiaran Putra, Langkawi Malaysia 07000"
+      },
+      {
+        "cname": "中央海滩",
+        "url": "/sight/langkawi539/138956.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/295/391/595/c5b2c81bdda4497e916cfb4f4b830ebc_C_220_140.jpg",
+        "caddress": "Teluk Baru, 07000 Langkawi, Kedah,"
+      },
+      {
+        "cname": "小狮岛",
+        "url": "/sight/langkawi539/110101.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/218/125/596/97aa970898ea486aa222ea635bc33c6e_C_220_140.jpg",
+        "caddress": "Bukit Malut, 07000 Langkawi, Kedah,"
+      },
+      {
+        "cname": "达泰湾海滩",
+        "url": "/sight/langkawi539/137036.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/467/511/090/4e171711ce214bdf8a650605d0d28aeb_C_220_140.jpg",
+        "caddress": "Jalan Teluk Datai, Langkawi, Kedah, Malaysia"
+      },
+      {
+        "cname": "兰卡威鳄鱼养殖场",
+        "url": "/sight/langkawi539/18455.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/071/817/084/34c97f4e8cf84660810dba5ce2b7456a_C_220_140.jpg",
+        "caddress": "Jalan Datai, Kubang Badak, Mukim Air Hangat, 07000"
+      },
+      {
+        "cname": "巨狮岛",
+        "url": "/sight/langkawi539/110102.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/430/323/862/e83228f1638d4b5b8a1824aee62c9c97_C_220_140.jpg",
+        "caddress": "Kedah（兰卡威群岛）"
+      },
+      {
+        "cname": "温泉村",
+        "url": "/sight/langkawi539/138952.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/735/135/585/61cc29c3046f41b98e1a6ebc7523cee7_C_220_140.jpg",
+        "caddress": "Air Hangat Road, km 16, 07000 Kuah"
+      },
+      {
+        "cname": "稻米博物馆",
+        "url": "/sight/langkawi539/137047.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/574/790/bf2a810ee73f40f1b6ece9324d868900_C_220_140.jpg",
+        "caddress": "Jalan Gunung Keriang, Mukim Gunung Keriang, 798, 06570 Kedah"
+      },
+      {
+        "cname": "Kok海滨",
+        "url": "/sight/langkawi539/136903.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/094/868/471/c3f26706319e46b2b482ae582ddc0888_C_220_140.jpg",
+        "caddress": "Langkawi, Kedah,"
+      },
+      {
+        "cname": "巴东马士力（烧米场）",
+        "url": "/sight/langkawi539/136547.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/748/571/2285458f403d4e9f8b9e919ff38d2029_C_220_140.jpg",
+        "caddress": "07000 Langkawi, Kedah,"
+      },
+      {
+        "cname": "传奇公园",
+        "url": "/sight/langkawi539/1679581.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/7F/26/CghzflULyD6ASJVJAAJP0vLIJ0c587_C_220_140.jpg",
+        "caddress": "Kuah Jetty, 07000 Kuah, Malaysia"
+      },
+      {
+        "cname": "传奇洞",
+        "url": "/sight/langkawi539/110105.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/721/657/515/dc5928bd70a041878667cd48a2bc9a7b_C_220_140.jpg",
+        "caddress": "07000 Langkawi， Kedah。"
+      },
+      {
+        "cname": "女妖洞",
+        "url": "/sight/langkawi539/110103.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/537/517/021/8db9df968e524cda977346b73292505e_C_220_140.jpg",
+        "caddress": "位于Pulau Dayang Buntung上"
+      }
+    ]
+  },
+  {
+    "cname": "亚庇",
+    "url": "http://you.ctrip.com/sightlist/kotakinabalu583.html",
+    "places": [
+      {
+        "cname": "水上清真寺",
+        "url": "/sight/kotakinabalu583/66647.html",
+        "s_img": "http://p.chanyouji.cn/1395578026/A4EC66C5-8021-4FE8-A55F-4B83F6C76353.jpg?imageView/1/w/220/h/140",
+        "caddress": "Masjid Bandaraya Kota Kinabalu, Jalan Pasir, Kampung Likas, 88450 Kota Kinabalu"
+      },
+      {
+        "cname": "亚庇",
+        "url": "/sight/kotakinabalu583/137088.html",
+        "s_img": "http://p.chanyouji.cn/123993/1400508650031p18oad18qm1v0m1jss6pe15f01t4cs.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "丹容亚路海滩",
+        "url": "/sight/kotakinabalu583/137043.html",
+        "s_img": "http://p.chanyouji.cn/1409668520/7727r8qetnnx2spk7jqty3qyp.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Bandaran, 88675 Kota Kinabalu"
+      },
+      {
+        "cname": "东姑阿都拉曼国家公园",
+        "url": "/sight/kotakinabalu583/18446.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/853/372/393/df9879aeed1b435b8339786c13b55079_C_220_140.jpg",
+        "caddress": "Tunku Abdul Rahman Marine Park, Manukan Island, Kota Kinabalu, 88100"
+      },
+      {
+        "cname": "沙碧岛",
+        "url": "/sight/kotakinabalu583/146458.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113728.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabalu, Malaysia"
+      },
+      {
+        "cname": "Gaya街",
+        "url": "/sight/kotakinabalu583/147393.html",
+        "s_img": "http://m.chanyouji.cn/attractions/154883.jpg?imageView/1/w/220/h/140",
+        "caddress": "距离亚庇机场15分钟车程"
+      },
+      {
+        "cname": "艾京生钟楼",
+        "url": "/sight/kotakinabalu583/136515.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/283/741/400/2b30843976cd495391e4fc200374ba4c_C_220_140.jpg",
+        "caddress": "Atkinson Clock Tower, 88400 Kota Kinabalu, Sabah,"
+      },
+      {
+        "cname": "环滩岛",
+        "url": "/sight/kotakinabalu583/30040.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156294.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Mengalum，Sabah"
+      },
+      {
+        "cname": "马里马里文化村",
+        "url": "/sight/kotakinabalu583/137257.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/064/674/807/61057f666d8946479f4026d2f9cc0848_C_220_140.jpg",
+        "caddress": "Jln Kiansom, Kota Kinabalu"
+      },
+      {
+        "cname": "曼奴干岛",
+        "url": "/sight/kotakinabalu583/146459.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113730.jpg?imageView/1/w/220/h/140",
+        "caddress": "Manukan Island, Kota Kinabalu"
+      },
+      {
+        "cname": "马穆迪岛",
+        "url": "/sight/kotakinabalu583/30023.html",
+        "s_img": "http://m.chanyouji.cn/attractions/120116.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabalu, Sabah, 马来西亚"
+      },
+      {
+        "cname": "苏禄岛",
+        "url": "/sight/kotakinabalu583/30056.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156869.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Sulug, Sabah"
+      },
+      {
+        "cname": "汀娜湾",
+        "url": "/sight/kotakinabalu583/86497.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/239/646/395/26cb3cd192a848b692354ace47c29ee0_C_220_140.jpg",
+        "caddress": "89500 Penampang, Sabah"
+      },
+      {
+        "cname": "沙巴博物馆",
+        "url": "/sight/kotakinabalu583/66648.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/291/522/10368e38e7004f28b5c87fef75c814a1_C_220_140.jpg",
+        "caddress": "Jalan Muzium, 88300 Kota Kinabalu"
+      },
+      {
+        "cname": "普陀寺",
+        "url": "/sight/kotakinabalu583/141850.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/460/338/072/faaebf6b2dc04bc7bf1d0b060d376028_C_220_140.jpg",
+        "caddress": "88300 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "沙巴大学",
+        "url": "/sight/kotakinabalu583/141852.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/420/449/734/270ec37909e34b39978838c065ac4cc7_C_220_140.jpg",
+        "caddress": "Universiti Malaysia Sabah, Locked Bag No 2073, 88999, Kota Kinabalu"
+      },
+      {
+        "cname": "蒙索毕悦文化村",
+        "url": "/sight/kotakinabalu583/66651.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/181/809/324/102289a9f29547e8a88287e37ad668fb_C_220_140.jpg",
+        "caddress": "Kota Kinabalu, Sabah,"
+      },
+      {
+        "cname": "敦马士达化大厦",
+        "url": "/sight/kotakinabalu583/137067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/837/466/361/2ea9be9e2aeb4321b1d6a7941e42c6f7_C_220_140.jpg",
+        "caddress": "Jalan Sulaman, Teluk Likas, Peti Surat No 11201, 88813 Kota Kinabalu"
+      },
+      {
+        "cname": "Kawa红树林",
+        "url": "/sight/kotakinabalu583/1489323.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/479/284/958/fc7d32533f2f4c0b9c3ee13b5281bf20_C_220_140.jpg",
+        "caddress": "Tamau，KotaBelud，北东哥打京那巴鲁100公里处"
+      },
+      {
+        "cname": "克里斯红树林",
+        "url": "/sight/kotakinabalu583/1484700.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/573/694/3fd524ed625241b3b4272ac6e463de52_C_220_140.jpg",
+        "caddress": "Jalan Teluk Likas, Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "龙尾湾红树林",
+        "url": "/sight/kotakinabalu583/1485992.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/620/073/278/ceec549cdb804dfe9f673a3955598cb9_C_220_140.jpg",
+        "caddress": "Tuaran, 89200, Tuaran, Sabah, Kg. Layang-Layang"
+      },
+      {
+        "cname": "亚庇市湿地中心",
+        "url": "/sight/kotakinabalu583/1417641.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/074/112/b4864deee2d94862bab858d94755a584_C_220_140.jpg",
+        "caddress": "Jalan Bukit Bendera Upper, Likas, 88400 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "韦斯顿红树林",
+        "url": "/sight/kotakinabalu583/30301.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113904.jpg?imageView/1/w/220/h/140",
+        "caddress": "89800 Weston, Sabah, Malaysia"
+      },
+      {
+        "cname": "加雅岛",
+        "url": "/sight/kotakinabalu583/30055.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156818.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      },
+      {
+        "cname": "九鲁河",
+        "url": "/sight/kotakinabalu583/1417548.html",
+        "s_img": "",
+        "caddress": "Asian Highway 150 ‎"
+      },
+      {
+        "cname": "露天市集",
+        "url": "/sight/kotakinabalu583/1417549.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/AB/D0/Cghzf1UMrHGARd3fAADNWOPsTg0574_C_220_140.jpg",
+        "caddress": "Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "洛高宜野生动物园",
+        "url": "/sight/kotakinabalu583/1483039.html",
+        "s_img": "",
+        "caddress": "Lok Kawi Wildlife Park, Putatan, Sabah"
+      },
+      {
+        "cname": "沙巴州回教堂",
+        "url": "/sight/kotakinabalu583/1417644.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/C4/FE/CghzgVTpno6AWmDvAAEacIQq53k279_C_220_140.jpg",
+        "caddress": "Jalan Tunku Abdul Rahman, 88100 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "西格诺山观景亭",
+        "url": "/sight/kotakinabalu583/1417531.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/455/495/728/ca5c62d010c34bb58b1a39d89ee1fa8f_C_220_140.jpg",
+        "caddress": "88400 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "沙巴画廊",
+        "url": "/sight/kotakinabalu583/1417517.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/339/346/939/3793e500fc764a17b3acc473a6d8e316_C_220_140.jpg",
+        "caddress": "Sabah Art Gallery, Jalan Muzium Kota Kinabalu, Sabah, 88000"
+      },
+      {
+        "cname": "科学技术中心",
+        "url": "/sight/kotakinabalu583/1417526.html",
+        "s_img": "",
+        "caddress": "88000 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "回教文明博物馆",
+        "url": "/sight/kotakinabalu583/1417516.html",
+        "s_img": "",
+        "caddress": "88300 Kota Kinabalu, Sabah"
+      },
+      {
+        "cname": "富境花庄",
+        "url": "/sight/kotakinabalu583/1417527.html",
+        "s_img": "",
+        "caddress": "Off Jalan Kiansom KM 6,, Kampung Kawakaan/Kitobu, Inanam, 88900 Kota Kinabalu, Sabah"
+      }
+    ]
+  },
+  {
+    "cname": "马六甲市",
+    "url": "http://you.ctrip.com/sightlist/melaka42.html",
+    "places": [
+      {
+        "cname": "荷兰红屋",
+        "url": "/sight/melaka42/3457.html",
+        "s_img": "http://p.chanyouji.cn/164808/1411191424750p1928ovq2e1uuq1fgmd0r10gl2n5a.jpg?imageView/1/w/220/h/140",
+        "caddress": "The Stadthuys, Jalan Gereja, 75000 Melaka"
+      },
+      {
+        "cname": "圣保罗教堂",
+        "url": "/sight/melaka42/3458.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/596/944/119/e02317598c064daa9448d0e8c2f67f04_C_220_140.jpg",
+        "caddress": "Gereja St Paul Jalan Kota, 75000 Melaka,"
+      },
+      {
+        "cname": "马六甲河",
+        "url": "/sight/melaka42/146462.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113799.jpg?imageView/1/w/220/h/140",
+        "caddress": "Malacca River, Melaka"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/melaka42/8158.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/841/402/676/627a5d0aa7bb4330a464aa7f925be366_C_220_140.jpg",
+        "caddress": "Jalan Hang Jebat, 75200 Melaka"
+      },
+      {
+        "cname": "圣地亚哥城堡",
+        "url": "/sight/melaka42/3450.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/290/447/e34976f4e1d1454b9954b2963604adbd_C_220_140.jpg",
+        "caddress": "Jalan Kota, Melaka"
+      },
+      {
+        "cname": "三保山",
+        "url": "/sight/melaka42/136601.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113822.jpg?imageView/1/w/220/h/140",
+        "caddress": "Bukit China, 75100 Melaka"
+      },
+      {
+        "cname": "基督教堂",
+        "url": "/sight/melaka42/3453.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/921/367/508/1f17bd52ba9c444cb94850a1eb5f29b2_C_220_140.jpg",
+        "caddress": "Jalan Gereja, Melaka"
+      },
+      {
+        "cname": "苏丹王宫",
+        "url": "/sight/melaka42/3451.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/363/217/884/477053b4ac4c4a6d84f1436ce4846d77_C_220_140.jpg",
+        "caddress": "Sekolah Menengah Kebangsaan Agama Sultan Muhammad Jalan Pengkalan Batu, 75250 Melaka"
+      },
+      {
+        "cname": "汉丽宝井",
+        "url": "/sight/melaka42/3463.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/772/171/948/639bb2608cef423a846765d53d6a4dad_C_220_140.jpg",
+        "caddress": "Jalan Puteri Hang Li Poh, 75100 Melaka"
+      },
+      {
+        "cname": "葡萄牙古城门",
+        "url": "/sight/melaka42/137611.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/391/370/221/d13178b923844ad4b7f7552dd3dc786a_C_220_140.jpg",
+        "caddress": "Bandar Hilir, 75000 Melaka"
+      },
+      {
+        "cname": "马六甲海峡",
+        "url": "/sight/melaka42/122838.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/580/978/100eec91e7434f60b1b2991bd2864096_C_220_140.jpg",
+        "caddress": "马来西亚"
+      },
+      {
+        "cname": "迷你马来西亚",
+        "url": "/sight/melaka42/3443.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/694/404/040/ca34e0b9e8294f06b13f390b6babfd51_C_220_140.jpg",
+        "caddress": "Hutan Rekreasi Ayer Keroh, Lebuh Ayer Keroh, 75450 Ayer Keroh,"
+      },
+      {
+        "cname": "宝山亭",
+        "url": "/sight/melaka42/3447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/818/898/489/f48a298521ff42e08d2160a9cc29bf8b_C_220_140.jpg",
+        "caddress": "25, Jalan Tokong 5, 75200 Melaka"
+      },
+      {
+        "cname": "航海博物馆",
+        "url": "/sight/melaka42/137140.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/341/302/534/9fbf00e7ca424a2196f15d826d7cdb73_C_220_140.jpg",
+        "caddress": "Jalan Quayside, 75000 Melaka"
+      },
+      {
+        "cname": "葡萄牙村",
+        "url": "/sight/melaka42/3461.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/226/045/9b4e2bf3da51479eb0069b120251620e_C_220_140.jpg",
+        "caddress": "Melaka, Malacca, Portugis Settlement Ujong Pasir"
+      },
+      {
+        "cname": "幸福岛",
+        "url": "/sight/melaka42/136732.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/664/029/319/e0e7aaf8bfbc4e9a9139341d89cf171b_C_220_140.jpg",
+        "caddress": "Lumut, Perak"
+      },
+      {
+        "cname": "马来民居",
+        "url": "/sight/melaka42/137252.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/231/769/042/37e4a9e50c87489ab74bb7df5a4a02ff_C_220_140.jpg",
+        "caddress": "位于马六甲近郊"
+      },
+      {
+        "cname": "圣芳济教堂",
+        "url": "/sight/melaka42/3454.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/245/074/492/6faa0d8084cf48ca9218204ad1283365_C_220_140.jpg",
+        "caddress": "Gereja St. Francis Xavier Jalan Laksamana 75000 Melaka, Malaysia"
+      },
+      {
+        "cname": "马六甲之眼",
+        "url": "/sight/melaka42/134143.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/613/421/300/31fcd9d7dbd54de5bd30204b5ab60c05_C_220_140.jpg",
+        "caddress": "75000 Melaka Malaysia"
+      },
+      {
+        "cname": "马六甲圣彼得教堂",
+        "url": "/sight/melaka42/1482244.html",
+        "s_img": "",
+        "caddress": "Jalan Bendahara, 75100 Melaka"
+      },
+      {
+        "cname": "新山outlets",
+        "url": "/sight/melaka42/136650.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/B3/BF/CghzflSnfseALygjAAF_u6lvxcs362_C_220_140.jpg",
+        "caddress": "Jalan Premium Outlets, Indahpura, Kulaijaya, 81000 Johor,"
+      },
+      {
+        "cname": "独立宣言纪念馆",
+        "url": "/sight/melaka42/3466.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/524/750/697/6b5a0468c7bb4caa89296d6c27b9970c_C_220_140.jpg",
+        "caddress": "Memorial Pengisytiharan Kemerdekaan Jalan Parameswara, 75000 Melaka, 马来西亚"
+      },
+      {
+        "cname": "郑和庙",
+        "url": "/sight/melaka42/1482264.html",
+        "s_img": "",
+        "caddress": "Jalan Puteri Hang Li Poh, Bukit Cina, 75100 Melaka"
+      },
+      {
+        "cname": "马六甲海峡清真寺",
+        "url": "/sight/melaka42/1482282.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/987/107/085a4e94d37d48c58ca9ef12070eb2ec_C_220_140.jpg",
+        "caddress": "Jalan Pulau Melaka 8, Taman Pulau Melaka, 75000 Melaka"
+      },
+      {
+        "cname": "圣约翰古堡",
+        "url": "/sight/melaka42/3459.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/850/629/5ace0407c10840be8bfe064ea0b714f0_C_220_140.jpg",
+        "caddress": "Kubu St. John Jalan Ujong Pasir 75050 Melaka, Malaysia"
+      },
+      {
+        "cname": "葡萄牙广场",
+        "url": "/sight/melaka42/3460.html",
+        "s_img": "",
+        "caddress": "Portuguese Square Jalan Dalbuquerque 75050 Melaka, Malaysia"
+      },
+      {
+        "cname": "峇峇娘惹文化馆",
+        "url": "/sight/melaka42/1482281.html",
+        "s_img": "",
+        "caddress": "Jalan Tun Tan Cheng Lock, 75200 Melaka"
+      },
+      {
+        "cname": "马六甲动物园",
+        "url": "/sight/melaka42/1482295.html",
+        "s_img": "",
+        "caddress": "Zoo Melaka, 75450 Malacca"
+      },
+      {
+        "cname": "维多利亚女皇喷泉",
+        "url": "/sight/melaka42/1482249.html",
+        "s_img": "",
+        "caddress": "Jalan Gereja, 75000 Melaka"
+      },
+      {
+        "cname": "马六甲巫统博物馆",
+        "url": "/sight/melaka42/1482279.html",
+        "s_img": "",
+        "caddress": "Jalan Kota, 75000 Melaka"
+      },
+      {
+        "cname": "旋转塔",
+        "url": "/sight/melaka42/1482284.html",
+        "s_img": "",
+        "caddress": "Jalan Merdeka, 75000 Melaka"
+      },
+      {
+        "cname": "荷兰广场",
+        "url": "/sight/melaka42/134094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/611/157/784/39c82dd2ba694de1a37135b3bac03eff_C_220_140.jpg",
+        "caddress": "Jalan Gereja Melaka, Malaysia"
+      },
+      {
+        "cname": "圣淘沙别墅",
+        "url": "/sight/melaka42/134102.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/136/719/105/c481c0cbf88e4747926855fec4ba1efe_C_220_140.jpg",
+        "caddress": "Villa Sentosa 138 Jalan Kampung Morten 75300 Melaka, Malaysia"
+      },
+      {
+        "cname": "特拉喀拉清真寺",
+        "url": "/sight/melaka42/3445.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/372/238/020/c7de149b63974a8fbd2b90372ac8556b_C_220_140.jpg",
+        "caddress": "Jalan Tengkera, 75200 Melaka"
+      },
+      {
+        "cname": "蝴蝶和爬行动物保育园",
+        "url": "/sight/melaka42/3448.html",
+        "s_img": "",
+        "caddress": "Lebuh Ayer Keroh Melaka, Malaysia"
+      },
+      {
+        "cname": "甘榜吉宁清真寺",
+        "url": "/sight/melaka42/1482292.html",
+        "s_img": "",
+        "caddress": "Masjid Kampung Kling, 75200 Malacca"
+      },
+      {
+        "cname": "香林寺",
+        "url": "/sight/melaka42/1482344.html",
+        "s_img": "",
+        "caddress": "Jalan Tokong, Kampung Dua, 75200 Melaka"
+      },
+      {
+        "cname": "伊斯兰博物馆",
+        "url": "/sight/melaka42/134144.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/130/399/927/3a522158107b4734a1256b82baf4537c_C_220_140.jpg",
+        "caddress": "Jalan Kota, 75000 Malacca, Malaysia"
+      },
+      {
+        "cname": "基督教堂（外观）",
+        "url": "/sight/melaka42/137165.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/995/248/143/f8aecfcbd6b34553859f6d524589762f_C_220_140.jpg",
+        "caddress": "Jalan Gereja, Melaka"
+      },
+      {
+        "cname": "声与光展",
+        "url": "/sight/melaka42/3456.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "汉加伯墓",
+        "url": "/sight/melaka42/3464.html",
+        "s_img": "",
+        "caddress": "Jalan Kampung Pantai, 75200 Melaka"
+      },
+      {
+        "cname": "汉都亚之墓",
+        "url": "/sight/melaka42/134101.html",
+        "s_img": "",
+        "caddress": "120 Jalan Hang Jebat Melaka, Malaysia"
+      }
+    ]
+  },
+  {
+    "cname": "热浪岛",
+    "url": "http://you.ctrip.com/sightlist/redang662.html",
+    "places": [
+      {
+        "cname": "热浪岛",
+        "url": "/sight/redang662/136596.html",
+        "s_img": "http://m.chanyouji.cn/attractions/114276.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      },
+      {
+        "cname": "浪中岛",
+        "url": "/sight/redang662/30054.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156809.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      },
+      {
+        "cname": "棉花岛",
+        "url": "/sight/redang662/25727.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/595/142/567/90a2ce9bf48c4da88d30bca9ed99a09e_C_220_140.jpg",
+        "caddress": "Kapas Island, Terengganu"
+      },
+      {
+        "cname": "嬷嬷茶屋",
+        "url": "/sight/redang662/25730.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/618/200/167/22182f2ef77140179b3315d77de2fb3d_C_220_140.jpg",
+        "caddress": "小屋位于热浪岛Laguna Redang Island Resort前"
+      },
+      {
+        "cname": "平安岛",
+        "url": "/sight/redang662/25733.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/833/031/270/f1efbd7d6ef7431494c2b3b625661b0d_C_220_140.jpg",
+        "caddress": "Kuala Terengganu, Terengganu"
+      }
+    ]
+  },
+  {
+    "cname": "马六甲",
+    "url": "http://you.ctrip.com/sightlist/melakastate23093.html",
+    "places": [
+      {
+        "cname": "荷兰红屋",
+        "url": "/sight/melaka42/3457.html",
+        "s_img": "http://p.chanyouji.cn/164808/1411191424750p1928ovq2e1uuq1fgmd0r10gl2n5a.jpg?imageView/1/w/220/h/140",
+        "caddress": "The Stadthuys, Jalan Gereja, 75000 Melaka"
+      },
+      {
+        "cname": "圣保罗教堂",
+        "url": "/sight/melaka42/3458.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/596/944/119/e02317598c064daa9448d0e8c2f67f04_C_220_140.jpg",
+        "caddress": "Gereja St Paul Jalan Kota, 75000 Melaka,"
+      },
+      {
+        "cname": "马六甲河",
+        "url": "/sight/melaka42/146462.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113799.jpg?imageView/1/w/220/h/140",
+        "caddress": "Malacca River, Melaka"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/melaka42/8158.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/841/402/676/627a5d0aa7bb4330a464aa7f925be366_C_220_140.jpg",
+        "caddress": "Jalan Hang Jebat, 75200 Melaka"
+      },
+      {
+        "cname": "圣地亚哥城堡",
+        "url": "/sight/melaka42/3450.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/290/447/e34976f4e1d1454b9954b2963604adbd_C_220_140.jpg",
+        "caddress": "Jalan Kota, Melaka"
+      },
+      {
+        "cname": "三保山",
+        "url": "/sight/melaka42/136601.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113822.jpg?imageView/1/w/220/h/140",
+        "caddress": "Bukit China, 75100 Melaka"
+      },
+      {
+        "cname": "基督教堂",
+        "url": "/sight/melaka42/3453.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/921/367/508/1f17bd52ba9c444cb94850a1eb5f29b2_C_220_140.jpg",
+        "caddress": "Jalan Gereja, Melaka"
+      },
+      {
+        "cname": "苏丹王宫",
+        "url": "/sight/melaka42/3451.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/363/217/884/477053b4ac4c4a6d84f1436ce4846d77_C_220_140.jpg",
+        "caddress": "Sekolah Menengah Kebangsaan Agama Sultan Muhammad Jalan Pengkalan Batu, 75250 Melaka"
+      },
+      {
+        "cname": "汉丽宝井",
+        "url": "/sight/melaka42/3463.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/772/171/948/639bb2608cef423a846765d53d6a4dad_C_220_140.jpg",
+        "caddress": "Jalan Puteri Hang Li Poh, 75100 Melaka"
+      },
+      {
+        "cname": "葡萄牙古城门",
+        "url": "/sight/melaka42/137611.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/391/370/221/d13178b923844ad4b7f7552dd3dc786a_C_220_140.jpg",
+        "caddress": "Bandar Hilir, 75000 Melaka"
+      },
+      {
+        "cname": "马六甲海峡",
+        "url": "/sight/melaka42/122838.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/580/978/100eec91e7434f60b1b2991bd2864096_C_220_140.jpg",
+        "caddress": "马来西亚"
+      },
+      {
+        "cname": "圣彼得教堂",
+        "url": "/sight/melakastate23093/3467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/589/838/9f4c6d1963214fb59fe972963205cb84_C_220_140.jpg",
+        "caddress": "Kampung Bukit China, 75450 Melaka"
+      },
+      {
+        "cname": "迷你马来西亚",
+        "url": "/sight/melaka42/3443.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/694/404/040/ca34e0b9e8294f06b13f390b6babfd51_C_220_140.jpg",
+        "caddress": "Hutan Rekreasi Ayer Keroh, Lebuh Ayer Keroh, 75450 Ayer Keroh,"
+      },
+      {
+        "cname": "宝山亭",
+        "url": "/sight/melaka42/3447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/818/898/489/f48a298521ff42e08d2160a9cc29bf8b_C_220_140.jpg",
+        "caddress": "25, Jalan Tokong 5, 75200 Melaka"
+      },
+      {
+        "cname": "航海博物馆",
+        "url": "/sight/melaka42/137140.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/341/302/534/9fbf00e7ca424a2196f15d826d7cdb73_C_220_140.jpg",
+        "caddress": "Jalan Quayside, 75000 Melaka"
+      },
+      {
+        "cname": "葡萄牙村",
+        "url": "/sight/melaka42/3461.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/226/045/9b4e2bf3da51479eb0069b120251620e_C_220_140.jpg",
+        "caddress": "Melaka, Malacca, Portugis Settlement Ujong Pasir"
+      },
+      {
+        "cname": "幸福岛",
+        "url": "/sight/melaka42/136732.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/664/029/319/e0e7aaf8bfbc4e9a9139341d89cf171b_C_220_140.jpg",
+        "caddress": "Lumut, Perak"
+      },
+      {
+        "cname": "马来民居",
+        "url": "/sight/melaka42/137252.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/231/769/042/37e4a9e50c87489ab74bb7df5a4a02ff_C_220_140.jpg",
+        "caddress": "位于马六甲近郊"
+      },
+      {
+        "cname": "圣芳济教堂",
+        "url": "/sight/melaka42/3454.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/245/074/492/6faa0d8084cf48ca9218204ad1283365_C_220_140.jpg",
+        "caddress": "Gereja St. Francis Xavier Jalan Laksamana 75000 Melaka, Malaysia"
+      },
+      {
+        "cname": "马六甲之眼",
+        "url": "/sight/melaka42/134143.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/613/421/300/31fcd9d7dbd54de5bd30204b5ab60c05_C_220_140.jpg",
+        "caddress": "75000 Melaka Malaysia"
+      },
+      {
+        "cname": "娘惹博物馆",
+        "url": "/sight/melakastate23093/1411787.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/951/944/685/4730132c8b4444b7bd1b55b93934184c_C_220_140.jpg",
+        "caddress": "108, Jalan Tun Tan Cheng Lock, 75200 melaka"
+      },
+      {
+        "cname": "新山outlets",
+        "url": "/sight/melaka42/136650.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/B3/BF/CghzflSnfseALygjAAF_u6lvxcs362_C_220_140.jpg",
+        "caddress": "Jalan Premium Outlets, Indahpura, Kulaijaya, 81000 Johor,"
+      },
+      {
+        "cname": "独立宣言纪念馆",
+        "url": "/sight/melaka42/3466.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/524/750/697/6b5a0468c7bb4caa89296d6c27b9970c_C_220_140.jpg",
+        "caddress": "Memorial Pengisytiharan Kemerdekaan Jalan Parameswara, 75000 Melaka, 马来西亚"
+      },
+      {
+        "cname": "圣约翰古堡",
+        "url": "/sight/melaka42/3459.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/850/629/5ace0407c10840be8bfe064ea0b714f0_C_220_140.jpg",
+        "caddress": "Kubu St. John Jalan Ujong Pasir 75050 Melaka, Malaysia"
+      },
+      {
+        "cname": "葡萄牙广场",
+        "url": "/sight/melaka42/3460.html",
+        "s_img": "",
+        "caddress": "Portuguese Square Jalan Dalbuquerque 75050 Melaka, Malaysia"
+      },
+      {
+        "cname": "荷兰广场",
+        "url": "/sight/melaka42/134094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/611/157/784/39c82dd2ba694de1a37135b3bac03eff_C_220_140.jpg",
+        "caddress": "Jalan Gereja Melaka, Malaysia"
+      },
+      {
+        "cname": "圣淘沙别墅",
+        "url": "/sight/melaka42/134102.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/136/719/105/c481c0cbf88e4747926855fec4ba1efe_C_220_140.jpg",
+        "caddress": "Villa Sentosa 138 Jalan Kampung Morten 75300 Melaka, Malaysia"
+      },
+      {
+        "cname": "特拉喀拉清真寺",
+        "url": "/sight/melaka42/3445.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/372/238/020/c7de149b63974a8fbd2b90372ac8556b_C_220_140.jpg",
+        "caddress": "Jalan Tengkera, 75200 Melaka"
+      },
+      {
+        "cname": "蝴蝶和爬行动物保育园",
+        "url": "/sight/melaka42/3448.html",
+        "s_img": "",
+        "caddress": "Lebuh Ayer Keroh Melaka, Malaysia"
+      },
+      {
+        "cname": "伊斯兰博物馆",
+        "url": "/sight/melaka42/134144.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/130/399/927/3a522158107b4734a1256b82baf4537c_C_220_140.jpg",
+        "caddress": "Jalan Kota, 75000 Malacca, Malaysia"
+      },
+      {
+        "cname": "爱极乐森林公园",
+        "url": "/sight/ayerkeroh14882/3444.html",
+        "s_img": "",
+        "caddress": "Lebuh Ayer Keroh, 75450 Ayer Keroh, 马来西亚 ‎"
+      },
+      {
+        "cname": "基督教堂（外观）",
+        "url": "/sight/melaka42/137165.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/995/248/143/f8aecfcbd6b34553859f6d524589762f_C_220_140.jpg",
+        "caddress": "Jalan Gereja, Melaka"
+      },
+      {
+        "cname": "声与光展",
+        "url": "/sight/melaka42/3456.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "汉加伯墓",
+        "url": "/sight/melaka42/3464.html",
+        "s_img": "",
+        "caddress": "Jalan Kampung Pantai, 75200 Melaka"
+      },
+      {
+        "cname": "汉都亚之墓",
+        "url": "/sight/melaka42/134101.html",
+        "s_img": "",
+        "caddress": "120 Jalan Hang Jebat Melaka, Malaysia"
+      }
+    ]
+  },
+  {
+    "cname": "槟城",
+    "url": "http://you.ctrip.com/sightlist/penang44.html",
+    "places": [
+      {
+        "cname": "槟城",
+        "url": "/sight/penang44/146540.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M09/DF/24/CghzfFT-xyCAFdXUABS4sft4kOY171_C_220_140.jpg",
+        "caddress": "George Town，马来西亚"
+      },
+      {
+        "cname": "植物园",
+        "url": "/sight/georgetown57611/3486.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/051/155/599/8e95e80db607461ba3e8a0b3e30e3999_C_220_140.jpg",
+        "caddress": "Botanical Gardens, 10470 Pulau Pinang"
+      },
+      {
+        "cname": "极乐寺",
+        "url": "/sight/georgetown57611/3485.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/083/751/634/341342a4cf53468d81e27ae5ade23c46_C_220_140.jpg",
+        "caddress": "No. 1, Tokong Kek Lok Si, 11500, George Town"
+      },
+      {
+        "cname": "张弼士故居",
+        "url": "/sight/georgetown57611/134384.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/262/481/885/c4d76d40617849099917c973d1b3d639_C_220_140.jpg",
+        "caddress": "14, Lebuhraya Leith, Georgetown, Pulau Penang 10200, Malaysia"
+      },
+      {
+        "cname": "姓氏桥",
+        "url": "/sight/georgetown57611/134391.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/E0/6D/CghzgVT-xyGAFxGXABlQSMoPWPM906_C_220_140.jpg",
+        "caddress": "Pengkalan Weld, Pulau Pinang"
+      },
+      {
+        "cname": "娘惹博物馆",
+        "url": "/sight/georgetown57611/3449.html",
+        "s_img": "http://p.chanyouji.cn/88977/1384868315295p189o99jil12uq1ud3n511iu71kojp.jpg?imageView/1/w/220/h/140",
+        "caddress": "29, Lebuh Gereja, Pulau Pinang"
+      },
+      {
+        "cname": "槟榔山",
+        "url": "/sight/penangisland14838/3484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/134/806/540/91fcae0bef3547418dbb3378f84d4333_C_220_140.jpg",
+        "caddress": "Tanjung Tokong, 11200 Tanjong Bungah, Pulau Pinang,"
+      },
+      {
+        "cname": "爱情巷",
+        "url": "/sight/georgetown57611/142383.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/534/115/344/c5a36df424864cce9beed5eaea4eed38_C_220_140.jpg",
+        "caddress": "54 Lorong Love, Georgetown, 10200 Penang, Pulau Pinang"
+      },
+      {
+        "cname": "槟城博物馆",
+        "url": "/sight/georgetown57611/8145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/983/643/670/d01898b28ce645278e54345f9d3dbc4c_C_220_140.jpg",
+        "caddress": "Lebuh Farquhar Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "槟城极乐寺",
+        "url": "/sight/penang44/142377.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113755.jpg?imageView/1/w/220/h/140",
+        "caddress": "11500 George Town, Pulau Pinang"
+      },
+      {
+        "cname": "卧佛寺",
+        "url": "/sight/georgetown57611/3493.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/844/076/345/ecf6b597d704433a8e9311336648c072_C_220_140.jpg",
+        "caddress": "24 Lorong Burma, Georgetown, 10250 Pulau Pinang"
+      },
+      {
+        "cname": "槟威大桥",
+        "url": "/sight/penang44/8154.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/801/131/207/f5a409d02e8742a2b91557ba754b6cf9_C_220_140.jpg",
+        "caddress": "Jambatan Pulau Pinang, Pulau Pinang"
+      },
+      {
+        "cname": "圣乔治教堂",
+        "url": "/sight/georgetown57611/8152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/982/931/699/c9ce0f5db7ed4524a043b4b31366657f_C_220_140.jpg",
+        "caddress": "1 Jalan Lebuh Farguhar, 10200 Penang"
+      },
+      {
+        "cname": "蛇庙",
+        "url": "/sight/bayanlepas57610/3482.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/237/477/513/e4ae52c0d8d448b0af718762f3a10e80_C_220_140.jpg",
+        "caddress": "Snake Temple, Jalan Sultan Azlan Shah, 11900 Bayan Lepas, Pulau Pinang"
+      },
+      {
+        "cname": "缅佛寺",
+        "url": "/sight/georgetown57611/8149.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/982/756/1c150a892cd74b15937f3393769a5afc_C_220_140.jpg",
+        "caddress": "24 Burma Lane George Town, Penang"
+      },
+      {
+        "cname": "马里安曼印度庙",
+        "url": "/sight/georgetown57611/8148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/534/325/270/f8087498df034ccc8fecb5d035c2d5d4_C_220_140.jpg",
+        "caddress": "Queen Street, Georgetown, Pulau Penang, Malaysia"
+      },
+      {
+        "cname": "观音寺",
+        "url": "/sight/georgetown57611/3494.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/254/262/850/efa3f04e456048ed84b487a0fb358b33_C_220_140.jpg",
+        "caddress": "Lintang P Ramlee Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "森林公园",
+        "url": "/sight/tanjongbungah57612/3490.html",
+        "s_img": "",
+        "caddress": "National Park, Jalan Hassan Abas, 11050 Tanjong Bungah, Penang, Malaysia"
+      },
+      {
+        "cname": "蝴蝶园",
+        "url": "/sight/tanjongbungah57612/3488.html",
+        "s_img": "",
+        "caddress": "No. 830, Jalan Teluk Bahang, Teluk Bahang, 11050 Penang"
+      },
+      {
+        "cname": "小印度",
+        "url": "/sight/georgetown57611/134392.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/504/172/314/2705752d06704c64aa171bdd90f221c0_C_220_140.jpg",
+        "caddress": "位于Lebuh Queen街上"
+      },
+      {
+        "cname": "康华利斯堡",
+        "url": "/sight/georgetown57611/8144.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/415/752/551/d7af54362b334b29a5038282a10746b7_C_220_140.jpg",
+        "caddress": "Jalan Tun Syed Sheh Barakbah, 10200 George Town, Pulau Pinang"
+      },
+      {
+        "cname": "热带水果园",
+        "url": "/sight/penangisland14838/134371.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/716/076/652/26614f09d6274f558c49b20d5b0b463a_C_220_140.jpg",
+        "caddress": "Jalan Teluk Bahang Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "吉宁甲必丹回教堂",
+        "url": "/sight/georgetown57611/8146.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/470/380/124/566f2307ed004be9a59b895d17999e50_C_220_140.jpg",
+        "caddress": "Jalan Kapitan Keling, Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "槟城路",
+        "url": "/sight/penang44/30256.html",
+        "s_img": "http://m.chanyouji.cn/activities/binchenglu.jpg?imageView/1/w/220/h/140",
+        "caddress": "Jalan Penang, 10450 Pulau Pinang"
+      },
+      {
+        "cname": "龙山堂丘祠",
+        "url": "/sight/georgetown57611/3492.html",
+        "s_img": "http://p.chanyouji.cn/118823/1399131393523p18n1be1851i881cc519ei12ri18jdq.jpg?imageView/1/w/220/h/140",
+        "caddress": "18 Cannon Square, Georgetown, 10200 Pulau Pinang"
+      },
+      {
+        "cname": "乔治城壁画街",
+        "url": "/sight/penang44/1410982.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/065/086/101/8419e485ce9e464cabf8dd83170eee1a_C_220_140.jpg",
+        "caddress": "Georgetown, 10300 Pulau Pinang"
+      },
+      {
+        "cname": "马来西亚理科大学",
+        "url": "/sight/penang44/1481710.html",
+        "s_img": "",
+        "caddress": "Jalan Sungai Dua， 11800 Georgetown, Pulau Penang"
+      },
+      {
+        "cname": "孙中山槟城基地纪念馆",
+        "url": "/sight/georgetown57611/134377.html",
+        "s_img": "",
+        "caddress": "120 Armenian Street, George Town World Heritage Site, 10200 Penang"
+      },
+      {
+        "cname": "槟城植物园",
+        "url": "/sight/penang44/1481824.html",
+        "s_img": "",
+        "caddress": "Penang Botanic Gardens, 10470 George Town, Penang"
+      },
+      {
+        "cname": "维多利亚纪念钟楼（大钟楼）",
+        "url": "/sight/georgetown57611/134389.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/533/651/409/fb607342dce84cc994b996ccbb1bdddd_C_220_140.jpg",
+        "caddress": "King Edward's Place Penang, Malaysia"
+      },
+      {
+        "cname": "巴都丁宜沙滩",
+        "url": "/sight/batuferringhi57609/3481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/389/157/265/c98aeb1d53604aca9ca1f28e0ba2482d_C_220_140.jpg",
+        "caddress": "Jalan Feringghi, 11200 Batu Feringgi, Pulau Pinang,"
+      },
+      {
+        "cname": "天后宫",
+        "url": "/sight/penang44/1481843.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/D8/94/CghzflS4cvSAQm99ACJSoGzBd_w491_C_220_140.jpg",
+        "caddress": "93, Lebuh Muntri, 10200 Georgetown, Penang"
+      },
+      {
+        "cname": "光大大厦",
+        "url": "/sight/penang44/1481815.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/046/646/198/362c29515b12460ab4618a3284ed4b66_C_220_140.jpg",
+        "caddress": "1, Jalan Penang, 10450 Pulau Pinang"
+      },
+      {
+        "cname": "艺术博物馆",
+        "url": "/sight/georgetown57611/3489.html",
+        "s_img": "",
+        "caddress": "Lebuh Farquhar, Georgetown, 10200 Georgetown, Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "玩具博物馆",
+        "url": "/sight/penang44/1481944.html",
+        "s_img": "",
+        "caddress": "Jalan Tanjung Bunga, 11200 Tanjung Bungah, Pulau Pinang"
+      },
+      {
+        "cname": "热带香料园",
+        "url": "/sight/penang44/1481939.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/529/396/867/dcb7c3406a054cbe9aa4665df12d80da_C_220_140.jpg",
+        "caddress": "Lone Crag Villa, Lot 595 Mukim 2, Jalan Teluk Bahang, Teluk Bahang, 11100, Penang"
+      },
+      {
+        "cname": "战争博物馆",
+        "url": "/sight/bayanlepas57610/134381.html",
+        "s_img": "",
+        "caddress": "Penang War Museum, Jalan Batu Maung, 11960 Batu Maung, Pulau Pinang"
+      },
+      {
+        "cname": "旧关仔角大钟楼",
+        "url": "/sight/penang44/1481570.html",
+        "s_img": "",
+        "caddress": "Lebuh Light, Pulau Pinang"
+      },
+      {
+        "cname": "丘公司",
+        "url": "/sight/penang44/1481838.html",
+        "s_img": "",
+        "caddress": "18, Cannon Square, 10450 Pulau Pinang"
+      },
+      {
+        "cname": "国立清真寺",
+        "url": "/sight/penang44/3491.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/715/879/d243540663334de2ba2c61f63db64abc_C_220_140.jpg",
+        "caddress": "11600 Jelutong, Pulau Pinang"
+      },
+      {
+        "cname": "槟城马里安曼印度庙",
+        "url": "/sight/penang44/1481775.html",
+        "s_img": "",
+        "caddress": "Lebuh Queen, Pulau Pinang"
+      },
+      {
+        "cname": "槟城艺术馆",
+        "url": "/sight/penang44/1470071.html",
+        "s_img": "",
+        "caddress": "Ground floor, Dewan Sri Pinang, Lebuh Light, George Town, Penang"
+      },
+      {
+        "cname": "槟城战争博物馆",
+        "url": "/sight/penang44/1481966.html",
+        "s_img": "",
+        "caddress": "Jalan Batu Maung, 11960 Batu Maung, Pulau Pinang"
+      },
+      {
+        "cname": "猴子沙滩",
+        "url": "/sight/penang44/1481830.html",
+        "s_img": "",
+        "caddress": "Jalan Hassan Abas, Teluk Bahang, 11050 Tanjung Bungah, Pulau Pinang"
+      },
+      {
+        "cname": "蝴蝶公园",
+        "url": "/sight/penang44/1481799.html",
+        "s_img": "",
+        "caddress": "Jalan Teluk Bahang, 11050 Penang, Pulau Pinang"
+      },
+      {
+        "cname": "槟城姓氏桥",
+        "url": "/sight/penang44/142385.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M00/B1/DF/CghzfFT5esiAXsCEAA8VK_7KnUk478_C_220_140.jpg",
+        "caddress": "姓氏桥中最出名的周姓桥位于Chew Jetty, Weld Quay，"
+      },
+      {
+        "cname": "槟城夜市",
+        "url": "/sight/penang44/1410981.html",
+        "s_img": "",
+        "caddress": "Jalan Sungai Pinang, Jelutong, Pulau Pinang"
+      },
+      {
+        "cname": "摩哂陀王子寺",
+        "url": "/sight/penang44/8153.html",
+        "s_img": "",
+        "caddress": "No. 2, Kampar Road, Pulau Pinang, 10460, Penang"
+      },
+      {
+        "cname": "百鸟公园",
+        "url": "/sight/penangisland14838/3487.html",
+        "s_img": "",
+        "caddress": "Taman Burung Seberang Jaya, Jalan Todak, Seberang Jaya, 13700,Perai, Pulau Pinang 13700"
+      },
+      {
+        "cname": "观音亭",
+        "url": "/sight/penang44/1481721.html",
+        "s_img": "",
+        "caddress": "Lintang P Ramlee, 10460 Pulau Pinang"
+      },
+      {
+        "cname": "皇后湾广场",
+        "url": "/sight/penang44/30255.html",
+        "s_img": "http://m.chanyouji.cn/activities/queensbay.jpg?imageView/1/w/220/h/140",
+        "caddress": "Queensbay Mall, 100 Persiaran Bayan Indah, 11900 Bayan Lepas, Pulau Pinang, 马来西亚"
+      },
+      {
+        "cname": "弥勒寺",
+        "url": "/sight/georgetown57611/8151.html",
+        "s_img": "",
+        "caddress": "Jalan Macalister Pulau Pinang, Malaysia"
+      }
+    ]
+  },
+  {
+    "cname": "云顶高原",
+    "url": "http://you.ctrip.com/sightlist/gentinghighlands561.html",
+    "places": [
+      {
+        "cname": "云顶主题游乐场",
+        "url": "/sight/gentinghighlands561/134324.html",
+        "s_img": "http://p.chanyouji.cn/141305/1404919166521p18sdra1em1lvvuov1c3q13vt1osp5.jpg?imageView/1/w/220/h/140",
+        "caddress": "Genting Highlands Resort | Theme Park Hotel, Genting Highlands 69000, Malaysia"
+      },
+      {
+        "cname": "云顶娱乐场",
+        "url": "/sight/gentinghighlands561/134321.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/073/154/395/8cbb6010731b4668852356454ee59835_C_220_140.jpg",
+        "caddress": "Genting Highlands, Pahang"
+      },
+      {
+        "cname": "云顶高原",
+        "url": "/sight/gentinghighlands561/138955.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/357/725/429/92216a8417314a58add327083b3dadc5_C_220_140.jpg",
+        "caddress": "69000 Genting Highlands, Pahang"
+      },
+      {
+        "cname": "云顶草莓农场",
+        "url": "/sight/gentinghighlands561/134323.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/064/452/531/33b111f0a8804649a5a0816bc373ddfa_C_220_140.jpg",
+        "caddress": "No. 1, Lot 3707, Jalan Jati 2, Bandar Gohtong Jaya, Genting Highlands, 69000, Genting Highlands, Pah"
+      },
+      {
+        "cname": "清水岩庙",
+        "url": "/sight/gentinghighlands561/134327.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/599/044/0f1c3d0174264917927780fe4e4f3ceb_C_220_140.jpg",
+        "caddress": "69000 Genting Highlands, Pahang, Malaysia"
+      }
+    ]
+  },
+  {
+    "cname": "仙本那",
+    "url": "http://you.ctrip.com/sightlist/semporna14898.html",
+    "places": [
+      {
+        "cname": "马布岛",
+        "url": "/sight/semporna14898/109837.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/335/490/497/002aef9030e84a0da6aa6df2fcf2e2e6_C_220_140.jpg",
+        "caddress": "诗巴丹附近"
+      },
+      {
+        "cname": "仙本那",
+        "url": "/sight/semporna14898/146837.html",
+        "s_img": "http://p.chanyouji.cn/47928/1371736300321p17tgtku3jsbu1ee9d8equjhm3c.jpg?imageView/1/w/220/h/140",
+        "caddress": "Semporna，马来西亚"
+      },
+      {
+        "cname": "卡帕莱岛",
+        "url": "/sight/semporna14898/109854.html",
+        "s_img": "http://p.chanyouji.cn/70328/1379764821304p18505r8i54nqtt07tka4lbcb32.jpg?imageView/1/w/220/h/140",
+        "caddress": "坐落在西巴丹岛和马布尔岛之间的一块沙洲形成的岛屿"
+      },
+      {
+        "cname": "马达京岛",
+        "url": "/sight/semporna14898/133502.html",
+        "s_img": "http://p.chanyouji.cn/1415094511/DB637213-57D3-431B-BD79-B744A6C5438A.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Mataking Kechil"
+      },
+      {
+        "cname": "西巴丹岛",
+        "url": "/sight/semporna14898/20863.html",
+        "s_img": "http://p.chanyouji.cn/1197993/5C3BCFBA-959B-4416-89AA-29170F649AD6.jpg?imageView/1/w/220/h/140",
+        "caddress": "坐落于东马来西亚西南，距离仙本那港36公里的北西里伯海上"
+      },
+      {
+        "cname": "邦邦岛",
+        "url": "/sight/semporna14898/146970.html",
+        "s_img": "http://m.chanyouji.cn/attractions/154111.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Pom Pom, 马来西亚"
+      },
+      {
+        "cname": "仙本那群岛公园",
+        "url": "/sight/semporna14898/1417524.html",
+        "s_img": "",
+        "caddress": "Semporna, Sabah"
+      }
+    ]
+  },
+  {
+    "cname": "山打根",
+    "url": "http://you.ctrip.com/sightlist/sandakan14894.html",
+    "places": [
+      {
+        "cname": "拉卜湾长鼻猴保护区",
+        "url": "/sight/sandakan14894/66657.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/109/673/578/dd8a61ae425b46e89d400d0f7f7cb457_C_220_140.jpg",
+        "caddress": "Off Jalan Labuk, 90000 Sandakan, Sabah"
+      },
+      {
+        "cname": "山打根",
+        "url": "/sight/sandakan14894/66664.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/711/570/266/282918b4bcc24162bd7a661bbe72c698_C_220_140.jpg",
+        "caddress": "90000 Sandakan, Sabah"
+      },
+      {
+        "cname": "京那巴登岸河",
+        "url": "/sight/sandakan14894/66658.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/801/157/8221d91d53454f4fa6097e6e14dcdc1b_C_220_140.jpg",
+        "caddress": "Kota Kinabatangan，Sabah。"
+      },
+      {
+        "cname": "西必洛猿人保护区",
+        "url": "/sight/sandakan14894/20862.html",
+        "s_img": "http://p.chanyouji.cn/40000/1369214859690p17r5p0e68eor1qte1dd113pnvtkv.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pantai Cenang, Kedah Darul Aman, Langkawi, Kota Kinabalu"
+      },
+      {
+        "cname": "凯尔斯红树林保护区",
+        "url": "/sight/sandakan14894/141853.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/507/923/e0c9e14486c44fb58b0393ddbd895581_C_220_140.jpg",
+        "caddress": "Off Jalan Labuk, 90000 Sandakan, Sabah"
+      },
+      {
+        "cname": "海龟岛国家公园",
+        "url": "/sight/sandakan14894/20852.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/742/904/651/1cd7e52dc8fe4fafa654fe5bbba52cdc_C_220_140.jpg",
+        "caddress": "Selingan Island, Wisma Khoo Siak Chiew, 90708 Sandakan, Sabah"
+      },
+      {
+        "cname": "哥曼东洞穴",
+        "url": "/sight/sandakan14894/66665.html",
+        "s_img": "http://p.chanyouji.cn/1389972612/D92676C6-E4B3-4CEC-82D5-6590460554B3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Sandakan, Sabah"
+      },
+      {
+        "cname": "兰卡央岛",
+        "url": "/sight/sandakan14894/1417596.html",
+        "s_img": "",
+        "caddress": "Lankayan Island"
+      },
+      {
+        "cname": "山打根纪念公园",
+        "url": "/sight/sandakan14894/66656.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/643/813/616/a2215d56449d407197cff8ceb958d703_C_220_140.jpg",
+        "caddress": "Mile 8, Jalan Labuk Utara, Taman Rimba,, 90702 Sandakan, Sabah, 马来西亚"
+      },
+      {
+        "cname": "阿格尼丝·凯斯故居",
+        "url": "/sight/sandakan14894/66650.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/745/482/500/931b9415cda84fbdbd48368adecfc161_C_220_140.jpg",
+        "caddress": "Wisma Warisan Sandakan，90702 Sandakan，Sabah，Malaysia"
+      },
+      {
+        "cname": "山打根雨林探索中心",
+        "url": "/sight/sandakan14894/1417513.html",
+        "s_img": "",
+        "caddress": "Sandakan, Sabah"
+      },
+      {
+        "cname": "马廖盆地保护区",
+        "url": "/sight/sandakan14894/66659.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/641/226/240/47ab2785f6474e4a8ce4632b15ed461c_C_220_140.jpg",
+        "caddress": "Sabah,（马来西亚东南方）"
+      },
+      {
+        "cname": "兵南邦圣麦克天主教堂",
+        "url": "/sight/sandakan14894/1417528.html",
+        "s_img": "",
+        "caddress": "Pusat Bandar Sandakan, 90000 Sandakan, Sabah"
+      },
+      {
+        "cname": "西必洛人猿庇护中心",
+        "url": "/sight/sandakan14894/1417631.html",
+        "s_img": "",
+        "caddress": "90000 Sandakan, Sabah"
+      }
+    ]
+  },
+  {
+    "cname": "乔治城",
+    "url": "http://you.ctrip.com/sightlist/georgetown57611.html",
+    "places": [
+      {
+        "cname": "植物园",
+        "url": "/sight/georgetown57611/3486.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/051/155/599/8e95e80db607461ba3e8a0b3e30e3999_C_220_140.jpg",
+        "caddress": "Botanical Gardens, 10470 Pulau Pinang"
+      },
+      {
+        "cname": "极乐寺",
+        "url": "/sight/georgetown57611/3485.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/083/751/634/341342a4cf53468d81e27ae5ade23c46_C_220_140.jpg",
+        "caddress": "No. 1, Tokong Kek Lok Si, 11500, George Town"
+      },
+      {
+        "cname": "张弼士故居",
+        "url": "/sight/georgetown57611/134384.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/262/481/885/c4d76d40617849099917c973d1b3d639_C_220_140.jpg",
+        "caddress": "14, Lebuhraya Leith, Georgetown, Pulau Penang 10200, Malaysia"
+      },
+      {
+        "cname": "姓氏桥",
+        "url": "/sight/georgetown57611/134391.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/E0/6D/CghzgVT-xyGAFxGXABlQSMoPWPM906_C_220_140.jpg",
+        "caddress": "Pengkalan Weld, Pulau Pinang"
+      },
+      {
+        "cname": "娘惹博物馆",
+        "url": "/sight/georgetown57611/3449.html",
+        "s_img": "http://p.chanyouji.cn/88977/1384868315295p189o99jil12uq1ud3n511iu71kojp.jpg?imageView/1/w/220/h/140",
+        "caddress": "29, Lebuh Gereja, Pulau Pinang"
+      },
+      {
+        "cname": "爱情巷",
+        "url": "/sight/georgetown57611/142383.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/534/115/344/c5a36df424864cce9beed5eaea4eed38_C_220_140.jpg",
+        "caddress": "54 Lorong Love, Georgetown, 10200 Penang, Pulau Pinang"
+      },
+      {
+        "cname": "槟城博物馆",
+        "url": "/sight/georgetown57611/8145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/983/643/670/d01898b28ce645278e54345f9d3dbc4c_C_220_140.jpg",
+        "caddress": "Lebuh Farquhar Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "卧佛寺",
+        "url": "/sight/georgetown57611/3493.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/844/076/345/ecf6b597d704433a8e9311336648c072_C_220_140.jpg",
+        "caddress": "24 Lorong Burma, Georgetown, 10250 Pulau Pinang"
+      },
+      {
+        "cname": "圣乔治教堂",
+        "url": "/sight/georgetown57611/8152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/982/931/699/c9ce0f5db7ed4524a043b4b31366657f_C_220_140.jpg",
+        "caddress": "1 Jalan Lebuh Farguhar, 10200 Penang"
+      },
+      {
+        "cname": "缅佛寺",
+        "url": "/sight/georgetown57611/8149.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/982/756/1c150a892cd74b15937f3393769a5afc_C_220_140.jpg",
+        "caddress": "24 Burma Lane George Town, Penang"
+      },
+      {
+        "cname": "马里安曼印度庙",
+        "url": "/sight/georgetown57611/8148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/534/325/270/f8087498df034ccc8fecb5d035c2d5d4_C_220_140.jpg",
+        "caddress": "Queen Street, Georgetown, Pulau Penang, Malaysia"
+      },
+      {
+        "cname": "观音寺",
+        "url": "/sight/georgetown57611/3494.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/254/262/850/efa3f04e456048ed84b487a0fb358b33_C_220_140.jpg",
+        "caddress": "Lintang P Ramlee Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "小印度",
+        "url": "/sight/georgetown57611/134392.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/504/172/314/2705752d06704c64aa171bdd90f221c0_C_220_140.jpg",
+        "caddress": "位于Lebuh Queen街上"
+      },
+      {
+        "cname": "康华利斯堡",
+        "url": "/sight/georgetown57611/8144.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/415/752/551/d7af54362b334b29a5038282a10746b7_C_220_140.jpg",
+        "caddress": "Jalan Tun Syed Sheh Barakbah, 10200 George Town, Pulau Pinang"
+      },
+      {
+        "cname": "吉宁甲必丹回教堂",
+        "url": "/sight/georgetown57611/8146.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/470/380/124/566f2307ed004be9a59b895d17999e50_C_220_140.jpg",
+        "caddress": "Jalan Kapitan Keling, Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "龙山堂丘祠",
+        "url": "/sight/georgetown57611/3492.html",
+        "s_img": "http://p.chanyouji.cn/118823/1399131393523p18n1be1851i881cc519ei12ri18jdq.jpg?imageView/1/w/220/h/140",
+        "caddress": "18 Cannon Square, Georgetown, 10200 Pulau Pinang"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/georgetown57611/8155.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/687/230/061/e6b7129c2b284eefa38d86564c60ac5c_C_220_140.jpg",
+        "caddress": "Lebuh China, Georgetown, 10200 Pulau Pinang"
+      },
+      {
+        "cname": "孙中山槟城基地纪念馆",
+        "url": "/sight/georgetown57611/134377.html",
+        "s_img": "",
+        "caddress": "120 Armenian Street, George Town World Heritage Site, 10200 Penang"
+      },
+      {
+        "cname": "维多利亚纪念钟楼（大钟楼）",
+        "url": "/sight/georgetown57611/134389.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/533/651/409/fb607342dce84cc994b996ccbb1bdddd_C_220_140.jpg",
+        "caddress": "King Edward's Place Penang, Malaysia"
+      },
+      {
+        "cname": "槟城玩具博物馆",
+        "url": "/sight/georgetown57611/134369.html",
+        "s_img": "http://m.chanyouji.cn/attractions/113786.jpg?imageView/1/w/220/h/140",
+        "caddress": "Toy Museum, Jalan Teluk Bahang, 11050 Georgetown, Pulau Pinang"
+      },
+      {
+        "cname": "艺术博物馆",
+        "url": "/sight/georgetown57611/3489.html",
+        "s_img": "",
+        "caddress": "Lebuh Farquhar, Georgetown, 10200 Georgetown, Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "槟城大会堂",
+        "url": "/sight/georgetown57611/1459331.html",
+        "s_img": "",
+        "caddress": "Jalan Tun Syed Sheh Barakbah, 10200 Georgetown, Pulau Pinang"
+      },
+      {
+        "cname": "槟榔河",
+        "url": "/sight/georgetown57611/1468762.html",
+        "s_img": "",
+        "caddress": "Sungai Pinang, Georgetown, Pulau Pinang"
+      },
+      {
+        "cname": "华盍街大教堂",
+        "url": "/sight/georgetown57611/1418381.html",
+        "s_img": "",
+        "caddress": "Cathedral of the Assumption, Jalan Love Lane, Pulau Pinang"
+      },
+      {
+        "cname": "鲁班行",
+        "url": "/sight/georgetown57611/1460042.html",
+        "s_img": "",
+        "caddress": "No. 76, Lorong Cinta, 10200, George Town, Pulau Pinang, 10200"
+      },
+      {
+        "cname": "乔治市魔镜",
+        "url": "/sight/georgetown57611/1468608.html",
+        "s_img": "",
+        "caddress": "Jalan Seang Tek, Georgetown, Pulau Pinang"
+      },
+      {
+        "cname": "铁槟榔",
+        "url": "/sight/georgetown57611/1460453.html",
+        "s_img": "",
+        "caddress": "Lebuh Light, Georgetown, 10200 Georgetown"
+      },
+      {
+        "cname": "相机博物馆",
+        "url": "/sight/georgetown57611/1460465.html",
+        "s_img": "",
+        "caddress": "49 Lebuh Muntri, 10200 Penang George Town"
+      },
+      {
+        "cname": "亚齐街回教堂",
+        "url": "/sight/georgetown57611/1459911.html",
+        "s_img": "",
+        "caddress": "Acheen Street Mosque, Jalan Lebuh Acheh, Pulau Pinang, 11200 Georgetown"
+      },
+      {
+        "cname": "战争纪念碑",
+        "url": "/sight/georgetown57611/1460028.html",
+        "s_img": "",
+        "caddress": "War Memorial, Jalan Padang Kota Lama, 10200 Pulau Pinang"
+      },
+      {
+        "cname": "弥勒寺",
+        "url": "/sight/georgetown57611/8151.html",
+        "s_img": "",
+        "caddress": "Jalan Macalister Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "潮州会馆",
+        "url": "/sight/georgetown57611/1459567.html",
+        "s_img": "",
+        "caddress": "127, Chulia Street, 10200 Penang"
+      },
+      {
+        "cname": "广州府会馆",
+        "url": "/sight/georgetown57611/1460365.html",
+        "s_img": "",
+        "caddress": "407, Lebuh Chulia, Pulau Pinang"
+      },
+      {
+        "cname": "花寺",
+        "url": "/sight/georgetown57611/1469081.html",
+        "s_img": "",
+        "caddress": "No 8 Perak Road, 10150 Penang"
+      },
+      {
+        "cname": "叶氏宗祠",
+        "url": "/sight/georgetown57611/1467813.html",
+        "s_img": "",
+        "caddress": "Yap Kongsi Temple, Lebuh Armenian, 10450 Pulau Pinang, 马来西亚"
+      }
+    ]
+  },
+  {
+    "cname": "停泊岛",
+    "url": "http://you.ctrip.com/sightlist/perhentian1171.html",
+    "places": [
+      {
+        "cname": "小停泊岛",
+        "url": "/sight/perhentian1171/48085.html",
+        "s_img": "http://p.chanyouji.cn/67902/1378485687568p183q1pb08srp11kr1o2c1srus8q3d.jpg?imageView/1/w/220/h/140",
+        "caddress": "Pulau Perhentian Kecil"
+      },
+      {
+        "cname": "大停泊岛",
+        "url": "/sight/perhentian1171/48066.html",
+        "s_img": "http://p.chanyouji.cn/6538/1348746953797p1783pah0818anqtht9tg375nt2.jpg?imageView/1/w/220/h/140",
+        "caddress": "岛屿距离丁加奴海岸21公里"
+      }
+    ]
+  },
+  {
+    "cname": "槟榔屿",
+    "url": "http://you.ctrip.com/sightlist/penangisland14838.html",
+    "places": [
+      {
+        "cname": "植物园",
+        "url": "/sight/georgetown57611/3486.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/051/155/599/8e95e80db607461ba3e8a0b3e30e3999_C_220_140.jpg",
+        "caddress": "Botanical Gardens, 10470 Pulau Pinang"
+      },
+      {
+        "cname": "极乐寺",
+        "url": "/sight/georgetown57611/3485.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/083/751/634/341342a4cf53468d81e27ae5ade23c46_C_220_140.jpg",
+        "caddress": "No. 1, Tokong Kek Lok Si, 11500, George Town"
+      },
+      {
+        "cname": "张弼士故居",
+        "url": "/sight/georgetown57611/134384.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/262/481/885/c4d76d40617849099917c973d1b3d639_C_220_140.jpg",
+        "caddress": "14, Lebuhraya Leith, Georgetown, Pulau Penang 10200, Malaysia"
+      },
+      {
+        "cname": "姓氏桥",
+        "url": "/sight/georgetown57611/134391.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/E0/6D/CghzgVT-xyGAFxGXABlQSMoPWPM906_C_220_140.jpg",
+        "caddress": "Pengkalan Weld, Pulau Pinang"
+      },
+      {
+        "cname": "娘惹博物馆",
+        "url": "/sight/georgetown57611/3449.html",
+        "s_img": "http://p.chanyouji.cn/88977/1384868315295p189o99jil12uq1ud3n511iu71kojp.jpg?imageView/1/w/220/h/140",
+        "caddress": "29, Lebuh Gereja, Pulau Pinang"
+      },
+      {
+        "cname": "槟榔山",
+        "url": "/sight/penangisland14838/3484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/134/806/540/91fcae0bef3547418dbb3378f84d4333_C_220_140.jpg",
+        "caddress": "Tanjung Tokong, 11200 Tanjong Bungah, Pulau Pinang,"
+      },
+      {
+        "cname": "爱情巷",
+        "url": "/sight/georgetown57611/142383.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/534/115/344/c5a36df424864cce9beed5eaea4eed38_C_220_140.jpg",
+        "caddress": "54 Lorong Love, Georgetown, 10200 Penang, Pulau Pinang"
+      },
+      {
+        "cname": "槟城博物馆",
+        "url": "/sight/georgetown57611/8145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/983/643/670/d01898b28ce645278e54345f9d3dbc4c_C_220_140.jpg",
+        "caddress": "Lebuh Farquhar Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "卧佛寺",
+        "url": "/sight/georgetown57611/3493.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/844/076/345/ecf6b597d704433a8e9311336648c072_C_220_140.jpg",
+        "caddress": "24 Lorong Burma, Georgetown, 10250 Pulau Pinang"
+      },
+      {
+        "cname": "圣乔治教堂",
+        "url": "/sight/georgetown57611/8152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/982/931/699/c9ce0f5db7ed4524a043b4b31366657f_C_220_140.jpg",
+        "caddress": "1 Jalan Lebuh Farguhar, 10200 Penang"
+      },
+      {
+        "cname": "蛇庙",
+        "url": "/sight/bayanlepas57610/3482.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/237/477/513/e4ae52c0d8d448b0af718762f3a10e80_C_220_140.jpg",
+        "caddress": "Snake Temple, Jalan Sultan Azlan Shah, 11900 Bayan Lepas, Pulau Pinang"
+      },
+      {
+        "cname": "缅佛寺",
+        "url": "/sight/georgetown57611/8149.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/982/756/1c150a892cd74b15937f3393769a5afc_C_220_140.jpg",
+        "caddress": "24 Burma Lane George Town, Penang"
+      },
+      {
+        "cname": "马里安曼印度庙",
+        "url": "/sight/georgetown57611/8148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/534/325/270/f8087498df034ccc8fecb5d035c2d5d4_C_220_140.jpg",
+        "caddress": "Queen Street, Georgetown, Pulau Penang, Malaysia"
+      },
+      {
+        "cname": "观音寺",
+        "url": "/sight/georgetown57611/3494.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/254/262/850/efa3f04e456048ed84b487a0fb358b33_C_220_140.jpg",
+        "caddress": "Lintang P Ramlee Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "小印度",
+        "url": "/sight/georgetown57611/134392.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/504/172/314/2705752d06704c64aa171bdd90f221c0_C_220_140.jpg",
+        "caddress": "位于Lebuh Queen街上"
+      },
+      {
+        "cname": "康华利斯堡",
+        "url": "/sight/georgetown57611/8144.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/415/752/551/d7af54362b334b29a5038282a10746b7_C_220_140.jpg",
+        "caddress": "Jalan Tun Syed Sheh Barakbah, 10200 George Town, Pulau Pinang"
+      },
+      {
+        "cname": "热带水果园",
+        "url": "/sight/penangisland14838/134371.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/716/076/652/26614f09d6274f558c49b20d5b0b463a_C_220_140.jpg",
+        "caddress": "Jalan Teluk Bahang Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "吉宁甲必丹回教堂",
+        "url": "/sight/georgetown57611/8146.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/470/380/124/566f2307ed004be9a59b895d17999e50_C_220_140.jpg",
+        "caddress": "Jalan Kapitan Keling, Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "龙山堂丘祠",
+        "url": "/sight/georgetown57611/3492.html",
+        "s_img": "http://p.chanyouji.cn/118823/1399131393523p18n1be1851i881cc519ei12ri18jdq.jpg?imageView/1/w/220/h/140",
+        "caddress": "18 Cannon Square, Georgetown, 10200 Pulau Pinang"
+      },
+      {
+        "cname": "孙中山槟城基地纪念馆",
+        "url": "/sight/georgetown57611/134377.html",
+        "s_img": "",
+        "caddress": "120 Armenian Street, George Town World Heritage Site, 10200 Penang"
+      },
+      {
+        "cname": "维多利亚纪念钟楼（大钟楼）",
+        "url": "/sight/georgetown57611/134389.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/533/651/409/fb607342dce84cc994b996ccbb1bdddd_C_220_140.jpg",
+        "caddress": "King Edward's Place Penang, Malaysia"
+      },
+      {
+        "cname": "巴都丁宜沙滩",
+        "url": "/sight/batuferringhi57609/3481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/389/157/265/c98aeb1d53604aca9ca1f28e0ba2482d_C_220_140.jpg",
+        "caddress": "Jalan Feringghi, 11200 Batu Feringgi, Pulau Pinang,"
+      },
+      {
+        "cname": "艺术博物馆",
+        "url": "/sight/georgetown57611/3489.html",
+        "s_img": "",
+        "caddress": "Lebuh Farquhar, Georgetown, 10200 Georgetown, Pulau Pinang, Malaysia"
+      },
+      {
+        "cname": "槟城孙中山纪念馆",
+        "url": "/sight/penangisland14838/142384.html",
+        "s_img": "",
+        "caddress": "63, Jalan Macalister, 10450 Pulau Pinang"
+      },
+      {
+        "cname": "战争博物馆",
+        "url": "/sight/bayanlepas57610/134381.html",
+        "s_img": "",
+        "caddress": "Penang War Museum, Jalan Batu Maung, 11960 Batu Maung, Pulau Pinang"
+      },
+      {
+        "cname": "百鸟公园",
+        "url": "/sight/penangisland14838/3487.html",
+        "s_img": "",
+        "caddress": "Taman Burung Seberang Jaya, Jalan Todak, Seberang Jaya, 13700,Perai, Pulau Pinang 13700"
+      },
+      {
+        "cname": "渔业研究院水族馆",
+        "url": "/sight/penangisland14838/1468118.html",
+        "s_img": "",
+        "caddress": "FRI Aquarium, Jalan Batu Maung, 11960 Batu Maung,, Penang"
+      },
+      {
+        "cname": "弥勒寺",
+        "url": "/sight/georgetown57611/8151.html",
+        "s_img": "",
+        "caddress": "Jalan Macalister Pulau Pinang, Malaysia"
+      }
+    ]
+  },
+  {
+    "cname": "邦咯岛",
+    "url": "http://you.ctrip.com/sightlist/pangkor647.html",
+    "places": [
+      {
+        "cname": "邦咯岛",
+        "url": "/sight/pangkor647/136552.html",
+        "s_img": "http://p.chanyouji.cn/52038/1373180979211p17uruoul1q311mhb60n7fjmdqp.jpg?imageView/1/w/220/h/140",
+        "caddress": "Taman Fu Ling Kong, 32300 Pulau Pangkor, Perak,"
+      },
+      {
+        "cname": "邦咯海滩",
+        "url": "/sight/pangkor647/136957.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/846/627/915/66af21b189e043418b29a253f7e5867e_C_220_140.jpg",
+        "caddress": "Pasir Bogak beach, Pangkor Island"
+      },
+      {
+        "cname": "尼邦海滩",
+        "url": "/sight/pangkor647/137597.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/880/346/390/9755a0dec86043ba87934f4a222a8ac4_C_220_140.jpg",
+        "caddress": "Pangkor, Perak, 位于马来西亚东11170 公里处"
+      },
+      {
+        "cname": "荷兰古堡",
+        "url": "/sight/pangkor647/1407403.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/009/237/730/b342027702044585b4d962ee63920877_C_220_140.jpg",
+        "caddress": "Dutch fort, Teluk Gudang"
+      },
+      {
+        "cname": "福临宫",
+        "url": "/sight/pangkor647/1407404.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/670/495/782/e8eb7cf8388340d084b9645536de6756_C_220_140.jpg",
+        "caddress": "Sungai Pinang Besar"
+      },
+      {
+        "cname": "贝苏拉圣岩",
+        "url": "/sight/pangkor647/136551.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/847/737/727/3f0241af04d843468c94f12b0d3854f0_C_220_140.jpg",
+        "caddress": "Taman Pangkor Indah, 32300 Pulau Pangkor, Perak, 马来西亚"
+      }
+    ]
+  },
+  {
+    "cname": "古打毛律",
+    "url": "http://you.ctrip.com/sightlist/kotabelud14891.html",
+    "places": [
+      {
+        "cname": "美人鱼岛",
+        "url": "/sight/kotabelud14891/87605.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/319/542/938/e02dd716530d49d28f079a07489ebf8b_C_220_140.jpg",
+        "caddress": "Mantanani Island, Sabah"
+      }
+    ]
+  },
+  {
+    "cname": "斗湖",
+    "url": "http://you.ctrip.com/sightlist/tawau14906.html",
+    "places": [
+      {
+        "cname": "斗湖山公园",
+        "url": "/sight/tawau14906/66661.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/741/855/398/ff7d60cbd5aa4faca013443735464245_C_220_140.jpg",
+        "caddress": "Tawau, Sabah（马来西亚东部）"
+      }
+    ]
+  },
+  {
+    "cname": "新山",
+    "url": "http://you.ctrip.com/sightlist/johorbahru1377.html",
+    "places": [
+      {
+        "cname": "乐高主题公园",
+        "url": "/sight/johorbahru1377/137213.html",
+        "s_img": "http://p.chanyouji.cn/61518/1376215216246p181md3c1sb8617721juvavd16e52.jpg?imageView/1/w/220/h/140",
+        "caddress": "7, Jalan Legoland, Bandar Medini,79250 Nusajaya, Johor"
+      },
+      {
+        "cname": "新山Hello Kitty主题乐园",
+        "url": "/sight/johorbahru1377/1477673.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/074/840/427/88bf8723698c466d9ecd832d9e7430aa_C_220_140.jpg",
+        "caddress": "Persiaran Puteri Selatan (Kota Iskandar), Nusajaya, Johor 79100"
+      },
+      {
+        "cname": "小小大世界主题乐园",
+        "url": "/sight/johorbahru1377/1477686.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/075/112/509/999884f2df91466f946024539971b040_C_220_140.jpg",
+        "caddress": "Persiaran Puteri Selatan (Kota Iskandar), Nusajaya, Johor 79100, Malaysia"
+      },
+      {
+        "cname": "UK休闲农场",
+        "url": "/sight/johorbahru1377/1488506.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/752/856/438/a0a4737557414fd4a9f1281831503679_C_220_140.jpg",
+        "caddress": "Plot 8, Project Pertanian Moden Kluang, KM13 Jalan Batu Pahat,86000 Kluang, Johor, Malaysia"
+      },
+      {
+        "cname": "公主港家庭主题乐园",
+        "url": "/sight/johorbahru1377/1477674.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/102/517/976/281bfbc9201f46d1bca800ae83d3a63b_C_220_140.jpg",
+        "caddress": "Persiaran Puteri Selatan (Kota Iskandar), Nusajaya, Johor 79100, Malaysia"
+      }
+    ]
+  },
+  {
+    "cname": "沙捞越",
+    "url": "http://you.ctrip.com/sightlist/sarawak537.html",
+    "places": [
+      {
+        "cname": "古晋",
+        "url": "/sight/sarawak537/18410.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/702/000/d239012af9c7402da06f05241f5e9f31_C_220_140.jpg",
+        "caddress": "位于沙捞越河两岸"
+      },
+      {
+        "cname": "尼亚国家公园",
+        "url": "/sight/sarawak537/18417.html",
+        "s_img": "",
+        "caddress": "Miri, Sarawak"
+      },
+      {
+        "cname": "坝柯国家公园",
+        "url": "/sight/sarawak537/18413.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/467/857/863/669f8a4498064be1a428fdde6e4f5437_C_220_140.jpg",
+        "caddress": "JI Tun Abang Haji Openg, Kuching, 马来西亚"
+      },
+      {
+        "cname": "八塘涯湖",
+        "url": "/sight/sarawak537/18414.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/318/738/617/5a295fa5dff149d08d2e39eb427f4fc0_C_220_140.jpg",
+        "caddress": "Batang Ai National Park, Lubok Antu, Sarawak"
+      },
+      {
+        "cname": "西布",
+        "url": "/sight/sarawak537/18416.html",
+        "s_img": "",
+        "caddress": "Sibu, Sarawak"
+      },
+      {
+        "cname": "木庐山国家公园",
+        "url": "/sight/sarawak537/18418.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "大马海岸",
+        "url": "/sight/sarawak537/18412.html",
+        "s_img": "",
+        "caddress": "Jalan Santubong, Kuching, Sarawak"
+      }
+    ]
+  },
+  {
+    "cname": "古晋",
+    "url": "http://you.ctrip.com/sightlist/kuching781.html",
+    "places": [
+      {
+        "cname": "古晋",
+        "url": "/sight/sarawak537/18410.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/702/000/d239012af9c7402da06f05241f5e9f31_C_220_140.jpg",
+        "caddress": "位于沙捞越河两岸"
+      }
+    ]
+  },
+  {
+    "cname": "刁曼岛",
+    "url": "http://you.ctrip.com/sightlist/tioman701.html",
+    "places": []
+  },
+  {
+    "cname": "雪兰莪",
+    "url": "http://you.ctrip.com/sightlist/selangor1083.html",
+    "places": []
+  },
+  {
+    "cname": "哥打巴鲁",
+    "url": "http://you.ctrip.com/sightlist/kotabharu14858.html",
+    "places": [
+      {
+        "cname": "默迪卡广场",
+        "url": "/sight/kotabharu14858/1486868.html",
+        "s_img": "",
+        "caddress": "Jalan Raja, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      },
+      {
+        "cname": "大义场皇宫",
+        "url": "/sight/kotabharu14858/1486810.html",
+        "s_img": "",
+        "caddress": "Jalan Tengku Seri Akar, 15000 Kota Bharu, Kelantan"
+      },
+      {
+        "cname": "吉兰丹州博物馆",
+        "url": "/sight/kotabharu14858/1486869.html",
+        "s_img": "",
+        "caddress": "Jalan Sultan Ibrahim, 15050 Kota Bharu, Kelantan"
+      }
+    ]
+  },
+  {
+    "cname": "关丹",
+    "url": "http://you.ctrip.com/sightlist/kuantan1113.html",
+    "places": []
+  },
+  {
+    "cname": "瓜镇",
+    "url": "http://you.ctrip.com/sightlist/kuah23103.html",
+    "places": [
+      {
+        "cname": "瓜镇",
+        "url": "/sight/langkawi539/110099.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/564/357/630/7932ec2742a74d3ab809054d44b3d376_C_220_140.jpg",
+        "caddress": "兰卡威岛东南角，本岛的行政中心"
+      },
+      {
+        "cname": "Eagle square",
+        "url": "/sight/kuah23103/122922.html",
+        "s_img": "",
+        "caddress": "Kuah, Langkawi, Kedah, 马来西亚 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "彭亨",
+    "url": "http://you.ctrip.com/sightlist/pahang23085.html",
+    "places": [
+      {
+        "cname": "云顶主题游乐场",
+        "url": "/sight/gentinghighlands561/134324.html",
+        "s_img": "http://p.chanyouji.cn/141305/1404919166521p18sdra1em1lvvuov1c3q13vt1osp5.jpg?imageView/1/w/220/h/140",
+        "caddress": "Genting Highlands Resort | Theme Park Hotel, Genting Highlands 69000, Malaysia"
+      },
+      {
+        "cname": "云顶娱乐场",
+        "url": "/sight/gentinghighlands561/134321.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/073/154/395/8cbb6010731b4668852356454ee59835_C_220_140.jpg",
+        "caddress": "Genting Highlands, Pahang"
+      },
+      {
+        "cname": "云顶草莓农场",
+        "url": "/sight/gentinghighlands561/134323.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/064/452/531/33b111f0a8804649a5a0816bc373ddfa_C_220_140.jpg",
+        "caddress": "No. 1, Lot 3707, Jalan Jati 2, Bandar Gohtong Jaya, Genting Highlands, 69000, Genting Highlands, Pah"
+      },
+      {
+        "cname": "清水岩庙",
+        "url": "/sight/gentinghighlands561/134327.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/599/044/0f1c3d0174264917927780fe4e4f3ceb_C_220_140.jpg",
+        "caddress": "69000 Genting Highlands, Pahang, Malaysia"
+      }
+    ]
+  },
+  {
+    "cname": "巴六拜",
+    "url": "http://you.ctrip.com/sightlist/bayanlepas57610.html",
+    "places": [
+      {
+        "cname": "蛇庙",
+        "url": "/sight/bayanlepas57610/3482.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/237/477/513/e4ae52c0d8d448b0af718762f3a10e80_C_220_140.jpg",
+        "caddress": "Snake Temple, Jalan Sultan Azlan Shah, 11900 Bayan Lepas, Pulau Pinang"
+      },
+      {
+        "cname": "战争博物馆",
+        "url": "/sight/bayanlepas57610/134381.html",
+        "s_img": "",
+        "caddress": "Penang War Museum, Jalan Batu Maung, 11960 Batu Maung, Pulau Pinang"
+      },
+      {
+        "cname": "武吉占姆动植物园",
+        "url": "/sight/bayanlepas57610/1469050.html",
+        "s_img": "",
+        "caddress": "11900 Bayan Lepas, Pulau Pinang"
+      }
+    ]
+  },
+  {
+    "cname": "爱极乐",
+    "url": "http://you.ctrip.com/sightlist/ayerkeroh14882.html",
+    "places": [
+      {
+        "cname": "爱极乐森林公园",
+        "url": "/sight/ayerkeroh14882/3444.html",
+        "s_img": "",
+        "caddress": "Lebuh Ayer Keroh, 75450 Ayer Keroh, 马来西亚 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "怡保",
+    "url": "http://you.ctrip.com/sightlist/ipoh14868.html",
+    "places": [
+      {
+        "cname": "怡保火车站",
+        "url": "/sight/ipoh14868/1410976.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/424/269/700/30af934385a54b48b76c076051ab8209_C_220_140.jpg",
+        "caddress": "Regat Tun Perak 3000 Ipoh"
+      },
+      {
+        "cname": "市政大楼",
+        "url": "/sight/ipoh14868/1498543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M09/E5/12/CghzgVS4eSyAB9O8AAIKkTFkxmk874_C_220_140.jpg",
+        "caddress": "Ipoh City Hall Building‎ 1 Ipoh, Perak"
+      },
+      {
+        "cname": "怡保博物馆",
+        "url": "/sight/ipoh14868/1512307.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/DF/E9/CghzfFS4gYSAG2EbAAGn-HMmDwY220_C_220_140.jpg",
+        "caddress": "Muzium Darul Ridzuan,Jalan Panglima Bukit Gantang Wahab,30000 Ipoh,Perak"
+      },
+      {
+        "cname": "怡保旧街场",
+        "url": "/sight/ipoh14868/1498528.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/DF/73/CghzfVS4fk6AY2GeAALQINTg4TM197_C_220_140.jpg",
+        "caddress": "Jalan Dato Sagor,Ipoh"
+      },
+      {
+        "cname": "柚子街",
+        "url": "/sight/ipoh14868/1411342.html",
+        "s_img": "",
+        "caddress": "Jalan Simpang Pulai, Ipoh, Perak"
+      },
+      {
+        "cname": "极乐洞",
+        "url": "/sight/ipoh14868/1410954.html",
+        "s_img": "",
+        "caddress": "Kek Look Tong, Ipoh, Perak"
+      }
+    ]
+  },
+  {
+    "cname": "龙运",
+    "url": "http://you.ctrip.com/sightlist/dungun1114.html",
+    "places": [
+      {
+        "cname": "兰道阿邦海滩",
+        "url": "/sight/dungun1114/25728.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/094/340/aa88559a5ec44f939dfc8a126197af6f_C_220_140.jpg",
+        "caddress": "Kampung Kuala Abang, Rantau Abang"
+      }
+    ]
+  },
+  {
+    "cname": "波德申",
+    "url": "http://you.ctrip.com/sightlist/portdickson1136.html",
+    "places": [
+      {
+        "cname": "波德申海滩",
+        "url": "/sight/kualalumpur45/67521.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/498/264/110/cc27986ceb894c4fa66961dd02077ddc_C_220_140.jpg",
+        "caddress": "Jalan Pantai Port Dickson, Negeri Sembilan"
+      }
+    ]
+  },
+  {
+    "cname": "巴生",
+    "url": "http://you.ctrip.com/sightlist/klang14844.html",
+    "places": []
+  },
+  {
+    "cname": "古达",
+    "url": "http://you.ctrip.com/sightlist/kudat14899.html",
+    "places": [
+      {
+        "cname": "丹绒新邦孟阿瑶",
+        "url": "/sight/kudat14899/1417591.html",
+        "s_img": "",
+        "caddress": "89050 Kudat, Sabah"
+      },
+      {
+        "cname": "古达清真寺",
+        "url": "/sight/kudat14899/1417550.html",
+        "s_img": "",
+        "caddress": "A1, 89050 Kudat, Sabah"
+      },
+      {
+        "cname": "卡兰布海滩",
+        "url": "/sight/kudat14899/1417547.html",
+        "s_img": "",
+        "caddress": "Asian Highway 150"
+      }
+    ]
+  },
+  {
+    "cname": "兰脑",
+    "url": "http://you.ctrip.com/sightlist/ranau14905.html",
+    "places": [
+      {
+        "cname": "京那巴鲁国家公园",
+        "url": "/sight/ranau14905/18447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/035/094/844/3e1052473c8a45e09959879df21d68a0_C_220_140.jpg",
+        "caddress": "距离哥打京那巴鲁83公里"
+      }
+    ]
+  },
+  {
+    "cname": "拿笃",
+    "url": "http://you.ctrip.com/sightlist/lahaddatu14907.html",
+    "places": [
+      {
+        "cname": "丹浓谷自然保护区",
+        "url": "/sight/lahaddatu14907/20832.html",
+        "s_img": "http://p.chanyouji.cn/40000/1369043190055p17r0l0na51v3akvr117n1qdnr3a1m.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kota Kinabatangan, Danum Valley (Lembah Danum)"
+      },
+      {
+        "cname": "踏缤野生动物保护区",
+        "url": "/sight/lahaddatu14907/66660.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/904/455/3b57871d29764e378ce1446eec00663b_C_220_140.jpg",
+        "caddress": "Lahad Datu, Sabah"
+      }
+    ]
+  },
+  {
+    "cname": "丹容武雅",
+    "url": "http://you.ctrip.com/sightlist/tanjongbungah57612.html",
+    "places": [
+      {
+        "cname": "森林公园",
+        "url": "/sight/tanjongbungah57612/3490.html",
+        "s_img": "",
+        "caddress": "National Park, Jalan Hassan Abas, 11050 Tanjong Bungah, Penang, Malaysia"
+      },
+      {
+        "cname": "蝴蝶园",
+        "url": "/sight/tanjongbungah57612/3488.html",
+        "s_img": "",
+        "caddress": "No. 830, Jalan Teluk Bahang, Teluk Bahang, 11050 Penang"
+      }
+    ]
+  },
+  {
+    "cname": "巴都丁宜",
+    "url": "http://you.ctrip.com/sightlist/batuferringhi57609.html",
+    "places": [
+      {
+        "cname": "巴都丁宜沙滩",
+        "url": "/sight/batuferringhi57609/3481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/389/157/265/c98aeb1d53604aca9ca1f28e0ba2482d_C_220_140.jpg",
+        "caddress": "Jalan Feringghi, 11200 Batu Feringgi, Pulau Pinang,"
+      }
+    ]
+  }
+]

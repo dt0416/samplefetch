@@ -1,0 +1,1784 @@
+[
+  {
+    "cname": "青海湖",
+    "url": "http://you.ctrip.com/sightlist/qinghaihu281.html",
+    "places": [
+      {
+        "cname": "青海湖",
+        "url": "/sight/qinghaihu281/11709.html",
+        "s_img": "http://p.chanyouji.cn/370/1346170276238p175mvs5df1bpjm2f1g86icm63g9.jpg?imageView/1/w/220/h/140",
+        "caddress": "青海省东北部的青海湖盆地内"
+      },
+      {
+        "cname": "茶卡盐湖",
+        "url": "/sight/haixi120012/11762.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/560/242/640/82769939940d4d2c84f50ea15b5b7910_C_220_140.jpg",
+        "caddress": "海西州乌兰县茶卡镇盐湖路9号"
+      },
+      {
+        "cname": "黑马河乡",
+        "url": "/sight/qinghaihu281/45415.html",
+        "s_img": "http://p.chanyouji.cn/1405423313/1746C061-CC5D-4845-8495-39B296A60432.jpg?imageView/1/w/220/h/140",
+        "caddress": "海南藏族自治州共和县黑马河乡（距离西宁市约220公里）"
+      },
+      {
+        "cname": "鸟岛",
+        "url": "/sight/qinghaihu281/11707.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/298/872/557/afa15571ca2b4989a3e2cb7d89157fff_C_220_140.jpg",
+        "caddress": "海北藏族自治州刚察县青海湖环湖西路处"
+      },
+      {
+        "cname": "二郎剑景区",
+        "url": "/sight/qinghaihu281/50229.html",
+        "s_img": "http://p.chanyouji.cn/12728/1352193603662p17bag902r1h0jvucgo9qc126s6.jpg?imageView/1/w/220/h/140",
+        "caddress": "海南藏族自治州共和县109国道旁"
+      },
+      {
+        "cname": "橡皮山",
+        "url": "/sight/qinghaihu281/45413.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/960/899/256/04b91aca2ab444d69676928cf24b7b4f_C_220_140.jpg",
+        "caddress": "在青海省共和县的黑马河乡，位于青海湖与茶卡盐湖之间。"
+      },
+      {
+        "cname": "金银滩草原",
+        "url": "/sight/haibei120014/45414.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/829/063/190/ccdf6b2bb9f34305923df24032d4c7c7_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西北侧"
+      },
+      {
+        "cname": "日月山",
+        "url": "/sight/huangyuan2643/9809.html",
+        "s_img": "http://p.chanyouji.cn/133709/1403096294018p18qngsmso187sicvsk31j9910mn3.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市湟源县西南40公里处"
+      },
+      {
+        "cname": "沙岛",
+        "url": "/sight/qinghaihu281/11743.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/999/530/961/129289a5bc0e4562a08000dda61b3efe_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县青海湖东北部"
+      },
+      {
+        "cname": "海心山",
+        "url": "/sight/qinghaihu281/11742.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/637/057/135/b03b21ca47b9405c842526952dc13081_C_220_140.jpg",
+        "caddress": "位于青海湖中心略偏南，距鸟岛约25公里，南岸30余公里。"
+      },
+      {
+        "cname": "原子城景区",
+        "url": "/sight/haibei120014/45417.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/933/448/712/8b40f852a8b944758549d96698d4159c_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇"
+      },
+      {
+        "cname": "泉湾",
+        "url": "/sight/qinghaihu281/45401.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/187/931/779/c54d74e75ff147feace493c5b457b5fe_C_220_140.jpg",
+        "caddress": "海南藏族自治州共和县石乃亥乡青海湖西南侧"
+      },
+      {
+        "cname": "倒淌河",
+        "url": "/sight/hainantibetanautonomousprefecture120074/45412.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/037/272/590/e878d7f98d0845e9b9e9cc4180d19355_C_220_140.jpg",
+        "caddress": "海南藏族自治州共和县倒淌河镇西倒一级公路附近"
+      },
+      {
+        "cname": "洱海",
+        "url": "/sight/qinghaihu281/1415094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/074/539/765/19eac859426e466d9b2065e2bdef649c_C_220_140.jpg",
+        "caddress": "海南藏族自治州共和县环湖东路6公里处"
+      },
+      {
+        "cname": "孤插山(三块石)",
+        "url": "/sight/qinghaihu281/45400.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/676/928/530/f9cba07af0ee4ec6b801c1797dd78a8f_C_220_140.jpg",
+        "caddress": "海北藏族自治州青海湖西南部的湖中小岛，南距湖边8公里，距西北方向的鸟岛20公里"
+      },
+      {
+        "cname": "金沙湾",
+        "url": "/sight/qinghaihu281/1415132.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/199/958/939/3585ab9b00c9482a90f05b32b3383b0f_C_220_140.jpg",
+        "caddress": "海南藏族自治州共和县环湖东路"
+      },
+      {
+        "cname": "尕海古城",
+        "url": "/sight/qinghaihu281/45419.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/779/124/263/4a61b78bb3ba42538aa1fdcbadecf1d9_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县甘子河乡尕海村"
+      },
+      {
+        "cname": "原子城纪念馆",
+        "url": "/sight/haibei120014/129832.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/097/215/489/abc4fa01ae7146bdb1f68248ac3b8f14_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县同宝路10号"
+      },
+      {
+        "cname": "伏俟城遗址",
+        "url": "/sight/qinghaihu281/45418.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/654/778/728/1f4c41ae24504e7784d94ed2f02181f4_C_220_140.jpg",
+        "caddress": "海南州共和县石乃亥乡铁卜加村"
+      },
+      {
+        "cname": "尕日拉寺",
+        "url": "/sight/qinghaihu281/51855.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/942/707/823/e914bb8bac4a4496997d3df0177e11e9_C_220_140.jpg",
+        "caddress": "海南藏族自治州共和县石乃亥乡尕日拉村"
+      },
+      {
+        "cname": "青海湖热气球",
+        "url": "/sight/qinghaihu281/1415276.html",
+        "s_img": "http://p.chanyouji.cn/1374408830/FB6BA3E7-E81A-4745-8B8C-31D199DECA0F.jpg?imageView/1/w/220/h/140",
+        "caddress": "海南藏族自治州共和县109国道二郎剑景区内"
+      },
+      {
+        "cname": "漠河盐场",
+        "url": "/sight/haixi120012/1415101.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/421/068/930/df2667e192924b3d8fbaa5790dc2894c_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州乌兰县茶卡镇"
+      },
+      {
+        "cname": "221基地地下指挥中心",
+        "url": "/sight/haibei120014/1415436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/461/560/c1e715b6447548759c0ec86aa2c2c812_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇西大街6号(近西海影剧院)"
+      },
+      {
+        "cname": "王洛宾音乐艺术馆",
+        "url": "/sight/haibei120014/1415438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/229/293/5f2d0936cd01485fa57b129ccfbb95de_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇原子路26号"
+      },
+      {
+        "cname": "仙女湾景区",
+        "url": "/sight/haibei120014/129845.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/770/965/060/77eda46201964234916ea6fe1409349c_C_220_140.jpg",
+        "caddress": "海北藏族自治州刚察县县城正南16公里"
+      },
+      {
+        "cname": "沙柳河景区",
+        "url": "/sight/haibei120014/129837.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/212/537/717/c5c0feae25fa4856929cd209aa966ead_C_220_140.jpg",
+        "caddress": "海北藏族自治州刚察县沙柳河镇南大街65号南侧"
+      },
+      {
+        "cname": "上星站",
+        "url": "/sight/haibei120014/129836.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/470/216/654/7bad586259fd4be9b2fe9bee8c063fe7_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇以北1.5公里"
+      },
+      {
+        "cname": "二分厂",
+        "url": "/sight/haibei120014/1415414.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/629/122/404/56b6de79c99f4e2099d79ca738fc33c8_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇，上星站附近"
+      }
+    ]
+  },
+  {
+    "cname": "西宁",
+    "url": "http://you.ctrip.com/sightlist/xining237.html",
+    "places": [
+      {
+        "cname": "塔尔寺",
+        "url": "/sight/huangzhong2645/9794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/242/425/946/d5c55b1a5ed948c0a25871805ba92082_C_220_140.jpg",
+        "caddress": "西宁市湟中县鲁沙尔镇金塔路（莲花山上） ‎"
+      },
+      {
+        "cname": "东关清真大寺",
+        "url": "/sight/xining237/9808.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/739/919/a83d82810dbd4121b712a6b3ea1bdf1f_C_220_140.jpg",
+        "caddress": "西宁市城东区东关大街31号"
+      },
+      {
+        "cname": "马步芳公馆",
+        "url": "/sight/xining237/67787.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/708/562/858/b4c7f25d30d54157a75782764a549f66_C_220_140.jpg",
+        "caddress": "西宁市城东区为民巷13号"
+      },
+      {
+        "cname": "日月山",
+        "url": "/sight/huangyuan2643/9809.html",
+        "s_img": "http://p.chanyouji.cn/133709/1403096294018p18qngsmso187sicvsk31j9910mn3.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市湟源县西南40公里处"
+      },
+      {
+        "cname": "青海省博物馆 ",
+        "url": "/sight/xining237/136221.html",
+        "s_img": "http://p.chanyouji.cn/48063/1371802616734p17tistgh7ibu68q1hrk7uglb92.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市城西区西关大街58号"
+      },
+      {
+        "cname": "莫家街",
+        "url": "/sight/xining237/134716.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/201/301/366/5dcc009de8534830b6f42bac140ff1bb_C_220_140.jpg",
+        "caddress": "西宁市城中区近东大街"
+      },
+      {
+        "cname": "人民公园",
+        "url": "/sight/xining237/10962.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/592/587/829/be787ef9e2fa4d9d989863e526990258_C_220_140.jpg",
+        "caddress": "西宁市城东区胜利路72号"
+      },
+      {
+        "cname": "丹噶尔古城 ",
+        "url": "/sight/huangyuan2643/110238.html",
+        "s_img": "http://p.chanyouji.cn/69537/1009912924459ptchnp6vpdrj5uh1q7p1qca84ht.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市湟源县"
+      },
+      {
+        "cname": "藏医药文化博物馆 ",
+        "url": "/sight/xining237/136209.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/505/045/173/b73dd32f22f54c699ea84bd88d16aaaf_C_220_140.jpg",
+        "caddress": "青海西宁市生物科技产业园区经二路36号"
+      },
+      {
+        "cname": "青藏高原野生动物园",
+        "url": "/sight/xining237/70428.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/712/413/740/05a83cba80be4165aa1fdab6530e1601_C_220_140.jpg",
+        "caddress": "西宁市城西区行知路9号"
+      },
+      {
+        "cname": "老爷山",
+        "url": "/sight/xining237/9807.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/730/290/455/fb455c9d6a3a4f85a3786e1f71209772_C_220_140.jpg",
+        "caddress": "西宁市大通县建国东路237号"
+      },
+      {
+        "cname": "青海藏文化馆",
+        "url": "/sight/huangzhong2645/134225.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/165/888/365/ceb234dc89dd47af8e0bc810b0e2d3b2_C_220_140.jpg",
+        "caddress": "西宁市湟中县迎宾路A1号"
+      },
+      {
+        "cname": "赞普林卡",
+        "url": "/sight/huangyuan2643/134898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/E2/4B/CghzfVS4xquANZXTABTbzt0Y3Y4565_C_220_140.jpg",
+        "caddress": "西宁市湟源县青藏路88号"
+      },
+      {
+        "cname": "黑泉水库",
+        "url": "/sight/xining237/121289.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/052/783/128/43630e2ea430461f8ec10cc4aae794b2_C_220_140.jpg",
+        "caddress": "大通回族土族自治县宝库乡(近227国道)"
+      },
+      {
+        "cname": "湟源峡",
+        "url": "/sight/huangyuan2643/50182.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/818/859/577/fff8d39aa3a842de8b59e65cf1bf0f68_C_220_140.jpg",
+        "caddress": "西宁市湟源县青藏公路35公里至90公里处"
+      },
+      {
+        "cname": "浦宁之珠多功能观光塔",
+        "url": "/sight/xining237/121097.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/999/984/175/c69a13cb1dd14561b45e8fc7163f4ca5_C_220_140.jpg",
+        "caddress": "西宁市西山一巷7号"
+      },
+      {
+        "cname": "湟水河",
+        "url": "/sight/xining237/50176.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/797/005/232/5d951f1de68e42929c0c783cfe4241a6_C_220_140.jpg",
+        "caddress": "西宁市城西区"
+      },
+      {
+        "cname": "北禅寺",
+        "url": "/sight/xining237/10955.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/120/681/364/269a35f88ec7470eb47863b8281efede_C_220_140.jpg",
+        "caddress": "西宁市城北区祁连路西38号（近湟水北土楼山峭崖）"
+      },
+      {
+        "cname": "西宁北山公园",
+        "url": "/sight/xining237/9822.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/733/328/115/0fb8fe320a8241af99afed4c068b3471_C_220_140.jpg",
+        "caddress": "西宁市城北区祁连路"
+      },
+      {
+        "cname": "南禅寺",
+        "url": "/sight/xining237/136216.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/721/646/347/12c9fc4cd899418489b35203e05e68b5_C_220_140.jpg",
+        "caddress": "西宁市城中区南山路93号"
+      },
+      {
+        "cname": "虎台遗址",
+        "url": "/sight/xining237/10966.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/493/661/a6d24883b7e04ea396d4c54ffcfa586e_C_220_140.jpg",
+        "caddress": "西宁市城西区西关大街"
+      },
+      {
+        "cname": "西宁南山公园",
+        "url": "/sight/xining237/10958.html",
+        "s_img": "http://p.chanyouji.cn/48244/1371892845523p17tliuqujsqui981mhg6od1b5h4.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市城中区凤凰山路211号"
+      },
+      {
+        "cname": "西宁植物园",
+        "url": "/sight/xining237/50172.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/821/246/234/8374ecc358c142e9ac0c3ab17498c3c4_C_220_140.jpg",
+        "caddress": "西宁市城西区西山三巷5号"
+      },
+      {
+        "cname": "青藏高原自然博物馆",
+        "url": "/sight/xining237/136219.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/190/650/775/179414e72b984808aca6465d2ee79797_C_220_140.jpg",
+        "caddress": "西宁市城西区经二路21号"
+      },
+      {
+        "cname": "娘娘山",
+        "url": "/sight/xining237/50177.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/292/688/497/d1d092eba65849739c8bbca054815d10_C_220_140.jpg",
+        "caddress": "西宁市大通回族土族自治县新城村"
+      },
+      {
+        "cname": "麒麟湾公园",
+        "url": "/sight/xining237/121098.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/637/620/3232155a900e4ed693384eb13ec2dc21_C_220_140.jpg",
+        "caddress": "西宁市城西区黄河路昆仑壹号东侧"
+      },
+      {
+        "cname": "法幢寺",
+        "url": "/sight/xining237/121188.html",
+        "s_img": "http://p.chanyouji.cn/1376068757/6EC61DA7-C056-41E2-B397-D23416602575.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市城中区凤凰山路南山公园南山寺旁"
+      },
+      {
+        "cname": "青海科技馆",
+        "url": "/sight/xining237/121103.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/531/580/666/36b3aa422bbc4cc58ad399ff6f6b3086_C_220_140.jpg",
+        "caddress": "西宁市城西区银羚大街北侧，近青海大剧院"
+      },
+      {
+        "cname": "朝阳公园",
+        "url": "/sight/xining237/50178.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/452/590/453/4165e40c28224baba5a9fd514b3af0e0_C_220_140.jpg",
+        "caddress": "西宁市城西区门源路"
+      },
+      {
+        "cname": "青海省民俗博物馆",
+        "url": "/sight/xining237/121125.html",
+        "s_img": "http://p.chanyouji.cn/157473/1408933801953p1905fuaqn1bdk1rcg1h7r5dt13d1a.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市城东区为民巷13号马步芳公馆内"
+      },
+      {
+        "cname": "卡约文化遗址",
+        "url": "/sight/xining237/10967.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/827/047/036/1de84f877bc842fd8d50442dc06c265e_C_220_140.jpg",
+        "caddress": "西宁市湟中县云固川卡约村"
+      },
+      {
+        "cname": "文化公园",
+        "url": "/sight/xining237/121181.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/888/253/100/ba82e6d0d9e143d5a2c6db7b71b1bce2_C_220_140.jpg",
+        "caddress": "西宁市城西区海晏路72号"
+      },
+      {
+        "cname": "玉带桥清真寺",
+        "url": "/sight/xining237/121063.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/071/065/909/892d0c8f8de04661875c9506b403856c_C_220_140.jpg",
+        "caddress": "西宁市城东区大众街49号"
+      },
+      {
+        "cname": "湟中县博物馆",
+        "url": "/sight/huangzhong2645/10974.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/460/778/666/afa7dbe88e0d4bc68c8833cbbf74d3cb_C_220_140.jpg",
+        "caddress": "西宁市湟中县城内（距塔尔寺约一公里）"
+      },
+      {
+        "cname": "察汗河国家森林公园",
+        "url": "/sight/xining237/121244.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/036/763/193/fe275286c45645e5a14245a564be0dc7_C_220_140.jpg",
+        "caddress": "西宁市大通回族土族自治县西北部宁张公路82公里处"
+      },
+      {
+        "cname": "西宁北海公园",
+        "url": "/sight/xining237/144761.html",
+        "s_img": "",
+        "caddress": "青海省西宁市宁张公路附近"
+      },
+      {
+        "cname": "湟乐公园",
+        "url": "/sight/xining237/50180.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/852/448/402/c1e5224f4f7443578a01accb8c10a105_C_220_140.jpg",
+        "caddress": "西宁市城东区八一路"
+      },
+      {
+        "cname": "扎藏寺",
+        "url": "/sight/huangyuan2643/121247.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/837/519/552/0ce0b84c05ad43229101450468ec5245_C_220_140.jpg",
+        "caddress": "西宁市湟源县城西15公里处"
+      },
+      {
+        "cname": "鹞子沟国家森林公园",
+        "url": "/sight/xining237/121246.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/106/719/509/075dc9527c5346dfbf05234535903e68_C_220_140.jpg",
+        "caddress": "西宁市大通回族土族自治县东峡乡衙门庄村"
+      },
+      {
+        "cname": "劳动公园",
+        "url": "/sight/xining237/121148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/887/082/887/a11cc20b374c43d38b425adc670baeb3_C_220_140.jpg",
+        "caddress": "青海省西宁市城东区城中区五一路"
+      },
+      {
+        "cname": "青海新千虫草文化博物馆",
+        "url": "/sight/xining237/121170.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/651/343/524/99f0188acecc4e6fab1e0949da1dae85_C_220_140.jpg",
+        "caddress": "西宁市城东区七一路151号"
+      },
+      {
+        "cname": "金塔寺",
+        "url": "/sight/xining237/121153.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/619/358/797/e86d0e744e74401cb0742d1deec715d4_C_220_140.jpg",
+        "caddress": "西宁市城中区宏觉寺街19号"
+      },
+      {
+        "cname": "青海省文化馆",
+        "url": "/sight/xining237/121126.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/069/279/130/d2a37c80204d465c88a4fa2e9d418179_C_220_140.jpg",
+        "caddress": "西宁市城东区为民巷17号"
+      },
+      {
+        "cname": "烈士陵园",
+        "url": "/sight/xining237/121149.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/356/603/009/3841dd1e91ad4a5484166e775d20fc75_C_220_140.jpg",
+        "caddress": "西宁市城中区南川东路19号"
+      },
+      {
+        "cname": "大通土族风情园",
+        "url": "/sight/xining237/121218.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/492/386/909/2ca02df837a14c3aadda2fcfdf0334c7_C_220_140.jpg",
+        "caddress": "西宁市大通回族土族自治县"
+      },
+      {
+        "cname": "广惠寺",
+        "url": "/sight/xining237/121175.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/928/272/482/283dffd3d688446696eefd2a41ef3caf_C_220_140.jpg",
+        "caddress": "西宁市大通回族土族自治县东峡乡衙门庄村北侧"
+      },
+      {
+        "cname": "明长城遗址公园",
+        "url": "/sight/xining237/121252.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/063/404/592/c9c900fde2a846469746fd07f867c54f_C_220_140.jpg",
+        "caddress": "西宁市大通回族土族自治县"
+      },
+      {
+        "cname": "夏都大街清真寺",
+        "url": "/sight/xining237/121201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/901/547/509/18f29a5b5b29440682e89caa7e8c21b2_C_220_140.jpg",
+        "caddress": "西宁市城东区德令哈路102号"
+      },
+      {
+        "cname": "水城门清真寺",
+        "url": "/sight/xining237/121064.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/192/470/334/36cee746f06a4810ab24dd045a5b48c3_C_220_140.jpg",
+        "caddress": "西宁市城东区七一路"
+      },
+      {
+        "cname": "杨沟湾休闲景区",
+        "url": "/sight/xining237/121113.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/565/516/122/e5753a1167224d3b9580bda3228d20e8_C_220_140.jpg",
+        "caddress": "西宁市城东区杨沟湾村"
+      },
+      {
+        "cname": "汉东清真大寺",
+        "url": "/sight/xining237/121267.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/849/079/669/9c8c9cd14f14434eb80ae119fedcde0e_C_220_140.jpg",
+        "caddress": "西宁市湟中县汉东乡"
+      },
+      {
+        "cname": "青唐城遗址公园",
+        "url": "/sight/xining237/121061.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/152/372/363/ac72bc650a4d478381c55dd3f8172df2_C_220_140.jpg",
+        "caddress": "西宁市城东区体育巷，南绕城路国际村对面"
+      },
+      {
+        "cname": "沈那遗址",
+        "url": "/sight/xining237/121104.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/461/467/888/51296d9a3bc24bcbb08ce7aa059cd4c3_C_220_140.jpg",
+        "caddress": "西宁市城西区宁张公路"
+      },
+      {
+        "cname": "石刻公园",
+        "url": "/sight/huangyuan2643/121261.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/235/997/970/6db0d1f2e9a348a79c81b8411eced5c4_C_220_140.jpg",
+        "caddress": "西宁市湟源县青藏路，人民公园东侧"
+      },
+      {
+        "cname": "城隍庙",
+        "url": "/sight/huangyuan2643/121254.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/224/592/568/da0a21690fd448828f157d8f04d05ff2_C_220_140.jpg",
+        "caddress": "西宁市湟源县城关镇明清老街"
+      },
+      {
+        "cname": "河湟园",
+        "url": "/sight/xining237/121067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/688/912/688/dd0e046ba4e94ef18ab9d20ffa5fbcee_C_220_140.jpg",
+        "caddress": "西宁市城东区滨河南路44-10号"
+      },
+      {
+        "cname": "白玉巷清真寺",
+        "url": "/sight/xining237/121160.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/005/050/592/177836e15d32457696804bfb050a3663_C_220_140.jpg",
+        "caddress": "西宁市城东区白玉巷3号"
+      },
+      {
+        "cname": "路林巷清真寺",
+        "url": "/sight/xining237/121141.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/946/783/734/261d8d12c90544a3bbdb7ce1fd8d2418_C_220_140.jpg",
+        "caddress": "西宁市城东区周家泉乡102号"
+      },
+      {
+        "cname": "南关清真寺",
+        "url": "/sight/xining237/121069.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/991/964/355/7dd7224972034544819ff720c243a2f3_C_220_140.jpg",
+        "caddress": "西宁市城东区南小街31-1附近"
+      },
+      {
+        "cname": "普济寺",
+        "url": "/sight/xining237/121135.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/727/809/846/d8ef09f6b1974f7caf72e6582e0434eb_C_220_140.jpg",
+        "caddress": "西宁市城中区花园南街67号"
+      },
+      {
+        "cname": "基督教堂",
+        "url": "/sight/xining237/121144.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/053/592/910/bcdb71d6d65646219dfedc9cf6e7fee1_C_220_140.jpg",
+        "caddress": "西宁市城中区教场街15号"
+      },
+      {
+        "cname": "杨家巷清真寺",
+        "url": "/sight/xining237/121070.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/282/085/842/089e299823034950b092dbb47fbf0df4_C_220_140.jpg",
+        "caddress": "西宁市城东区大众街24号"
+      },
+      {
+        "cname": "五爱堂",
+        "url": "/sight/xining237/121129.html",
+        "s_img": "",
+        "caddress": "为民巷13号"
+      },
+      {
+        "cname": "莲花山风景区",
+        "url": "/sight/huangzhong2645/121275.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/123/551/0d6dd901c0124f5f8bc1605b1f7da544_C_220_140.jpg",
+        "caddress": "西宁市湟中县清泉路附近"
+      },
+      {
+        "cname": "南朔山旅游景区",
+        "url": "/sight/xining237/121278.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/690/448/487/858aab3bfe074ef6b49233e82e35849d_C_220_140.jpg",
+        "caddress": "西宁市湟中县鲁沙尔镇10多公里处"
+      },
+      {
+        "cname": "黄河路小游园",
+        "url": "/sight/xining237/121180.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/310/010/745/d908bce22db249b48a23100d6dcbbd16_C_220_140.jpg",
+        "caddress": "西宁市城西区黄河路29号"
+      },
+      {
+        "cname": "鲁青水上公园",
+        "url": "/sight/xining237/121091.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/297/402/484/ab675b062a3b4983a13a0edb7b4e3cae_C_220_140.jpg",
+        "caddress": "西宁市城北区秀水路"
+      },
+      {
+        "cname": "文庙",
+        "url": "/sight/xining237/121072.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/055/608/830/49775676fbe84627b0f75947268a6058_C_220_140.jpg",
+        "caddress": "西宁市城中区文化街"
+      },
+      {
+        "cname": "拱辰门",
+        "url": "/sight/xining237/121076.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/925/615/878/e1856d4b902544599d56eff04cbff370_C_220_140.jpg",
+        "caddress": "西宁市城中区北大街3号附近"
+      },
+      {
+        "cname": "廖霭庭旧居",
+        "url": "/sight/xining237/121089.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/677/372/024/9518383a542e40eaaee9ac85e83c4382_C_220_140.jpg",
+        "caddress": "西宁市城中区南玉井巷4号"
+      },
+      {
+        "cname": "湟源人民公园",
+        "url": "/sight/huangyuan2643/121258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/248/197/477/979b1108470348d7b0fbc3ae22c8a064_C_220_140.jpg",
+        "caddress": "西宁市湟源县公园路11号"
+      },
+      {
+        "cname": "湟源县清真寺",
+        "url": "/sight/xining237/121257.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/934/466/209/4289f71e3b74447c8e8477f8892a70c5_C_220_140.jpg",
+        "caddress": "西宁市湟源县万安街85号"
+      },
+      {
+        "cname": "南川公园",
+        "url": "/sight/xining237/121150.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/661/997/975/6ace1d7366204e92bd0b5a3e91eccd21_C_220_140.jpg",
+        "caddress": "西宁市城中区南川东路，工农红军纪念馆对面"
+      },
+      {
+        "cname": "东科寺",
+        "url": "/sight/huangyuan2643/121255.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/469/198/b6597dc5cdea49179c867b9b5909b987_C_220_140.jpg",
+        "caddress": "西宁市湟源县西南约30公里处的日月乡寺滩村，日月山北麓和东科寺河之间"
+      },
+      {
+        "cname": "鲁沙尔清真寺",
+        "url": "/sight/huangzhong2645/121276.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/749/328/804/9bbfdf4a8c014fcb90292bf28dc59404_C_220_140.jpg",
+        "caddress": "西宁市湟中县清泉路"
+      },
+      {
+        "cname": "君悦生态园",
+        "url": "/sight/xining237/121088.html",
+        "s_img": "",
+        "caddress": "西宁市城东区昆仑东路"
+      },
+      {
+        "cname": "西关清真寺",
+        "url": "/sight/xining237/121197.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/852/414/021/a57b067685b64357a278a33f2c3706b6_C_220_140.jpg",
+        "caddress": "西宁市城西区西关大街10号"
+      }
+    ]
+  },
+  {
+    "cname": "湟中",
+    "url": "http://you.ctrip.com/sightlist/huangzhong2645.html",
+    "places": [
+      {
+        "cname": "塔尔寺",
+        "url": "/sight/huangzhong2645/9794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/242/425/946/d5c55b1a5ed948c0a25871805ba92082_C_220_140.jpg",
+        "caddress": "西宁市湟中县鲁沙尔镇金塔路（莲花山上） ‎"
+      },
+      {
+        "cname": "青海藏文化馆",
+        "url": "/sight/huangzhong2645/134225.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/165/888/365/ceb234dc89dd47af8e0bc810b0e2d3b2_C_220_140.jpg",
+        "caddress": "西宁市湟中县迎宾路A1号"
+      },
+      {
+        "cname": "湟中县博物馆",
+        "url": "/sight/huangzhong2645/10974.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/460/778/666/afa7dbe88e0d4bc68c8833cbbf74d3cb_C_220_140.jpg",
+        "caddress": "西宁市湟中县城内（距塔尔寺约一公里）"
+      },
+      {
+        "cname": "莲花山风景区",
+        "url": "/sight/huangzhong2645/121275.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/123/551/0d6dd901c0124f5f8bc1605b1f7da544_C_220_140.jpg",
+        "caddress": "西宁市湟中县清泉路附近"
+      },
+      {
+        "cname": "鲁沙尔清真寺",
+        "url": "/sight/huangzhong2645/121276.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/749/328/804/9bbfdf4a8c014fcb90292bf28dc59404_C_220_140.jpg",
+        "caddress": "西宁市湟中县清泉路"
+      }
+    ]
+  },
+  {
+    "cname": "海西",
+    "url": "http://you.ctrip.com/sightlist/haixi120012.html",
+    "places": [
+      {
+        "cname": "茶卡盐湖",
+        "url": "/sight/haixi120012/11762.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/560/242/640/82769939940d4d2c84f50ea15b5b7910_C_220_140.jpg",
+        "caddress": "海西州乌兰县茶卡镇盐湖路9号"
+      },
+      {
+        "cname": "格尔木",
+        "url": "/sight/haixi120012/136210.html",
+        "s_img": "http://p.chanyouji.cn/13464/1352554370325p17bl8bl8d1cetoif1i4l1bdr1mh62.jpg?imageView/1/w/220/h/140",
+        "caddress": "海西蒙古族藏族自治州格尔木市"
+      },
+      {
+        "cname": "昆仑山口",
+        "url": "/sight/geermu332/49151.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/818/848/078/755d0a53d8c942dfb547afa783ced12e_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市109国道旁，格尔木市区南160公里处"
+      },
+      {
+        "cname": "察尔汗盐湖",
+        "url": "/sight/geermu332/49134.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/781/248/332/9280fd9619f3425a87b524fb37ab2b70_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市察尔汗镇"
+      },
+      {
+        "cname": "玉珠峰",
+        "url": "/sight/geermu332/65481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/048/570/867/9e62551353ab460fb86713db1d735c70_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市南160公里的昆仑山口以东10公里处"
+      },
+      {
+        "cname": "柴达木盆地",
+        "url": "/sight/geermu332/49216.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/048/276/378/8c7c725b98694610bec7bd0f50cb5134_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市"
+      },
+      {
+        "cname": "尕海湖",
+        "url": "/sight/delingha891/49935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/856/874/469/5ef187bf2bac4367b1c5c8e180ad4691_C_220_140.jpg",
+        "caddress": "德令哈市尕海镇"
+      },
+      {
+        "cname": "昆仑公园",
+        "url": "/sight/geermu332/49213.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/602/642/010/ef058b33da3d4dbf8ef277a4f37db7f6_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市昆仑中路11号"
+      },
+      {
+        "cname": "沱沱河",
+        "url": "/sight/haixi120012/147295.html",
+        "s_img": "http://p.chanyouji.cn/64253/1377060884595p182fir5p5m7kbjv1rve1eps1mto1d.jpg?imageView/1/w/220/h/140",
+        "caddress": "海西蒙古族藏族自治州"
+      },
+      {
+        "cname": "格尔木胡杨林",
+        "url": "/sight/geermu332/49212.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/909/285/740/0d61312590d94420bba465f050ae8453_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市郭勒木德乡托拉海牧业社"
+      },
+      {
+        "cname": "万丈盐桥",
+        "url": "/sight/geermu332/11721.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/328/996/660/8091a24ad14c49f19dc61fd4cbb96294_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市察尔汗盐湖之上"
+      },
+      {
+        "cname": "小柴达木湖",
+        "url": "/sight/haixi120012/147182.html",
+        "s_img": "http://p.chanyouji.cn/1380795485/580CC918-3264-4B59-BEA1-1E5478E16B75.jpg?imageView/1/w/220/h/140",
+        "caddress": "海西蒙古族藏族自治州小柴旦交通枢纽东侧"
+      },
+      {
+        "cname": "三岔河特大桥",
+        "url": "/sight/geermu332/51560.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/200/921/c9cf6bd3c4e7461785ac0b1bbda57bf7_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市"
+      },
+      {
+        "cname": "托素湖",
+        "url": "/sight/delingha891/49848.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M01/A2/E4/CghzgFTGAi-ACOO_ABn6BT8vN1o892_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "西王母瑶池",
+        "url": "/sight/geermu332/51205.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/737/017/87dadf89b4d24e0b8e75af7a5ef39a40_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市"
+      },
+      {
+        "cname": "克鲁克湖",
+        "url": "/sight/delingha891/49847.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/206/227/706/3b31b4124715484289e606c22038b4bf_C_220_140.jpg",
+        "caddress": "青海省格尔木市东北"
+      },
+      {
+        "cname": "盐湖钾肥厂",
+        "url": "/sight/geermu332/11722.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/387/228/053/8400aa8b54504ac3ae3176ae13ed349a_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州格尔木市察尔汗镇"
+      },
+      {
+        "cname": "漠河盐场",
+        "url": "/sight/haixi120012/1415101.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/421/068/930/df2667e192924b3d8fbaa5790dc2894c_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州乌兰县茶卡镇"
+      },
+      {
+        "cname": "外星人遗址",
+        "url": "/sight/delingha891/49927.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/995/237/721/8a846c2139504555a891e894b7b489dd_C_220_140.jpg",
+        "caddress": "德令哈市"
+      },
+      {
+        "cname": "纳赤台清泉（昆仑泉）",
+        "url": "/sight/geermu332/49152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/702/303/830/907cae502f5d4142b2cd0518579ee759_C_220_140.jpg",
+        "caddress": "格尔木市昆仑河北岸"
+      },
+      {
+        "cname": "巴音河",
+        "url": "/sight/delingha891/49851.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/789/377/154/0eeadfb4c56742779594b95cf674c6dc_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "格尔木水电站",
+        "url": "/sight/geermu332/49143.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/322/458/917a8a18a8fe40b8b7765ccf6bfb238a_C_220_140.jpg",
+        "caddress": "格尔木市30公里格尔木河下游"
+      },
+      {
+        "cname": "柏树山",
+        "url": "/sight/delingha891/49842.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/922/285/792/e50c54a589b4444e85629190d01db49f_C_220_140.jpg",
+        "caddress": "德令哈市北面10公里处"
+      },
+      {
+        "cname": "都兰狩猎场",
+        "url": "/sight/doulan2638/49991.html",
+        "s_img": "",
+        "caddress": "都兰县南部，青藏高原北部的山地向高原主体过渡地段上的柴达木盆地东南部。"
+      },
+      {
+        "cname": "热水墓群",
+        "url": "/sight/delingha891/49984.html",
+        "s_img": "",
+        "caddress": "德令哈市都兰县热水乡"
+      },
+      {
+        "cname": "舟群寺",
+        "url": "/sight/haixi120012/1511822.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/3F/12/CghzgVStir6AXzYXAABC7JEQxic051_C_220_140.jpg",
+        "caddress": "海西蒙古族藏族自治州天峻县江河镇（舟群乡）"
+      },
+      {
+        "cname": "诺木洪遗址",
+        "url": "/sight/delingha891/49989.html",
+        "s_img": "",
+        "caddress": "德令哈市都兰县诺木洪乡"
+      },
+      {
+        "cname": "格尔木河",
+        "url": "/sight/geermu332/51193.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "金子海",
+        "url": "/sight/delingha891/49936.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/674/197/385/33a80cfd297140e0910dbf7ff13bd62a_C_220_140.jpg",
+        "caddress": "德令哈市乌兰县"
+      },
+      {
+        "cname": "将军楼公园",
+        "url": "/sight/geermu332/49214.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/173/696/500/1e980102c69b47cbb170ed19eaf517a3_C_220_140.jpg",
+        "caddress": "格尔木市交通巷与开拓街交叉口 ‎"
+      },
+      {
+        "cname": "黑石山水库",
+        "url": "/sight/delingha891/49934.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/165/602/715/a62b5f7f618a47b0bf3d278840357c10_C_220_140.jpg",
+        "caddress": "德令哈市以北4公里处的巴音河黑石山山口"
+      },
+      {
+        "cname": "白公山",
+        "url": "/sight/delingha891/49930.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/308/143/265/1a397722fb5049aab36145ca2f8ddd8e_C_220_140.jpg",
+        "caddress": "德令哈市托素湖东北地带"
+      },
+      {
+        "cname": "紫金山天文台青海站",
+        "url": "/sight/delingha891/49932.html",
+        "s_img": "",
+        "caddress": "德令哈市正东40公里处"
+      },
+      {
+        "cname": "柯柯盐湖",
+        "url": "/sight/delingha891/49940.html",
+        "s_img": "",
+        "caddress": "德令哈市乌兰县柯柯镇境内"
+      },
+      {
+        "cname": "哈里哈图森林公园",
+        "url": "/sight/delingha891/66596.html",
+        "s_img": "",
+        "caddress": "德令哈市乌兰县境内"
+      },
+      {
+        "cname": "蒙古族风情园",
+        "url": "/sight/geermu332/51563.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/455/610/208/82efebcf06084bb790e03fcbc040857d_C_220_140.jpg",
+        "caddress": "格尔木市中心西10公里处"
+      },
+      {
+        "cname": "贝壳山",
+        "url": "/sight/delingha891/49979.html",
+        "s_img": "",
+        "caddress": "德令哈市都兰县诺木洪乡东南方向的一片荒漠地带"
+      },
+      {
+        "cname": "卢山岩画",
+        "url": "/sight/delingha891/49970.html",
+        "s_img": "",
+        "caddress": "德令哈天峻县市江河乡卢山山丘的30多块花岗长粉岩上"
+      },
+      {
+        "cname": "鲁芒沟岩画",
+        "url": "/sight/delingha891/49982.html",
+        "s_img": "",
+        "caddress": "德令哈市天峻县天棚乡鲁芒沟内约4公里的东山根"
+      },
+      {
+        "cname": "天峻石经寺",
+        "url": "/sight/delingha891/49975.html",
+        "s_img": "",
+        "caddress": "德令哈市天峻县下环仓（天峻县城东北方，离县城约18公里处）。"
+      },
+      {
+        "cname": "天峻石林",
+        "url": "/sight/delingha891/49986.html",
+        "s_img": "",
+        "caddress": "德令哈市天峻县城西部的天峻山上"
+      },
+      {
+        "cname": "二郎洞",
+        "url": "/sight/delingha891/49980.html",
+        "s_img": "",
+        "caddress": "德令哈市天峻县关角山"
+      }
+    ]
+  },
+  {
+    "cname": "海北",
+    "url": "http://you.ctrip.com/sightlist/haibei120014.html",
+    "places": [
+      {
+        "cname": "门源油菜花",
+        "url": "/sight/haibei120014/45458.html",
+        "s_img": "http://p.chanyouji.cn/48244/1371890976464p17tlh4h1h9et1pv61f9b9bc1hvbm.jpg?imageView/1/w/220/h/140",
+        "caddress": "海北藏族自治州门源县境内"
+      },
+      {
+        "cname": "金银滩草原",
+        "url": "/sight/haibei120014/45414.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/829/063/190/ccdf6b2bb9f34305923df24032d4c7c7_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西北侧"
+      },
+      {
+        "cname": "卓尔山",
+        "url": "/sight/haibei120014/147838.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/561/873/749/24cb026d3d814d2d99f04d9d7561298d_C_220_140.jpg",
+        "caddress": "海北州祁连县八宝镇八宝侧"
+      },
+      {
+        "cname": "原子城景区",
+        "url": "/sight/haibei120014/45417.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/933/448/712/8b40f852a8b944758549d96698d4159c_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇"
+      },
+      {
+        "cname": "原子城纪念馆",
+        "url": "/sight/haibei120014/129832.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/097/215/489/abc4fa01ae7146bdb1f68248ac3b8f14_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县同宝路10号"
+      },
+      {
+        "cname": "221基地地下指挥中心",
+        "url": "/sight/haibei120014/1415436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/461/560/c1e715b6447548759c0ec86aa2c2c812_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇西大街6号(近西海影剧院)"
+      },
+      {
+        "cname": "王洛宾音乐艺术馆",
+        "url": "/sight/haibei120014/1415438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/229/293/5f2d0936cd01485fa57b129ccfbb95de_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇原子路26号"
+      },
+      {
+        "cname": "仙女湾景区",
+        "url": "/sight/haibei120014/129845.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/770/965/060/77eda46201964234916ea6fe1409349c_C_220_140.jpg",
+        "caddress": "海北藏族自治州刚察县县城正南16公里"
+      },
+      {
+        "cname": "沙柳河景区",
+        "url": "/sight/haibei120014/129837.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/212/537/717/c5c0feae25fa4856929cd209aa966ead_C_220_140.jpg",
+        "caddress": "海北藏族自治州刚察县沙柳河镇南大街65号南侧"
+      },
+      {
+        "cname": "东方瑞士水世界",
+        "url": "/sight/haibei120014/1408790.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/047/662/247/2424036ce3a3460a873c6e49eb4ce033_C_220_140.jpg",
+        "caddress": "海北州祁连县卓尔山下"
+      },
+      {
+        "cname": "上星站",
+        "url": "/sight/haibei120014/129836.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/470/216/654/7bad586259fd4be9b2fe9bee8c063fe7_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇以北1.5公里"
+      },
+      {
+        "cname": "二分厂",
+        "url": "/sight/haibei120014/1415414.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/629/122/404/56b6de79c99f4e2099d79ca738fc33c8_C_220_140.jpg",
+        "caddress": "海北藏族自治州海晏县西海镇，上星站附近"
+      }
+    ]
+  },
+  {
+    "cname": "湟源",
+    "url": "http://you.ctrip.com/sightlist/huangyuan2643.html",
+    "places": [
+      {
+        "cname": "日月山",
+        "url": "/sight/huangyuan2643/9809.html",
+        "s_img": "http://p.chanyouji.cn/133709/1403096294018p18qngsmso187sicvsk31j9910mn3.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市湟源县西南40公里处"
+      },
+      {
+        "cname": "丹噶尔古城 ",
+        "url": "/sight/huangyuan2643/110238.html",
+        "s_img": "http://p.chanyouji.cn/69537/1009912924459ptchnp6vpdrj5uh1q7p1qca84ht.jpg?imageView/1/w/220/h/140",
+        "caddress": "西宁市湟源县"
+      },
+      {
+        "cname": "赞普林卡",
+        "url": "/sight/huangyuan2643/134898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/E2/4B/CghzfVS4xquANZXTABTbzt0Y3Y4565_C_220_140.jpg",
+        "caddress": "西宁市湟源县青藏路88号"
+      },
+      {
+        "cname": "湟源峡",
+        "url": "/sight/huangyuan2643/50182.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/818/859/577/fff8d39aa3a842de8b59e65cf1bf0f68_C_220_140.jpg",
+        "caddress": "西宁市湟源县青藏公路35公里至90公里处"
+      },
+      {
+        "cname": "扎藏寺",
+        "url": "/sight/huangyuan2643/121247.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/837/519/552/0ce0b84c05ad43229101450468ec5245_C_220_140.jpg",
+        "caddress": "西宁市湟源县城西15公里处"
+      },
+      {
+        "cname": "石刻公园",
+        "url": "/sight/huangyuan2643/121261.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/235/997/970/6db0d1f2e9a348a79c81b8411eced5c4_C_220_140.jpg",
+        "caddress": "西宁市湟源县青藏路，人民公园东侧"
+      },
+      {
+        "cname": "城隍庙",
+        "url": "/sight/huangyuan2643/121254.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/224/592/568/da0a21690fd448828f157d8f04d05ff2_C_220_140.jpg",
+        "caddress": "西宁市湟源县城关镇明清老街"
+      },
+      {
+        "cname": "湟源人民公园",
+        "url": "/sight/huangyuan2643/121258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/248/197/477/979b1108470348d7b0fbc3ae22c8a064_C_220_140.jpg",
+        "caddress": "西宁市湟源县公园路11号"
+      },
+      {
+        "cname": "东科寺",
+        "url": "/sight/huangyuan2643/121255.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/469/198/b6597dc5cdea49179c867b9b5909b987_C_220_140.jpg",
+        "caddress": "西宁市湟源县西南约30公里处的日月乡寺滩村，日月山北麓和东科寺河之间"
+      }
+    ]
+  },
+  {
+    "cname": "玉树",
+    "url": "http://you.ctrip.com/sightlist/yushu896.html",
+    "places": [
+      {
+        "cname": "可可西里自然保护区",
+        "url": "/sight/yushu896/133385.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/076/944/394/3faf2a4fd0ed46729f0c298f96044452_C_220_140.jpg",
+        "caddress": "海西藏族自治州曲麻莱县附近"
+      },
+      {
+        "cname": "索南达杰保护站",
+        "url": "/sight/yushu896/49137.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/647/948/127/5928c233993f4e5e96119d846fd0fe8f_C_220_140.jpg",
+        "caddress": "玉树藏族自治州治多县109国道旁"
+      },
+      {
+        "cname": "文成公主庙",
+        "url": "/sight/yushu896/50065.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/990/496/514/b6b096a794d1454285de212d5a7eb0c8_C_220_140.jpg",
+        "caddress": "青海省玉树县结古镇东南"
+      },
+      {
+        "cname": "结古寺",
+        "url": "/sight/yushu896/50063.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/203/627/526/a9ebdd8e59794837a9ed806e62f9840a_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "当卡寺",
+        "url": "/sight/yushu896/50083.html",
+        "s_img": "",
+        "caddress": "玉树县结古镇代格村（结古镇东面约十公里）。"
+      },
+      {
+        "cname": "通天河",
+        "url": "/sight/yushu896/50113.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "三江源自然保护区",
+        "url": "/sight/yushu896/50054.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/697/701/853/9f2717f424dd4f1291abd65c06216e86_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "长江源头",
+        "url": "/sight/yushu896/50055.html",
+        "s_img": "",
+        "caddress": "玉树县格拉丹东大冰峰"
+      },
+      {
+        "cname": "尕尔寺",
+        "url": "/sight/yushu896/66902.html",
+        "s_img": "",
+        "caddress": "玉树市囊谦县白扎乡巴麦村"
+      },
+      {
+        "cname": "新寨玛尼城（嘉那玛尼堆）",
+        "url": "/sight/yushu896/50066.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/780/699/942/447fb50818fb425782b00eaebee769e1_C_220_140.jpg",
+        "caddress": "玉树市结古镇以东9公里的新寨村"
+      },
+      {
+        "cname": "达那寺",
+        "url": "/sight/yushu896/50068.html",
+        "s_img": "",
+        "caddress": "玉树市囊谦县吉尼赛乡"
+      },
+      {
+        "cname": "唐蕃古道",
+        "url": "/sight/yushu896/50064.html",
+        "s_img": "",
+        "caddress": "玉树县境内，唐蕃古道的走向和沿线所经站点与青康公路基本一致"
+      },
+      {
+        "cname": "巴塘天葬台",
+        "url": "/sight/yushu896/50071.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/E5/33/Cghzf1S4eVqAQOx5AAA-Bem9-lo180_C_220_140.jpg",
+        "caddress": "玉树市结古镇20多公里的文成公主庙的东南山坡上"
+      },
+      {
+        "cname": "隆宝滩自然保护区",
+        "url": "/sight/yushu896/50053.html",
+        "s_img": "",
+        "caddress": "玉树州首府结古镇西北约八十公里的结隆乡"
+      },
+      {
+        "cname": "澜沧江源头",
+        "url": "/sight/yushu896/50057.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/306/057/339/57512875d7cb49a2a43963cacf9d9f17_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "藏娘古塔",
+        "url": "/sight/yushu896/50080.html",
+        "s_img": "",
+        "caddress": "玉树市玉树县仲达乡"
+      },
+      {
+        "cname": "泞吉湖",
+        "url": "/sight/yushu896/50067.html",
+        "s_img": "",
+        "caddress": "玉树县结古镇上拉秀乡境内"
+      },
+      {
+        "cname": "桑周寺",
+        "url": "/sight/yushu896/50081.html",
+        "s_img": "",
+        "caddress": "玉树市玉树县仲达乡"
+      },
+      {
+        "cname": "嘎尔寺",
+        "url": "/sight/yushu896/50069.html",
+        "s_img": "",
+        "caddress": "玉树市囊谦县香达镇70公里的白扎多境内"
+      },
+      {
+        "cname": "勒巴沟岩画",
+        "url": "/sight/yushu896/50061.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "唐僧晒经台",
+        "url": "/sight/yushu896/50073.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/496/173/870/81fe77ee65434c46acb3bc0bd5f12383_C_220_140.jpg",
+        "caddress": "玉树直门达通天河大桥旁"
+      },
+      {
+        "cname": "囊谦县然察大峡谷",
+        "url": "/sight/nangqian2642/50074.html",
+        "s_img": "",
+        "caddress": "玉树市囊谦县吉尼赛乡境内"
+      },
+      {
+        "cname": "贡萨寺",
+        "url": "/sight/yushu896/50079.html",
+        "s_img": "",
+        "caddress": "治多县嘉吉阿尼噶宝山坡上"
+      },
+      {
+        "cname": "格萨尔遗迹",
+        "url": "/sight/yushu896/50075.html",
+        "s_img": "",
+        "caddress": "玉树市治多县"
+      },
+      {
+        "cname": "尕朵觉卧神山",
+        "url": "/sight/yushu896/50085.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/169/442/dcff856a963d4ed59358d9e99958f3e0_C_220_140.jpg",
+        "caddress": "榆树市称多县尕朵乡境内"
+      },
+      {
+        "cname": "尕藏寺",
+        "url": "/sight/yushu896/50084.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "吉然寺",
+        "url": "/sight/yushu896/50078.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "贵德",
+    "url": "http://you.ctrip.com/sightlist/guide2636.html",
+    "places": [
+      {
+        "cname": "贵德国家地质公园",
+        "url": "/sight/guide2636/129857.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/787/504/560/76a52ae03d16427198a6130d6c018060_C_220_140.jpg",
+        "caddress": "海南藏族自治州贵德县尕让乡阿什贡村"
+      },
+      {
+        "cname": "贵德文庙及玉皇阁",
+        "url": "/sight/guide2636/144765.html",
+        "s_img": "http://p.chanyouji.cn/1380719941/3F300286-128A-4883-BEB5-B116BBB523B1.jpg?imageView/1/w/220/h/140",
+        "caddress": "青海省贵德县河阴镇河阴北大街"
+      },
+      {
+        "cname": "拉鸡山",
+        "url": "/sight/guide2636/146911.html",
+        "s_img": "http://p.chanyouji.cn/2163/1346937727497p176drkbqmdc8cq2411e6j1225i.jpg?imageView/1/w/220/h/140",
+        "caddress": "海南藏族自治州贵德县"
+      },
+      {
+        "cname": "中华福运轮",
+        "url": "/sight/guide2636/70160.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/122/960/910/ea9a30b2591c4716aa540b5f060b7bfd_C_220_140.jpg",
+        "caddress": "海南藏族自治州贵德县黄河南岸黄河吊桥与黄河文化广场之间"
+      },
+      {
+        "cname": "黄河奇石苑",
+        "url": "/sight/guide2636/1417607.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/281/246/149/3c81a2ee47ce494aa9d7e2c1258a4d68_C_220_140.jpg",
+        "caddress": "海南藏族自治州贵德县尕让乡阿什贡村"
+      },
+      {
+        "cname": "南海殿",
+        "url": "/sight/guide2636/1418766.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/503/215/588/b750a875154b4c60bbdb64e1378d7d10_C_220_140.jpg",
+        "caddress": "贵德县河阴镇南海殿田园村"
+      },
+      {
+        "cname": "黄河游艇",
+        "url": "/sight/guide2636/70035.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/462/893/233/1e428fdc15e34bcf93954f60de7cebe4_C_220_140.jpg",
+        "caddress": "海南市贵德县黄河新大桥和老大桥"
+      }
+    ]
+  },
+  {
+    "cname": "黄南",
+    "url": "http://you.ctrip.com/sightlist/huangnan120042.html",
+    "places": [
+      {
+        "cname": "坎布拉国家森林公园",
+        "url": "/sight/huangnan120042/11723.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/170/438/546/0c0085d0a58a47c0bb762a18eacbc55c_C_220_140.jpg",
+        "caddress": "黄南藏族自治州尖扎县坎布拉镇"
+      },
+      {
+        "cname": "隆务寺",
+        "url": "/sight/tongren895/67806.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/175/120/013/db5f90279b5947d393f142e9c57a9087_C_220_140.jpg",
+        "caddress": "青海省同仁县隆务镇"
+      },
+      {
+        "cname": "吾屯上寺",
+        "url": "/sight/tongren895/70865.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/814/063/968/180962456f8842d0b9e159e2c97f5604_C_220_140.jpg",
+        "caddress": "青海省黄南藏族自治州同仁县203省道吾屯上寺"
+      },
+      {
+        "cname": "黄南热贡艺术乡",
+        "url": "/sight/huangnan120042/133457.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/126/309/601/ab08554123c847258cbd2a8efaea612b_C_220_140.jpg",
+        "caddress": "黄南藏族自治州同仁县五屯地区"
+      },
+      {
+        "cname": "吾屯下寺",
+        "url": "/sight/tongren895/70860.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/037/912/404/6aa1cde3b9e945e79ad391e5d37f7a0d_C_220_140.jpg",
+        "caddress": "青海省黄南藏族自治州同仁县203省道吾屯下寺"
+      },
+      {
+        "cname": "郭麻日寺",
+        "url": "/sight/tongren895/70868.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/060/976/707/8b1553cfb08b4639aee5c5938dea1de6_C_220_140.jpg",
+        "caddress": "青海省黄南藏族自治州同仁县郭麻日寺"
+      },
+      {
+        "cname": "隆务河",
+        "url": "/sight/huangnan120042/147837.html",
+        "s_img": "",
+        "caddress": "黄南藏族自治州同仁县"
+      },
+      {
+        "cname": "麦秀国家森林公园",
+        "url": "/sight/tongren895/70880.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/738/348/028/d650ddff38134fa498ebd26727f562dd_C_220_140.jpg",
+        "caddress": "青海省黄南藏族自治州泽库县"
+      },
+      {
+        "cname": "和日寺",
+        "url": "/sight/tongren895/70883.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/DB/59/CghzgFTYgHOAVlmIABJVdQz2XGg824_C_220_140.jpg",
+        "caddress": "黄南藏族自治州泽库县"
+      },
+      {
+        "cname": "李家峡北岸生态园风景区",
+        "url": "/sight/tongren895/133460.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/517/043/768/5b8a15b94ffc4c928bef961a3e0a7ba5_C_220_140.jpg",
+        "caddress": "青海省海东地区化隆回族自治县"
+      },
+      {
+        "cname": "昂拉千户宅院",
+        "url": "/sight/tongren895/70909.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/705/138/734/dbd58406ba844f2d85df86b850ae1f57_C_220_140.jpg",
+        "caddress": "青海省尖扎县昂拉乡尖巴昂村"
+      },
+      {
+        "cname": "阿琼南宗寺",
+        "url": "/sight/huangnan120042/133455.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/532/159/159/501de9cc1ac94cc894386d08381c03f3_C_220_140.jpg",
+        "caddress": "坎布拉乡南南宗沟5公里的小溪东岸台地坎布拉国家森林公园内"
+      },
+      {
+        "cname": "黄南泽库和日石经墙",
+        "url": "/sight/huangnan120042/133458.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/145/664/274/e1f4bbd9722f4767b7e90557da47587c_C_220_140.jpg",
+        "caddress": "黄南州泽库县和日寺后山"
+      },
+      {
+        "cname": "郭麻日古堡",
+        "url": "/sight/huangnan120042/129850.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/973/884/513/d5ae14de3eb64504ae5f7a6aec914517_C_220_140.jpg",
+        "caddress": "郭麻日村"
+      },
+      {
+        "cname": "黄南李家峡水电站",
+        "url": "/sight/huangnan120042/133456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/692/664/782/3cbd4ee18e884f008dfb8463b51d36dc_C_220_140.jpg",
+        "caddress": "青海省尖扎县和化隆县交界处的黄河干流李家峡河谷中段"
+      },
+      {
+        "cname": "黄南德钦寺",
+        "url": "/sight/huangnan120042/133461.html",
+        "s_img": "",
+        "caddress": "黄南州尖扎县能科乡"
+      }
+    ]
+  },
+  {
+    "cname": "果洛",
+    "url": "http://you.ctrip.com/sightlist/guoluo120013.html",
+    "places": [
+      {
+        "cname": "年保玉则",
+        "url": "/sight/guoluo120013/133384.html",
+        "s_img": "http://p.chanyouji.cn/4006/1347808561026p1777qd1rdado1ncc14k2cvn1bgt2.jpg?imageView/1/w/220/h/140",
+        "caddress": "果洛藏族自治州久治县索呼日麻乡、白玉乡境内（靠近S101省道）"
+      },
+      {
+        "cname": "阿尼玛卿雪山",
+        "url": "/sight/maqin2640/70907.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/DA/BB/Cghzf1TYeyaAFgZuABOCVJAyaVA475_C_220_140.jpg",
+        "caddress": "果洛藏族自治州玛沁县西北部"
+      },
+      {
+        "cname": "拉加寺",
+        "url": "/sight/maqin2640/70902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/331/012/673/7697faa2558c49fc97d2b0fa16dccccb_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州玛沁县101省道"
+      },
+      {
+        "cname": "牛头碑",
+        "url": "/sight/maduo120480/133388.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/503/236/624/07e58b30d7284c5ea35bba956533d7ce_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州玛多县"
+      },
+      {
+        "cname": "鄂陵湖",
+        "url": "/sight/maduo120480/133386.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/DB/36/Cghzf1TYgHKAKGLIAAixdk7B9BU044_C_220_140.jpg",
+        "caddress": "果洛藏族自治州玛多县"
+      },
+      {
+        "cname": "扎陵湖",
+        "url": "/sight/maduo120480/133387.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/349/100/090/ddf821b435ba4a3dbc18c23e29e0331b_C_220_140.jpg",
+        "caddress": "果洛藏族自治州玛多县"
+      },
+      {
+        "cname": "巴颜喀拉山",
+        "url": "/sight/maduo120480/133392.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/223/057/974/ba072a42db1b487ca88c354c92f5d471_C_220_140.jpg",
+        "caddress": "位于青海省果洛藏族自治州久治县索呼日麻乡境内"
+      },
+      {
+        "cname": "星宿海",
+        "url": "/sight/maduo120480/133389.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/378/770/478/06e57ef0a0cd4aa2ba58394267515311_C_220_140.jpg",
+        "caddress": "果洛藏族自治州玛多县"
+      },
+      {
+        "cname": "黄河源头",
+        "url": "/sight/maduo120480/50056.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/481/011/412/98eed5aa69e24c128e233457a2443d42_C_220_140.jpg",
+        "caddress": "果洛藏族自治州玛多县黄河源牛头碑"
+      },
+      {
+        "cname": "红军沟",
+        "url": "/sight/guoluo120013/49973.html",
+        "s_img": "",
+        "caddress": "果洛州班玛县亚尔堂乡子木达沟"
+      },
+      {
+        "cname": "鄂木措景区",
+        "url": "/sight/guoluo120013/133449.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/499/927/823/ccd7074f9d074c5195c67976cae8d6a5_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州久治县"
+      },
+      {
+        "cname": "小野马岭",
+        "url": "/sight/maduo120480/133447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/658/525/f3039ccd034b40f293788a85a03a318a_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州玛多县境内"
+      },
+      {
+        "cname": "措哇尕什则多卡寺",
+        "url": "/sight/maduo120480/133390.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/495/338/628/da8e3e9b605a4c44acdeeaf0ba188f04_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州玛多县"
+      },
+      {
+        "cname": "黄河源头第一桥",
+        "url": "/sight/maduo120480/133391.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/157/318/340/7f3cf896e9e94793b71ee303710b133c_C_220_140.jpg",
+        "caddress": "青海省玛多县扎陵湖乡"
+      },
+      {
+        "cname": "康赛寺",
+        "url": "/sight/guoluo120013/133451.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/838/512/227/35e442259d8c43248eb5982f2470f0e2_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州久治县"
+      },
+      {
+        "cname": "多贡麻寺",
+        "url": "/sight/guoluo120013/133448.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/614/888/911/7b3b6328eac1400abe442aa8ff619767_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州班玛县"
+      },
+      {
+        "cname": "白玉达唐寺",
+        "url": "/sight/guoluo120013/133452.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/192/239/794/8031ab454a9a481092a351cfe9686694_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州久治县101省道"
+      },
+      {
+        "cname": "大野马岭",
+        "url": "/sight/maduo120480/133446.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/051/446/064/2c64fef1a7d5461a93d739f1faed781d_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州玛多县境内"
+      },
+      {
+        "cname": "坚木达寺",
+        "url": "/sight/guoluo120013/133453.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/579/224/490/8870726503714d6f81c9bd26a168fa58_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州久治县"
+      },
+      {
+        "cname": "卡昂寺",
+        "url": "/sight/guoluo120013/133450.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/726/437/486/187a2076ec084196a51a2066e9649034_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州班玛县"
+      },
+      {
+        "cname": "果洛州群众艺术馆",
+        "url": "/sight/guoluo120013/133454.html",
+        "s_img": "",
+        "caddress": "青海省果洛藏族自治州玛沁县团结路402号"
+      }
+    ]
+  },
+  {
+    "cname": "互助",
+    "url": "http://you.ctrip.com/sightlist/huchu2637.html",
+    "places": [
+      {
+        "cname": "北山国家森林公园",
+        "url": "/sight/huchu2637/65268.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/563/647/424/e98a80cfa59a4d36a2100079fe882c80_C_220_140.jpg",
+        "caddress": "海东地区互助土族自治县东北部"
+      },
+      {
+        "cname": "互助土族风情园",
+        "url": "/sight/huchu2637/9820.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/673/091/800/45cbc52d1b1c4ebda8eacd7e925cf144_C_220_140.jpg",
+        "caddress": "海东市互助土族自治县西大街（交通西客站对面）"
+      },
+      {
+        "cname": "佑宁寺",
+        "url": "/sight/huchu2637/65269.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/980/837/3566d5fea42248759dbc5b32c5d43d21_C_220_140.jpg",
+        "caddress": "海东地区互助土族自治县‎五十镇寺滩村"
+      },
+      {
+        "cname": "白马寺",
+        "url": "/sight/huchu2637/11720.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/281/251/212/c407159bfc69494bbcc0600e59739c20_C_220_140.jpg",
+        "caddress": "海东地区互助土族自治县红崖子沟乡白马寺村"
+      },
+      {
+        "cname": "汪家庄汉墓",
+        "url": "/sight/huchu2637/10971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/008/850/726/89a0528343864581a366ed3c66e5ef08_C_220_140.jpg",
+        "caddress": "互助土族自治县沙塘川乡汪家庄"
+      },
+      {
+        "cname": "彩虹部落土族园",
+        "url": "/sight/huchu2637/1417661.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/077/278/031/fe69a3322ae14676b128748def9be8da_C_220_140.jpg",
+        "caddress": "互助县威远镇彩虹大道"
+      },
+      {
+        "cname": "纳顿庄园",
+        "url": "/sight/huchu2637/1487317.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/121/164/736/5e01deb1caca4714b2b538b01a74d380_C_220_140.jpg",
+        "caddress": "海东互助土族自治县威远镇小庄村153号"
+      },
+      {
+        "cname": "五峰山",
+        "url": "/sight/huchu2637/10961.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/723/653/853/9742e5b7f8b8418e903357c6b8fc2c0f_C_220_140.jpg",
+        "caddress": "海东市互助县五峰乡境内"
+      },
+      {
+        "cname": "扎龙沟景区",
+        "url": "/sight/huchu2637/1412225.html",
+        "s_img": "",
+        "caddress": "海东地区互助县扎龙沟村"
+      },
+      {
+        "cname": "却藏寺 ",
+        "url": "/sight/huchu2637/136224.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/031/107/912/d2f8db21573045d395bcf8b28085cfc9_C_220_140.jpg",
+        "caddress": "互助土族自治县城北约20公里处"
+      },
+      {
+        "cname": "浪士当景区",
+        "url": "/sight/huchu2637/1412224.html",
+        "s_img": "",
+        "caddress": "海东市互助县加定镇桥头村"
+      }
+    ]
+  },
+  {
+    "cname": "海南藏族自治州",
+    "url": "http://you.ctrip.com/sightlist/hainantibetanautonomousprefecture120074.html",
+    "places": [
+      {
+        "cname": "倒淌河",
+        "url": "/sight/hainantibetanautonomousprefecture120074/45412.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/037/272/590/e878d7f98d0845e9b9e9cc4180d19355_C_220_140.jpg",
+        "caddress": "海南藏族自治州共和县倒淌河镇西倒一级公路附近"
+      },
+      {
+        "cname": "贵德玉皇阁古建筑群",
+        "url": "/sight/hainantibetanautonomousprefecture120074/121250.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/092/800/052/415e5ff39e6e46ab988a170127651903_C_220_140.jpg",
+        "caddress": "青海省贵德县河阴镇。"
+      }
+    ]
+  },
+  {
+    "cname": "海东",
+    "url": "http://you.ctrip.com/sightlist/haidong120010.html",
+    "places": [
+      {
+        "cname": "北山国家森林公园",
+        "url": "/sight/huchu2637/65268.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/563/647/424/e98a80cfa59a4d36a2100079fe882c80_C_220_140.jpg",
+        "caddress": "海东地区互助土族自治县东北部"
+      },
+      {
+        "cname": "孟达天池",
+        "url": "/sight/haidong120010/10957.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/656/126/327/1e8d050887be40a0973bcd1d1ca16225_C_220_140.jpg",
+        "caddress": "海东地区循化撒拉族自治县孟达乡东部"
+      },
+      {
+        "cname": "互助土族风情园",
+        "url": "/sight/huchu2637/9820.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/673/091/800/45cbc52d1b1c4ebda8eacd7e925cf144_C_220_140.jpg",
+        "caddress": "海东市互助土族自治县西大街（交通西客站对面）"
+      },
+      {
+        "cname": "瞿昙寺",
+        "url": "/sight/haidong120010/9821.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/477/746/200/ce4eb78c5ef74c04b92ed6b95ba2cf11_C_220_140.jpg",
+        "caddress": "海东地区乐都县瞿昙镇"
+      },
+      {
+        "cname": "夏琼寺",
+        "url": "/sight/haidong120010/137811.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/472/439/692/4f830724072e4bf2b3f18e95eeb12896_C_220_140.jpg",
+        "caddress": "海东地区化隆回族自治县查甫乡"
+      },
+      {
+        "cname": "佑宁寺",
+        "url": "/sight/huchu2637/65269.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/980/837/3566d5fea42248759dbc5b32c5d43d21_C_220_140.jpg",
+        "caddress": "海东地区互助土族自治县‎五十镇寺滩村"
+      },
+      {
+        "cname": "白马寺",
+        "url": "/sight/huchu2637/11720.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/281/251/212/c407159bfc69494bbcc0600e59739c20_C_220_140.jpg",
+        "caddress": "海东地区互助土族自治县红崖子沟乡白马寺村"
+      },
+      {
+        "cname": "汪家庄汉墓",
+        "url": "/sight/huchu2637/10971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/008/850/726/89a0528343864581a366ed3c66e5ef08_C_220_140.jpg",
+        "caddress": "互助土族自治县沙塘川乡汪家庄"
+      },
+      {
+        "cname": "彩虹部落土族园",
+        "url": "/sight/huchu2637/1417661.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/077/278/031/fe69a3322ae14676b128748def9be8da_C_220_140.jpg",
+        "caddress": "互助县威远镇彩虹大道"
+      },
+      {
+        "cname": "西来寺",
+        "url": "/sight/haidong120010/10996.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/864/523/640/638601e7ef6343839f2bf2455732c583_C_220_140.jpg",
+        "caddress": "西宁市乐都县碾伯镇东关"
+      },
+      {
+        "cname": "五峰山",
+        "url": "/sight/huchu2637/10961.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/723/653/853/9742e5b7f8b8418e903357c6b8fc2c0f_C_220_140.jpg",
+        "caddress": "海东市互助县五峰乡境内"
+      },
+      {
+        "cname": "柳湾墓地",
+        "url": "/sight/haidong120010/10969.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/296/554/72f194c893254f96a9faf6ee537c49dc_C_220_140.jpg",
+        "caddress": "海东市乐都县高庙镇柳湾村"
+      },
+      {
+        "cname": "乐都南山",
+        "url": "/sight/haidong120010/10960.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/622/299/024/8a6d5cc865b14e069c46758c3b5f7b70_C_220_140.jpg",
+        "caddress": "海东地区乐都县境内"
+      },
+      {
+        "cname": "李家峡水库",
+        "url": "/sight/haidong120010/132910.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/833/524/135/3a6cc05863f243128442c4ba6520b534_C_220_140.jpg",
+        "caddress": "位于青海省尖扎县和化隆县交界处的黄河干流李家峡河谷中段"
+      },
+      {
+        "cname": "喇家遗址",
+        "url": "/sight/haidong120010/136215.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/151/236/436/b7bbe5583be8477fbe77d93086c2d386_C_220_140.jpg",
+        "caddress": "民和县官亭镇喇家村"
+      },
+      {
+        "cname": "丹斗寺",
+        "url": "/sight/haidong120010/137772.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/970/507/886/a632b03948b244fa96fa8fb4d7df12c8_C_220_140.jpg",
+        "caddress": "循化县境内，县城黄河北岸10公里处"
+      },
+      {
+        "cname": "扎龙沟景区",
+        "url": "/sight/huchu2637/1412225.html",
+        "s_img": "",
+        "caddress": "海东地区互助县扎龙沟村"
+      },
+      {
+        "cname": "却藏寺 ",
+        "url": "/sight/huchu2637/136224.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/031/107/912/d2f8db21573045d395bcf8b28085cfc9_C_220_140.jpg",
+        "caddress": "互助土族自治县城北约20公里处"
+      },
+      {
+        "cname": "浪士当景区",
+        "url": "/sight/huchu2637/1412224.html",
+        "s_img": "",
+        "caddress": "海东市互助县加定镇桥头村"
+      },
+      {
+        "cname": "大石滩水库",
+        "url": "/sight/haidong120010/147956.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/312/621/490/fd230d77d80149baa6e6da2643c6b1b2_C_220_140.jpg",
+        "caddress": "海东地区乐都县南部"
+      }
+    ]
+  },
+  {
+    "cname": "玛沁",
+    "url": "http://you.ctrip.com/sightlist/maqin2640.html",
+    "places": [
+      {
+        "cname": "阿尼玛卿雪山",
+        "url": "/sight/maqin2640/70907.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/DA/BB/Cghzf1TYeyaAFgZuABOCVJAyaVA475_C_220_140.jpg",
+        "caddress": "果洛藏族自治州玛沁县西北部"
+      },
+      {
+        "cname": "拉加寺",
+        "url": "/sight/maqin2640/70902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/331/012/673/7697faa2558c49fc97d2b0fa16dccccb_C_220_140.jpg",
+        "caddress": "青海省果洛藏族自治州玛沁县101省道"
+      }
+    ]
+  },
+  {
+    "cname": "都兰",
+    "url": "http://you.ctrip.com/sightlist/doulan2638.html",
+    "places": [
+      {
+        "cname": "都兰狩猎场",
+        "url": "/sight/doulan2638/49991.html",
+        "s_img": "",
+        "caddress": "都兰县南部，青藏高原北部的山地向高原主体过渡地段上的柴达木盆地东南部。"
+      }
+    ]
+  },
+  {
+    "cname": "囊谦",
+    "url": "http://you.ctrip.com/sightlist/nangqian2642.html",
+    "places": [
+      {
+        "cname": "囊谦县然察大峡谷",
+        "url": "/sight/nangqian2642/50074.html",
+        "s_img": "",
+        "caddress": "玉树市囊谦县吉尼赛乡境内"
+      }
+    ]
+  }
+]

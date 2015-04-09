@@ -1,0 +1,237 @@
+[
+  {
+    "cname": "巴厘岛",
+    "suggest_places": [
+      {
+        "cname": "海神庙",
+        "url": "/sight/bali438/18441.html"
+      },
+      {
+        "cname": "乌布",
+        "url": "/sight/bali438/18460.html"
+      },
+      {
+        "cname": "库塔海滩",
+        "url": "/sight/bali438/62382.html"
+      },
+      {
+        "cname": "金巴兰海滩",
+        "url": "/sight/bali438/19350.html"
+      },
+      {
+        "cname": "乌布皇宫",
+        "url": "/sight/bali438/62380.html"
+      }
+    ],
+    "url": "/sightlist/bali438.html"
+  },
+  {
+    "cname": "乌布",
+    "suggest_places": [
+      {
+        "cname": "乌布",
+        "url": "/sight/ubud14307/18460.html"
+      },
+      {
+        "cname": "乌布皇宫",
+        "url": "/sight/ubud14307/62380.html"
+      },
+      {
+        "cname": "圣猴森林公园",
+        "url": "/sight/ubud14307/18444.html"
+      },
+      {
+        "cname": "内卡美术馆",
+        "url": "/sight/ubud14307/50232.html"
+      },
+      {
+        "cname": "乌布艺术文化林",
+        "url": "/sight/ubud14307/1410363.html"
+      }
+    ],
+    "url": "/sightlist/ubud14307.html"
+  },
+  {
+    "cname": "库塔",
+    "suggest_places": [],
+    "url": "/sightlist/kuta14297.html"
+  },
+  {
+    "cname": "民丹岛",
+    "suggest_places": [
+      {
+        "cname": "锡邦河",
+        "url": "/sight/bintan651/22752.html"
+      },
+      {
+        "cname": "民丹山",
+        "url": "/sight/bintan651/22754.html"
+      },
+      {
+        "cname": "民丹旅游区",
+        "url": "/sight/bintan651/30120.html"
+      },
+      {
+        "cname": "民丹岛大象公园",
+        "url": "/sight/bintan651/46408.html"
+      },
+      {
+        "cname": "小型赛车公园",
+        "url": "/sight/bintan651/46406.html"
+      }
+    ],
+    "url": "/sightlist/bintan651.html"
+  },
+  {
+    "cname": "日惹",
+    "suggest_places": [
+      {
+        "cname": "婆罗浮屠",
+        "url": "/sight/yogyakarta437/48376.html"
+      },
+      {
+        "cname": "普兰巴南",
+        "url": "/sight/yogyakarta437/48050.html"
+      },
+      {
+        "cname": "默拉皮火山",
+        "url": "/sight/yogyakarta437/48410.html"
+      },
+      {
+        "cname": "水宫",
+        "url": "/sight/yogyakarta437/136807.html"
+      },
+      {
+        "cname": "日惹苏丹皇宫",
+        "url": "/sight/yogyakarta437/139210.html"
+      }
+    ],
+    "url": "/sightlist/yogyakarta437.html"
+  },
+  {
+    "cname": "雅加达",
+    "suggest_places": [
+      {
+        "cname": "独立广场",
+        "url": "/sight/jakarta435/18420.html"
+      },
+      {
+        "cname": "民族独立纪念碑",
+        "url": "/sight/jakarta435/18421.html"
+      },
+      {
+        "cname": "大清真寺",
+        "url": "/sight/jakarta435/46365.html"
+      },
+      {
+        "cname": "安佐尔梦幻公园",
+        "url": "/sight/jakarta435/18424.html"
+      },
+      {
+        "cname": "印尼国家博物馆",
+        "url": "/sight/jakarta435/18425.html"
+      }
+    ],
+    "url": "/sightlist/jakarta435.html"
+  },
+  {
+    "cname": "龙目岛",
+    "suggest_places": [
+      {
+        "cname": "吉丽岛",
+        "url": "/sight/lombok614/25056.html"
+      },
+      {
+        "cname": "萨萨克村",
+        "url": "/sight/lombok614/25048.html"
+      },
+      {
+        "cname": "林加尼山",
+        "url": "/sight/lombok614/25046.html"
+      },
+      {
+        "cname": "圣吉吉海滩",
+        "url": "/sight/lombok614/25049.html"
+      },
+      {
+        "cname": "巴图博龙寺",
+        "url": "/sight/lombok614/1646881.html"
+      }
+    ],
+    "url": "/sightlist/lombok614.html"
+  },
+  {
+    "cname": "乌鲁瓦图",
+    "suggest_places": [
+      {
+        "cname": "新库塔海滩",
+        "url": "/sight/uluwatu14311/1409546.html"
+      }
+    ],
+    "url": "/sightlist/uluwatu14311.html"
+  },
+  {
+    "cname": "爪哇",
+    "suggest_places": [
+      {
+        "cname": "婆罗浮屠",
+        "url": "/sight/java21322/48376.html"
+      },
+      {
+        "cname": "普兰巴南",
+        "url": "/sight/java21322/48050.html"
+      },
+      {
+        "cname": "默拉皮火山",
+        "url": "/sight/java21322/48410.html"
+      },
+      {
+        "cname": "独立广场",
+        "url": "/sight/java21322/18420.html"
+      },
+      {
+        "cname": "水宫",
+        "url": "/sight/java21322/136807.html"
+      }
+    ],
+    "url": "/sightlist/java21322.html"
+  },
+  {
+    "cname": "万隆",
+    "suggest_places": [
+      {
+        "cname": "覆舟火山",
+        "url": "/sight/bandung436/65328.html"
+      },
+      {
+        "cname": "Sari Ater温泉度假村",
+        "url": "/sight/bandung436/1678376.html"
+      },
+      {
+        "cname": "亚非会议纪念博物馆",
+        "url": "/sight/bandung436/65325.html"
+      }
+    ],
+    "url": "/sightlist/bandung436.html"
+  },
+  {
+    "cname": "吉利群岛",
+    "suggest_places": [
+      {
+        "cname": "GILI AIR",
+        "url": "/sight/giliislands14377/123010.html"
+      }
+    ],
+    "url": "/sightlist/giliislands14377.html"
+  },
+  {
+    "cname": "Batu",
+    "suggest_places": [
+      {
+        "cname": "苏鲁村",
+        "url": "/sight/batu14397/122928.html"
+      }
+    ],
+    "url": "/sightlist/batu14397.html"
+  }
+]

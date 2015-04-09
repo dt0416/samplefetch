@@ -1,0 +1,140 @@
+[
+  {
+    "cname": "茵莱湖",
+    "suggest_places": [
+      {
+        "cname": "茵莱湖",
+        "url": "/sight/inlelake1328/137554.html"
+      },
+      {
+        "cname": "跳猫寺",
+        "url": "/sight/inlelake1328/56406.html"
+      },
+      {
+        "cname": "帕瑞佛塔",
+        "url": "/sight/inlelake1328/56412.html"
+      },
+      {
+        "cname": "掸族首领博物馆",
+        "url": "/sight/inlelake1328/56419.html"
+      },
+      {
+        "cname": "水上市场",
+        "url": "/sight/inlelake1328/56598.html"
+      }
+    ],
+    "url": "/sightlist/inlelake1328.html"
+  },
+  {
+    "cname": "仰光",
+    "suggest_places": [
+      {
+        "cname": "仰光大金塔",
+        "url": "/sight/yangon488/55622.html"
+      },
+      {
+        "cname": "昂山市场",
+        "url": "/sight/yangon488/55646.html"
+      },
+      {
+        "cname": "苏雷塔",
+        "url": "/sight/yangon488/55678.html"
+      },
+      {
+        "cname": "皇家湖",
+        "url": "/sight/yangon488/135383.html"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/yangon488/56493.html"
+      }
+    ],
+    "url": "/sightlist/yangon488.html"
+  },
+  {
+    "cname": "曼德勒",
+    "suggest_places": [
+      {
+        "cname": "乌本桥",
+        "url": "/sight/mandalay1237/137552.html"
+      },
+      {
+        "cname": "曼德勒",
+        "url": "/sight/mandalay1237/136737.html"
+      },
+      {
+        "cname": "曼德勒山",
+        "url": "/sight/mandalay1237/55793.html"
+      },
+      {
+        "cname": "曼德勒皇宫",
+        "url": "/sight/mandalay1237/55849.html"
+      },
+      {
+        "cname": "因瓦古城",
+        "url": "/sight/mandalay1237/55848.html"
+      }
+    ],
+    "url": "/sightlist/mandalay1237.html"
+  },
+  {
+    "cname": "蒲甘",
+    "suggest_places": [
+      {
+        "cname": "阿南达寺",
+        "url": "/sight/bagan1324/56251.html"
+      },
+      {
+        "cname": "瑞西光塔",
+        "url": "/sight/bagan1324/56236.html"
+      },
+      {
+        "cname": "苏拉玛尼寺",
+        "url": "/sight/bagan1324/30005.html"
+      },
+      {
+        "cname": "他冰瑜塔",
+        "url": "/sight/bagan1324/56272.html"
+      },
+      {
+        "cname": "马努哈寺",
+        "url": "/sight/bagan1324/137551.html"
+      }
+    ],
+    "url": "/sightlist/bagan1324.html"
+  },
+  {
+    "cname": "卑谬",
+    "suggest_places": [
+      {
+        "cname": "瑞山都塔",
+        "url": "/sight/pyay24623/56235.html"
+      }
+    ],
+    "url": "/sightlist/pyay24623.html"
+  },
+  {
+    "cname": "茵莱",
+    "suggest_places": [
+      {
+        "cname": "良瑞镇",
+        "url": "/sight/heho24628/30077.html"
+      }
+    ],
+    "url": "/sightlist/heho24628.html"
+  },
+  {
+    "cname": "掸邦",
+    "suggest_places": [
+      {
+        "cname": "缅甸掸邦东部第四特区",
+        "url": "/sight/shanstate24611/123066.html"
+      },
+      {
+        "cname": "缅甸金四角民族乐园",
+        "url": "/sight/shanstate24611/123065.html"
+      }
+    ],
+    "url": "/sightlist/shanstate24611.html"
+  }
+]

@@ -1,0 +1,504 @@
+[
+  {
+    "cname": "奥斯陆",
+    "url": "http://you.ctrip.com/sightlist/oslo450.html",
+    "places": [
+      {
+        "cname": "奥斯陆市政厅",
+        "url": "/sight/oslo450/26433.html",
+        "s_img": "http://p.chanyouji.cn/867/1345889283792p175ejre1bklg1qj4togpu81otr22.jpg?imageView/1/w/220/h/140",
+        "caddress": "Fridtjof Nansens plass, Oslo 0160"
+      },
+      {
+        "cname": "维格朗雕像公园",
+        "url": "/sight/oslo450/81635.html",
+        "s_img": "http://p.chanyouji.cn/172742/1413610588720p194gs1h8o1e8c1m181cnuvun1rott.jpg?imageView/1/w/220/h/140",
+        "caddress": "Nobels gate 32, 0268 Oslo"
+      },
+      {
+        "cname": "奥斯陆大教堂",
+        "url": "/sight/oslo450/26432.html",
+        "s_img": "http://p.chanyouji.cn/21990/1359359017187p17i01mpgd9aeqj310k71lkgch9c.jpg?imageView/1/w/220/h/140",
+        "caddress": "Karl Johansgt. 11, 0154 Oslo"
+      },
+      {
+        "cname": "挪威皇宫",
+        "url": "/sight/oslo450/137712.html",
+        "s_img": "http://p.chanyouji.cn/932864/B2476BAE-B5DA-4E70-8FE1-3E0874C50E4A.jpg?imageView/1/w/220/h/140",
+        "caddress": "Slottsplassen 1, 0010 Oslo"
+      },
+      {
+        "cname": "挪威国家美术馆",
+        "url": "/sight/oslo450/136769.html",
+        "s_img": "http://p.chanyouji.cn/172742/1413610607205p194gs1h8o14df7dv5471vlm4rq13.jpg?imageView/1/w/220/h/140",
+        "caddress": "Universitetsgata 13, 0164 Oslo"
+      },
+      {
+        "cname": "阿克胡斯城堡",
+        "url": "/sight/oslo450/137704.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/111/327/882/58d5c9f158da46f08c977fad57984bd7_C_220_140.jpg",
+        "caddress": "Oslo Sentrum, 0150 Oslo"
+      },
+      {
+        "cname": "探险船博物馆",
+        "url": "/sight/oslo450/142436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/751/790/227/61ac62327ceb41f2bd9cfb4aaa5c1b30_C_220_140.jpg",
+        "caddress": "Bygdøynesveien 36, 0286 Oslo"
+      },
+      {
+        "cname": "佛莱姆小镇",
+        "url": "/sight/oslo450/81637.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/147/215/069/9f495805922e476ea93c6015d20e34c1_C_220_140.jpg",
+        "caddress": "5743 Flåm, 挪威"
+      },
+      {
+        "cname": "诺贝尔和平中心",
+        "url": "/sight/oslo450/137713.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/938/334/500/5e8fe28f86734487ac613ea8a2f6fca9_C_220_140.jpg",
+        "caddress": "Brynjulf Bulls plass 1, 0250 Oslo"
+      },
+      {
+        "cname": "奥斯陆歌剧院",
+        "url": "/sight/oslo450/142434.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/742/304/461/705c75b1eedd41d0930e9ee35714c469_C_220_140.jpg",
+        "caddress": "Kirsten Flagstads Plass 1 0150 Oslo"
+      },
+      {
+        "cname": "海盗船博物馆（维京博物馆）",
+        "url": "/sight/oslo450/136767.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/692/276/296/285a0e2b0476411e922e86ef0b747533_C_220_140.jpg",
+        "caddress": "Huk Aveny 35, 0287 Oslo"
+      },
+      {
+        "cname": "挪威国家剧院",
+        "url": "/sight/oslo450/26430.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/745/962/875/fc30e231eea74fbc9bcc16c8a152fb17_C_220_140.jpg",
+        "caddress": "Johanne Dybwads plass 1, 0161 Oslo"
+      },
+      {
+        "cname": "海洋博物馆",
+        "url": "/sight/oslo450/142438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/891/351/186/716544a1300f43e19746c41b18f8e437_C_220_140.jpg",
+        "caddress": "Bygdøynesveien 37, 0286 Oslo"
+      },
+      {
+        "cname": "蒙克美术馆",
+        "url": "/sight/oslo450/136768.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/387/753/82a8d7b48c6b4e9ab9d51d7b00dbf4b4_C_220_140.jpg",
+        "caddress": "Tøyengata 53, 0578 Oslo"
+      },
+      {
+        "cname": "比格迪半岛",
+        "url": "/sight/oslo450/1410708.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/256/964/113/9d0d5e655da948f487321d36fc497e41_C_220_140.jpg",
+        "caddress": "Bygdøy, Oslo"
+      },
+      {
+        "cname": "Huk海滩",
+        "url": "/sight/oslo450/1412383.html",
+        "s_img": "",
+        "caddress": "Huk Beach, Oslo"
+      },
+      {
+        "cname": "居德旺恩",
+        "url": "/sight/oslo450/137711.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/135/552/280/fadd2255f0a047459071ac0fa7e3d563_C_220_140.jpg",
+        "caddress": "挪威居德旺恩"
+      },
+      {
+        "cname": "易卜生博物馆",
+        "url": "/sight/oslo450/136779.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/763/426/472/c24ff0df28a9421aa3f3481deefeef13_C_220_140.jpg",
+        "caddress": "Henrik Ibsens gate 26 0255 Oslo"
+      },
+      {
+        "cname": "艾于兰峡湾",
+        "url": "/sight/oslo450/1409836.html",
+        "s_img": "",
+        "caddress": "Aurland, Oslo"
+      },
+      {
+        "cname": "纳勒尔峡湾",
+        "url": "/sight/oslo450/1409820.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/619/546/713/664ef41998634dfdb546e9416d1c38f8_C_220_140.jpg",
+        "caddress": "5746 Norge, Aurland, Oslo"
+      },
+      {
+        "cname": "奥斯陆市博物馆",
+        "url": "/sight/oslo450/142432.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/531/879/992/e7dbc61743534cc3ae3ac9a5611dc3b6_C_220_140.jpg",
+        "caddress": "Frognerveien 67，0266 Oslo"
+      },
+      {
+        "cname": "奥斯陆大学",
+        "url": "/sight/oslo450/1412366.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/014/462/868/8d2aab467d6e4597afcb62de3f18fc40_C_220_140.jpg",
+        "caddress": "University of Oslo, Oslo"
+      },
+      {
+        "cname": "约轮峡湾",
+        "url": "/sight/oslo450/1412578.html",
+        "s_img": "",
+        "caddress": "Hjørundfjorden, Alesund"
+      },
+      {
+        "cname": "挪威工艺博物馆",
+        "url": "/sight/oslo450/142429.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/517/028/834/f0db18478e2b4c939316f1ee3d2d2174_C_220_140.jpg",
+        "caddress": "St. Olavs gate 1，0165 Oslo"
+      },
+      {
+        "cname": "阿斯楚普费恩利当代艺术馆",
+        "url": "/sight/oslo450/1412390.html",
+        "s_img": "",
+        "caddress": "Strandpromenaden 2, 0252 Oslo"
+      },
+      {
+        "cname": "奥斯陆历史博物馆",
+        "url": "/sight/oslo450/1412398.html",
+        "s_img": "",
+        "caddress": "Frederiks gate 2, 0164 OSLO"
+      },
+      {
+        "cname": "福格纳公园",
+        "url": "/sight/oslo450/1412370.html",
+        "s_img": "",
+        "caddress": "Kirkeveien, 0268 Oslo"
+      },
+      {
+        "cname": "康提基号博物馆",
+        "url": "/sight/oslo450/1412399.html",
+        "s_img": "",
+        "caddress": "Bygdøynesveien 36, 0286 Oslo"
+      },
+      {
+        "cname": "挪威议会大楼",
+        "url": "/sight/oslo450/1412359.html",
+        "s_img": "",
+        "caddress": "Parliament of Norway Bldg, Karl Johans gate 22, 0026 Oslo"
+      },
+      {
+        "cname": "松恩湖",
+        "url": "/sight/oslo450/1412369.html",
+        "s_img": "",
+        "caddress": "Sognsvann, Norge"
+      },
+      {
+        "cname": "现代美术馆",
+        "url": "/sight/oslo450/142435.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/457/654/913/ec1fff485aab4bbca61ae2b36e2796b3_C_220_140.jpg",
+        "caddress": "Bankplassen 4 0151 Oslo"
+      },
+      {
+        "cname": "维格朗博物馆",
+        "url": "/sight/oslo450/142431.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/270/308/f4bb6d54777d4862abd824e63c307ace_C_220_140.jpg",
+        "caddress": "Nobels gate 32 0268 Oslo"
+      },
+      {
+        "cname": "民俗博物馆",
+        "url": "/sight/oslo450/142437.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/477/581/194/2e250d64422f4c04b0e9c0e26153cc67_C_220_140.jpg",
+        "caddress": "Museumsveien 10，0287 Oslo"
+      },
+      {
+        "cname": "Ekeberg公园",
+        "url": "/sight/oslo450/1488692.html",
+        "s_img": "",
+        "caddress": "1181 Oslo"
+      }
+    ]
+  },
+  {
+    "cname": "卑尔根",
+    "url": "http://you.ctrip.com/sightlist/bergen1046.html",
+    "places": [
+      {
+        "cname": "松恩峡湾",
+        "url": "/sight/bergen1046/62317.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/252/568/755/945ab29c651548e5b7155689b9ba1794_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "吕瑟峡湾",
+        "url": "/sight/bergen1046/62346.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/170/916/528/a96a463097b147c08293d3c20fb7ed11_C_220_140.jpg",
+        "caddress": "Stavanger, Norway"
+      },
+      {
+        "cname": "哈当厄尔峡湾",
+        "url": "/sight/bergen1046/62342.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/377/496/742477606ab640a3934b7df8e04d9107_C_220_140.jpg",
+        "caddress": "Destination Hardanger Fjord | PO Box 66, Bergen 5601, Norway"
+      },
+      {
+        "cname": "卑尔根鱼市",
+        "url": "/sight/bergen1046/1412567.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/401/488/974/e4e2bbadaf904af4b4877d25a1b8d399_C_220_140.jpg",
+        "caddress": "Fisketorget, Center of Bergen"
+      },
+      {
+        "cname": "布吕根",
+        "url": "/sight/bergen1046/136764.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/756/505/589/432740f1e587420195291cb276fdb8e2_C_220_140.jpg",
+        "caddress": "Bryggen, 5003 Bergen"
+      },
+      {
+        "cname": "盖朗厄尔峡湾",
+        "url": "/sight/bergen1046/62312.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/006/928/912/2c30f122e83c457aabded0b685e16243_C_220_140.jpg",
+        "caddress": "Geiranger, Norway"
+      },
+      {
+        "cname": "卑尔根布吕根码头",
+        "url": "/sight/bergen1046/1413498.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/018/127/131/ff4ac198e84545a4b1507be46f0aa07d_C_220_140.jpg",
+        "caddress": "Bryggen, 5003 Bergen"
+      },
+      {
+        "cname": "圣玛利亚教堂",
+        "url": "/sight/bergen1046/62292.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/727/746/e70b75af4ed841b592346820448afef3_C_220_140.jpg",
+        "caddress": "Dreggsallmenningen 15, 5003 Bergen"
+      },
+      {
+        "cname": "格里格之家",
+        "url": "/sight/bergen1046/62300.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/845/965/832/0c2ea76752a8433daaceb26951b05142_C_220_140.jpg",
+        "caddress": "Troldhaugvegen 65, 5232 Paradis,"
+      },
+      {
+        "cname": "西挪威工艺博物馆",
+        "url": "/sight/bergen1046/136780.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/649/437/189/c77fcff2e4034086b23e906226cccf46_C_220_140.jpg",
+        "caddress": "Nordahl Bruns gate 9, 5014 Bergen, 挪威"
+      },
+      {
+        "cname": "尤利肯山登山缆车",
+        "url": "/sight/bergen1046/137656.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/890/675/173/06c65d9ca2d543dfa7191347c41c87fe_C_220_140.jpg",
+        "caddress": "Ulriken 1, 5009 Bergen"
+      },
+      {
+        "cname": "艾于兰观景台",
+        "url": "/sight/bergen1046/1412554.html",
+        "s_img": "",
+        "caddress": "Einarvikgata, Aurland"
+      },
+      {
+        "cname": "卑尔根古城",
+        "url": "/sight/bergen1046/1412562.html",
+        "s_img": "",
+        "caddress": "Sandviken, Bergen"
+      },
+      {
+        "cname": "居德旺恩的码头",
+        "url": "/sight/bergen1046/1412564.html",
+        "s_img": "",
+        "caddress": "Port of Gudvangen"
+      },
+      {
+        "cname": "纳柔依峡湾",
+        "url": "/sight/bergen1046/1412519.html",
+        "s_img": "",
+        "caddress": "Nærøyfjord, Aalesund"
+      },
+      {
+        "cname": "布吕根人字屋",
+        "url": "/sight/bergen1046/62295.html",
+        "s_img": "",
+        "caddress": "Bradbenken, 5003 Bergen"
+      },
+      {
+        "cname": "圣约尔根医院",
+        "url": "/sight/bergen1046/62299.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/634/266/27c0c4c4918e41d4ade90834358bb381_C_220_140.jpg",
+        "caddress": "Kong Oscars gate 59, 5017 Bergen"
+      },
+      {
+        "cname": "布吕根博物馆",
+        "url": "/sight/bergen1046/62289.html",
+        "s_img": "",
+        "caddress": "Dreggsallmenningen 3, 5835 Bergen"
+      },
+      {
+        "cname": "霍肯松王行宫",
+        "url": "/sight/bergen1046/62291.html",
+        "s_img": "",
+        "caddress": "Bergenhus Festning, 5003 Bergen,"
+      },
+      {
+        "cname": "罗真库朗茨塔",
+        "url": "/sight/bergen1046/62293.html",
+        "s_img": "",
+        "caddress": "Vågen, 5003 Bergen"
+      },
+      {
+        "cname": "自然科学博物馆",
+        "url": "/sight/bergen1046/62303.html",
+        "s_img": "",
+        "caddress": "Muséplassen 3, 5007 Bergen"
+      },
+      {
+        "cname": "卑尔根大教堂",
+        "url": "/sight/bergen1046/62298.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/634/950/203/5a8c9ede69d64e309b62a779d36d7ee2_C_220_140.jpg",
+        "caddress": "Dreggen 15, Bergen, Norway"
+      },
+      {
+        "cname": "汉萨同盟博物馆",
+        "url": "/sight/bergen1046/62290.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/723/385/586/fff90ad01440418d9b91e1e8d1aebc7a_C_220_140.jpg",
+        "caddress": "Finnegården 1A, 5003 Bergen"
+      },
+      {
+        "cname": "卑尔根美术馆",
+        "url": "/sight/bergen1046/62301.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/869/763/679/027d93a040284394b5df199eedf70432_C_220_140.jpg",
+        "caddress": "Rasmus Meyers allé 3, Bergen 5015, Norway"
+      },
+      {
+        "cname": "四大峡湾",
+        "url": "/sight/bergen1046/62340.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/374/313/489/1ccb399e5d924a94962d456ae7077989_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "特罗斯蒂山路",
+        "url": "/sight/bergen1046/1410161.html",
+        "s_img": "",
+        "caddress": "Trollstigen, 6300 Rauma"
+      },
+      {
+        "cname": "凡托特木板教堂",
+        "url": "/sight/bergen1046/26458.html",
+        "s_img": "",
+        "caddress": "Paradis, Bergen, Norway"
+      },
+      {
+        "cname": "历史博物馆",
+        "url": "/sight/bergen1046/26461.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "弗莱姆",
+    "url": "http://you.ctrip.com/sightlist/flam1123.html",
+    "places": [
+      {
+        "cname": "佛莱姆小火车 ",
+        "url": "/sight/flam1123/110237.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/685/209/639/08ecb41d52dd4105b296da15ac1f8d77_C_220_140.jpg",
+        "caddress": "Bergen 5742, Norway"
+      }
+    ]
+  },
+  {
+    "cname": "特罗姆瑟",
+    "url": "http://you.ctrip.com/sightlist/tromso1857.html",
+    "places": [
+      {
+        "cname": "特罗姆瑟缆车",
+        "url": "/sight/tromso1857/1413497.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/068/434/343/b9a22019696c46569c21f513513ba86a_C_220_140.jpg",
+        "caddress": "Sollivegen 12, 9020 Tromsdalen"
+      },
+      {
+        "cname": "北极教堂",
+        "url": "/sight/tromso1857/1413496.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/560/668/886/0fd8b5410f814d2cbcebd05fbcd9327f_C_220_140.jpg",
+        "caddress": "Hans Nilsens veg 41, 9020 Tromsdalen"
+      }
+    ]
+  },
+  {
+    "cname": "罗弗敦群岛",
+    "url": "http://you.ctrip.com/sightlist/lofotenislands46366.html",
+    "places": [
+      {
+        "cname": "罗佛敦维京博物馆",
+        "url": "/sight/lofotenislands46366/1413459.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/327/107/579/491fd5a181cc49f09bf15aeae4d6acc9_C_220_140.jpg",
+        "caddress": "Prestegårdsveien 59, 8360 Bøstad"
+      }
+    ]
+  },
+  {
+    "cname": "斯塔万格",
+    "url": "http://you.ctrip.com/sightlist/stavanger1666.html",
+    "places": [
+      {
+        "cname": "布道石",
+        "url": "/sight/stavanger1666/1412566.html",
+        "s_img": "",
+        "caddress": "Preikstolen, Ryfylke"
+      },
+      {
+        "cname": "斯塔万格大教堂",
+        "url": "/sight/stavanger1666/1412582.html",
+        "s_img": "",
+        "caddress": "Haakon VIIs gate 2, 4600 Stavanger"
+      },
+      {
+        "cname": "斯塔万格古城",
+        "url": "/sight/stavanger1666/1412520.html",
+        "s_img": "",
+        "caddress": "Øvre Strandgate 112, 4005 Stavanger"
+      }
+    ]
+  },
+  {
+    "cname": "沃斯",
+    "url": "http://you.ctrip.com/sightlist/voss1215.html",
+    "places": []
+  },
+  {
+    "cname": "莫尔德",
+    "url": "http://you.ctrip.com/sightlist/molde46478.html",
+    "places": [
+      {
+        "cname": "阿克斯拉山",
+        "url": "/sight/molde46478/1412553.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/967/535/041/123e6899b15244f0a7872dd31eba078f_C_220_140.jpg",
+        "caddress": "Alesund, 6003 Ålesund"
+      },
+      {
+        "cname": "老鹰之路",
+        "url": "/sight/molde46478/1412576.html",
+        "s_img": "",
+        "caddress": "Stranda, 6216 Geiranger"
+      },
+      {
+        "cname": "奥勒松博物馆",
+        "url": "/sight/molde46478/1412555.html",
+        "s_img": "",
+        "caddress": "Rasmus Rønnebergs gate 16, 6002 Ålesund"
+      },
+      {
+        "cname": "奥勒松教堂",
+        "url": "/sight/molde46478/1412561.html",
+        "s_img": "",
+        "caddress": "Nedregårdsvegen 1, 6010 Ålesund"
+      },
+      {
+        "cname": "伦德岛",
+        "url": "/sight/molde46478/1412557.html",
+        "s_img": "",
+        "caddress": "Herøy, Møre og Romsdal"
+      },
+      {
+        "cname": "设得兰巴士纪念碑",
+        "url": "/sight/molde46478/1412581.html",
+        "s_img": "",
+        "caddress": "Shetland bus, Alesund"
+      }
+    ]
+  },
+  {
+    "cname": "金沙维克",
+    "url": "http://you.ctrip.com/sightlist/kinsarvik1122.html",
+    "places": []
+  }
+]

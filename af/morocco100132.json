@@ -1,0 +1,194 @@
+[
+  {
+    "cname": "卡萨布兰卡",
+    "url": "http://you.ctrip.com/sightlist/casablanca1693.html",
+    "places": [
+      {
+        "cname": "哈桑二世清真寺",
+        "url": "/sight/casablanca1693/140126.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/048/327/426/ed3cee6e2552460e818b885eaf006a43_C_220_140.jpg",
+        "caddress": "Sour Jdid, Casablanca"
+      },
+      {
+        "cname": "迈阿密海滨大道",
+        "url": "/sight/casablanca1693/1409543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/741/447/956/8fcd5ba16bc541cda3ea77746d126756_C_220_140.jpg",
+        "caddress": "Dar-el-Beida, 摩洛哥"
+      },
+      {
+        "cname": "里克咖啡馆",
+        "url": "/sight/casablanca1693/1409201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/425/234/712/d59a72f814284b4ba6579cf419e1e49d_C_220_140.jpg",
+        "caddress": "248 Rue Sour Jdid ,Casablanca"
+      },
+      {
+        "cname": "圣人区",
+        "url": "/sight/casablanca1693/1410306.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/513/483/445/6dba2b16d3e64c84bafd38acc3464e5c_C_220_140.jpg",
+        "caddress": "Quartier Habous"
+      }
+    ]
+  },
+  {
+    "cname": "马拉喀什",
+    "url": "http://you.ctrip.com/sightlist/marrakech1748.html",
+    "places": [
+      {
+        "cname": "库图比亚清真寺",
+        "url": "/sight/marrakech1748/140127.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/265/492/628/b42c823f1eed4912b1e6f8411785438e_C_220_140.jpg",
+        "caddress": "Avenue Mohammed V Marrakesh, Morocco"
+      },
+      {
+        "cname": "不眠广场",
+        "url": "/sight/marrakech1748/1409648.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/824/659/934/b0714ba03ce842f3930a5dfa09c1998d_C_220_140.jpg",
+        "caddress": "Djemaa el-Fna Marrakesh 40000"
+      },
+      {
+        "cname": "伊芙圣罗兰花园",
+        "url": "/sight/marrakech1748/1409633.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/622/572/275/39e28b31552d4026a16d5731abdb359d_C_220_140.jpg",
+        "caddress": "Rue Yves Saint Laurent, Marrakech"
+      },
+      {
+        "cname": "梅纳拉花园",
+        "url": "/sight/marrakech1748/1409646.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/889/926/554/cd608aaaaa7943dbbec934a2eb279992_C_220_140.jpg",
+        "caddress": "Aïn Mezouar, Marrakesh"
+      },
+      {
+        "cname": "巴迪皇宫",
+        "url": "/sight/marrakech1748/1409650.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/D3/6A/CghzgVTOjmiAcF5kAADuZnrMkCQ069_C_220_140.jpg",
+        "caddress": "5 Derb el Arsa Riad Zitoun Jdid, 5 Rue Riad Zitoun el Jdid, Marrakesh 40000"
+      }
+    ]
+  },
+  {
+    "cname": "非斯",
+    "url": "http://you.ctrip.com/sightlist/fes1730.html",
+    "places": [
+      {
+        "cname": "卡鲁因清真寺",
+        "url": "/sight/fes1730/1414341.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/226/316/456/702862f69fe24888b2c02e30ecdc157d_C_220_140.jpg",
+        "caddress": "Mosquee et Universite Karaouiyne, Fes"
+      },
+      {
+        "cname": "卡拉维因大学",
+        "url": "/sight/fes1730/1414338.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/149/528/861/d6b002902ca94778b49508e199a7ad20_C_220_140.jpg",
+        "caddress": "Mosquee et Universite Karaouiyne, Fes"
+      },
+      {
+        "cname": "伊德里斯陵墓",
+        "url": "/sight/fes1730/1414340.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/900/102/652/cec6a7a994624401a06eb72d22cc7d0a_C_220_140.jpg",
+        "caddress": "Zaouia de Moulay Idriss, Fes"
+      }
+    ]
+  },
+  {
+    "cname": "拉巴特",
+    "url": "http://you.ctrip.com/sightlist/rabat1735.html",
+    "places": [
+      {
+        "cname": "舍拉废墟遗址",
+        "url": "/sight/rabat1735/1410317.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/625/976/522/c8b3269382cf4e10aa5f80b293cac4a7_C_220_140.jpg",
+        "caddress": "拉巴特"
+      },
+      {
+        "cname": "乌达雅堡",
+        "url": "/sight/rabat1735/1410312.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/158/872/082/eb2829eb504e479683360f5f241e2ec6_C_220_140.jpg",
+        "caddress": "Rue Jamaa Kasbah des Oudaias"
+      },
+      {
+        "cname": "拉巴特阿拉伯人区",
+        "url": "/sight/rabat1735/1410326.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/476/239/34ef7384add44e1ca09c7fd1e5286012_C_220_140.jpg",
+        "caddress": "拉巴特"
+      },
+      {
+        "cname": "穆罕默德五世皇陵",
+        "url": "/sight/rabat1735/140122.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/409/180/008/e3b79e7926e14b14834a53f143b71de1_C_220_140.jpg",
+        "caddress": "Quartier Hassan, Rabat"
+      },
+      {
+        "cname": "拉巴特皇宫",
+        "url": "/sight/rabat1735/1414351.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/747/710/711/06315ff6eebf4fc19bf1c63fa76fd120_C_220_140.jpg",
+        "caddress": "Palais Royal de Rabat, Rabat"
+      },
+      {
+        "cname": "哈桑塔",
+        "url": "/sight/rabat1735/140124.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/118/159/238/757621f5d3174707850061c0b1f778af_C_220_140.jpg",
+        "caddress": "Boulevard Mohamed Lyazidi Rabat, Maroc"
+      }
+    ]
+  },
+  {
+    "cname": "丹吉尔",
+    "url": "http://you.ctrip.com/sightlist/tangier1738.html",
+    "places": [
+      {
+        "cname": "非洲洞",
+        "url": "/sight/tangier1738/1409577.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/819/439/249/7b748ead7dd942e3a8d724d932bd2b9d_C_220_140.jpg",
+        "caddress": "Terrasse Slouquia,Tangier"
+      },
+      {
+        "cname": "丹吉尔老城区",
+        "url": "/sight/tangier1738/1412661.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/420/383/013/71704089eca94b39a921f1ab35d6c1c2_C_220_140.jpg",
+        "caddress": "Tanger, 摩洛哥"
+      },
+      {
+        "cname": "美国使节博物馆",
+        "url": "/sight/tangier1738/1409583.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/745/740/939/3cead4d42efa4fbba7f3ceb2e8ee7dfd_C_220_140.jpg",
+        "caddress": "8 Zankat America, Tangier 9000, Morocco"
+      },
+      {
+        "cname": "斯帕特尔海角灯塔",
+        "url": "/sight/tangier1738/1409621.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/640/278/463/f1354659b28c4066abe822c77e4e1955_C_220_140.jpg",
+        "caddress": "Terrasse Slouquia,Tangier, Morocco"
+      }
+    ]
+  },
+  {
+    "cname": "瓦尔扎扎特",
+    "url": "http://you.ctrip.com/sightlist/ouarzazate1734.html",
+    "places": [
+      {
+        "cname": "古城埃本哈杜",
+        "url": "/sight/ouarzazate1734/140125.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "梅克内斯",
+    "url": "http://you.ctrip.com/sightlist/meknes21761.html",
+    "places": [
+      {
+        "cname": "曼索尔城门",
+        "url": "/sight/meknes21761/1414334.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/647/117/119/abeb71c358fa407f9c233648301b07f5_C_220_140.jpg",
+        "caddress": "Sweet Sultana, Meknes"
+      },
+      {
+        "cname": "皇家马厩粮仓",
+        "url": "/sight/meknes21761/1414337.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/365/489/905/f51b82d5bdfb4a76ad1d65fb95c60c77_C_220_140.jpg",
+        "caddress": "Royal Palace, Meknes"
+      }
+    ]
+  }
+]

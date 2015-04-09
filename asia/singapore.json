@@ -1,0 +1,662 @@
+[
+  {
+    "cname": "新加坡",
+    "url": "http://you.ctrip.com/sightlist/singapore53.html",
+    "places": [
+      {
+        "cname": "乌节路",
+        "url": "/sight/singapore53/108118.html",
+        "s_img": "http://p.chanyouji.cn/99161/1392452199655p18gq9nc081649diifv2124i16u2t.jpg?imageView/1/w/220/h/140",
+        "caddress": "Orchard Rd, Singapore"
+      },
+      {
+        "cname": "克拉码头",
+        "url": "/sight/singapore53/3654.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/919/413/549/4d1f8777466e4444af67e7f98b58cc49_C_220_140.jpg",
+        "caddress": "3E River Valley Rd, Singapore 179024"
+      },
+      {
+        "cname": "圣淘沙岛",
+        "url": "/sight/singapore53/47929.html",
+        "s_img": "http://p.chanyouji.cn/31732/1365600346518p17nq1ureaqo11bec1lko2tv6bl8.jpg?imageView/1/w/220/h/140",
+        "caddress": "新加坡圣淘沙岛"
+      },
+      {
+        "cname": "鱼尾狮像公园",
+        "url": "/sight/singapore53/62748.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/574/563/670/dca49f30ddaa4d5da394f169ce8f2bf0_C_220_140.jpg",
+        "caddress": "1 Fullerton Rd, 新加坡 049213"
+      },
+      {
+        "cname": "新加坡动物园",
+        "url": "/sight/singapore53/3678.html",
+        "s_img": "http://p.chanyouji.cn/68137/1378622819998p183u4spgt23t10qk9h2kod1ncd1e.jpg?imageView/1/w/220/h/140",
+        "caddress": "80 Mandai Lake Road, Singapore 729826"
+      },
+      {
+        "cname": "小印度",
+        "url": "/sight/singapore53/19944.html",
+        "s_img": "http://p.chanyouji.cn/35923/1367651519739p17pn60aik16p38nu19sp1aie1sjb.jpg?imageView/1/w/220/h/140",
+        "caddress": "Serangoon Road, Singapore"
+      },
+      {
+        "cname": "滨海湾花园",
+        "url": "/sight/singapore53/132782.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/296/797/728/e4c836815ca349829aff6ccfadc31037_C_220_140.jpg",
+        "caddress": "18 Marina Gardens Dr, 新加坡 018953"
+      },
+      {
+        "cname": "牛车水",
+        "url": "/sight/singapore53/19942.html",
+        "s_img": "http://m.chanyouji.cn/attractions/157365.jpg?imageView/1/w/220/h/140",
+        "caddress": "新加坡欧南，北至Church St、西至New Bridge Rd、南至Maxwell Rd、东至Cecil St一带。"
+      },
+      {
+        "cname": "夜间野生动物园",
+        "url": "/sight/singapore53/25847.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/549/182/038bde58dead40fea9b781bf8580d2dc_C_220_140.jpg",
+        "caddress": "80 Mandai Lake Rd, Singapore 729826"
+      },
+      {
+        "cname": "圣安德烈教堂",
+        "url": "/sight/singapore53/3659.html",
+        "s_img": "http://p.chanyouji.cn/1403623096/D1F9DC97-9B42-4B3A-A4DF-29DCDDB3C708.jpg?imageView/1/w/220/h/140",
+        "caddress": "11 St Andrew's Rd, Singapore 178959"
+      },
+      {
+        "cname": "滨海艺术中心",
+        "url": "/sight/singapore53/26705.html",
+        "s_img": "http://p.chanyouji.cn/1404143693/33CD2D08-05CE-4D3F-8553-54935A036A7A.jpg?imageView/1/w/220/h/140",
+        "caddress": "1 Esplanade Dr,"
+      },
+      {
+        "cname": "滨海湾金沙",
+        "url": "/sight/singapore53/30007.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/682/289/514/c9a67581553a40fd964f0632ea0c34aa_C_220_140.jpg",
+        "caddress": "10 Bayfront Avenue, Singapore 018956, Singapore"
+      },
+      {
+        "cname": "新加坡植物园",
+        "url": "/sight/singapore53/3672.html",
+        "s_img": "http://p.chanyouji.cn/61566/1376227051826p181mo6un9gv5q6u3pk14h1g5519.jpg?imageView/1/w/220/h/140",
+        "caddress": "1 Cluny Road, Singapore 259569"
+      },
+      {
+        "cname": "哈芝巷",
+        "url": "/sight/singapore53/108091.html",
+        "s_img": "http://p.chanyouji.cn/172344/1413460289815p194cchsd61uetura13ht1g0jog417.jpg?imageView/1/w/220/h/140",
+        "caddress": "27 Haji Ln"
+      },
+      {
+        "cname": "莱佛士酒店",
+        "url": "/sight/singapore53/7546.html",
+        "s_img": "http://p.chanyouji.cn/102563/1394635600787p18irbh77d1jrq1skm5ll19h75kl20.jpg?imageView/1/w/220/h/140",
+        "caddress": "1 Beach Road, Singapore 189673"
+      },
+      {
+        "cname": "裕廊飞禽公园",
+        "url": "/sight/jurong21393/3679.html",
+        "s_img": "http://p.chanyouji.cn/21573/1359291250181p17hu14j9e12lt1snb4dcau1mq43.jpg?imageView/1/w/220/h/140",
+        "caddress": "2 Jurong Hill ，Singapore 628925"
+      },
+      {
+        "cname": "花柏山",
+        "url": "/sight/singapore53/7676.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/329/376/098/4d50ac64214049f680c085dfcab6551e_C_220_140.jpg",
+        "caddress": "150 Mt Faber Rd，新加坡 099205"
+      },
+      {
+        "cname": "双螺旋桥",
+        "url": "/sight/singapore53/137357.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/976/689/590/6ae2e8b7ed2d450fb152d4f91413e5dc_C_220_140.jpg",
+        "caddress": "滨海湾新市区"
+      },
+      {
+        "cname": "市政厅",
+        "url": "/sight/singapore53/136896.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/061/096/110/2db1fcf6c78c463d98f89039ec6d0ffb_C_220_140.jpg",
+        "caddress": "3 Saint Andrew's Road Singapore 178958"
+      },
+      {
+        "cname": "马里安曼兴都庙",
+        "url": "/sight/singapore53/25841.html",
+        "s_img": "http://p.chanyouji.cn/118499/1399095112462p18n090ubhft2o3n1ppl1c2qjvhg.jpg?imageView/1/w/220/h/140",
+        "caddress": "244 S Bridge Rd"
+      },
+      {
+        "cname": "东海岸公园",
+        "url": "/sight/singapore53/7681.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/396/488/4442dc8e011a4ea39fe58a3fd3d62080_C_220_140.jpg",
+        "caddress": "Along East Coast Parkway and East Coast Park Service Road"
+      },
+      {
+        "cname": "苏丹清真寺",
+        "url": "/sight/singapore53/3660.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/877/518/148/88a90fb27c6943b0a6878336e45b3c84_C_220_140.jpg",
+        "caddress": "3 Muscat St, Singapore 198833"
+      },
+      {
+        "cname": "河川生态园",
+        "url": "/sight/singapore53/137344.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/944/741/857/8b7ca2854eac449f955153b3a25d2851_C_220_140.jpg",
+        "caddress": "80 Mandai Lake Road"
+      },
+      {
+        "cname": "新加坡美术馆",
+        "url": "/sight/singapore53/3661.html",
+        "s_img": "http://p.chanyouji.cn/98393/1391839518897p18g81efgp9dv1bfc5i4dktkioh.jpg?imageView/1/w/220/h/140",
+        "caddress": "71 Bras Basah Road, Singapore 189555"
+      },
+      {
+        "cname": "甘榜格南",
+        "url": "/sight/singapore53/25840.html",
+        "s_img": "http://p.chanyouji.cn/111226/1397128697298p18l5lit911g9emi8op41r9g14hkn.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kampong Glam, Singapore"
+      },
+      {
+        "cname": "莱佛士坊",
+        "url": "/sight/singapore53/30051.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/034/119/299/a0e0c3993f7345deb77c237d8c2219a4_C_220_140.jpg",
+        "caddress": "Raffles Place, Singapore"
+      },
+      {
+        "cname": "新加坡历史博物馆",
+        "url": "/sight/singapore53/3662.html",
+        "s_img": "http://p.chanyouji.cn/1405870910/18F5BFF5-119A-4AE1-AC2E-B8D17B09DC38.jpg?imageView/1/w/220/h/140",
+        "caddress": "93 Stamford Rd, Singapore 178897"
+      },
+      {
+        "cname": "赞美广场",
+        "url": "/sight/singapore53/132423.html",
+        "s_img": "http://p.chanyouji.cn/102563/1394635524289p18irbh77c3l3qk41sd3106skqr1p.jpg?imageView/1/w/220/h/140",
+        "caddress": "30 Victoria Street"
+      },
+      {
+        "cname": "乌敏岛",
+        "url": "/sight/singapore53/7684.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/536/274/1a901d381a3a4e98baf716996240fbc8_C_220_140.jpg",
+        "caddress": "257 Pulau Ubin"
+      },
+      {
+        "cname": "新加坡佛牙寺龙华院",
+        "url": "/sight/singapore53/145844.html",
+        "s_img": "http://p.chanyouji.cn/172344/1413460145120p194cchsd51ae3lcqt0lsa9btph.jpg?imageView/1/w/220/h/140",
+        "caddress": "288, South Bridge Road, Singapore 058840"
+      },
+      {
+        "cname": "加文纳桥",
+        "url": "/sight/singapore53/30008.html",
+        "s_img": "http://p.chanyouji.cn/95210/1389264538493p18dr9ssvo17q11tujsq1ag967o3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Mouth of Singapore River, Singapore, Singapore"
+      },
+      {
+        "cname": "摩天塔",
+        "url": "/sight/singapore53/25010.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/638/198/344/5cd3fdec45c84e3f8d1f54bdd404bd41_C_220_140.jpg",
+        "caddress": "101 Thomson Road, United Square"
+      },
+      {
+        "cname": "亚美尼亚教堂",
+        "url": "/sight/singapore53/7547.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/092/892/169/37c6f239b2cd46aaa02c23ccaa4d9d08_C_220_140.jpg",
+        "caddress": "60 Hill St, Singapore 179366"
+      },
+      {
+        "cname": "驳船码头",
+        "url": "/sight/singapore53/25833.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/640/174/847d6ac2fc3241b4bf872b64e8978551_C_220_140.jpg",
+        "caddress": "Boat Quay,Singapore"
+      },
+      {
+        "cname": "金沙空中花园",
+        "url": "/sight/singapore53/1484299.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/677/523/c3620b2c0bf84100adb06aea78112869_C_220_140.jpg",
+        "caddress": "10 Bayfront Avenue，Singapore"
+      },
+      {
+        "cname": "牛车水原貌馆",
+        "url": "/sight/singapore53/25846.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/174/950/871/4292ddce853947ce97fcfe5bf3b62d04_C_220_140.jpg",
+        "caddress": "48 Pagoda St, Singapore City 059207 ‎"
+      },
+      {
+        "cname": "新加坡和平纪念碑",
+        "url": "/sight/singapore53/3669.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/914/517/932/57eb792226464434b0b230ae2791da5d_C_220_140.jpg",
+        "caddress": "War Memorial Park Beach Road,Singapore"
+      },
+      {
+        "cname": "旧国会大厦艺术之家",
+        "url": "/sight/singapore53/25848.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/381/976/637/d2044477626a4ab0b20ac686bb43861a_C_220_140.jpg",
+        "caddress": "1 Parliament Pl"
+      },
+      {
+        "cname": "丹戎海滩",
+        "url": "/sight/singapore53/107847.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/981/415/957/18d39f98871a4523b95d52cce7ee92db_C_220_140.jpg",
+        "caddress": "Tanjong Beach, 新加坡"
+      },
+      {
+        "cname": "武吉知马天然保护区",
+        "url": "/sight/singapore53/7689.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/638/238/571/ad2818344d18406093c8f1fcc6570504_C_220_140.jpg",
+        "caddress": "海希德甬道（Hindhede Drive）177号，位于武吉知马路上段12公里处。"
+      },
+      {
+        "cname": "节庆大道",
+        "url": "/sight/sentosa776/1407846.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/297/775/340/fe31b83f1a1849848730e94693bc15c8_C_220_140.jpg",
+        "caddress": "8 Sentosa Gateway, 新加坡 098269"
+      },
+      {
+        "cname": "蝴蝶公园与昆虫王国",
+        "url": "/sight/singapore53/66799.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/709/034/276/4ed74098cc844f3a92daeac97ce8dbd4_C_220_140.jpg",
+        "caddress": "51 Imbiah Rd, Singapore 099702"
+      },
+      {
+        "cname": "莱佛士爵士登岸遗址",
+        "url": "/sight/singapore53/3675.html",
+        "s_img": "http://p.chanyouji.cn/41402/1370205967172p17s39vmg11pkp1qvh1cr5k3mditi.jpg?imageView/1/w/220/h/140",
+        "caddress": "1 Old Parliament Ln（新加坡179429 北114米）"
+      },
+      {
+        "cname": "加东娘惹文化区",
+        "url": "/sight/singapore53/1410561.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/605/177/297/159816234fae4dcba732db86d1e976d4_C_220_140.jpg",
+        "caddress": "East Coast, Singapore"
+      },
+      {
+        "cname": "财富喷泉",
+        "url": "/sight/singapore53/132965.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/713/909/825/1b1f74951168416aa56f16e3cefe789e_C_220_140.jpg",
+        "caddress": "3 Temasek Blvd"
+      },
+      {
+        "cname": "维多利亚纪念堂",
+        "url": "/sight/singapore53/3674.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/706/660/675/d92790cec2fe4f319b28819c397eeb9d_C_220_140.jpg",
+        "caddress": "11 Empress Pl, Singapore 179558 ‎"
+      },
+      {
+        "cname": "天福宫",
+        "url": "/sight/singapore53/25842.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/642/660/d6b06a2e435c41fa97536034b8233349_C_220_140.jpg",
+        "caddress": "158 Telok Ayer St"
+      },
+      {
+        "cname": "芽茏士乃马来村",
+        "url": "/sight/singapore53/7682.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/836/657/512/bffefb00dc25431f8e8d183347a18ba7_C_220_140.jpg",
+        "caddress": "15 Geylang Serai, Singapore 409235 ‎"
+      },
+      {
+        "cname": "万象馆",
+        "url": "/sight/singapore53/66803.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/306/914/900/fa48d226f1c649a2a61823ce8bb497f5_C_220_140.jpg",
+        "caddress": "40 Imbiah Road"
+      },
+      {
+        "cname": "新加坡艺术科学博物馆",
+        "url": "/sight/singapore53/1411252.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/000/562/750/e621950054464565bb0dec81277818e8_C_220_140.jpg",
+        "caddress": "Marina Bay Sands, Bayfront Ave"
+      },
+      {
+        "cname": "浮尔顿一号（外观）",
+        "url": "/sight/singapore53/137343.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/747/463/876/83e02dfbfeb14fc1b68627c4c2514982_C_220_140.jpg",
+        "caddress": "1 Fullerton Rd"
+      },
+      {
+        "cname": "知新馆",
+        "url": "/sight/singapore53/3655.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/186/410/407/bcbaffcdcc5f47fb85b05264b801c040_C_220_140.jpg",
+        "caddress": "510 Upper Jurong Road, Singapore 638365"
+      },
+      {
+        "cname": "新加坡国立大学 ",
+        "url": "/sight/singapore53/1409771.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/670/942/604/cd8d31be7bb54eb193ee1c7ba6f59edf_C_220_140.jpg",
+        "caddress": "21 Lower Kent Ridge Road, Singapore 119077"
+      },
+      {
+        "cname": "胡姬山庄",
+        "url": "/sight/singapore53/7685.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/789/967/846/0b87637243af42769f6ed1fb65147a93_C_220_140.jpg",
+        "caddress": "82 Sungei Tengah Rd, Singapore 698985"
+      },
+      {
+        "cname": "樟宜监狱礼拜堂与博物馆",
+        "url": "/sight/singapore53/7683.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/310/558/491/d01518df248449b19844e41c64288b45_C_220_140.jpg",
+        "caddress": "1000 Upper Changi Rd N"
+      },
+      {
+        "cname": "新加坡科学中心",
+        "url": "/sight/singapore53/1409526.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/794/388/798/c6d6ea981a7d428aad68c7785cdf41e6_C_220_140.jpg",
+        "caddress": "15 Science Centre Road Singapore 609081"
+      },
+      {
+        "cname": "西乐索炮台",
+        "url": "/sight/singapore53/66800.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/926/557/420/9dded4679b18445e8dbedf4a22731526_C_220_140.jpg",
+        "caddress": "33 Allanbrooke Road Sentosa,"
+      },
+      {
+        "cname": "马来传统文化馆",
+        "url": "/sight/singapore53/1409536.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/608/048/790/71685458dd0d4dd4822781f447c5da9d_C_220_140.jpg",
+        "caddress": "85 Sultan Gate Singapore 198501"
+      },
+      {
+        "cname": "红点设计博物馆",
+        "url": "/sight/singapore53/147110.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/285/396/646/b7818893915749589aceb4c0de6d25e2_C_220_140.jpg",
+        "caddress": "Red Dot Traffic Building 28 Maxwell Road #02-15 Singapore 069120"
+      },
+      {
+        "cname": "MINT玩具博物馆",
+        "url": "/sight/singapore53/132422.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/558/340/357/d01417b26bc84d228da8ca476ca6c6d7_C_220_140.jpg",
+        "caddress": "26 Seah St（新加坡东部）"
+      },
+      {
+        "cname": "龟屿岛",
+        "url": "/sight/singapore53/3685.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/012/595/4cc31d4df30648c2a4a08e8868823e70_C_220_140.jpg",
+        "caddress": "10 Khusu Island"
+      },
+      {
+        "cname": "孙中山南洋纪念馆",
+        "url": "/sight/singapore53/7669.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/230/789/158/24692168474e48979a38629ca836d7c8_C_220_140.jpg",
+        "caddress": "12 Tai Gin Rd,（Singapore 327874）"
+      },
+      {
+        "cname": "武吉士村",
+        "url": "/sight/singapore53/7674.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156253.jpg?imageView/1/w/220/h/140",
+        "caddress": "151 Rochor Rd, Singapore 188426"
+      },
+      {
+        "cname": "克兰芝烈士纪念碑",
+        "url": "/sight/singapore53/7686.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/955/824/057/f1a1ef76653444c59d851ee64df1ba2a_C_220_140.jpg",
+        "caddress": "9 Woodlands Road"
+      },
+      {
+        "cname": "双溪布洛湿地保护区",
+        "url": "/sight/singapore53/1409527.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/216/796/977/9eb254f78a714865be4ebc91f26c8365_C_220_140.jpg",
+        "caddress": "301 Neo Tiew Crescent Singapore 718925"
+      },
+      {
+        "cname": "新闻及艺术部大厦",
+        "url": "/sight/singapore53/30010.html",
+        "s_img": "http://m.chanyouji.cn/attractions/34551.jpg?imageView/1/w/220/h/140",
+        "caddress": "140 Hill Street, Singapore 179369, Singapore"
+      },
+      {
+        "cname": "珊顿大道",
+        "url": "/sight/singapore53/3682.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/363/502/ead5433b48f8475b8bafd1b17af73c9f_C_220_140.jpg",
+        "caddress": "Shenton Way,Singapore"
+      },
+      {
+        "cname": "圣约翰岛",
+        "url": "/sight/singapore53/3657.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/698/241/f5f4a5ae73a64ff4a682df1b016ca6d5_C_220_140.jpg",
+        "caddress": "10 St John's Island，新加坡 098601"
+      },
+      {
+        "cname": "新加坡集邮博物馆 ",
+        "url": "/sight/singapore53/1409537.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/301/605/374/21107bb3a97a49929dddf070cc577ce0_C_220_140.jpg",
+        "caddress": "23-B Coleman Street Singapore 179807"
+      },
+      {
+        "cname": "新加坡管理大学",
+        "url": "/sight/singapore53/1409772.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/868/696/323/f9b05ef19fdb4390ac3e725257f739ee_C_220_140.jpg",
+        "caddress": "70 Stamford Road, #B1-38a, Singapore 178901"
+      },
+      {
+        "cname": "爱来魔相3D艺术体验馆",
+        "url": "/sight/singapore53/1412376.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/769/690/768/e745cb7c8b8942319d70a975d2b52f6c_C_220_140.jpg",
+        "caddress": "新加坡兴达成第四大楼三楼 (Singapore Suntec City,Tower Four,3rd Floor)"
+      },
+      {
+        "cname": "虎豹别墅",
+        "url": "/sight/singapore53/3680.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/131/328/898/dffc2d04f99d4736a291ac456364bb97_C_220_140.jpg",
+        "caddress": "262 Pasir Panjang Rd"
+      },
+      {
+        "cname": "火焰山",
+        "url": "/sight/singapore53/66807.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/578/637/315/b1d9baec7b0a4d6a8fa9456462d0edd7_C_220_140.jpg",
+        "caddress": "39 Artillery Ave,新加坡 099958"
+      },
+      {
+        "cname": "新加坡南洋理工大学",
+        "url": "/sight/singapore53/1409766.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/125/172/600/65e7ec2338bf4722af08be9a9a67dc61_C_220_140.jpg",
+        "caddress": "50 Nanyang Avenue, Nanyang Technological University, Singapore 639798"
+      },
+      {
+        "cname": "千灯寺院",
+        "url": "/sight/singapore53/25844.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/200/632/992/23ef83e2bb7a482b9f1e030fed05380a_C_220_140.jpg",
+        "caddress": "366 Race Course Road,"
+      },
+      {
+        "cname": "国家胡姬花园",
+        "url": "/sight/singapore53/1674015.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M08/28/C3/CghzfFTcTUmAEN3SAAWW_PHuI3o299_C_220_140.jpg",
+        "caddress": "1 Cluny Road, Singapore Botanic Gardens, SG 259569"
+      },
+      {
+        "cname": "荷兰村",
+        "url": "/sight/singapore53/30072.html",
+        "s_img": "http://m.chanyouji.cn/attractions/157427.jpg?imageView/1/w/220/h/140",
+        "caddress": "Holland Road, Singapore"
+      },
+      {
+        "cname": "亚洲村",
+        "url": "/sight/singapore53/66810.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/767/362/574/33f971a8f0eb4227b49a38db97228e9b_C_220_140.jpg",
+        "caddress": "26 Garden Avenue Singapore"
+      },
+      {
+        "cname": "詹美回教堂",
+        "url": "/sight/singapore53/1486529.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M00/B3/01/CghzfFSnRieAdLaTAAFwHkYUKcY206_C_220_140.jpg",
+        "caddress": "Masjid Jamae Chulia (Mosque), 218 South Bridge Road, Singapore 058767"
+      },
+      {
+        "cname": "哈查花蒂玛清真寺",
+        "url": "/sight/singapore53/1486916.html",
+        "s_img": "",
+        "caddress": "4001 Beach Road, Singapore 199584"
+      },
+      {
+        "cname": "范克里夫水族馆",
+        "url": "/sight/singapore53/3684.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/728/024/307/554d39ab83654f7e8c982f0319d12a10_C_220_140.jpg",
+        "caddress": "史丹福路乔治五世公园内"
+      },
+      {
+        "cname": "善特主教座堂",
+        "url": "/sight/singapore53/132424.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/845/037/299/b13dc4eddbbb433d8a92e16c5dfdbef7_C_220_140.jpg",
+        "caddress": "位于四马路、维多利亚街和勿拉士峇沙路之间"
+      },
+      {
+        "cname": "阿都卡夫清真寺",
+        "url": "/sight/singapore53/30009.html",
+        "s_img": "http://m.chanyouji.cn/attractions/34540.jpg?imageView/1/w/220/h/140",
+        "caddress": "41 Dunlop Street, Singapore, Singapore"
+      },
+      {
+        "cname": "登布西山",
+        "url": "/sight/singapore53/30050.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156708.jpg?imageView/1/w/220/h/140",
+        "caddress": "8D Dempsey Road Singapore 249670"
+      },
+      {
+        "cname": "榜鹅沙滩",
+        "url": "/sight/singapore53/1476722.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/133/453/655/e6935661612f473ca1c0bf49a1cfdc80_C_220_140.jpg",
+        "caddress": "Punggol road"
+      },
+      {
+        "cname": "马拉巴清真寺",
+        "url": "/sight/singapore53/1486932.html",
+        "s_img": "",
+        "caddress": "471 Victoria Street, Singapore 198370"
+      }
+    ]
+  },
+  {
+    "cname": "圣淘沙",
+    "url": "http://you.ctrip.com/sightlist/sentosa776.html",
+    "places": [
+      {
+        "cname": "新加坡环球影城",
+        "url": "/sight/sentosa776/75830.html",
+        "s_img": "http://p.chanyouji.cn/41402/1370191624024p17s2sfle51bksv2j1vrmuhi182qf.jpg?imageView/1/w/220/h/140",
+        "caddress": "8 Sentosa Gateway, Sentosa Island, 新加坡 098269"
+      },
+      {
+        "cname": "圣淘沙名胜世界",
+        "url": "/sight/sentosa776/87411.html",
+        "s_img": "http://p.chanyouji.cn/21573/1359291804209p17hu1kt5792q35nrr23htj6c5.jpg?imageView/1/w/220/h/140",
+        "caddress": "8 Sentosa Gateway, Sentosa Island, 新加坡 098269"
+      },
+      {
+        "cname": "S.E.A海洋馆",
+        "url": "/sight/sentosa776/141369.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/792/437/978/82c8c880dce9428199434904be84a9ca_C_220_140.jpg",
+        "caddress": "8 Sentosa Gateway, Resorts World Sentosa"
+      },
+      {
+        "cname": "巴拉湾海滩",
+        "url": "/sight/sentosa776/107848.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/428/950/716/b18840828c964b55b1e69b92ba8ccf7f_C_220_140.jpg",
+        "caddress": "Sentosa Island, Singapore 099981 ‎"
+      },
+      {
+        "cname": "圣淘沙名胜世界海洋生物园",
+        "url": "/sight/sentosa776/66798.html",
+        "s_img": "http://p.chanyouji.cn/124403/1400612009615p18odfdadomehds1pa614b1110e12.jpg?imageView/1/w/220/h/140",
+        "caddress": "Marine Life Park，Sentosa Island"
+      },
+      {
+        "cname": "圣淘沙海滩",
+        "url": "/sight/sentosa776/25859.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/820/521/709/ed80b84083a842e697fb142ca9f075ba_C_220_140.jpg",
+        "caddress": "Santosa Island, Singapore"
+      },
+      {
+        "cname": "圣淘沙鱼尾狮塔",
+        "url": "/sight/sentosa776/66797.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/031/419/610/dab85b39e52245d1921475843f2b20d4_C_220_140.jpg",
+        "caddress": "42 Imbiah Rd Sentosa Island Singapore 099701"
+      },
+      {
+        "cname": "新加坡海底世界",
+        "url": "/sight/sentosa776/25012.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/644/506/551/641d7efd998d4e54977472fd1c98f99b_C_220_140.jpg",
+        "caddress": "80 Siloso Road, Sentosa"
+      },
+      {
+        "cname": "西乐索海滩",
+        "url": "/sight/sentosa776/107849.html",
+        "s_img": "http://p.chanyouji.cn/90666/1386346641591p18b4b5u3tguste312ksu76170p2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Siloso Beach Walk, Sentosa"
+      },
+      {
+        "cname": "海事博物馆",
+        "url": "/sight/sentosa776/66806.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/670/155/263/4da80feafd8440d08bb2858250d6c570_C_220_140.jpg",
+        "caddress": "8 Sentosa Gateway, Resorts World Sentosa"
+      },
+      {
+        "cname": "节庆大道",
+        "url": "/sight/sentosa776/1407846.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/297/775/340/fe31b83f1a1849848730e94693bc15c8_C_220_140.jpg",
+        "caddress": "8 Sentosa Gateway, 新加坡 098269"
+      },
+      {
+        "cname": "水上探险乐园",
+        "url": "/sight/sentosa776/1486042.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/403/926/179/608630b89fb84afc9921aaf9ac12075a_C_220_140.jpg",
+        "caddress": "8 Sentosa Gateway, Resort World at Sentosa, Singapore 098269"
+      },
+      {
+        "cname": "圣淘沙音乐喷泉",
+        "url": "/sight/sentosa776/25014.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/390/625/100/657d78f791ee4acebb1caf15b3cf8412_C_220_140.jpg",
+        "caddress": "Sentosa Island"
+      },
+      {
+        "cname": "圣淘沙胡姬花园",
+        "url": "/sight/sentosa776/66809.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/022/548/907/1933787dd7fb45b3beb84aa0c8ec20a4_C_220_140.jpg",
+        "caddress": "Sentosa (Monorail station 1 or 7)"
+      },
+      {
+        "cname": "英比奥山",
+        "url": "/sight/sentosa776/25865.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/745/016/637/b33663ea01df41dc9c4c1962973faa72_C_220_140.jpg",
+        "caddress": "Imbiah,（圣淘沙境内）"
+      },
+      {
+        "cname": "新加坡杜莎夫人蜡像馆",
+        "url": "/sight/sentosa776/1480769.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/443/874/027/8647b721831f4b8bb53a60c169fe233c_C_220_140.jpg",
+        "caddress": "Sentosa Singapore"
+      },
+      {
+        "cname": "圣淘沙大自然探索中心",
+        "url": "/sight/sentosa776/134481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/053/192/7470c61affd84213a6e786450cf70406_C_220_140.jpg",
+        "caddress": "40 Imbiah Road"
+      },
+      {
+        "cname": "草药香料园",
+        "url": "/sight/sentosa776/66804.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/445/047/609/1a8d1e9e83104b93968abf92c0359f1b_C_220_140.jpg",
+        "caddress": "在圣淘沙鱼尾狮公园后面"
+      },
+      {
+        "cname": "圣淘沙4D探险乐园",
+        "url": "/sight/sentosa776/1418247.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/741/139/835/d73645fec4b74fadb6b5af688362dd6a_C_220_140.jpg",
+        "caddress": "51B Imbiah Road, Singapore 099708"
+      },
+      {
+        "cname": "圣淘沙奇幻乐园",
+        "url": "/sight/sentosa776/30053.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156804.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "裕廊",
+    "url": "http://you.ctrip.com/sightlist/jurong21393.html",
+    "places": [
+      {
+        "cname": "裕廊飞禽公园",
+        "url": "/sight/jurong21393/3679.html",
+        "s_img": "http://p.chanyouji.cn/21573/1359291250181p17hu14j9e12lt1snb4dcau1mq43.jpg?imageView/1/w/220/h/140",
+        "caddress": "2 Jurong Hill ，Singapore 628925"
+      }
+    ]
+  }
+]

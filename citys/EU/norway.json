@@ -1,0 +1,142 @@
+[
+  {
+    "cname": "奥斯陆",
+    "suggest_places": [
+      {
+        "cname": "奥斯陆市政厅",
+        "url": "/sight/oslo450/26433.html"
+      },
+      {
+        "cname": "维格朗雕像公园",
+        "url": "/sight/oslo450/81635.html"
+      },
+      {
+        "cname": "奥斯陆大教堂",
+        "url": "/sight/oslo450/26432.html"
+      },
+      {
+        "cname": "挪威皇宫",
+        "url": "/sight/oslo450/137712.html"
+      },
+      {
+        "cname": "挪威国家美术馆",
+        "url": "/sight/oslo450/136769.html"
+      }
+    ],
+    "url": "/sightlist/oslo450.html"
+  },
+  {
+    "cname": "卑尔根",
+    "suggest_places": [
+      {
+        "cname": "松恩峡湾",
+        "url": "/sight/bergen1046/62317.html"
+      },
+      {
+        "cname": "吕瑟峡湾",
+        "url": "/sight/bergen1046/62346.html"
+      },
+      {
+        "cname": "哈当厄尔峡湾",
+        "url": "/sight/bergen1046/62342.html"
+      },
+      {
+        "cname": "卑尔根鱼市",
+        "url": "/sight/bergen1046/1412567.html"
+      },
+      {
+        "cname": "布吕根",
+        "url": "/sight/bergen1046/136764.html"
+      }
+    ],
+    "url": "/sightlist/bergen1046.html"
+  },
+  {
+    "cname": "弗莱姆",
+    "suggest_places": [
+      {
+        "cname": "佛莱姆小火车 ",
+        "url": "/sight/flam1123/110237.html"
+      }
+    ],
+    "url": "/sightlist/flam1123.html"
+  },
+  {
+    "cname": "特罗姆瑟",
+    "suggest_places": [
+      {
+        "cname": "特罗姆瑟缆车",
+        "url": "/sight/tromso1857/1413497.html"
+      },
+      {
+        "cname": "北极教堂",
+        "url": "/sight/tromso1857/1413496.html"
+      }
+    ],
+    "url": "/sightlist/tromso1857.html"
+  },
+  {
+    "cname": "罗弗敦群岛",
+    "suggest_places": [
+      {
+        "cname": "罗佛敦维京博物馆",
+        "url": "/sight/lofotenislands46366/1413459.html"
+      }
+    ],
+    "url": "/sightlist/lofotenislands46366.html"
+  },
+  {
+    "cname": "斯塔万格",
+    "suggest_places": [
+      {
+        "cname": "布道石",
+        "url": "/sight/stavanger1666/1412566.html"
+      },
+      {
+        "cname": "斯塔万格大教堂",
+        "url": "/sight/stavanger1666/1412582.html"
+      },
+      {
+        "cname": "斯塔万格古城",
+        "url": "/sight/stavanger1666/1412520.html"
+      }
+    ],
+    "url": "/sightlist/stavanger1666.html"
+  },
+  {
+    "cname": "沃斯",
+    "suggest_places": [],
+    "url": "/sightlist/voss1215.html"
+  },
+  {
+    "cname": "莫尔德",
+    "suggest_places": [
+      {
+        "cname": "阿克斯拉山",
+        "url": "/sight/molde46478/1412553.html"
+      },
+      {
+        "cname": "老鹰之路",
+        "url": "/sight/molde46478/1412576.html"
+      },
+      {
+        "cname": "奥勒松博物馆",
+        "url": "/sight/molde46478/1412555.html"
+      },
+      {
+        "cname": "奥勒松教堂",
+        "url": "/sight/molde46478/1412561.html"
+      },
+      {
+        "cname": "伦德岛",
+        "url": "/sight/molde46478/1412557.html"
+      }
+    ],
+    "url": "/sightlist/molde46478.html"
+  },
+  {
+    "cname": "金沙维克",
+    "suggest_places": [],
+    "url": "/sightlist/kinsarvik1122.html"
+  }
+]

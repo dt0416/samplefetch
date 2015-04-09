@@ -1,0 +1,554 @@
+[
+  {
+    "cname": "澳門",
+    "url": "http://you.ctrip.com/sight/macau39.html",
+    "places": [
+      {
+        "cname": "大三巴牌坊",
+        "url": "/sight/macau39/3399.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/6A/55/CghzgFSzqWGAX7vdAAT3AUtOD5U828_C_220_140.jpg",
+        "caddress": "澳门大三巴街"
+      },
+      {
+        "cname": "澳门威尼斯人度假村酒店",
+        "url": "/sight/macau39/54501.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/218/746/333/a0f926764b5f486b90d9272c82cb61de_C_220_140.jpg",
+        "caddress": "澳门望德圣母湾大马路，路氹金光大道"
+      },
+      {
+        "cname": "官也街",
+        "url": "/sight/macau39/132400.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/702/424/301/f320bbcaba3a414188d32e67b1bbf40e_C_220_140.jpg",
+        "caddress": "嘉模堂区官也街"
+      },
+      {
+        "cname": "大炮台",
+        "url": "/sight/macau39/3366.html",
+        "s_img": "http://p.chanyouji.cn/26706/1370758912218p17sjp4vh9irjvdp1kdb6q1hvt20.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门半岛中央柿山（又名炮台山）山顶"
+      },
+      {
+        "cname": "澳门塔",
+        "url": "/sight/macau39/136025.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/080/512/397/87bab82702f94681a984351120362675_C_220_140.jpg",
+        "caddress": "澳门南湾新填海区D区域1号地段"
+      },
+      {
+        "cname": "议事亭前地",
+        "url": "/sight/macau39/49198.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/550/163/565/159ee35dec094d05b119430c920f9028_C_220_140.jpg",
+        "caddress": "澳门民政总署大楼前"
+      },
+      {
+        "cname": "威尼斯人国际娱乐场",
+        "url": "/sight/macau39/133063.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/798/185/212/6842065b85314298be4e3c29c9264c1c_C_220_140.jpg",
+        "caddress": "澳门望德圣母湾大马路，路凼金光大道"
+      },
+      {
+        "cname": "新濠天地",
+        "url": "/sight/macau39/132455.html",
+        "s_img": "http://p.chanyouji.cn/94138/1388406758609p18d1nra681ol7fesdl7gb32m14.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门路凼连贯公路 （毗邻澳门科技大学）"
+      },
+      {
+        "cname": "澳门博物馆",
+        "url": "/sight/macau39/45076.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/907/596/991/5efaeb9de5d34419a6fb8fbc3d0f33b9_C_220_140.jpg",
+        "caddress": "澳门博物馆前地112号"
+      },
+      {
+        "cname": "玫瑰圣母堂",
+        "url": "/sight/macau39/3400.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/299/207/481/9a7028413654498d9f92a7993fd56064_C_220_140.jpg",
+        "caddress": "澳门板樟堂街"
+      },
+      {
+        "cname": "渔人码头",
+        "url": "/sight/macau39/26487.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/596/686/780/8364d3e68b054da986eb4d1d08b50b15_C_220_140.jpg",
+        "caddress": "半岛新口岸友谊大马路（近孙逸仙大马路）"
+      },
+      {
+        "cname": "妈阁庙",
+        "url": "/sight/macau39/3381.html",
+        "s_img": "http://p.chanyouji.cn/18205/1357799488000p17ghic19k197o6c1hfjhqr1fmna.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门风顺堂区‎妈阁斜街"
+      },
+      {
+        "cname": "澳门半岛",
+        "url": "/sight/macau39/54221.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/942/792/415/335d0edf00424496967d37b7187cd66a_C_220_140.jpg",
+        "caddress": "澳门氹仔岛北门，珠海湾仔东面"
+      },
+      {
+        "cname": "葡京娱乐场",
+        "url": "/sight/macau39/54498.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/658/002/493/98f39de3ec824e86bb74b81aaa5144bd_C_220_140.jpg",
+        "caddress": "澳门葡京路2-4号，葡京酒店内"
+      },
+      {
+        "cname": "龙环葡韵住宅式博物馆",
+        "url": "/sight/macau39/5712.html",
+        "s_img": "http://m.chanyouji.cn/attractions/4273.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门凼仔南湾大马路"
+      },
+      {
+        "cname": "民政总署大楼",
+        "url": "/sight/macau39/11273.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/158/642/904/e089044f4677479596fa62df54f4d956_C_220_140.jpg",
+        "caddress": "澳门岛新马路163号"
+      },
+      {
+        "cname": "黑沙滩",
+        "url": "/sight/macau39/5715.html",
+        "s_img": "http://p.chanyouji.cn/1376305952/BBB374EB-7CC6-4BBC-B56C-1C138CBAE1A5.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门路环岛南侧的海滩"
+      },
+      {
+        "cname": "海事博物馆",
+        "url": "/sight/macau39/3369.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/193/166/553/08375b01449348149cbc72515158917b_C_220_140.jpg",
+        "caddress": "澳门妈阁庙前地1号"
+      },
+      {
+        "cname": "金莲花广场",
+        "url": "/sight/macau39/26484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/501/276/133/d3313ff54b5d4c5a9eb293c69248852a_C_220_140.jpg",
+        "caddress": "澳门新口岸高美士街、毕士达大马路及友谊大马路之间"
+      },
+      {
+        "cname": "澳门历史城区",
+        "url": "/sight/macau39/49193.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/288/817/636/2879586f68714965bb3321249797e070_C_220_140.jpg",
+        "caddress": "澳门半岛古城区"
+      },
+      {
+        "cname": "澳门主教座堂",
+        "url": "/sight/macau39/3391.html",
+        "s_img": "http://p.chanyouji.cn/26706/1370758702120p17sjp4vh818cr5fsb1tbc719o918.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门半岛半岛中心板樟堂前地(近水坑尾新马路)"
+      },
+      {
+        "cname": "葡萄酒博物馆",
+        "url": "/sight/macau39/3370.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/187/715/574/2ac2c1df3af247fd975817d3cf4dea0a_C_220_140.jpg",
+        "caddress": "澳门澳门高美士街431号"
+      },
+      {
+        "cname": "郑家大屋",
+        "url": "/sight/macau39/26481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/327/136/057/3152c8ef43bd49ef9e2c7a7340cdec79_C_220_140.jpg",
+        "caddress": "澳门龙头左巷10号 ‎"
+      },
+      {
+        "cname": "妈祖文化村",
+        "url": "/sight/macau39/54145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/087/882/070/bcb4457d1b5f469a872c0e170a62a0f5_C_220_140.jpg",
+        "caddress": "澳门路环岛叠石塘山"
+      },
+      {
+        "cname": "外港客运码头",
+        "url": "/sight/macau39/110021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/599/133/899/45529959363b4db5a4f77543e228b15c_C_220_140.jpg",
+        "caddress": "澳门半岛海港前地"
+      },
+      {
+        "cname": "氹仔岛",
+        "url": "/sight/macau39/145200.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/368/265/650/3cd1d28a5cac4a80baae9cd569752298_C_220_140.jpg",
+        "caddress": "澳门半岛以南嘉模堂区 ‎"
+      },
+      {
+        "cname": "地堡街",
+        "url": "/sight/macau39/132401.html",
+        "s_img": "http://p.chanyouji.cn/121612/1399881464581p18nnmvsei13kt1ldj37n19hctda3.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门凼仔地堡街241号"
+      },
+      {
+        "cname": "仁慈堂大楼",
+        "url": "/sight/macau39/26437.html",
+        "s_img": "http://p.chanyouji.cn/46208/1371043611271p17ss90a7m161e145969hl1kmbc.jpg?imageView/1/w/220/h/140",
+        "caddress": "仁慈堂右巷2号（近议事亭前地）"
+      },
+      {
+        "cname": "岗顶前地",
+        "url": "/sight/macau39/49748.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/669/398/949/b2bbe0dab9a540ceac55367d086f88b8_C_220_140.jpg",
+        "caddress": "澳门半岛南部风顺堂区"
+      },
+      {
+        "cname": "圣老楞佐堂",
+        "url": "/sight/macau39/3404.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/966/193/410/32aa9d563aa944eebc49e92c93f10826_C_220_140.jpg",
+        "caddress": "澳门风顺堂街圣老楞佐堂"
+      },
+      {
+        "cname": "哪吒庙",
+        "url": "/sight/macau39/26426.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/848/198/875/78cd7b2d188a43489df84c272c169ad6_C_220_140.jpg",
+        "caddress": "澳门大三巴牌坊右侧"
+      },
+      {
+        "cname": "邮政总局",
+        "url": "/sight/macau39/132954.html",
+        "s_img": "http://p.chanyouji.cn/45378/1370741570695p17sj90tdo1oto14t0102r1fhf1u2e3.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门议事亭前地邮政局总部大楼"
+      },
+      {
+        "cname": "卢家大屋",
+        "url": "/sight/macau39/26435.html",
+        "s_img": "http://p.chanyouji.cn/26706/1370758588409p17sjp4vh813aa1iib1mo819db1vi5q.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门大堂巷七号"
+      },
+      {
+        "cname": "大赛车博物馆",
+        "url": "/sight/macau39/54151.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/570/975/583/cf3f168018914d50951905e8f6863753_C_220_140.jpg",
+        "caddress": "澳门澳门高美士街431号"
+      },
+      {
+        "cname": "亚婆井前地",
+        "url": "/sight/macau39/49197.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/771/758/840/383d88ef8e8b4236b4527becc0643713_C_220_140.jpg",
+        "caddress": "澳门西望洋山北面的广场"
+      },
+      {
+        "cname": "音乐喷泉",
+        "url": "/sight/macau39/54242.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/449/638/705/2c71b620c7814ba1998e15dac662851c_C_220_140.jpg",
+        "caddress": "澳门南湾人工湖"
+      },
+      {
+        "cname": "圣方济各教堂",
+        "url": "/sight/macau39/3407.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/025/317/327/a51cc33f2b2a45bf9d96a72c0dfa63d8_C_220_140.jpg",
+        "caddress": "澳门路环计旦奴街"
+      },
+      {
+        "cname": "主教山小堂",
+        "url": "/sight/macau39/3398.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/650/048/672/92cde18f75bb408bb7debafdc9da212a_C_220_140.jpg",
+        "caddress": "澳门半岛西望洋山"
+      },
+      {
+        "cname": "澳门一号广场",
+        "url": "/sight/macau39/136026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/171/101/392/4d1554810a4047c599f9e869987480ab_C_220_140.jpg",
+        "caddress": "澳门外港新填海区沙格斯大马路"
+      },
+      {
+        "cname": "圣奥斯定教堂",
+        "url": "/sight/macau39/3402.html",
+        "s_img": "http://p.chanyouji.cn/18205/1357801458140p17ghk7b251j2i1cj170j10ld1r14h.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门岗顶前地2号"
+      },
+      {
+        "cname": "卢廉若公园",
+        "url": "/sight/macau39/3375.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/416/688/928/f8e5ac9da7424b2baf749ba24bb9b520_C_220_140.jpg",
+        "caddress": "澳门罗利老马路10号"
+      },
+      {
+        "cname": "何东图书馆",
+        "url": "/sight/macau39/26448.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/916/875/669/362a389d33ab443abb941493039e0668_C_220_140.jpg",
+        "caddress": "澳门岗顶前地三号"
+      },
+      {
+        "cname": "澳门回归贺礼陈列馆",
+        "url": "/sight/macau39/1410926.html",
+        "s_img": "",
+        "caddress": "澳门新口岸冼星海大马路澳门文化中心旁"
+      },
+      {
+        "cname": "圣安多尼堂",
+        "url": "/sight/macau39/3401.html",
+        "s_img": "http://p.chanyouji.cn/18205/1357801627750p17ghk7b255bm2hiemp1a5g1g2215.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门花王堂前地"
+      },
+      {
+        "cname": "谭公庙",
+        "url": "/sight/macau39/3390.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/970/470/989/481de9eec7b144fa9ace89ccf7333840_C_220_140.jpg",
+        "caddress": "澳门路环十月初五街尾"
+      },
+      {
+        "cname": "旧城墙遗址",
+        "url": "/sight/macau39/26427.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/484/408/006/5ebc0bcc70ed4c1d97e69d230e05b1ad_C_220_140.jpg",
+        "caddress": "澳门大三巴牌坊左侧和哪吒庙后面"
+      },
+      {
+        "cname": "旅游塔会展娱乐中心",
+        "url": "/sight/macau39/26115.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/345/291/054/85dd6a8e2ef64a2fb65bf5407af85a0b_C_220_140.jpg",
+        "caddress": "澳门南湾新填海区"
+      },
+      {
+        "cname": "澳门艺术博物馆",
+        "url": "/sight/macau39/45077.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/251/515/974/404e0669bd2b48e09c212fd83d508886_C_220_140.jpg",
+        "caddress": "澳门冼星海大马路文化中心广场"
+      },
+      {
+        "cname": "圣若瑟修院及圣堂",
+        "url": "/sight/macau39/26447.html",
+        "s_img": "http://p.chanyouji.cn/26706/1370757736647p17sjn9u3dr3kkrj10kucbnsd4a.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门岗顶前地"
+      },
+      {
+        "cname": "嘉谟圣母教堂",
+        "url": "/sight/macau39/3406.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/067/954/916/172e6069a0fe4652a6c268b5f7d10ea7_C_220_140.jpg",
+        "caddress": "澳门氹仔嘉路士米耶马路"
+      },
+      {
+        "cname": "二龙喉公园",
+        "url": "/sight/macau39/3374.html",
+        "s_img": "http://p.chanyouji.cn/1388247706/869F887B-B94D-4123-A730-504CFDC3FAF1.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门士多纽拜斯大马路"
+      },
+      {
+        "cname": "普济禅院",
+        "url": "/sight/macau39/3382.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/070/344/839/2d44639e0c05465eaf99dd6e3cbc9d77_C_220_140.jpg",
+        "caddress": "澳门花地玛堂区观音堂街12号普济禅院(观音堂)"
+      },
+      {
+        "cname": "观音庙",
+        "url": "/sight/macau39/54219.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/787/745/704/edfb0fffed6b4270809847daf23525d2_C_220_140.jpg",
+        "caddress": "路环水泉公地50号"
+      },
+      {
+        "cname": "十月初五马路",
+        "url": "/sight/macau39/1411362.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/973/324/593/f6f55bf6810a4505b668edc111e35e0b_C_220_140.jpg",
+        "caddress": "澳门路环十月初五马路"
+      },
+      {
+        "cname": "东望洋山",
+        "url": "/sight/macau39/110030.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/00/E6/CghzgFSrpNKAQA5ZAAMEKK7roFU385_C_220_140.jpg",
+        "caddress": "澳门地厘古工程师马路"
+      },
+      {
+        "cname": "澳门科学馆",
+        "url": "/sight/macau39/144797.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/142/942/561/0b7317dc51f9475f9fdb9ca48d762c6c_C_220_140.jpg",
+        "caddress": "澳门孙逸仙大马路"
+      },
+      {
+        "cname": "三街会馆",
+        "url": "/sight/macau39/3383.html",
+        "s_img": "http://p.chanyouji.cn/18969/1357526605069p17g9e7tdb1afcscds1kkjl1nhb6.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门公局新市南街6-10号"
+      },
+      {
+        "cname": "国父纪念馆",
+        "url": "/sight/macau39/3378.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/070/384/941/db56a77557d3465ca6de664dae92f54c_C_220_140.jpg",
+        "caddress": "澳门半岛文第士街1号"
+      },
+      {
+        "cname": "白鸽巢前地",
+        "url": "/sight/macau39/3373.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/594/958/450/340f0b5a25b94da58dc3b9c5696dddf3_C_220_140.jpg",
+        "caddress": "澳门半岛西北面白鸽巢公园旁"
+      },
+      {
+        "cname": "竹湾海滩",
+        "url": "/sight/macau39/5714.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/177/822/866/9600d50bc5d247da98d697ee294de94a_C_220_140.jpg",
+        "caddress": "澳门路环岛南端"
+      },
+      {
+        "cname": "澳门水塘",
+        "url": "/sight/macau39/1410908.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/334/457/c8a84ec8ed8742158e30632444ec7374_C_220_140.jpg",
+        "caddress": "澳门水塘马路"
+      },
+      {
+        "cname": "观音莲花苑",
+        "url": "/sight/macau39/1410938.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/726/709/522/a996bcd777b94f77b11fea43226c01cd_C_220_140.jpg",
+        "caddress": "澳门新口岸孙逸仙大马路对开的人工岛上"
+      },
+      {
+        "cname": "妈阁炮台",
+        "url": "/sight/macau39/3364.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/321/971/963/95e1df8594fb49daa4bc25e43d7af489_C_220_140.jpg",
+        "caddress": "澳门半岛妈阁上街"
+      },
+      {
+        "cname": "东方基金会会址",
+        "url": "/sight/macau39/26473.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/430/211/056/bebebc2f73604b5c8b0241b4acae2eed_C_220_140.jpg",
+        "caddress": "澳门圣安多尼堂区(白鸽巢公园一侧)"
+      },
+      {
+        "cname": "邮政局博物馆",
+        "url": "/sight/macau39/3371.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/370/555/837/094ffa0d16434a87972763bf8a6fe9b4_C_220_140.jpg",
+        "caddress": "澳门罗结地巷邮政局大楼内"
+      },
+      {
+        "cname": "莲峰庙",
+        "url": "/sight/macau39/3384.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/035/330/1d2ee300566b4915a00d5b4cbd96ab06_C_220_140.jpg",
+        "caddress": "澳门特别行政区提督大马路的道观"
+      },
+      {
+        "cname": "东望洋炮台及灯塔",
+        "url": "/sight/macau39/26469.html",
+        "s_img": "http://m.chanyouji.cn/attractions/4211.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门地厘古工程师马路"
+      },
+      {
+        "cname": "花地玛圣母堂",
+        "url": "/sight/macau39/3397.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/601/765/317/61a04ac42fe74dbea09fd46b75e6417c_C_220_140.jpg",
+        "caddress": "澳门台山巴波沙大马路李宝椿街23号"
+      },
+      {
+        "cname": "圣母雪地教堂",
+        "url": "/sight/macau39/3392.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/702/070/435/e3a6a45d1bdb4f22b1df943125307edc_C_220_140.jpg",
+        "caddress": "东望洋炮台的东望洋灯塔边"
+      },
+      {
+        "cname": "螺丝山公园",
+        "url": "/sight/macau39/3376.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/156/838/385/cd7f88b37604478ea1177fa381eddb1b_C_220_140.jpg",
+        "caddress": "澳门新雅马路与亚马喇马路之间"
+      },
+      {
+        "cname": "乐映天幕",
+        "url": "/sight/macau39/137919.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/005/645/690/5b8d920d219a4577a9406966c011739a_C_220_140.jpg",
+        "caddress": "澳门美高梅金殿酒店大堂"
+      },
+      {
+        "cname": "包公庙",
+        "url": "/sight/macau39/3386.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/742/597/b303a7532bd44213902faf0c0f9fe530_C_220_140.jpg",
+        "caddress": "澳门三巴门福庆街"
+      },
+      {
+        "cname": "南湾公园",
+        "url": "/sight/macau39/3377.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/389/115/258/86754ff67dc84acc8cea06cf18aa88ec_C_220_140.jpg",
+        "caddress": "澳门南湾街、东望洋新街与兵营斜巷之间"
+      },
+      {
+        "cname": "望厦炮台",
+        "url": "/sight/macau39/3365.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/626/354/034/7adac0a5d9274e169042c2ab2dc53cb8_C_220_140.jpg",
+        "caddress": "澳门最北部的望厦山顶(又称莲峰山)，与关闸直线相对"
+      },
+      {
+        "cname": "塔石广场",
+        "url": "/sight/macau39/1410911.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/744/191/534/ef485ae4371a4fb8aa523b7cfd87386c_C_220_140.jpg",
+        "caddress": "澳门肥利喇亚美打大马路89号"
+      },
+      {
+        "cname": "澳门大学",
+        "url": "/sight/macau39/144805.html",
+        "s_img": "http://m.chanyouji.cn/attractions/4294.jpg?imageView/1/w/220/h/140",
+        "caddress": "中国澳门凼仔徐日升寅公马路"
+      },
+      {
+        "cname": "澳门林则徐纪念馆",
+        "url": "/sight/macau39/54177.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/846/910/109/ade728a6b73f4343961afb49beb4ed36_C_220_140.jpg",
+        "caddress": "澳门罅些喇提督大马路（莲峰庙内）"
+      },
+      {
+        "cname": "基督教公墓",
+        "url": "/sight/macau39/11272.html",
+        "s_img": "http://p.chanyouji.cn/26706/1370755943463p17sjkbimg1pvabpo10ghii34e3s.jpg?imageView/1/w/220/h/140",
+        "caddress": "澳门白鸽巢前地东方基金会侧"
+      },
+      {
+        "cname": "北帝庙",
+        "url": "/sight/macau39/54180.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/013/224/868/85411e405d984592829bcbbb9cebb098_C_220_140.jpg",
+        "caddress": "澳门氹仔岛地堡街"
+      },
+      {
+        "cname": "路环岛",
+        "url": "/sight/macau39/144798.html",
+        "s_img": "http://p.chanyouji.cn/1376306011/FC78AD1C-7FAC-457E-BFF9-6B7D86DEF864.jpg?imageView/1/w/220/h/140",
+        "caddress": "中国澳门氹仔岛之南"
+      },
+      {
+        "cname": "港务局大楼",
+        "url": "/sight/macau39/144812.html",
+        "s_img": "http://m.chanyouji.cn/attractions/4389.jpg?imageView/1/w/220/h/140",
+        "caddress": "中国澳门妈阁山边"
+      },
+      {
+        "cname": "莲溪庙",
+        "url": "/sight/macau39/3385.html",
+        "s_img": "",
+        "caddress": "新桥永乐戏院侧(大缆巷25号)"
+      },
+      {
+        "cname": "望德圣母堂",
+        "url": "/sight/macau39/3405.html",
+        "s_img": "",
+        "caddress": "澳门圣母堂前地13号"
+      },
+      {
+        "cname": "澳门茶文化馆",
+        "url": "/sight/macau39/1410906.html",
+        "s_img": "",
+        "caddress": "澳门荷兰园大马路卢廉若公园"
+      },
+      {
+        "cname": "菩堤园",
+        "url": "/sight/macau39/3387.html",
+        "s_img": "",
+        "caddress": "澳门凼仔卢廉若马路5号"
+      },
+      {
+        "cname": "九澳七苦圣母小堂",
+        "url": "/sight/macau39/3408.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/984/004/098/fb72df70543e452b8ccafd8a926650f4_C_220_140.jpg",
+        "caddress": "澳门路环九澳圣母村"
+      },
+      {
+        "cname": "望厦圣方济各小堂",
+        "url": "/sight/macau39/3403.html",
+        "s_img": "",
+        "caddress": "澳门俾利喇街望厦圣方济各圣堂"
+      },
+      {
+        "cname": "通讯博物馆",
+        "url": "/sight/macau39/1410901.html",
+        "s_img": "",
+        "caddress": "澳门马交石炮台马路7号"
+      },
+      {
+        "cname": "圣雅各伯小堂",
+        "url": "/sight/macau39/3393.html",
+        "s_img": "",
+        "caddress": "澳门妈阁炮台上"
+      },
+      {
+        "cname": "澳氹大桥",
+        "url": "/sight/macau39/1678441.html",
+        "s_img": "",
+        "caddress": "澳门半岛与氹仔岛间"
+      },
+      {
+        "cname": "青洲岛",
+        "url": "/sight/macau39/110175.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/029/303/670/83d4097e594445cc9a9f0e2545cc5ae4_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  }
+]

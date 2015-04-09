@@ -1,0 +1,588 @@
+[
+  {
+    "cname": "悉尼",
+    "suggest_places": [
+      {
+        "cname": "悉尼歌剧院",
+        "url": "/sight/sydney236/13607.html"
+      },
+      {
+        "cname": "达令港",
+        "url": "/sight/sydney236/15861.html"
+      },
+      {
+        "cname": "皇家植物园",
+        "url": "/sight/sydney236/13616.html"
+      },
+      {
+        "cname": "岩石区",
+        "url": "/sight/sydney236/13619.html"
+      },
+      {
+        "cname": "圣玛丽大教堂",
+        "url": "/sight/sydney236/15870.html"
+      }
+    ],
+    "url": "/sightlist/sydney236.html"
+  },
+  {
+    "cname": "墨尔本",
+    "suggest_places": [
+      {
+        "cname": "墨尔本",
+        "url": "/sight/melbourne312/136496.html"
+      },
+      {
+        "cname": "大洋路",
+        "url": "/sight/melbourne312/45089.html"
+      },
+      {
+        "cname": "十二使徒岩",
+        "url": "/sight/melbourne312/110165.html"
+      },
+      {
+        "cname": "联邦广场",
+        "url": "/sight/melbourne312/45087.html"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/melbourne312/110407.html"
+      }
+    ],
+    "url": "/sightlist/melbourne312.html"
+  },
+  {
+    "cname": "凯恩斯",
+    "suggest_places": [
+      {
+        "cname": "大堡礁",
+        "url": "/sight/cairns453/22951.html"
+      },
+      {
+        "cname": "凯恩斯",
+        "url": "/sight/cairns453/136484.html"
+      },
+      {
+        "cname": "库兰达热带雨林公园",
+        "url": "/sight/cairns453/67785.html"
+      },
+      {
+        "cname": "绿岛",
+        "url": "/sight/cairns453/22955.html"
+      },
+      {
+        "cname": "库兰达",
+        "url": "/sight/cairns453/22958.html"
+      }
+    ],
+    "url": "/sightlist/cairns453.html"
+  },
+  {
+    "cname": "黄金海岸",
+    "suggest_places": [
+      {
+        "cname": "黄金海岸",
+        "url": "/sight/goldcoast456/122816.html"
+      },
+      {
+        "cname": "冲浪者天堂",
+        "url": "/sight/goldcoast456/15837.html"
+      },
+      {
+        "cname": "海洋世界",
+        "url": "/sight/goldcoast456/15836.html"
+      },
+      {
+        "cname": "华纳电影世界",
+        "url": "/sight/goldcoast456/15835.html"
+      },
+      {
+        "cname": "天堂农庄",
+        "url": "/sight/goldcoast456/79639.html"
+      }
+    ],
+    "url": "/sightlist/goldcoast456.html"
+  },
+  {
+    "cname": "布里斯班",
+    "suggest_places": [
+      {
+        "cname": "南岸公园",
+        "url": "/sight/brisbane323/15858.html"
+      },
+      {
+        "cname": "故事桥",
+        "url": "/sight/brisbane323/67467.html"
+      },
+      {
+        "cname": "袋鼠角",
+        "url": "/sight/brisbane323/67465.html"
+      },
+      {
+        "cname": "野生动物园",
+        "url": "/sight/brisbane323/15860.html"
+      },
+      {
+        "cname": "布里斯班市政厅",
+        "url": "/sight/brisbane323/67468.html"
+      }
+    ],
+    "url": "/sightlist/brisbane323.html"
+  },
+  {
+    "cname": "西澳",
+    "suggest_places": [
+      {
+        "cname": "珀斯",
+        "url": "/sight/perth324/136506.html"
+      },
+      {
+        "cname": "天鹅河",
+        "url": "/sight/perth324/21370.html"
+      },
+      {
+        "cname": "尖峰石阵",
+        "url": "/sight/perth324/107578.html"
+      },
+      {
+        "cname": "波浪岩",
+        "url": "/sight/perth324/21374.html"
+      },
+      {
+        "cname": "猴子米亚海滩",
+        "url": "/sight/perth324/1413350.html"
+      }
+    ],
+    "url": "/sightlist/perth324.html"
+  },
+  {
+    "cname": "阿德莱德",
+    "suggest_places": [
+      {
+        "cname": "袋鼠岛",
+        "url": "/sight/adelaide626/136467.html"
+      },
+      {
+        "cname": "阿德莱德",
+        "url": "/sight/adelaide626/136460.html"
+      },
+      {
+        "cname": "芭萝莎",
+        "url": "/sight/adelaide626/137081.html"
+      },
+      {
+        "cname": "格雷纳尔格",
+        "url": "/sight/adelaide626/96818.html"
+      },
+      {
+        "cname": "南澳大利亚艺术馆",
+        "url": "/sight/adelaide626/21574.html"
+      }
+    ],
+    "url": "/sightlist/adelaide626.html"
+  },
+  {
+    "cname": "霍巴特",
+    "suggest_places": [
+      {
+        "cname": "霍巴特",
+        "url": "/sight/hobart629/136474.html"
+      },
+      {
+        "cname": "亚瑟港",
+        "url": "/sight/hobart629/133536.html"
+      },
+      {
+        "cname": "惠灵顿山",
+        "url": "/sight/hobart629/67303.html"
+      },
+      {
+        "cname": "里士满",
+        "url": "/sight/hobart629/1413732.html"
+      },
+      {
+        "cname": "炮台岬",
+        "url": "/sight/hobart629/137158.html"
+      }
+    ],
+    "url": "/sightlist/hobart629.html"
+  },
+  {
+    "cname": "北领地",
+    "suggest_places": [
+      {
+        "cname": "艾尔斯岩",
+        "url": "/sight/northernterritory627/140297.html"
+      },
+      {
+        "cname": "乌鲁鲁-卡塔丘塔国家公园",
+        "url": "/sight/northernterritory627/64523.html"
+      },
+      {
+        "cname": "卡塔丘塔",
+        "url": "/sight/northernterritory627/67496.html"
+      },
+      {
+        "cname": "北领地",
+        "url": "/sight/northernterritory627/136465.html"
+      },
+      {
+        "cname": "风之谷",
+        "url": "/sight/northernterritory627/87598.html"
+      }
+    ],
+    "url": "/sightlist/northernterritory627.html"
+  },
+  {
+    "cname": "塔斯马尼亚州",
+    "suggest_places": [
+      {
+        "cname": "霍巴特",
+        "url": "/sight/tasmania25024/136474.html"
+      },
+      {
+        "cname": "酒杯湾",
+        "url": "/sight/tasmania25024/67317.html"
+      },
+      {
+        "cname": "亚瑟港",
+        "url": "/sight/tasmania25024/133536.html"
+      },
+      {
+        "cname": "摇篮山",
+        "url": "/sight/tasmania25024/67315.html"
+      },
+      {
+        "cname": "惠灵顿山",
+        "url": "/sight/tasmania25024/67303.html"
+      }
+    ],
+    "url": "/sightlist/tasmania25024.html"
+  },
+  {
+    "cname": "堪培拉",
+    "suggest_places": [
+      {
+        "cname": "伯利.格里芬湖",
+        "url": "/sight/canberra321/13524.html"
+      },
+      {
+        "cname": "国会大厦",
+        "url": "/sight/canberra321/13521.html"
+      },
+      {
+        "cname": "安斯利山",
+        "url": "/sight/canberra321/1497437.html"
+      },
+      {
+        "cname": "战争纪念馆",
+        "url": "/sight/canberra321/13522.html"
+      },
+      {
+        "cname": "澳大利亚国家博物馆",
+        "url": "/sight/canberra321/1497420.html"
+      }
+    ],
+    "url": "/sightlist/canberra321.html"
+  },
+  {
+    "cname": "珀斯",
+    "suggest_places": [
+      {
+        "cname": "珀斯",
+        "url": "/sight/perth120044/136506.html"
+      },
+      {
+        "cname": "尖峰石阵",
+        "url": "/sight/perth120044/107578.html"
+      },
+      {
+        "cname": "国王公园",
+        "url": "/sight/perth120044/1484437.html"
+      },
+      {
+        "cname": "猴子米亚海滩",
+        "url": "/sight/perth120044/1413350.html"
+      },
+      {
+        "cname": "贝壳沙滩",
+        "url": "/sight/perth120044/1413325.html"
+      }
+    ],
+    "url": "/sightlist/perth120044.html"
+  },
+  {
+    "cname": "汉密尔顿岛",
+    "suggest_places": [
+      {
+        "cname": "汉密尔顿岛",
+        "url": "/sight/hamiltonisland1344/137122.html"
+      },
+      {
+        "cname": "白天堂沙滩",
+        "url": "/sight/hamiltonisland1344/67608.html"
+      },
+      {
+        "cname": "码头和主街",
+        "url": "/sight/hamiltonisland1344/1416056.html"
+      },
+      {
+        "cname": "野生动物园",
+        "url": "/sight/hamiltonisland1344/1416086.html"
+      },
+      {
+        "cname": "独树山",
+        "url": "/sight/hamiltonisland1344/1416066.html"
+      }
+    ],
+    "url": "/sightlist/hamiltonisland1344.html"
+  },
+  {
+    "cname": "袋鼠岛",
+    "suggest_places": [
+      {
+        "cname": "海豹湾",
+        "url": "/sight/kangarooisland1599/96838.html"
+      },
+      {
+        "cname": "神奇岩石",
+        "url": "/sight/kangarooisland1599/96840.html"
+      },
+      {
+        "cname": "天涯海角与旗舰拱门",
+        "url": "/sight/kangarooisland1599/96841.html"
+      },
+      {
+        "cname": "弗林德斯蔡斯国家公园",
+        "url": "/sight/kangarooisland1599/96839.html"
+      },
+      {
+        "cname": "微风湾",
+        "url": "/sight/kangarooisland1599/96842.html"
+      }
+    ],
+    "url": "/sightlist/kangarooisland1599.html"
+  },
+  {
+    "cname": "昆士兰州",
+    "suggest_places": [],
+    "url": "/sightlist/queensland25026.html"
+  },
+  {
+    "cname": "维多利亚州",
+    "suggest_places": [
+      {
+        "cname": "墨尔本",
+        "url": "/sight/victoria25027/136496.html"
+      },
+      {
+        "cname": "大洋路",
+        "url": "/sight/victoria25027/45089.html"
+      },
+      {
+        "cname": "十二使徒岩",
+        "url": "/sight/victoria25027/110165.html"
+      },
+      {
+        "cname": "联邦广场",
+        "url": "/sight/victoria25027/45087.html"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/victoria25027/110407.html"
+      }
+    ],
+    "url": "/sightlist/victoria25027.html"
+  },
+  {
+    "cname": "阳光海岸",
+    "suggest_places": [
+      {
+        "cname": "阳光海岸",
+        "url": "/sight/sunshinecoast699/19948.html"
+      }
+    ],
+    "url": "/sightlist/sunshinecoast699.html"
+  },
+  {
+    "cname": "达尔文",
+    "suggest_places": [
+      {
+        "cname": "阿德莱德河",
+        "url": "/sight/darwin325/1676182.html"
+      },
+      {
+        "cname": "玛丽河国家公园",
+        "url": "/sight/darwin325/1676181.html"
+      }
+    ],
+    "url": "/sightlist/darwin325.html"
+  },
+  {
+    "cname": "弗里曼特尔",
+    "suggest_places": [
+      {
+        "cname": "弗里曼特尔监狱",
+        "url": "/sight/fremantle813/25152.html"
+      },
+      {
+        "cname": "弗里曼特尔市场",
+        "url": "/sight/fremantle813/25151.html"
+      },
+      {
+        "cname": "西澳海事博物馆",
+        "url": "/sight/fremantle813/25150.html"
+      },
+      {
+        "cname": "弗里曼特尔艺术中心",
+        "url": "/sight/fremantle813/25162.html"
+      },
+      {
+        "cname": "圆屋",
+        "url": "/sight/fremantle813/25153.html"
+      }
+    ],
+    "url": "/sightlist/fremantle813.html"
+  },
+  {
+    "cname": "道格拉斯港",
+    "suggest_places": [
+      {
+        "cname": "道格拉斯港",
+        "url": "/sight/portdouglas628/22953.html"
+      }
+    ],
+    "url": "/sightlist/portdouglas628.html"
+  },
+  {
+    "cname": "芭萝莎",
+    "suggest_places": [
+      {
+        "cname": "奔富酒庄",
+        "url": "/sight/barossavalley16756/97163.html"
+      },
+      {
+        "cname": "杰卡斯游览中心",
+        "url": "/sight/barossavalley16756/97164.html"
+      },
+      {
+        "cname": "杰卡斯访客中心",
+        "url": "/sight/barossavalley16756/96834.html"
+      },
+      {
+        "cname": "回音墙 ",
+        "url": "/sight/barossavalley16756/97162.html"
+      },
+      {
+        "cname": "林道薰衣草农场",
+        "url": "/sight/barossavalley16756/97161.html"
+      }
+    ],
+    "url": "/sightlist/barossavalley16756.html"
+  },
+  {
+    "cname": "爱丽斯泉",
+    "suggest_places": [
+      {
+        "cname": "爱丽斯泉",
+        "url": "/sight/alicesprings1692/64521.html"
+      },
+      {
+        "cname": "安扎克山",
+        "url": "/sight/alicesprings1692/87600.html"
+      }
+    ],
+    "url": "/sightlist/alicesprings1692.html"
+  },
+  {
+    "cname": "朗塞斯顿",
+    "suggest_places": [
+      {
+        "cname": "塔玛谷",
+        "url": "/sight/launceston1929/133532.html"
+      }
+    ],
+    "url": "/sightlist/launceston1929.html"
+  },
+  {
+    "cname": "阿德莱德山",
+    "suggest_places": [
+      {
+        "cname": "汉多夫德国村 ",
+        "url": "/sight/adelaidehills16753/97158.html"
+      },
+      {
+        "cname": "美食之路",
+        "url": "/sight/adelaidehills16753/97156.html"
+      },
+      {
+        "cname": "克莱兰德野生动物保护区",
+        "url": "/sight/adelaidehills16753/97157.html"
+      },
+      {
+        "cname": "奔富酒园玛格尔庄园",
+        "url": "/sight/adelaidehills16753/97160.html"
+      },
+      {
+        "cname": "洛夫缔山脉 ",
+        "url": "/sight/adelaidehills16753/97159.html"
+      }
+    ],
+    "url": "/sightlist/adelaidehills16753.html"
+  },
+  {
+    "cname": "卧龙岗市",
+    "suggest_places": [
+      {
+        "cname": "南天寺",
+        "url": "/sight/wollongong16223/1411366.html"
+      },
+      {
+        "cname": "卧龙岗海港灯塔",
+        "url": "/sight/wollongong16223/123111.html"
+      }
+    ],
+    "url": "/sightlist/wollongong16223.html"
+  },
+  {
+    "cname": "Yulara",
+    "suggest_places": [],
+    "url": "/sightlist/yulara57666.html"
+  },
+  {
+    "cname": "石灰岩海岸",
+    "suggest_places": [
+      {
+        "cname": "甘比尔山和蓝湖",
+        "url": "/sight/limestonecoast120037/97169.html"
+      },
+      {
+        "cname": "库荣国家公园",
+        "url": "/sight/limestonecoast120037/97166.html"
+      },
+      {
+        "cname": "库纳瓦拉酒区",
+        "url": "/sight/limestonecoast120037/97165.html"
+      },
+      {
+        "cname": "纳拉库特世界遗产化石遗址",
+        "url": "/sight/limestonecoast120037/97168.html"
+      },
+      {
+        "cname": "沿岸渔村-洛贝及海滩港",
+        "url": "/sight/limestonecoast120037/97167.html"
+      }
+    ],
+    "url": "/sightlist/limestonecoast120037.html"
+  },
+  {
+    "cname": "Rowland Flat",
+    "suggest_places": [
+      {
+        "cname": "杰卡斯访客中心",
+        "url": "/sight/rowlandflat57841/96834.html"
+      }
+    ],
+    "url": "/sightlist/rowlandflat57841.html"
+  }
+]

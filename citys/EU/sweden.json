@@ -1,0 +1,92 @@
+[
+  {
+    "cname": "斯德哥尔摩",
+    "suggest_places": [
+      {
+        "cname": "斯德哥尔摩市政厅",
+        "url": "/sight/stockholm451/26541.html"
+      },
+      {
+        "cname": "斯德哥尔摩",
+        "url": "/sight/stockholm451/136866.html"
+      },
+      {
+        "cname": "老城",
+        "url": "/sight/stockholm451/26537.html"
+      },
+      {
+        "cname": "斯德哥尔摩王宫",
+        "url": "/sight/stockholm451/26538.html"
+      },
+      {
+        "cname": "瓦萨沉船博物馆",
+        "url": "/sight/stockholm451/62732.html"
+      }
+    ],
+    "url": "/sightlist/stockholm451.html"
+  },
+  {
+    "cname": "哥德堡",
+    "suggest_places": [
+      {
+        "cname": "小博门码头",
+        "url": "/sight/gothenburg1323/81644.html"
+      },
+      {
+        "cname": "古斯塔夫阿道夫广场",
+        "url": "/sight/gothenburg1323/81642.html"
+      },
+      {
+        "cname": "哥德堡歌剧院",
+        "url": "/sight/gothenburg1323/1410671.html"
+      },
+      {
+        "cname": "沃尔沃汽车博物馆",
+        "url": "/sight/gothenburg1323/135401.html"
+      },
+      {
+        "cname": "里瑟本游乐园",
+        "url": "/sight/gothenburg1323/1414305.html"
+      }
+    ],
+    "url": "/sightlist/gothenburg1323.html"
+  },
+  {
+    "cname": "拉普兰",
+    "suggest_places": [
+      {
+        "cname": "阿比斯库国家公园",
+        "url": "/sight/lapland4498/133494.html"
+      },
+      {
+        "cname": "拉普兰保护区",
+        "url": "/sight/lapland4498/134401.html"
+      }
+    ],
+    "url": "/sightlist/lapland4498.html"
+  },
+  {
+    "cname": "卡尔斯塔德",
+    "suggest_places": [
+      {
+        "cname": "维纳恩湖",
+        "url": "/sight/karlskoga1121/1409983.html"
+      },
+      {
+        "cname": "卡尔斯塔德",
+        "url": "/sight/karlskoga1121/138062.html"
+      }
+    ],
+    "url": "/sightlist/karlskoga1121.html"
+  },
+  {
+    "cname": "林雪平",
+    "suggest_places": [],
+    "url": "/sightlist/linkoping1896.html"
+  },
+  {
+    "cname": "埃德",
+    "suggest_places": [],
+    "url": "/sightlist/ed49631.html"
+  }
+]

@@ -1,0 +1,5390 @@
+[
+  {
+    "cname": "桂林",
+    "url": "http://you.ctrip.com/sightlist/guilin28.html",
+    "places": [
+      {
+        "cname": "漓江",
+        "url": "/sight/guilin28/2888.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M00/69/5D/CghzgFSzpPmAcuB8ABaJFb43zCA053_C_220_140.jpg",
+        "caddress": "桂林市漓江（一般最常规游览路线是从桂林磨盘山码头或竹江码头到阳朔段航线）"
+      },
+      {
+        "cname": "西街",
+        "url": "/sight/yangshuo702/22079.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/316/747/987/c0902b92b6de49c68e41257df36e35c6_C_220_140.jpg",
+        "caddress": "桂林市阳朔县县城中心"
+      },
+      {
+        "cname": "遇龙河",
+        "url": "/sight/yangshuo702/22081.html",
+        "s_img": "http://m.chanyouji.cn/57343/1374815368908p180clpqnj1ldj8oksch17d6129v2n.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市阳朔县境内"
+      },
+      {
+        "cname": "两江四湖",
+        "url": "/sight/guilin28/5925.html",
+        "s_img": "http://p.chanyouji.cn/74467/1382279819314p187b4f118m7019s2c74fl61l492r.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市漓江、桃花江、榕湖、杉湖、桂湖、木龙湖组成的环城水系（市中心地段）"
+      },
+      {
+        "cname": "杨堤",
+        "url": "/sight/yangshuo702/52584.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/053/551/149/0ff88479b95646229e2517d28c67933e_C_220_140.jpg",
+        "caddress": "桂林市阳朔县杨堤乡"
+      },
+      {
+        "cname": "银子岩",
+        "url": "/sight/guilin28/18147.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/643/819/414/a4d99e1db3f44e50851f33bca3f78aef_C_220_140.jpg",
+        "caddress": "桂林市荔浦县马岭镇银子岩景区"
+      },
+      {
+        "cname": "大榕树",
+        "url": "/sight/yangshuo702/22083.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/361/603/d048f3bf453b4001a7f83583802d8c91_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊工农桥旁"
+      },
+      {
+        "cname": "月亮山",
+        "url": "/sight/yangshuo702/22084.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/865/016/636/8ddfb518061043848f811108058af525_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊末端，距阳朔8千米处。"
+      },
+      {
+        "cname": "九马画山",
+        "url": "/sight/yangshuo702/52594.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/068/858/472/f89c1d8524854656b84ff149b6594060_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪镇漓江边"
+      },
+      {
+        "cname": "世外桃源",
+        "url": "/sight/yangshuo702/140484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/204/925/149/76a16f1e6a5a483ab8e4f088e7733839_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙五里店"
+      },
+      {
+        "cname": "芦笛岩",
+        "url": "/sight/guilin28/2880.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/702/602/186/74c372ffdd004f24a72e730eb6bf8715_C_220_140.jpg",
+        "caddress": "桂林市秀峰区芦笛路1号"
+      },
+      {
+        "cname": "十里画廊",
+        "url": "/sight/yangshuo702/52551.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/507/146/785/91c2b156ee594c6eb528962867089372_C_220_140.jpg",
+        "caddress": "桂林市阳朔县321国道十里画廊"
+      },
+      {
+        "cname": "象山景区",
+        "url": "/sight/guilin28/107505.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/376/153/198/506476a511b74a9cb91521d491ba3aa5_C_220_140.jpg",
+        "caddress": "桂林市象山区南环路22号"
+      },
+      {
+        "cname": "兴坪古镇",
+        "url": "/sight/yangshuo702/26887.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/698/512/174/f3736ca694034f16a23f39661d0e7dec_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪镇榕潭街23号"
+      },
+      {
+        "cname": "冠岩",
+        "url": "/sight/guilin28/6030.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/996/824/382/df77d35c3bf74557a3599e572b747bf4_C_220_140.jpg",
+        "caddress": "桂林市雁山区漓江东岸草坪乡冠岩景区"
+      },
+      {
+        "cname": "独秀峰",
+        "url": "/sight/guilin28/2886.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/408/086/048/2c701afc7d404b108b1c0fa6df537167_C_220_140.jpg",
+        "caddress": "桂林市秀峰区东华路，靖江王城（桂林市秀峰区王城路1号）景区内。"
+      },
+      {
+        "cname": "工农桥",
+        "url": "/sight/yangshuo702/132432.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/634/388/584/f3776f93a3974050b5d479af92e9ddaa_C_220_140.jpg",
+        "caddress": "桂林市阳朔县距离县城约5.6公里"
+      },
+      {
+        "cname": "聚龙潭",
+        "url": "/sight/yangshuo702/48899.html",
+        "s_img": "http://p.chanyouji.cn/30035/1364790017986p17n1t5qsgalpbpp1bdcrlu1tug4.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市阳朔县观莲路"
+      },
+      {
+        "cname": "遇龙桥",
+        "url": "/sight/yangshuo702/22078.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/204/433/38d8e4bc58ca4fdcb69f17f9ddf2d614_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙镇遇龙村"
+      },
+      {
+        "cname": "图腾古道",
+        "url": "/sight/yangshuo702/52580.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/464/037/702/760a1ebac3b44bd68a33fd9845f50ba4_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊图腾古道景区"
+      },
+      {
+        "cname": "独秀峰王城景区",
+        "url": "/sight/guilin28/107501.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/842/610/283/4a237271f61e43349a982d898d49be79_C_220_140.jpg",
+        "caddress": "桂林市秀峰区王城路一号"
+      },
+      {
+        "cname": "伏波山",
+        "url": "/sight/guilin28/2883.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/220/024/027/f8f3298502284874b4f7f175f7cafc87_C_220_140.jpg",
+        "caddress": "桂林市叠彩区滨江路27号"
+      },
+      {
+        "cname": "日月双塔",
+        "url": "/sight/guilin28/50487.html",
+        "s_img": "http://p.chanyouji.cn/48760/1372127010051p17tsi976m1pbk1j6pkr01unl6dl2.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市秀峰区文明路10号"
+      },
+      {
+        "cname": "富里桥",
+        "url": "/sight/yangshuo702/52541.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/123/006/129/b50d34e311d0471c97a19167e0760657_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙镇观桥村公所正方村西350米处（距离阳朔县城12公里处，处于遇龙河上游500米）。"
+      },
+      {
+        "cname": "叠彩山",
+        "url": "/sight/guilin28/2879.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/635/276/328/d0193613014040559fa68f1f21c67ff5_C_220_140.jpg",
+        "caddress": "桂林市叠彩区龙珠路2号"
+      },
+      {
+        "cname": "灵渠",
+        "url": "/sight/xingan722/2884.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/430/409/926/5b45236d50ce4b5cbd2f5c6201c19912_C_220_140.jpg",
+        "caddress": "桂林市兴安县（古灵渠水流经兴安县城的南北两岸）"
+      },
+      {
+        "cname": "七星景区",
+        "url": "/sight/guilin28/2882.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/891/194/aed8b9bd08c5479c9c3380805f03447b_C_220_140.jpg",
+        "caddress": "桂林市七星区七星路1号"
+      },
+      {
+        "cname": "黄布倒影",
+        "url": "/sight/yangshuo702/50088.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/576/472/550/4f444bf952c74d658aee2cb5f6cb3f2f_C_220_140.jpg",
+        "caddress": "桂林市漓江83公里精华段兴坪古镇境内"
+      },
+      {
+        "cname": "天籁·蝴蝶泉",
+        "url": "/sight/yangshuo702/48898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/255/593/31b0464272344618beed8bf198aa94fa_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊"
+      },
+      {
+        "cname": "阳朔公园",
+        "url": "/sight/yangshuo702/48892.html",
+        "s_img": "http://p.chanyouji.cn/1385304737/EAC80552-E943-4D8D-8714-C7C39D1146E7.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市阳朔县阳朔镇宝泉路21号"
+      },
+      {
+        "cname": "七星伴月",
+        "url": "/sight/longjititian970/137435.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/200/180/449/93280709bf1d482c834aafde5018c1a1_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族县和平乡平安村龙脊梯田平安壮族梯田观景区内"
+      },
+      {
+        "cname": "桃花江",
+        "url": "/sight/lingchuan3064/5928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/283/054/29c12033a2714ea4972bea5ecdf1539f_C_220_140.jpg",
+        "caddress": "桂林市灵川县"
+      },
+      {
+        "cname": "金坑梯田",
+        "url": "/sight/longjititian970/110465.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/559/785/402/2a82cb9d95424d28844b628e64146a3b_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族自治县和平乡龙脊梯田景区内的大寨村"
+      },
+      {
+        "cname": "正阳步行街",
+        "url": "/sight/guilin28/108721.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/658/772/823/324717d2fdf34e8596718e4c32bdd308_C_220_140.jpg",
+        "caddress": "桂林市秀峰区正阳步行街（南起杉湖北路，北至解放东路）。"
+      },
+      {
+        "cname": "桂林乐满地主题乐园",
+        "url": "/sight/xingan722/140489.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/649/132/062/8388d0be76404e658181d4802b92d3e5_C_220_140.jpg",
+        "caddress": "桂林市兴安县志玲路"
+      },
+      {
+        "cname": "尧山",
+        "url": "/sight/guilin28/2887.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/514/883/899/5b714efb55884c8688b92314eb797f03_C_220_140.jpg",
+        "caddress": "桂林市叠彩区尧山路尧山景区"
+      },
+      {
+        "cname": "草坪",
+        "url": "/sight/guilin28/2885.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/528/413/188/a64df3f3846a4cb88798d3df2c8ca1ab_C_220_140.jpg",
+        "caddress": "桂林市雁山区临桂县，漓江东岸。"
+      },
+      {
+        "cname": "山水园",
+        "url": "/sight/yangshuo702/22090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/922/500/862/90f7ac72efb5444eab19337ca5f44d0e_C_220_140.jpg",
+        "caddress": "桂林市阳朔县城滨江路2号"
+      },
+      {
+        "cname": "丰鱼岩",
+        "url": "/sight/lipu2020/18148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/086/118/981/2ea797672bfb469681532e8b983f9255_C_220_140.jpg",
+        "caddress": "桂林市荔浦县三河东里"
+      },
+      {
+        "cname": "广西桂林两江四湖游船",
+        "url": "/sight/guilin28/140483.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/227/487/821/25b0617695ab488abad03b31b81bd676_C_220_140.jpg",
+        "caddress": "桂林市漓江、桃花江、榕湖、杉湖、桂湖、木龙湖组成的环城水系（市中心地段）"
+      },
+      {
+        "cname": "大圩古镇",
+        "url": "/sight/lingchuan3064/26740.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/966/639/024/193be4384bd644eb85a74606ffc52979_C_220_140.jpg",
+        "caddress": "桂林市灵川县大圩镇"
+      },
+      {
+        "cname": "中心广场",
+        "url": "/sight/guilin28/108723.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/638/308/076/c7c14f8c56d4406081ce5c1f4294221a_C_220_140.jpg",
+        "caddress": "桂林市秀峰区依仁路"
+      },
+      {
+        "cname": "南溪山公园",
+        "url": "/sight/guilin28/50286.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/926/619/825/0d01a30cde02445c80fbc765f685a960_C_220_140.jpg",
+        "caddress": "桂林市象山区中山南路2号"
+      },
+      {
+        "cname": "刘三姐大观园",
+        "url": "/sight/guilin28/50478.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/302/369/034/485a458298df4996aeb7f1f01aa5ff66_C_220_140.jpg",
+        "caddress": "桂林市秀峰区桃花江路3号"
+      },
+      {
+        "cname": "书童山",
+        "url": "/sight/yangshuo702/22082.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/546/838/772/7b0710ab736f4cf79a3da09a7a537213_C_220_140.jpg",
+        "caddress": "桂林市阳朔县城东南田家河与漓江交汇处，距县城约2公里。"
+      },
+      {
+        "cname": "桂林荔蒲荔江湾",
+        "url": "/sight/lipu2020/50486.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/508/116/721/12b2d1dab37c4c71b22beae6e1ed5ed2_C_220_140.jpg",
+        "caddress": "桂林市荔浦县青山镇"
+      },
+      {
+        "cname": "桂林西山景区",
+        "url": "/sight/guilin28/141374.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/755/736/779/dbda49eb6afc41ffbde92c28046b4e9b_C_220_140.jpg",
+        "caddress": "桂林市秀峰区西山路2号"
+      },
+      {
+        "cname": "穿山公园",
+        "url": "/sight/guilin28/50457.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/070/566/937/5ad2733dcd07465ea2e58cd61fd144db_C_220_140.jpg",
+        "caddress": "桂林市七星区穿山小街55号"
+      },
+      {
+        "cname": "平安壮寨",
+        "url": "/sight/longjititian970/107503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/333/243/282/5a5da213cae94a059db63b79207cd2f1_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族县和平乡平安村龙脊梯田景区内（近平安壮族梯田）"
+      },
+      {
+        "cname": "愚自乐园",
+        "url": "/sight/yangshuo702/22089.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/473/273/1ee4aa0c3d874e0a82e4c50a75788e44_C_220_140.jpg",
+        "caddress": "桂林市阳朔县雁山区大埠乡"
+      },
+      {
+        "cname": "徐悲鸿故居",
+        "url": "/sight/yangshuo702/22080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/269/679/347/abaf51a2b18e49209d6aacebb2a2844d_C_220_140.jpg",
+        "caddress": "桂林市阳朔县县前街5号"
+      },
+      {
+        "cname": "靖江王陵",
+        "url": "/sight/guilin28/50287.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/639/206/075/a584594a13044e43b942ff48a5266348_C_220_140.jpg",
+        "caddress": "桂林市尧山路"
+      },
+      {
+        "cname": "黄洛瑶寨",
+        "url": "/sight/longjititian970/50289.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/899/989/673/8932839205dd43fea12b9fd04996d179_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族自治县和平乡平安村龙脊梯田景区内"
+      },
+      {
+        "cname": "金水岩",
+        "url": "/sight/yangshuo702/50258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/925/874/434/050e7a663387445c8dfc80beae2e6965_C_220_140.jpg",
+        "caddress": "桂林市阳朔县历村后山"
+      },
+      {
+        "cname": "广西桂林义江缘",
+        "url": "/sight/guilin28/140486.html",
+        "s_img": "http://p.chanyouji.cn/1537472/04832D57-5176-419B-8A6C-64E1F3318481.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市临桂区五通镇321国道旁"
+      },
+      {
+        "cname": "桂林木龙湖",
+        "url": "/sight/guilin28/140482.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/874/571/949/702a9378fa2043a4ae6917e97dbc9069_C_220_140.jpg",
+        "caddress": "桂林市区中山北路木龙湖景区"
+      },
+      {
+        "cname": "雁山园",
+        "url": "/sight/guilin28/141697.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/611/537/239/bffbb03abe6740009d2ac24f289b154d_C_220_140.jpg",
+        "caddress": "桂林市雁山区雁山镇"
+      },
+      {
+        "cname": "榕杉湖景区",
+        "url": "/sight/guilin28/137447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/385/842/642/1c392b73e1464abd907999a87c77079b_C_220_140.jpg",
+        "caddress": "桂林市秀峰区榕湖南路（阳桥的两侧）"
+      },
+      {
+        "cname": "金钟山旅游度假区",
+        "url": "/sight/guilin28/131673.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/602/835/249/390759a159fc4dc1b468ba48cf6e239e_C_220_140.jpg",
+        "caddress": "桂林市永福县罗锦镇"
+      },
+      {
+        "cname": "月亮水岩",
+        "url": "/sight/yangshuo702/50295.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/390/742/166/16236b966ff44acd963e91a431602670_C_220_140.jpg",
+        "caddress": "桂林市阳朔县高田镇平塘村"
+      },
+      {
+        "cname": "神龙养生度假区",
+        "url": "/sight/guilin28/140496.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/312/637/292/1a379a136c5c49b990e06e15a6812a96_C_220_140.jpg",
+        "caddress": "桂林市雁山区草坪乡潜径村委兰口村"
+      },
+      {
+        "cname": "桂林博物馆",
+        "url": "/sight/guilin28/48668.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/972/120/624/d854c078299a4501a58184a399e519f7_C_220_140.jpg",
+        "caddress": "桂林市秀峰区西山路4号"
+      },
+      {
+        "cname": "千家峒",
+        "url": "/sight/guilin28/131469.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/974/420/986/4de8f0316bb24508bf652774ceb9a83f_C_220_140.jpg",
+        "caddress": "桂林市灌阳县苏东村"
+      },
+      {
+        "cname": "漓江民俗风情园",
+        "url": "/sight/guilin28/18139.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/755/923/068/d37a11e7624042009a04ff3d01c81940_C_220_140.jpg",
+        "caddress": "桂林市七星区临江路250号"
+      },
+      {
+        "cname": "龙脊大寨",
+        "url": "/sight/guilin28/132092.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/931/152/648/791e263a762d4470baf09c9ca6038638_C_220_140.jpg",
+        "caddress": "桂林市龙胜和平乡大寨村田头寨"
+      },
+      {
+        "cname": "李宗仁官邸",
+        "url": "/sight/guilin28/50437.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/885/286/059/5c54deb25b2643ce9e506b8980644773_C_220_140.jpg",
+        "caddress": "桂林市象山区文明路4号"
+      },
+      {
+        "cname": "刘三姐水上公园风景区",
+        "url": "/sight/yangshuo702/49998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/621/403/d4b6f5dcba6241499da57797d06ab414_C_220_140.jpg",
+        "caddress": "桂林市阳朔县刘三姐码头"
+      },
+      {
+        "cname": "菩萨水岩",
+        "url": "/sight/yangshuo702/50259.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/521/829/598/66cf72041ff74ca0a30f3785dc9dc038_C_220_140.jpg",
+        "caddress": "桂林市阳朔县阳朔月亮山景区历村后山上"
+      },
+      {
+        "cname": "桂林园林植物园",
+        "url": "/sight/guilin28/141689.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/558/458/774/c2d012ad2a844d2494b67e48c608e7d7_C_220_140.jpg",
+        "caddress": "桂林市区环城西一路117号"
+      },
+      {
+        "cname": "七星岩",
+        "url": "/sight/guilin28/131503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/721/206/803/9900e3fa381b4f669ae0c80c0550a822_C_220_140.jpg",
+        "caddress": "桂林市七星区七星路1号七星景区内"
+      },
+      {
+        "cname": "天门山",
+        "url": "/sight/ziyuan980/131693.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/033/562/944/0f5a2a6218b045dcb1861f6cfc07f0bd_C_220_140.jpg",
+        "caddress": "桂林市资源县中峰乡车田湾村"
+      },
+      {
+        "cname": "桂林猫儿山",
+        "url": "/sight/xingan722/18142.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/909/859/fef2cf1e4cd5454b942abc089758bbf1_C_220_140.jpg",
+        "caddress": "桂林市的北部于兴安县西北部"
+      },
+      {
+        "cname": "訾洲岛",
+        "url": "/sight/guilin28/141699.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/928/560/363/61e14766abad4466ac5cf5f28d8fc101_C_220_140.jpg",
+        "caddress": "桂林市七星区穿山路"
+      },
+      {
+        "cname": "资源丹霞国家地质公园",
+        "url": "/sight/ziyuan980/131698.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/747/565/221/f37d68dc643241e18f09ec711a051d4b_C_220_140.jpg",
+        "caddress": "桂林市资源县与湖南省新宁县交界"
+      },
+      {
+        "cname": "金银寨景区",
+        "url": "/sight/guilin28/141712.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/761/936/b112bd06e8ec4e0d90f43d352cff4012_C_220_140.jpg",
+        "caddress": "桂林市雁山区大埠路口金银寨景区"
+      },
+      {
+        "cname": "虞山公园",
+        "url": "/sight/guilin28/48669.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/912/853/0c41f154bffa43e6b49cfc462f7555a6_C_220_140.jpg",
+        "caddress": "桂林市叠彩区中山北路70号"
+      },
+      {
+        "cname": "怪楼视觉艺术馆",
+        "url": "/sight/guilin28/1409259.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/459/145/8e09e7b210604e1e8c5ee45284a8f4ef_C_220_140.jpg",
+        "caddress": "桂林市阳朔县西街桂花路4号"
+      },
+      {
+        "cname": "桂林植物园",
+        "url": "/sight/guilin28/50471.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/073/394/362/9c008e646ada466992589366f8b5e4ac_C_220_140.jpg",
+        "caddress": "桂林市雁山区雁山镇85号"
+      },
+      {
+        "cname": "恭城",
+        "url": "/sight/guilin28/1417471.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M00/AC/F4/CghzfVTGVXCAOFB3AAD3kMUbWCg147_C_220_140.jpg",
+        "caddress": "桂林市恭城瑶族自治县恭城镇"
+      },
+      {
+        "cname": "阳朔茶观园景区",
+        "url": "/sight/yangshuo702/141688.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/256/222/645/d2cbfbc310d548f2b95397a4f8b0f0f7_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙镇芭林村"
+      },
+      {
+        "cname": "龙脊峡漂流",
+        "url": "/sight/longsheng1445120/131717.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/587/677/780/ff9c2579917c4d89af7a80150c889951_C_220_140.jpg",
+        "caddress": "桂林市龙胜县和平乡"
+      },
+      {
+        "cname": "桂林园博园",
+        "url": "/sight/guilin28/141690.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/095/280/620/9e8f1d5508ef46b8aafa1945a9b325ec_C_220_140.jpg",
+        "caddress": "桂林市雁山镇"
+      },
+      {
+        "cname": "骆驼过江",
+        "url": "/sight/yangshuo702/52542.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/149/301/413/11cd7dc8c025477581c0320de979ec2b_C_220_140.jpg",
+        "caddress": "桂林市阳朔县遇龙河流域"
+      },
+      {
+        "cname": "桂林十二滩漂流",
+        "url": "/sight/guilin28/141524.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/602/060/228/2b4b662870e94dbfb2666123ce2e8142_C_220_140.jpg",
+        "caddress": "桂林市临桂区宛田乡大喉桂林十二滩景区"
+      },
+      {
+        "cname": "桂林罗山湖玛雅水上乐园",
+        "url": "/sight/guilin28/1410441.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/893/973/678/c6469fb0bc8143e98f9ba80939579e4b_C_220_140.jpg",
+        "caddress": "桂林市临桂县罗山水库旁"
+      },
+      {
+        "cname": "雄森熊虎山庄",
+        "url": "/sight/guilin28/50438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/778/763/484/d1ea4f5dd78242519fa76baf86537806_C_220_140.jpg",
+        "caddress": "桂林两江国际机场专用公路沙塘大圆盘南侧"
+      },
+      {
+        "cname": "桂林动物园",
+        "url": "/sight/guilin28/131512.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/674/479/967/4a3a912edaf34ebf8802a68ebdf1151b_C_220_140.jpg",
+        "caddress": "桂林市七星区七星路1号"
+      },
+      {
+        "cname": "袖珍国景区",
+        "url": "/sight/yangshuo702/141686.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/230/711/379/a7b305a4aaa4489786858a65085c4093_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊"
+      },
+      {
+        "cname": "蝴蝶谷瑶寨景区",
+        "url": "/sight/guilin28/141693.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/062/258/344/9212037c7c3e4640ba7e5e1a573714cb_C_220_140.jpg",
+        "caddress": "桂林市临桂区宛田乡东宅江村"
+      },
+      {
+        "cname": "西山石窟",
+        "url": "/sight/guilin28/141698.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/749/306/614/5da570020e5b41e99a678adbf4fc69cd_C_220_140.jpg",
+        "caddress": "桂林市桃花江路6号西山石窟景区"
+      },
+      {
+        "cname": "北芬大村",
+        "url": "/sight/guilin28/131505.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/C4/51/CghzgFS2d0CAbzmpAACEi_mSbsw548_C_220_140.jpg",
+        "caddress": "桂林市象山区二塘乡北芬村"
+      },
+      {
+        "cname": "大正温泉",
+        "url": "/sight/guilin28/141691.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/791/301/22ffac13f39e4f5f88d3c80378f44975_C_220_140.jpg",
+        "caddress": "桂林市象山区崇信路47号"
+      },
+      {
+        "cname": "广西桂林永福温泉",
+        "url": "/sight/guilin28/140504.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/569/591/377/1294392bb9154d49b0826a762a783d64_C_220_140.jpg",
+        "caddress": "桂林市永福县罗锦镇金钟山旅游度假区"
+      },
+      {
+        "cname": "青狮潭",
+        "url": "/sight/guilin28/50436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/229/284/368/d38b4cebbe4f4893bc2f88769be612b1_C_220_140.jpg",
+        "caddress": "桂林市灵川县漓江上游"
+      },
+      {
+        "cname": "广西桂林永福天坑",
+        "url": "/sight/guilin28/140498.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/766/201/285/18e22d3cc3534226806fc070f4752774_C_220_140.jpg",
+        "caddress": "桂林市永福县罗锦镇金钟山旅游度假区"
+      },
+      {
+        "cname": "古南门",
+        "url": "/sight/guilin28/1417487.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M03/02/A5/CghzfVUFiZaAbukoAAIRtaJsjTs848_C_220_140.jpg",
+        "caddress": "桂林市秀峰区榕湖北路13号"
+      },
+      {
+        "cname": "红溪景区",
+        "url": "/sight/guilin28/48682.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/751/666/254/f0cdeb5007b24fd1baa3edbaaf6d8319_C_220_140.jpg",
+        "caddress": "桂林市临桂区中庸乡"
+      },
+      {
+        "cname": "广西桂林永福岩",
+        "url": "/sight/guilin28/140492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/451/587/310/94083ebedcf54ba58ef72ba3139f4fe6_C_220_140.jpg",
+        "caddress": "桂林市永福县罗锦镇金钟山旅游度假区"
+      },
+      {
+        "cname": "海洋银杏林",
+        "url": "/sight/guilin28/137403.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/669/886/478/a949df3d237740ce800197993fd3b53a_C_220_140.jpg",
+        "caddress": "桂林市灵川县海洋乡境内"
+      },
+      {
+        "cname": "龙门瀑布景区",
+        "url": "/sight/lingchuan3064/131624.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/682/857/519/23c00dadc1eb4edbbe766a8c245b26e5_C_220_140.jpg",
+        "caddress": "桂林市灵川县青狮潭镇东源村委畔头村旁"
+      },
+      {
+        "cname": "湘江战役纪念碑园",
+        "url": "/sight/guilin28/50294.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/894/010/514/12b44c13cb0143ec8041a5f2c4c6043a_C_220_140.jpg",
+        "caddress": "桂林兴安县城西南1公里的狮子山"
+      },
+      {
+        "cname": "黄关镇",
+        "url": "/sight/guilin28/1417806.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/751/689/103/0d9bf0d790554fd1ae14eb13b8c9ea7b_C_220_140.jpg",
+        "caddress": "桂林市灌阳县黄关镇"
+      },
+      {
+        "cname": "恭城文庙",
+        "url": "/sight/guilin28/26734.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/296/442/952/63817fd277614980b594bcbd81612064_C_220_140.jpg",
+        "caddress": "桂林市恭城县西山南麓"
+      },
+      {
+        "cname": "花坪自然保护区",
+        "url": "/sight/guilin28/50291.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/324/601/224/a8c298ddccf649e4842e11b07cdf7c3e_C_220_140.jpg",
+        "caddress": "龙胜县西南部与临桂县交界一带"
+      },
+      {
+        "cname": "白崇禧故居",
+        "url": "/sight/guilin28/1417567.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/E3/1A/Cghzf1TrzN-ASbsSAAL89atGyiM882_C_220_140.jpg",
+        "caddress": "桂林市秀峰区榕湖北路桂林白公馆旁。"
+      },
+      {
+        "cname": "恭城武庙",
+        "url": "/sight/guilin28/26737.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/448/156/bf129269a0884ed6afd4a20b1baeda7c_C_220_140.jpg",
+        "caddress": "桂林市恭城瑶族自治县"
+      },
+      {
+        "cname": "宝鼎瀑布",
+        "url": "/sight/guilin28/50293.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/740/354/696/2187a5e5af6b4faab8b61c06ec88bedc_C_220_140.jpg",
+        "caddress": "桂林市资源县"
+      },
+      {
+        "cname": "八路军桂林办事处纪念馆",
+        "url": "/sight/guilin28/1417847.html",
+        "s_img": "",
+        "caddress": "桂林市叠彩区中山北路14号"
+      },
+      {
+        "cname": "逍遥湖景区",
+        "url": "/sight/guilin28/1483046.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/273/435/986/cc356836dd91492db42284dcc9bb9343_C_220_140.jpg",
+        "caddress": "桂林市灵川县大圩镇上茯荔村"
+      },
+      {
+        "cname": "桂林市基督教堂",
+        "url": "/sight/guilin28/131494.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/478/086/903/3a68366f41694c08a14c3ed1cc519777_C_220_140.jpg",
+        "caddress": "桂林市叠彩区中山中路50号"
+      },
+      {
+        "cname": "桂林海洋世界",
+        "url": "/sight/guilin28/50167.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/406/389/188/d2632f3edded4b079dcd1d95ad8e809f_C_220_140.jpg",
+        "caddress": "桂林市象山区中山南路2号"
+      },
+      {
+        "cname": "桂林人旺角美食街",
+        "url": "/sight/guilin28/137964.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/803/442/605/4c4848530caf42a998a100ed73963f2b_C_220_140.jpg",
+        "caddress": "桂林市芦淞区建设中路1号百货大楼6楼"
+      },
+      {
+        "cname": "湖南会馆",
+        "url": "/sight/guilin28/50296.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/617/471/181/8bc5b5da067c4df6aaaa12f6ca76c781_C_220_140.jpg",
+        "caddress": "桂林市恭城县太和街"
+      },
+      {
+        "cname": "大西江玫瑰岩",
+        "url": "/sight/guilin28/1409260.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/112/847/306/704870f7eb1546f388ac8134d4d34095_C_220_140.jpg",
+        "caddress": "桂林市全州县大西江镇五星村委境内龟山岭旁"
+      },
+      {
+        "cname": "中山中路夜市",
+        "url": "/sight/guilin28/108722.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/509/872/159/c30c550fe2774c75b8843710785d775c_C_220_140.jpg",
+        "caddress": "桂林市中山中路从百货大楼至微笑堂路段"
+      },
+      {
+        "cname": "月岭古民居",
+        "url": "/sight/guilin28/131534.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/572/311/837/bca1152eef314d55a2318177db990e17_C_220_140.jpg",
+        "caddress": "桂林市灌阳县文市镇东北两公里处"
+      },
+      {
+        "cname": "大岭山桃园",
+        "url": "/sight/guilin28/26735.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/098/112/985/335d920e0edf46c08b4ff886abbfe757_C_220_140.jpg",
+        "caddress": "桂林市恭城县西岭乡大岭山村"
+      },
+      {
+        "cname": "骆驼山",
+        "url": "/sight/guilin28/1417431.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M01/F3/57/CghzgVS6WruAZkqTAAM7-VWtKVM438_C_220_140.jpg",
+        "caddress": "桂林市七星区七星路1号七星景区内"
+      },
+      {
+        "cname": "周渭祠",
+        "url": "/sight/guilin28/50298.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/978/422/859/10835a4d6b2145169467a31d7dfd143b_C_220_140.jpg",
+        "caddress": "桂林市恭城瑶族自治县吉祥街"
+      },
+      {
+        "cname": "骝马山摩崖造像",
+        "url": "/sight/guilin28/131487.html",
+        "s_img": "",
+        "caddress": "桂林市秀峰区骝马山北麓"
+      },
+      {
+        "cname": "九滩瀑布",
+        "url": "/sight/guilin28/131721.html",
+        "s_img": "",
+        "caddress": "桂林市临桂县黄沙分滩头水源林保护区内"
+      },
+      {
+        "cname": "乌桕滩",
+        "url": "/sight/guilin28/1417905.html",
+        "s_img": "",
+        "caddress": "桂林市漓江西岸竹江码头下游3公里处雁山区竹江村河滩上"
+      },
+      {
+        "cname": "永宁州古城",
+        "url": "/sight/guilin28/131668.html",
+        "s_img": "",
+        "caddress": "桂林市永福县百寿镇北端"
+      },
+      {
+        "cname": "苏东神宫",
+        "url": "/sight/guilin28/1417951.html",
+        "s_img": "",
+        "caddress": "桂林市灌阳县苏东村"
+      },
+      {
+        "cname": "百寿岩",
+        "url": "/sight/guilin28/1418172.html",
+        "s_img": "",
+        "caddress": "桂林市永福县百寿镇"
+      },
+      {
+        "cname": "板峡湖",
+        "url": "/sight/guilin28/131667.html",
+        "s_img": "",
+        "caddress": "桂林市永福县堡里乡"
+      },
+      {
+        "cname": "会仙湿地",
+        "url": "/sight/guilin28/1417914.html",
+        "s_img": "",
+        "caddress": "桂林市临桂县会仙镇睦洞村七星村"
+      },
+      {
+        "cname": "蝴蝶谷漂流",
+        "url": "/sight/guilin28/141680.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/617/545/719/ae3bffc8e1fa40159d82fc996309b80f_C_220_140.jpg",
+        "caddress": "桂林市临桂县宛田乡东宅江村"
+      },
+      {
+        "cname": "桂海碑林博物馆",
+        "url": "/sight/guilin28/1418152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M09/F3/7E/CghzgFS6W16AaaDLAAKe-ypAl7k133_C_220_140.jpg",
+        "caddress": "桂林市龙隐路1号桂海碑林博物馆（七星景区内）。"
+      },
+      {
+        "cname": "斗鸡山",
+        "url": "/sight/guilin28/1418053.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/DF/20/CghzfVSZihqAEGSoAAJHcJGkbTE809_C_220_140.jpg",
+        "caddress": "桂林市象山区崇信路东侧"
+      },
+      {
+        "cname": "高草禅林寺",
+        "url": "/sight/guilin28/131683.html",
+        "s_img": "",
+        "caddress": "桂林市灌阳县西山瑶族乡李家村"
+      },
+      {
+        "cname": "天主教堂",
+        "url": "/sight/guilin28/1417850.html",
+        "s_img": "",
+        "caddress": "林市秀峰区解放东路48号"
+      },
+      {
+        "cname": "穿山岩",
+        "url": "/sight/guilin28/1417400.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/536/287/075/82678b0cd5474cd39058d01d10860681_C_220_140.jpg",
+        "caddress": "桂林市七星区穿山景区"
+      },
+      {
+        "cname": "桂林冒险树",
+        "url": "/sight/guilin28/1411613.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/379/209/297/1db899c484234aa6a08f04c79e1c679e_C_220_140.jpg",
+        "caddress": "桂林市七星景区内骆驼山旁"
+      },
+      {
+        "cname": "龙胜南山牧场",
+        "url": "/sight/longjititian970/50288.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/539/174/832/a9bc2e3abc664cdead894427875573b6_C_220_140.jpg",
+        "caddress": "桂林市龙胜县境内（近湖南省城步县）"
+      },
+      {
+        "cname": "贡院",
+        "url": "/sight/guilin28/131491.html",
+        "s_img": "",
+        "caddress": "桂林市秀峰区王城路一号独秀峰王城景区内"
+      },
+      {
+        "cname": "深里河景区",
+        "url": "/sight/guilin28/50492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/662/968/021/9a3eb208184740b5976e5120774e3d63_C_220_140.jpg",
+        "caddress": "桂林市漓江西边山脉，为阳朔遇龙河的源头"
+      },
+      {
+        "cname": "叠彩伏波景区",
+        "url": "/sight/guilin28/70459.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/321/734/074/f9211ff30a6649da83d457a60c16c483_C_220_140.jpg",
+        "caddress": "桂林市龙珠路2号"
+      },
+      {
+        "cname": "玉龙滩景区",
+        "url": "/sight/guilin28/48677.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/630/687/318/48eaeb91e4ae4e24ad567b33a6b5f80c_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族自治县"
+      },
+      {
+        "cname": "桂林千家洞景区",
+        "url": "/sight/guilin28/131533.html",
+        "s_img": "",
+        "caddress": "桂林市灌阳苏东村"
+      }
+    ]
+  },
+  {
+    "cname": "阳朔",
+    "url": "http://you.ctrip.com/sightlist/yangshuo702.html",
+    "places": [
+      {
+        "cname": "西街",
+        "url": "/sight/yangshuo702/22079.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/316/747/987/c0902b92b6de49c68e41257df36e35c6_C_220_140.jpg",
+        "caddress": "桂林市阳朔县县城中心"
+      },
+      {
+        "cname": "遇龙河",
+        "url": "/sight/yangshuo702/22081.html",
+        "s_img": "http://m.chanyouji.cn/57343/1374815368908p180clpqnj1ldj8oksch17d6129v2n.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市阳朔县境内"
+      },
+      {
+        "cname": "杨堤",
+        "url": "/sight/yangshuo702/52584.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/053/551/149/0ff88479b95646229e2517d28c67933e_C_220_140.jpg",
+        "caddress": "桂林市阳朔县杨堤乡"
+      },
+      {
+        "cname": "大榕树",
+        "url": "/sight/yangshuo702/22083.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/361/603/d048f3bf453b4001a7f83583802d8c91_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊工农桥旁"
+      },
+      {
+        "cname": "月亮山",
+        "url": "/sight/yangshuo702/22084.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/865/016/636/8ddfb518061043848f811108058af525_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊末端，距阳朔8千米处。"
+      },
+      {
+        "cname": "九马画山",
+        "url": "/sight/yangshuo702/52594.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/068/858/472/f89c1d8524854656b84ff149b6594060_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪镇漓江边"
+      },
+      {
+        "cname": "世外桃源",
+        "url": "/sight/yangshuo702/140484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/204/925/149/76a16f1e6a5a483ab8e4f088e7733839_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙五里店"
+      },
+      {
+        "cname": "十里画廊",
+        "url": "/sight/yangshuo702/52551.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/507/146/785/91c2b156ee594c6eb528962867089372_C_220_140.jpg",
+        "caddress": "桂林市阳朔县321国道十里画廊"
+      },
+      {
+        "cname": "兴坪古镇",
+        "url": "/sight/yangshuo702/26887.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/698/512/174/f3736ca694034f16a23f39661d0e7dec_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪镇榕潭街23号"
+      },
+      {
+        "cname": "工农桥",
+        "url": "/sight/yangshuo702/132432.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/634/388/584/f3776f93a3974050b5d479af92e9ddaa_C_220_140.jpg",
+        "caddress": "桂林市阳朔县距离县城约5.6公里"
+      },
+      {
+        "cname": "聚龙潭",
+        "url": "/sight/yangshuo702/48899.html",
+        "s_img": "http://p.chanyouji.cn/30035/1364790017986p17n1t5qsgalpbpp1bdcrlu1tug4.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市阳朔县观莲路"
+      },
+      {
+        "cname": "遇龙桥",
+        "url": "/sight/yangshuo702/22078.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/204/433/38d8e4bc58ca4fdcb69f17f9ddf2d614_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙镇遇龙村"
+      },
+      {
+        "cname": "图腾古道",
+        "url": "/sight/yangshuo702/52580.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/464/037/702/760a1ebac3b44bd68a33fd9845f50ba4_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊图腾古道景区"
+      },
+      {
+        "cname": "富里桥",
+        "url": "/sight/yangshuo702/52541.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/123/006/129/b50d34e311d0471c97a19167e0760657_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙镇观桥村公所正方村西350米处（距离阳朔县城12公里处，处于遇龙河上游500米）。"
+      },
+      {
+        "cname": "黄布倒影",
+        "url": "/sight/yangshuo702/50088.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/576/472/550/4f444bf952c74d658aee2cb5f6cb3f2f_C_220_140.jpg",
+        "caddress": "桂林市漓江83公里精华段兴坪古镇境内"
+      },
+      {
+        "cname": "天籁·蝴蝶泉",
+        "url": "/sight/yangshuo702/48898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/255/593/31b0464272344618beed8bf198aa94fa_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊"
+      },
+      {
+        "cname": "阳朔公园",
+        "url": "/sight/yangshuo702/48892.html",
+        "s_img": "http://p.chanyouji.cn/1385304737/EAC80552-E943-4D8D-8714-C7C39D1146E7.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市阳朔县阳朔镇宝泉路21号"
+      },
+      {
+        "cname": "山水园",
+        "url": "/sight/yangshuo702/22090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/922/500/862/90f7ac72efb5444eab19337ca5f44d0e_C_220_140.jpg",
+        "caddress": "桂林市阳朔县城滨江路2号"
+      },
+      {
+        "cname": "书童山",
+        "url": "/sight/yangshuo702/22082.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/546/838/772/7b0710ab736f4cf79a3da09a7a537213_C_220_140.jpg",
+        "caddress": "桂林市阳朔县城东南田家河与漓江交汇处，距县城约2公里。"
+      },
+      {
+        "cname": "愚自乐园",
+        "url": "/sight/yangshuo702/22089.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/473/273/1ee4aa0c3d874e0a82e4c50a75788e44_C_220_140.jpg",
+        "caddress": "桂林市阳朔县雁山区大埠乡"
+      },
+      {
+        "cname": "浪石村",
+        "url": "/sight/yangshuo702/132447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/324/801/877/d77235c4c85d49e28c6753e656f53b92_C_220_140.jpg",
+        "caddress": "桂林市阳朔县杨堤乡"
+      },
+      {
+        "cname": "鉴山寺",
+        "url": "/sight/yangshuo702/109982.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/519/047/995/0072ed96bcde4c99ac72b5b564480237_C_220_140.jpg",
+        "caddress": "桂林市阳朔县321国道十里画廊景区内"
+      },
+      {
+        "cname": "徐悲鸿故居",
+        "url": "/sight/yangshuo702/22080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/269/679/347/abaf51a2b18e49209d6aacebb2a2844d_C_220_140.jpg",
+        "caddress": "桂林市阳朔县县前街5号"
+      },
+      {
+        "cname": "碧莲峰",
+        "url": "/sight/yangshuo702/22085.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/212/866/990/7a5fbc43c4ed4855af7e9786cff82eed_C_220_140.jpg",
+        "caddress": "桂林市阳朔县城滨江路2号"
+      },
+      {
+        "cname": "金水岩",
+        "url": "/sight/yangshuo702/50258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/925/874/434/050e7a663387445c8dfc80beae2e6965_C_220_140.jpg",
+        "caddress": "桂林市阳朔县历村后山"
+      },
+      {
+        "cname": "福利古镇",
+        "url": "/sight/yangshuo702/22086.html",
+        "s_img": "http://p.chanyouji.cn/17039/1355716721323p17ejffqlsdbttojsev1kt91l463g.jpg?imageView/1/w/220/h/140",
+        "caddress": "桂林市阳朔县福利镇"
+      },
+      {
+        "cname": "月亮水岩",
+        "url": "/sight/yangshuo702/50295.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/390/742/166/16236b966ff44acd963e91a431602670_C_220_140.jpg",
+        "caddress": "桂林市阳朔县高田镇平塘村"
+      },
+      {
+        "cname": "下龙",
+        "url": "/sight/yangshuo702/132450.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/965/565/154/f260eb13df5b44e9bd1a75f478181d14_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪镇"
+      },
+      {
+        "cname": "莲花岩",
+        "url": "/sight/yangshuo702/22076.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/914/172/9fd4ebe6d8d2479d85ca228f1424bd95_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白山底村东侧"
+      },
+      {
+        "cname": "月亮村",
+        "url": "/sight/yangshuo702/132433.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/969/346/649/36617092c17e44f796c68c323d44072b_C_220_140.jpg",
+        "caddress": "桂林市阳朔县高田镇历村"
+      },
+      {
+        "cname": "刘三姐水上公园风景区",
+        "url": "/sight/yangshuo702/49998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/621/403/d4b6f5dcba6241499da57797d06ab414_C_220_140.jpg",
+        "caddress": "桂林市阳朔县刘三姐码头"
+      },
+      {
+        "cname": "菩萨水岩",
+        "url": "/sight/yangshuo702/50259.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/521/829/598/66cf72041ff74ca0a30f3785dc9dc038_C_220_140.jpg",
+        "caddress": "桂林市阳朔县阳朔月亮山景区历村后山上"
+      },
+      {
+        "cname": "矮山村",
+        "url": "/sight/yangshuo702/132434.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/156/945/974/0f8acdd7cf424790a569604116af0cc7_C_220_140.jpg",
+        "caddress": "桂林市阳朔县阳朔镇矮山村"
+      },
+      {
+        "cname": "仙桂桥",
+        "url": "/sight/yangshuo702/50089.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/447/453/011/3672c737c8cd4b98a309f4294a027c29_C_220_140.jpg",
+        "caddress": "桂林市阳朔县"
+      },
+      {
+        "cname": "白沙渔火",
+        "url": "/sight/yangshuo702/50094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/668/906/652/86dd3696855040c98899d4d4729ecd0e_C_220_140.jpg",
+        "caddress": "桂林市阳朔县阳朔大桥附近的一道河湾（碧莲峰后因爱山峰阻挡形成了一道河湾，称之为白沙湾）。"
+      },
+      {
+        "cname": "阳朔茶观园景区",
+        "url": "/sight/yangshuo702/141688.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/256/222/645/d2cbfbc310d548f2b95397a4f8b0f0f7_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙镇芭林村"
+      },
+      {
+        "cname": "骆驼过江",
+        "url": "/sight/yangshuo702/52542.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/149/301/413/11cd7dc8c025477581c0320de979ec2b_C_220_140.jpg",
+        "caddress": "桂林市阳朔县遇龙河流域"
+      },
+      {
+        "cname": "古渔村",
+        "url": "/sight/yangshuo702/22087.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/890/506/061/8a7b115dd2cb43dc9470da8c4d076a0c_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪古镇约1.5公里的漓江边"
+      },
+      {
+        "cname": "古石城",
+        "url": "/sight/yangshuo702/48891.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/987/781/522/b348594ab9b24536a7073bc35ce3ad2a_C_220_140.jpg",
+        "caddress": "阳朔县葡萄镇西北部梅岭间，距阳朔县城25公里"
+      },
+      {
+        "cname": "留公三潭",
+        "url": "/sight/yangshuo702/50092.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/013/239/007/de726210f096459189db284de8b48879_C_220_140.jpg",
+        "caddress": "桂林市阳朔县水路距离15公里外，陆路距阳朔12公里。"
+      },
+      {
+        "cname": "老寨山",
+        "url": "/sight/yangshuo702/1417363.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/514/397/151/725fcd13cdc04c888a88df759d650fd8_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪古镇老街头漓江榕树潭边"
+      },
+      {
+        "cname": "袖珍国景区",
+        "url": "/sight/yangshuo702/141686.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/230/711/379/a7b305a4aaa4489786858a65085c4093_C_220_140.jpg",
+        "caddress": "桂林市阳朔县十里画廊"
+      },
+      {
+        "cname": "星视界趣味蜡像馆",
+        "url": "/sight/yangshuo702/1409417.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/015/246/837/8ae03fb1f56d459bb053a5a7478739a9_C_220_140.jpg",
+        "caddress": "桂林市阳朔县阳朔西街115号肯德基2楼"
+      },
+      {
+        "cname": "碧莲洞",
+        "url": "/sight/yangshuo702/110205.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/506/225/126/0e8474632c584c6a9b0356d27f7d66d9_C_220_140.jpg",
+        "caddress": "桂林市阳朔县碧莲洞景区"
+      },
+      {
+        "cname": "相公山",
+        "url": "/sight/yangshuo702/1417461.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/B5/DA/Cghzf1UOZziALqmbAACh_YWcRoQ975_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪镇境内的漓江西岸，在黄布滩和九马画山两景点之间"
+      },
+      {
+        "cname": "旧县村",
+        "url": "/sight/yangshuo702/1417882.html",
+        "s_img": "",
+        "caddress": "桂林市阳朔县白沙镇旧县村"
+      },
+      {
+        "cname": "燕子湖",
+        "url": "/sight/yangshuo702/1417554.html",
+        "s_img": "",
+        "caddress": "桂林市阳朔县白沙五里店世外桃源景区内"
+      },
+      {
+        "cname": "独山",
+        "url": "/sight/yangshuo702/50093.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/881/402/603/a65fab1cf3ae43bc902ac14cb11e239a_C_220_140.jpg",
+        "caddress": "桂林市阳朔县雁山镇"
+      },
+      {
+        "cname": "老村头",
+        "url": "/sight/yangshuo702/132451.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/961/795/414/c3ce7c08b5ea44dab3f36983388a00c3_C_220_140.jpg",
+        "caddress": "桂林市阳朔县"
+      },
+      {
+        "cname": "冷水村",
+        "url": "/sight/yangshuo702/132452.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/220/524/515/c893fc7b18e648748b682aea049e1bb7_C_220_140.jpg",
+        "caddress": "桂林市阳朔县兴坪镇"
+      },
+      {
+        "cname": "东郎山",
+        "url": "/sight/yangshuo702/50091.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/504/344/699/7840708c25f84c62949076ce7751d0db_C_220_140.jpg",
+        "caddress": "桂林市阳朔县福利镇以北"
+      },
+      {
+        "cname": "观音山",
+        "url": "/sight/yangshuo702/1417761.html",
+        "s_img": "",
+        "caddress": "桂林市阳朔县葡萄镇观音山"
+      },
+      {
+        "cname": "留公村",
+        "url": "/sight/yangshuo702/1417382.html",
+        "s_img": "",
+        "caddress": "桂林市阳朔县普益乡留公村，位于阳朔至普益的漓江中下游"
+      },
+      {
+        "cname": "水岩头码头",
+        "url": "/sight/yangshuo702/132445.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/579/573/453/64b532cf85f24d6f90b5b6b281c8d201_C_220_140.jpg",
+        "caddress": "桂林市阳朔县"
+      },
+      {
+        "cname": "全家洲",
+        "url": "/sight/yangshuo702/132449.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/709/905/254/318fecab797d4f3a8824aba8a8a137b5_C_220_140.jpg",
+        "caddress": "桂林市阳朔县"
+      },
+      {
+        "cname": "大印人文景观园",
+        "url": "/sight/yangshuo702/1678868.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/4B/00/CghzfFUJIX6AYUjnAATLcO6RSPo455_C_220_140.jpg",
+        "caddress": "桂林市阳朔十里画廊内工农桥边"
+      },
+      {
+        "cname": "骥马村",
+        "url": "/sight/yangshuo702/132436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/369/705/613/7530921dd43b4a8284887465ec51593d_C_220_140.jpg",
+        "caddress": "桂林市阳朔县"
+      },
+      {
+        "cname": "归义县旧址",
+        "url": "/sight/yangshuo702/50090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/482/899/386/0e11919d6f474c14a2b9cbe0767c8098_C_220_140.jpg",
+        "caddress": "桂林市阳朔县旧县村"
+      },
+      {
+        "cname": "大源林场",
+        "url": "/sight/yangshuo702/1417763.html",
+        "s_img": "",
+        "caddress": "桂林市阳朔县兴坪镇大源林场，兴坪古镇东南面5公里。"
+      },
+      {
+        "cname": "郎梓村",
+        "url": "/sight/yangshuo702/1417888.html",
+        "s_img": "",
+        "caddress": "桂林市阳朔县高田镇郎梓村"
+      },
+      {
+        "cname": "雪狮岭",
+        "url": "/sight/yangshuo702/1418106.html",
+        "s_img": "",
+        "caddress": "桂林市阳朔县县城城东3公里漓江岸边的木山村旁"
+      },
+      {
+        "cname": "朗梓古民居",
+        "url": "/sight/yangshuo702/52549.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/452/395/466/949e1fff798f4baa80ddff19a29ef307_C_220_140.jpg",
+        "caddress": "桂林市阳朔县朗梓村"
+      },
+      {
+        "cname": "秀才看榜",
+        "url": "/sight/yangshuo702/50095.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/895/503/328/9a52771eca2043f0a96e2fea550fc974_C_220_140.jpg",
+        "caddress": "桂林市阳朔县"
+      },
+      {
+        "cname": "孙中山纪念堂",
+        "url": "/sight/yangshuo702/48897.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/503/210/244/3373c558794a4c609bcc78c36ce88d1f_C_220_140.jpg",
+        "caddress": "桂林市阳朔县滨江路阳朔镇小学内"
+      },
+      {
+        "cname": "曹邺读书岩",
+        "url": "/sight/yangshuo702/49999.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/539/508/744/d20425a9a2d14cdf94eb029b9baeb1a0_C_220_140.jpg",
+        "caddress": "桂林市阳朔县城北路"
+      },
+      {
+        "cname": "葡萄山",
+        "url": "/sight/yangshuo702/52552.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/573/602/222/85961fe11ca24d5884ac09e9a21bdb8a_C_220_140.jpg",
+        "caddress": "桂林市阳朔县葡萄山景区"
+      },
+      {
+        "cname": "马山村",
+        "url": "/sight/yangshuo702/132453.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/641/013/459/7afc18a1bfa54068bdbb93b2ef04c229_C_220_140.jpg",
+        "caddress": "桂林市阳朔县"
+      },
+      {
+        "cname": "凉水井清泉度假村",
+        "url": "/sight/yangshuo702/132269.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/723/856/785/ffcc35da87d24f6c953605384d0e6750_C_220_140.jpg",
+        "caddress": "桂林市阳朔县白沙镇东北面的古板村委凉水井自然村（距桂林市58公里，距阳朔县城15公里）"
+      }
+    ]
+  },
+  {
+    "cname": "南宁",
+    "url": "http://you.ctrip.com/sightlist/nanning166.html",
+    "places": [
+      {
+        "cname": "青秀山",
+        "url": "/sight/nanning166/8810.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/696/871/486/cc18d2f0b366412ea651fac7590d0719_C_220_140.jpg",
+        "caddress": "南宁市青秀区凤岭南路6-6号"
+      },
+      {
+        "cname": "大明山",
+        "url": "/sight/nanning166/8841.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/015/201/363/15d3dc42d1fb459aa19e691d231b9c08_C_220_140.jpg",
+        "caddress": "南宁市武鸣县两江镇明山路"
+      },
+      {
+        "cname": "凭祥友谊关",
+        "url": "/sight/pingxiang840/18120.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/566/619/6f0bff8f8aee416c8c10aff628ff29f5_C_220_140.jpg",
+        "caddress": "崇左市凭祥市南人路83号友谊关景区"
+      },
+      {
+        "cname": "南宁动物园",
+        "url": "/sight/nanning166/8812.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/642/022/119/21ec6114ef0e4e4e9c0f8a2411e6e08c_C_220_140.jpg",
+        "caddress": "南宁市西乡塘区大学西路3号"
+      },
+      {
+        "cname": "伊岭岩",
+        "url": "/sight/wuming979/8856.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/729/407/984/aa4f5cb3feb241a3a03e33e6201b64b1_C_220_140.jpg",
+        "caddress": "南宁市武鸣县双桥镇伊岭村"
+      },
+      {
+        "cname": "广西科技馆",
+        "url": "/sight/nanning166/133977.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/148/072/372/331686e14a834773ae2287afbe098f71_C_220_140.jpg",
+        "caddress": "南宁市青秀区民族大道20号"
+      },
+      {
+        "cname": "广西药用植物园",
+        "url": "/sight/nanning166/8809.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/177/752/762/87e4b8d6c3d647db991f694388a8d722_C_220_140.jpg",
+        "caddress": "南宁市兴宁区长堽路189号"
+      },
+      {
+        "cname": "南湖公园",
+        "url": "/sight/nanning166/8804.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/465/279/104/67e775e041344bdaa8dbf132bae96ce6_C_220_140.jpg",
+        "caddress": "南宁市青秀区星湖路 ‎"
+      },
+      {
+        "cname": "南宁民歌湖景区",
+        "url": "/sight/nanning166/137429.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/700/372/484/1b8cf3fbd21c4f1daf068dcec5c3fa27_C_220_140.jpg",
+        "caddress": "南宁市青秀区金浦路民歌湖码头"
+      },
+      {
+        "cname": "广西南宁三塘九曲湾温泉",
+        "url": "/sight/nanning166/122741.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/783/969/408/55d76e73819142639223f9d23a274c60_C_220_140.jpg",
+        "caddress": "南宁市兴宁区三塘镇温泉路9号"
+      },
+      {
+        "cname": "南宁人民公园",
+        "url": "/sight/nanning166/8807.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/478/250/873/9349e7fda9a04c06847ab96567ac4e28_C_220_140.jpg",
+        "caddress": "南宁市兴宁区新民路44号"
+      },
+      {
+        "cname": "良凤江国家森林公园",
+        "url": "/sight/nanning166/8852.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/840/168/466/7c287aa22cfc432b8b3aba8d531956ac_C_220_140.jpg",
+        "caddress": "南宁市江南区友谊路78号"
+      },
+      {
+        "cname": "扬美古镇",
+        "url": "/sight/nanning166/8855.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/678/988/184/2b41a1ad726340ec8a08d01e83b084d2_C_220_140.jpg",
+        "caddress": "南宁市江南区005县道杨美村"
+      },
+      {
+        "cname": "海底世界",
+        "url": "/sight/nanning166/1407615.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/752/427/470/072a890ca71841f296f914d9a546f179_C_220_140.jpg",
+        "caddress": "南宁市兴宁区民主路6-8号人民公园后门（近官塘入口）。"
+      },
+      {
+        "cname": "八桂田园",
+        "url": "/sight/nanning166/1412470.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/618/144/562/1731e0bb360f4df9af835c8769f6738a_C_220_140.jpg",
+        "caddress": "南宁市西乡塘区凤岭路18号"
+      },
+      {
+        "cname": "凤岭欢乐世界",
+        "url": "/sight/nanning166/1408794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/032/707/d8d5de60af8f4059854e1cfdcc5c4d06_C_220_140.jpg",
+        "caddress": "南宁市青秀区云景路25号凤岭儿童公园内"
+      },
+      {
+        "cname": "大龙湖",
+        "url": "/sight/nanning166/21923.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/524/096/346/474b1fcd272d4caa81f63fc63ee87dcd_C_220_140.jpg",
+        "caddress": "南宁市上林县西燕镇境内大明山东麓"
+      },
+      {
+        "cname": "民族广场",
+        "url": "/sight/nanning166/1418552.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/348/157/462/a8810a56f02a4a3a8c4d3f215691391d_C_220_140.jpg",
+        "caddress": "南宁市青秀区民族大道民族广场"
+      },
+      {
+        "cname": "南宁孔庙",
+        "url": "/sight/nanning166/122747.html",
+        "s_img": "http://p.chanyouji.cn/1372617672/CF65AC14-DC8A-4D81-85DD-7FE09FB9C283.jpg?imageView/1/w/220/h/140",
+        "caddress": "南宁市青秀区青环路"
+      },
+      {
+        "cname": "宾州古城",
+        "url": "/sight/nanning166/54429.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/217/419/466/b194e091d4d84868a5757baa3c41a19c_C_220_140.jpg",
+        "caddress": "南宁市宾阳县（近临浦路）"
+      },
+      {
+        "cname": "南宁国际会展中心",
+        "url": "/sight/nanning166/1418532.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/67/B2/CghzfVTA9naAbsXEABjIUUpzWL8147_C_220_140.jpg",
+        "caddress": "南宁市青秀区民族大道东段106号"
+      },
+      {
+        "cname": "九龙瀑布群国家森林公园",
+        "url": "/sight/hengxian966/21925.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/983/376/636/576e25caa1bb452a950cab602c90fca3_C_220_140.jpg",
+        "caddress": "南宁市横县镇国有镇龙林场大吾林站内"
+      },
+      {
+        "cname": "广西规划馆",
+        "url": "/sight/nanning166/1673676.html",
+        "s_img": "",
+        "caddress": "南宁市良庆区宋厢路8号"
+      },
+      {
+        "cname": "嘉和城景区",
+        "url": "/sight/nanning166/1673811.html",
+        "s_img": "",
+        "caddress": "南宁市兴宁区昆仑大道995号"
+      },
+      {
+        "cname": "凤凰湖",
+        "url": "/sight/nanning166/8843.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/914/707/358/d9cda43604f544339b5eb590d9b54b0a_C_220_140.jpg",
+        "caddress": "南宁市邕宁县那马乡莲花村"
+      },
+      {
+        "cname": "新会书院",
+        "url": "/sight/nanning166/1459010.html",
+        "s_img": "",
+        "caddress": "南宁市兴宁区解放路42号"
+      },
+      {
+        "cname": "凤凰谷景区",
+        "url": "/sight/nanning166/1408792.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/388/103/d4f7bc1b83104edeb88c82ef653f422e_C_220_140.jpg",
+        "caddress": "南宁市兴宁区三塘镇四塘凤凰谷"
+      },
+      {
+        "cname": "明秀园",
+        "url": "/sight/wuming979/8811.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/738/379/226/e2d89b27d4d941c2870fdafc22e0f63f_C_220_140.jpg",
+        "caddress": "南宁市武鸣县城区明秀路"
+      },
+      {
+        "cname": "邓颖超纪念馆",
+        "url": "/sight/nanning166/1459736.html",
+        "s_img": "",
+        "caddress": "南宁市兴宁区朝阳路3号"
+      },
+      {
+        "cname": "三里洋渡风景区",
+        "url": "/sight/nanning166/21924.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/217/395/225/e3d835fe29294867b8f3862eb896d0ec_C_220_140.jpg",
+        "caddress": "南宁市上林县三里镇洋渡村"
+      },
+      {
+        "cname": "鼓鸣寨",
+        "url": "/sight/nanning166/1418706.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/105/555/4cec87d4cfc64e819a3f04dd0de1e1de_C_220_140.jpg",
+        "caddress": "南宁市上林县巷贤镇长联村古民庄"
+      },
+      {
+        "cname": "南宁大桥",
+        "url": "/sight/nanning166/122746.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M01/76/73/CghzgFSui8mAZOhPAAHVQ4rAct8209_C_220_140.jpg",
+        "caddress": "南宁市青环路，，北起青山路延长线，南接良庆区的蟠龙新区。"
+      },
+      {
+        "cname": "蔡氏古宅",
+        "url": "/sight/binyang3048/142297.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/555/310/110/d25686e839444d18b55fe796abb0e2db_C_220_140.jpg",
+        "caddress": "南宁市宾阳县古辣镇的蔡村"
+      },
+      {
+        "cname": "昆仑关",
+        "url": "/sight/nanning166/133954.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/499/851/918/3f57246cabd74c53a9c9c5e5a35fcd00_C_220_140.jpg",
+        "caddress": "南宁市宾阳县昆仑镇昆仑关景区"
+      },
+      {
+        "cname": "白鹤观竹海",
+        "url": "/sight/nanning166/1408795.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/147/413/641/20b1773659644771afa8479107dadf83_C_220_140.jpg",
+        "caddress": "南宁市宾阳县武陵镇沙井村委白鹤山"
+      },
+      {
+        "cname": "龙象塔",
+        "url": "/sight/nanning166/1418514.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/BE/A2/CghzflT_CFuAY5krAAFywjmEfgc664_C_220_140.jpg",
+        "caddress": "南宁市青秀区凤岭南路6-6号青秀山风景区内"
+      },
+      {
+        "cname": "五象湖公园",
+        "url": "/sight/nanning166/1459919.html",
+        "s_img": "",
+        "caddress": "南宁市良庆区大明路"
+      },
+      {
+        "cname": "凤岭摩天轮",
+        "url": "/sight/nanning166/1417575.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/159/560/a4111abfc36d487ab55db02e5d29be6e_C_220_140.jpg",
+        "caddress": "南宁市云景路25号"
+      },
+      {
+        "cname": "大王滩景区",
+        "url": "/sight/nanning166/1408793.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/566/102/010/84f14501153f4d3fa27125de9a3c4e46_C_220_140.jpg",
+        "caddress": "南宁市良庆区那马镇大王滩水库"
+      },
+      {
+        "cname": "李宁体育园",
+        "url": "/sight/nanning166/122745.html",
+        "s_img": "",
+        "caddress": "南宁市青秀区凤岭南路13号"
+      },
+      {
+        "cname": "南湖大桥",
+        "url": "/sight/nanning166/1462388.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M08/49/28/CghzfFSqBK2AbCvHABMqllf8txs867_C_220_140.jpg",
+        "caddress": "南宁市青秀区民族大道"
+      },
+      {
+        "cname": "上林霞客古渡景区",
+        "url": "/sight/nanning166/1408802.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/445/444/123/7fb994d9fe3f4b9289e44fa7d05f3feb_C_220_140.jpg",
+        "caddress": "南宁市上林县209省道霞客古渡景区"
+      },
+      {
+        "cname": "邕江",
+        "url": "/sight/nanning166/122743.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M09/ED/F2/CghzgVTI296APRy6AAE-TyHxMvY617_C_220_140.jpg",
+        "caddress": "南宁市江南区境内，是珠江水系西江支流郁江自西向东流经南宁市的河段"
+      },
+      {
+        "cname": "民族大道",
+        "url": "/sight/nanning166/1418546.html",
+        "s_img": "",
+        "caddress": "南宁市青秀区民族大道，向西延伸至江北大道，东接南北高速公路入口。"
+      },
+      {
+        "cname": "起凤山",
+        "url": "/sight/wuming979/54430.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/346/786/229/57df965a53d14a329f0402c974e5f51b_C_220_140.jpg",
+        "caddress": "南宁市武鸣县城东镇夏黄村"
+      },
+      {
+        "cname": "灵阳寺",
+        "url": "/sight/nanning166/1461821.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/136/424/935/58ea0a1c32dc474abfa4d768ee4c13b0_C_220_140.jpg",
+        "caddress": "南宁市马山县古零镇乾登山上"
+      },
+      {
+        "cname": "天雹水库",
+        "url": "/sight/nanning166/1462287.html",
+        "s_img": "",
+        "caddress": "南宁市区西郊心圩镇天雹江上，距市中心8公里。"
+      },
+      {
+        "cname": "名树博览园",
+        "url": "/sight/nanning166/1418579.html",
+        "s_img": "",
+        "caddress": "南宁市青秀区南湖公园（近双拥路）"
+      },
+      {
+        "cname": "加勒比水世界",
+        "url": "/sight/nanning166/1461245.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/122/334/038/0db538171cda4716981602c2fe93015b_C_220_140.jpg",
+        "caddress": "南宁市西乡塘区大学西路3号动物园内"
+      },
+      {
+        "cname": "桃花岛",
+        "url": "/sight/nanning166/1418632.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/F1/B9/CghzfVUBjHKAfuQrAADbT-LidKE596_C_220_140.jpg",
+        "caddress": "南宁市青秀区凤岭南路6-6号青秀山景区内"
+      },
+      {
+        "cname": "凤岭水世界",
+        "url": "/sight/nanning166/1460583.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/119/384/967/a8a0dbf174d0470b82c10d2b97423cc4_C_220_140.jpg",
+        "caddress": "南宁市青秀区云景路25号凤岭儿童公园内"
+      },
+      {
+        "cname": "千年苏铁园",
+        "url": "/sight/nanning166/1418641.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/DF/BA/CghzfVT_CWGAK1IUAAMB9hPDh_s649_C_220_140.jpg",
+        "caddress": "南宁市青秀区凤岭南路6-6号青秀山风景区内"
+      },
+      {
+        "cname": "耀军村百亩油葵",
+        "url": "/sight/nanning166/1418692.html",
+        "s_img": "",
+        "caddress": "南宁市上林县白圩镇清水河畔耀军村"
+      },
+      {
+        "cname": "广西民族大学",
+        "url": "/sight/nanning166/1418751.html",
+        "s_img": "",
+        "caddress": "南宁市西乡塘区大学东路188号"
+      },
+      {
+        "cname": "下水源",
+        "url": "/sight/nanning166/1418618.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/836/172/317/412ef43b5867431fb710693d1f443a1f_C_220_140.jpg",
+        "caddress": "南宁市上林县大丰镇郊区9公里处下水源村"
+      },
+      {
+        "cname": "台湾花卉园",
+        "url": "/sight/nanning166/1419676.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/07/02/Cghzf1TKOkiALyBnAAFleWc-QbA286_C_220_140.jpg",
+        "caddress": "南宁市j江南区区吴圩镇明阳平况坡"
+      },
+      {
+        "cname": "广西医科大学",
+        "url": "/sight/nanning166/1459730.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/B6/13/CghzgVSnfnGAZUA-AAH_huVR0fQ701_C_220_140.jpg",
+        "caddress": "南宁市青秀区双拥路22号"
+      },
+      {
+        "cname": "蒲津公园",
+        "url": "/sight/nanning166/1461220.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/187/659/023/5420cd02d50d47fda23568a284ef2a69_C_220_140.jpg",
+        "caddress": "南宁市邕宁区蒲庙镇蒲津路65号"
+      },
+      {
+        "cname": "粤东会馆",
+        "url": "/sight/nanning166/1429942.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/394/575/830/da9ac787194d4addb1dae023544d6122_C_220_140.jpg",
+        "caddress": "南宁市西乡塘区壮志路22号"
+      },
+      {
+        "cname": "明阳农场",
+        "url": "/sight/nanning166/1419678.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/878/319/ea020a83eb534e0c80a129c6395affd8_C_220_140.jpg",
+        "caddress": "南宁市江南区吴圩镇明阳农场"
+      },
+      {
+        "cname": "滨湖广场",
+        "url": "/sight/nanning166/1462543.html",
+        "s_img": "",
+        "caddress": "南宁市青秀区民族大道双拥路"
+      },
+      {
+        "cname": "凤岭儿童公园",
+        "url": "/sight/nanning166/1461297.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M09/B7/56/Cghzf1SnxI6AXeOFAAJi0F6zLYc012_C_220_140.jpg",
+        "caddress": "南宁市青秀区月湾路1号"
+      },
+      {
+        "cname": "罗山寺",
+        "url": "/sight/nanning166/1418755.html",
+        "s_img": "",
+        "caddress": "南宁市西乡塘区安吉街道办事处大塘村"
+      },
+      {
+        "cname": "凤亭湖",
+        "url": "/sight/nanning166/1418561.html",
+        "s_img": "",
+        "caddress": "南宁市良庆区大塘镇凤亭湖水库"
+      },
+      {
+        "cname": "五圣宫",
+        "url": "/sight/nanning166/1461308.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/934/765/710/a5d8e0c48af64479893a27a1289a4a17_C_220_140.jpg",
+        "caddress": "南宁市邕宁区蒲庙镇蒲津路63号"
+      },
+      {
+        "cname": "木棉王",
+        "url": "/sight/nanning166/1418708.html",
+        "s_img": "",
+        "caddress": "南宁市上林县大丰镇里丹村云阳庄"
+      },
+      {
+        "cname": "金莲湖风景区",
+        "url": "/sight/nanning166/1418656.html",
+        "s_img": "",
+        "caddress": "南宁市上林县城的北面，距县城8公里。"
+      },
+      {
+        "cname": "新秀公园",
+        "url": "/sight/nanning166/1459521.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/877/204/883/91ea7623aec843b18db4d44480569101_C_220_140.jpg",
+        "caddress": "南宁市西乡塘区明新阳路288-58号"
+      },
+      {
+        "cname": "不孤村",
+        "url": "/sight/nanning166/1418722.html",
+        "s_img": "",
+        "caddress": "南宁市上林县白圩镇不孤村"
+      },
+      {
+        "cname": "上林油菜花田",
+        "url": "/sight/nanning166/1418577.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/685/499/249/68b6bd00bae34104962e7ddc6e80e57c_C_220_140.jpg",
+        "caddress": "南宁市上林县，位于上林至西燕镇的路上"
+      },
+      {
+        "cname": "老树葡萄庄园",
+        "url": "/sight/nanning166/1412046.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/633/285/58c194c839b64f029c54b21f3d750d2d_C_220_140.jpg",
+        "caddress": "南宁市兴宁区邕武路老直村"
+      },
+      {
+        "cname": "东红湿地",
+        "url": "/sight/nanning166/1418654.html",
+        "s_img": "",
+        "caddress": "南宁市上林县澄泰乡东红村"
+      },
+      {
+        "cname": "毛塘湿地公园 ",
+        "url": "/sight/nanning166/1418652.html",
+        "s_img": "",
+        "caddress": "南宁市上林县白圩镇覃排村毛塘湿地公园"
+      },
+      {
+        "cname": "美丽南方",
+        "url": "/sight/nanning166/1418488.html",
+        "s_img": "",
+        "caddress": "南宁市西乡塘区石埠街道忠良村"
+      },
+      {
+        "cname": "顶蛳山遗址",
+        "url": "/sight/nanning166/54440.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/302/125/509/5386511585ce49958a39c9d996d524a1_C_220_140.jpg",
+        "caddress": "南宁市邕宁县蒲庙镇新新村九碗坡地"
+      },
+      {
+        "cname": "冬泳亭",
+        "url": "/sight/nanning166/1460362.html",
+        "s_img": "",
+        "caddress": "南宁市青秀区邕江大桥北岸"
+      },
+      {
+        "cname": "骆越古道风情园",
+        "url": "/sight/nanning166/1417574.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/070/399/234/9d7a07fd27cc465e9ed6482621946460_C_220_140.jpg",
+        "caddress": "南宁市马山县永州镇"
+      },
+      {
+        "cname": "智城城址",
+        "url": "/sight/nanning166/1418726.html",
+        "s_img": "",
+        "caddress": "南宁市上林县白圩镇爱长村智城城址"
+      },
+      {
+        "cname": "红水河景区",
+        "url": "/sight/nanning166/1408787.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/850/735/294/7673f60175654351963ea608c1feb13e_C_220_140.jpg",
+        "caddress": "南宁市马山县百龙滩镇大球村百龙滩水电站码头"
+      },
+      {
+        "cname": "乡村大世界",
+        "url": "/sight/nanning166/1460577.html",
+        "s_img": "",
+        "caddress": "南宁市兴宁区昆仑大道（原南梧大道）三塘镇蒙村"
+      },
+      {
+        "cname": "花花大世界",
+        "url": "/sight/wuming979/20304.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/403/326/b9f194ac0a154fdbb4f8f286e386ee85_C_220_140.jpg",
+        "caddress": "南宁市武鸣县双桥镇伊岭工业区C-3"
+      },
+      {
+        "cname": "雾森景观广场",
+        "url": "/sight/nanning166/1462556.html",
+        "s_img": "",
+        "caddress": "南宁市青秀区双拥路，名树博览园旁。"
+      },
+      {
+        "cname": "三岸园艺场",
+        "url": "/sight/nanning166/1460576.html",
+        "s_img": "",
+        "caddress": "南宁市青秀区凤岭南路附近"
+      },
+      {
+        "cname": "左文羊岩",
+        "url": "/sight/nanning166/54441.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/318/124/635/0c0ee5795f0d49cdbdca771581abaa31_C_220_140.jpg",
+        "caddress": "南宁市崇左县城东6.7公里"
+      },
+      {
+        "cname": "李明瑞烈士纪念馆",
+        "url": "/sight/nanning166/54444.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/731/311/784/6f5c79eb2e7c4f898474a3c7489441cf_C_220_140.jpg",
+        "caddress": "南宁市青秀区南湖公园南岸"
+      },
+      {
+        "cname": "莲音寺",
+        "url": "/sight/nanning166/1418659.html",
+        "s_img": "",
+        "caddress": "南宁市上林县金莲湖景区内"
+      },
+      {
+        "cname": "六景泥盆系剖面",
+        "url": "/sight/nanning166/54438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/277/531/684/86852c169267493db69289062b2093eb_C_220_140.jpg",
+        "caddress": "南宁市横县六景镇附近"
+      },
+      {
+        "cname": "南宁樱花谷主题乐园",
+        "url": "/sight/nanning166/70357.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/322/777/025/5168f0601a4d49dcb0226e47e7c47797_C_220_140.jpg",
+        "caddress": "南宁市青秀区名族大道118号"
+      },
+      {
+        "cname": "灵感真人密室逃脱",
+        "url": "/sight/nanning166/69851.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/949/642/154b6b55c9194e26ae0adc251f9d6069_C_220_140.jpg",
+        "caddress": "南宁市青秀区思贤路59号B座303房"
+      },
+      {
+        "cname": "广西杂技剧场",
+        "url": "/sight/nanning166/69683.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/154/544/619/6846f4ec3bbb4788878d1b65371709b3_C_220_140.jpg",
+        "caddress": "南宁市建政路24号文化大院杂技团"
+      }
+    ]
+  },
+  {
+    "cname": "北海",
+    "url": "http://you.ctrip.com/sightlist/beihai140.html",
+    "places": [
+      {
+        "cname": "银滩",
+        "url": "/sight/beihai140/9308.html",
+        "s_img": "http://p.chanyouji.cn/54232/1373945497696p17vioh21ova8als141gdlr1qvb2.jpg?imageView/1/w/220/h/140",
+        "caddress": "北海市银海区四号路以南"
+      },
+      {
+        "cname": "涠洲岛",
+        "url": "/sight/weizhouisland120063/9311.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/244/113/133/f72acb2546d648c9933c2bc7429772da_C_220_140.jpg",
+        "caddress": "北海市海城区北海半岛东南面"
+      },
+      {
+        "cname": "鳄鱼山景区",
+        "url": "/sight/weizhouisland120063/109882.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/400/288/596/2bb39d3e4db84af183d6c37a8719519a_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛南湾西侧鳄鱼岭"
+      },
+      {
+        "cname": "北海老街 ",
+        "url": "/sight/beihai140/62160.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/681/915/400/10d28c32c7d04ed7abf8cd79a7124357_C_220_140.jpg",
+        "caddress": "北海市珠海路"
+      },
+      {
+        "cname": "五彩滩",
+        "url": "/sight/weizhouisland120063/109884.html",
+        "s_img": "http://p.chanyouji.cn/77176/1383061765411p1882eb9mmbai6k4147m1kid1g15o.jpg?imageView/1/w/220/h/140",
+        "caddress": "北海市海城区北部湾海域涠洲岛上"
+      },
+      {
+        "cname": "天主教堂",
+        "url": "/sight/weizhouisland120063/109881.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/629/031/335/bc54ada341b64e1f8b541a0cacf6e4fe_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内盛塘村"
+      },
+      {
+        "cname": "滴水丹屏",
+        "url": "/sight/weizhouisland120063/109883.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/062/702/122/8fad374818344643aa457b2d60485fa5_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内的滴水村（鳄鱼山景区旁）。"
+      },
+      {
+        "cname": "海洋之窗",
+        "url": "/sight/beihai140/51834.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/653/214/800/c00288587c044095b75ac5eb7d417566_C_220_140.jpg",
+        "caddress": "北海市银海区四川南路中段，四川路与新世纪大道交汇处。"
+      },
+      {
+        "cname": "北部湾广场",
+        "url": "/sight/beihai140/9369.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/783/867/441/92a2100ddcee4262a8dfe8df7180fb52_C_220_140.jpg",
+        "caddress": "北海市海城区北部湾中路、四川路、常青路交汇点"
+      },
+      {
+        "cname": "石螺口海滩",
+        "url": "/sight/weizhouisland120063/109885.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/890/643/161/4dbf7b9efed443de8ff6101785a60ff0_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛西海岸"
+      },
+      {
+        "cname": "北海海底世界",
+        "url": "/sight/beihai140/9312.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/776/691/8e5c13feeb074875988e3a1560d92f13_C_220_140.jpg",
+        "caddress": "北海市海城区茶亭路27号（北海海滨公园内）"
+      },
+      {
+        "cname": "猪仔岭",
+        "url": "/sight/weizhouisland120063/109880.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/661/144/33ed7dc5d49c4376bb48a52955008188_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛月牙形海湾的中心部位"
+      },
+      {
+        "cname": "金海湾红树林",
+        "url": "/sight/beihai140/131777.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/820/743/012/1ec2b72d8ec742e6b61772e92ff1ca56_C_220_140.jpg",
+        "caddress": "北海市银海区海景大道东南180公里"
+      },
+      {
+        "cname": "斜阳岛",
+        "url": "/sight/beihai140/52771.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/862/928/622/b513fc4261da437c85ecb7346da97b94_C_220_140.jpg",
+        "caddress": "北海市铁山港区涠洲岛东南方向约9海里处"
+      },
+      {
+        "cname": "星岛湖",
+        "url": "/sight/hepu965/9314.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/918/187/297/64c9b96a0f2544438adc023e12494dd0_C_220_140.jpg",
+        "caddress": "北海市合浦县洪潮江水库（合浦县以北24公里处的低丘陵地区）。"
+      },
+      {
+        "cname": "海滩公园",
+        "url": "/sight/beihai140/52786.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/720/595/715/d084ed24599c4f64b77f022ed7f4f72b_C_220_140.jpg",
+        "caddress": "北海市银海区银滩大道中段（4号路），海滩大酒店对面。"
+      },
+      {
+        "cname": "外沙海鲜岛",
+        "url": "/sight/beihai140/52842.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/594/855/527/1970ad0c1bb14da5a515f2e49885ed06_C_220_140.jpg",
+        "caddress": "北海市海城区外沙岛四川路尽头"
+      },
+      {
+        "cname": "冠头岭国家森林公园",
+        "url": "/sight/beihai140/9424.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/267/168/834b6242b50540c3a8a1a5e1c7328bec_C_220_140.jpg",
+        "caddress": "北海市银海区海景大道尽头"
+      },
+      {
+        "cname": "北海园博园",
+        "url": "/sight/beihai140/1412796.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/853/507/ac1d27883cf54e0d8d46540509e7f305_C_220_140.jpg",
+        "caddress": "北海市南珠大道与银滩大道交汇处"
+      },
+      {
+        "cname": "冠山海欢乐海岸",
+        "url": "/sight/beihai140/141403.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/792/733/489/8df7370d4cbd42829e5297a7d03cf6c5_C_220_140.jpg",
+        "caddress": "北海市海城区金海岸大道1号"
+      },
+      {
+        "cname": "东兴口岸 ",
+        "url": "/sight/beihai140/1412505.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/6D/F3/CghzgFT1ZKWARECJAAFrh9sVjMo984_C_220_140.jpg",
+        "caddress": "广西壮族自治区防城港市东兴市新华路"
+      },
+      {
+        "cname": "三婆庙",
+        "url": "/sight/weizhouisland120063/134912.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/591/230/642/5bbaf513afdd4d9889f553cc97e9f64e_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛旅游区管理委员会旁边"
+      },
+      {
+        "cname": "侨港风情街",
+        "url": "/sight/beihai140/1418220.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/30/22/CghzgFTv9XGADSsoAAGGziWQprY313_C_220_140.jpg",
+        "caddress": "北海市银海区侨港镇侨北路"
+      },
+      {
+        "cname": "北海环岛游",
+        "url": "/sight/beihai140/137255.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/343/270/245/f53f26b2d2c44a28b55eb9d48df5089d_C_220_140.jpg",
+        "caddress": "北海市海城区海角路港务局码头（海角路230号）。"
+      },
+      {
+        "cname": "侨港度假浴场",
+        "url": "/sight/beihai140/145117.html",
+        "s_img": "http://p.chanyouji.cn/51111/1372855307943p17ui8ie6b8bv1pj31c521uo411glu.jpg?imageView/1/w/220/h/140",
+        "caddress": "北海市银海区侨港镇"
+      },
+      {
+        "cname": "东坡亭",
+        "url": "/sight/beihai140/9319.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/068/565/974/e5780d5bf461465595430568385d03a7_C_220_140.jpg",
+        "caddress": "北海市合浦县合浦师范学校内（学校地址：北海市合浦县廉州镇东圩街97号）。"
+      },
+      {
+        "cname": "涠洲岛灯塔",
+        "url": "/sight/weizhouisland120063/109886.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/595/805/502/85b47144fd434da699027ec018856560_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛南北部湾海域"
+      },
+      {
+        "cname": "山口红树林",
+        "url": "/sight/hepu965/9310.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/148/789/626/01c56b41c0da4771a72ad57bd7486510_C_220_140.jpg",
+        "caddress": "北海市合浦县山口镇英罗港西岸"
+      },
+      {
+        "cname": "北海渔家乐",
+        "url": "/sight/beihai140/141412.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/602/975/154/5564bfef30794dbfb5c0f02e870e5f7e_C_220_140.jpg",
+        "caddress": "北海市外沙海鲜岛"
+      },
+      {
+        "cname": "北海大江埠",
+        "url": "/sight/beihai140/131770.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/725/808/956/5889c4780c0841968428815999cd39ea_C_220_140.jpg",
+        "caddress": "北海市银海区银滩镇大江村境内"
+      },
+      {
+        "cname": "南珠宫",
+        "url": "/sight/beihai140/54468.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/216/694/203/57e49f057a034863b52ef4f0a1e6d8ad_C_220_140.jpg",
+        "caddress": "北海市海城区茶亭路4-1号"
+      },
+      {
+        "cname": "合浦汉墓群",
+        "url": "/sight/hepu965/9373.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/293/886/071/da4f651291ee4976aabee0011490c057_C_220_140.jpg",
+        "caddress": "北海市合浦县廉州镇东南郊望牛岭、风门岭、宝塔山和东北郊堂排一带。（博物馆地址：北海市合浦县定海南路81号）"
+      },
+      {
+        "cname": "北部湾一号",
+        "url": "/sight/beihai140/1418217.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/365/383/770/2c6f75548e344a77a45b401f1f6db2fd_C_220_140.jpg",
+        "caddress": "北海市海城区茶亭路49号（上海路与茶亭路交汇往东200米）。"
+      },
+      {
+        "cname": "文昌塔",
+        "url": "/sight/hepu965/9316.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/741/183/765/c172b4998bde4faf8ecbcc1ea5960605_C_220_140.jpg",
+        "caddress": "北海市合浦县廉州镇东南3公里处,汉墓博物馆对面。"
+      },
+      {
+        "cname": "北海好来屋演艺广场",
+        "url": "/sight/beihai140/137062.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/791/578/780/9365c5917e2d427e93a09bf3f5e3f655_C_220_140.jpg",
+        "caddress": "北海市海城区四川南路与浙江路往西300米。"
+      },
+      {
+        "cname": "大士阁",
+        "url": "/sight/hepu965/9313.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/097/717/331/64137809d8ba46bc866f286a3f6a1802_C_220_140.jpg",
+        "caddress": "北海市合浦县山口镇永安村内"
+      },
+      {
+        "cname": "北海海上观光",
+        "url": "/sight/beihai140/1415017.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/634/380/055/1a07aba4fe77405098d0f0e71ce9e058_C_220_140.jpg",
+        "caddress": "北海市海城区海角路港务局客运站码头"
+      },
+      {
+        "cname": "普度震宫",
+        "url": "/sight/beihai140/9372.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/800/594/948/e23f9f826594429ea4889c00a01acd83_C_220_140.jpg",
+        "caddress": "北海市银海区茶亭路8号"
+      },
+      {
+        "cname": "北海明清木雕馆",
+        "url": "/sight/beihai140/1417611.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/796/581/206/a0547e1481564290bc2320d795270128_C_220_140.jpg",
+        "caddress": "北海市珠海中路10号"
+      },
+      {
+        "cname": "白龙珍珠城",
+        "url": "/sight/beihai140/9315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/134/484/436/5ba2b65c6e4c4740bb854bd8087abe26_C_220_140.jpg",
+        "caddress": "北海市铁山港区营盘镇白龙村"
+      },
+      {
+        "cname": "北海水彩画馆",
+        "url": "/sight/beihai140/1414524.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/966/908/315/db17f0b2575f44ebb3b85225cb96adbf_C_220_140.jpg",
+        "caddress": "北海市珠海东路181号"
+      },
+      {
+        "cname": "田野生态农业观光园",
+        "url": "/sight/beihai140/142295.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/022/610/157/7930893f198e45b39d77d66f23039e74_C_220_140.jpg",
+        "caddress": "北海市银滩大道中段"
+      },
+      {
+        "cname": "海角亭",
+        "url": "/sight/beihai140/9317.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/162/272/221/a9fe4505bf2847a586b53a9795c8e436_C_220_140.jpg",
+        "caddress": "北海市合浦县廉州镇西南面（在廉州中学内，合浦县廉州镇文蔚坊31号）。"
+      },
+      {
+        "cname": "德国森宝洋行旧址",
+        "url": "/sight/beihai140/131805.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/007/616/986/04b3f56c87c5457cafa4ed6df070a69e_C_220_140.jpg",
+        "caddress": "北海市海城区解放路19号"
+      },
+      {
+        "cname": "天主堂",
+        "url": "/sight/beihai140/1418279.html",
+        "s_img": "",
+        "caddress": "北海市海城区公园路1号"
+      },
+      {
+        "cname": "南珠魂雕塑",
+        "url": "/sight/beihai140/1418258.html",
+        "s_img": "",
+        "caddress": "北海市海城区北部湾广场内"
+      },
+      {
+        "cname": "大清邮政北海分局旧址陈列馆",
+        "url": "/sight/beihai140/1418210.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/DF/7A/CghzgVTYw4yAdFqkAAJr2h0G0Lo015_C_220_140.jpg",
+        "caddress": "北海市海城区中山东路204号"
+      },
+      {
+        "cname": "北海法国领事馆旧址",
+        "url": "/sight/beihai140/1418464.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/E0/BC/CghzfFTYxN6AKPgoAAJhKu_tekM956_C_220_140.jpg",
+        "caddress": "北海市海城区北部湾中路32号（北海迎宾馆内）。"
+      },
+      {
+        "cname": "英国驻北海领事馆旧址",
+        "url": "/sight/beihai140/1418456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/8D/D0/Cghzf1TEi7GAWEeNAAmIvg8yoTA269_C_220_140.jpg",
+        "caddress": "北海市海城区公园路附近的第一中学内"
+      },
+      {
+        "cname": "北海老城历史文化馆",
+        "url": "/sight/beihai140/1488723.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/385/822/727/9debcbc7bb5f4abe887372aa38e798e9_C_220_140.jpg",
+        "caddress": "北海市珠海中路102号"
+      },
+      {
+        "cname": "坭兴陶馆",
+        "url": "/sight/beihai140/1488719.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/999/296/059/6d4423fe73d94560bfeea221c529f5da_C_220_140.jpg",
+        "caddress": "北海市珠海中路20号"
+      },
+      {
+        "cname": "北海德国领事馆旧址",
+        "url": "/sight/beihai140/1418467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/DF/DB/Cghzf1TYyAWASHNqAAKdajSCskg579_C_220_140.jpg",
+        "caddress": "北海市海城区北部湾中路19号附近"
+      },
+      {
+        "cname": "邓世增公馆",
+        "url": "/sight/beihai140/1418426.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/DF/8E/Cghzf1TYwweAVkEDAAHabKJ1yB4932_C_220_140.jpg",
+        "caddress": "北海市海城区中山东路东街派出所旁"
+      },
+      {
+        "cname": "北海关大楼旧址",
+        "url": "/sight/beihai140/1418363.html",
+        "s_img": "",
+        "caddress": "北海市海城区中山路北0.1米（海关大院内，在珠海西路尽头）。"
+      },
+      {
+        "cname": "中山公园",
+        "url": "/sight/beihai140/131841.html",
+        "s_img": "",
+        "caddress": "北海市海城区北部湾中路、公园路、体育路与体育北路之间。"
+      },
+      {
+        "cname": "涠洲岛国家地质博物馆",
+        "url": "/sight/weizhouisland120063/134911.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/794/110/24e566a898e448619f07362aa605eda0_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛南部"
+      },
+      {
+        "cname": "普度寺",
+        "url": "/sight/beihai140/1418429.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/019/274/999/c180f421ac5545a9924963c1dd5cda16_C_220_140.jpg",
+        "caddress": "北海市银海区冠头岭普度寺"
+      },
+      {
+        "cname": "沙脊街",
+        "url": "/sight/beihai140/1418483.html",
+        "s_img": "",
+        "caddress": "北海市海城区珠海路与中山路中间"
+      },
+      {
+        "cname": "竹林盐场",
+        "url": "/sight/beihai140/1418382.html",
+        "s_img": "",
+        "caddress": "北海市银海区竹林村"
+      },
+      {
+        "cname": "永济隆",
+        "url": "/sight/beihai140/1418517.html",
+        "s_img": "",
+        "caddress": "北海市海城区珠海东路172号"
+      }
+    ]
+  },
+  {
+    "cname": "龙脊梯田",
+    "url": "http://you.ctrip.com/sightlist/longjititian970.html",
+    "places": [
+      {
+        "cname": "龙脊梯田",
+        "url": "/sight/longjititian970/14892.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/210/360/468/12c6835f2b124851b7e18c7dc6fdc281_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族自治县和平乡平安村"
+      },
+      {
+        "cname": "七星伴月",
+        "url": "/sight/longjititian970/137435.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/200/180/449/93280709bf1d482c834aafde5018c1a1_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族县和平乡平安村龙脊梯田平安壮族梯田观景区内"
+      },
+      {
+        "cname": "金坑梯田",
+        "url": "/sight/longjititian970/110465.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/559/785/402/2a82cb9d95424d28844b628e64146a3b_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族自治县和平乡龙脊梯田景区内的大寨村"
+      },
+      {
+        "cname": "平安壮寨",
+        "url": "/sight/longjititian970/107503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/333/243/282/5a5da213cae94a059db63b79207cd2f1_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族县和平乡平安村龙脊梯田景区内（近平安壮族梯田）"
+      },
+      {
+        "cname": "黄洛瑶寨",
+        "url": "/sight/longjititian970/50289.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/899/989/673/8932839205dd43fea12b9fd04996d179_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族自治县和平乡平安村龙脊梯田景区内"
+      },
+      {
+        "cname": "龙脊古壮寨梯田",
+        "url": "/sight/longjititian970/1417361.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/1E/6D/CghzflTf5UKAEngBAAMMWV3TOQw084_C_220_140.jpg",
+        "caddress": "桂林市龙胜各族自治县和平乡龙脊梯田景区内的龙脊村附近"
+      },
+      {
+        "cname": "龙脊古壮寨",
+        "url": "/sight/longjititian970/1417352.html",
+        "s_img": "",
+        "caddress": "桂林市龙胜各族自治县和平乡龙脊梯田景区内的龙脊村"
+      },
+      {
+        "cname": "平安壮族梯田",
+        "url": "/sight/longjititian970/1417346.html",
+        "s_img": "",
+        "caddress": "桂林市龙胜各族自治县和平乡平安村龙脊梯田平安壮族梯田观景区"
+      },
+      {
+        "cname": "九龙五虎观景点",
+        "url": "/sight/longjititian970/1417342.html",
+        "s_img": "",
+        "caddress": "桂林市龙胜各族自治县和平乡平安村龙脊梯田内平安壮族梯田观景区"
+      },
+      {
+        "cname": "金竹壮寨",
+        "url": "/sight/longjititian970/1417673.html",
+        "s_img": "",
+        "caddress": "桂林市龙胜各族自治县和平乡龙脊梯田山麓金竹寨"
+      },
+      {
+        "cname": "中禄寨",
+        "url": "/sight/longjititian970/1417564.html",
+        "s_img": "",
+        "caddress": "桂林市龙胜各族自治县和平乡龙脊梯田景区内"
+      },
+      {
+        "cname": "龙胜南山牧场",
+        "url": "/sight/longjititian970/50288.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/539/174/832/a9bc2e3abc664cdead894427875573b6_C_220_140.jpg",
+        "caddress": "桂林市龙胜县境内（近湖南省城步县）"
+      },
+      {
+        "cname": "红军岩",
+        "url": "/sight/longjititian970/131722.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/063/538/920/c21b15dd6893464384613267bda4611f_C_220_140.jpg",
+        "caddress": "桂林市龙胜县城东部"
+      },
+      {
+        "cname": "龙胜森林公园",
+        "url": "/sight/longjititian970/131739.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/512/732/019/e57ac72d6fbc4c7f9bc1228ca9340b6c_C_220_140.jpg",
+        "caddress": "龙胜各族自治县"
+      }
+    ]
+  },
+  {
+    "cname": "涠洲岛",
+    "url": "http://you.ctrip.com/sightlist/weizhouisland120063.html",
+    "places": [
+      {
+        "cname": "涠洲岛",
+        "url": "/sight/weizhouisland120063/9311.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/244/113/133/f72acb2546d648c9933c2bc7429772da_C_220_140.jpg",
+        "caddress": "北海市海城区北海半岛东南面"
+      },
+      {
+        "cname": "鳄鱼山景区",
+        "url": "/sight/weizhouisland120063/109882.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/400/288/596/2bb39d3e4db84af183d6c37a8719519a_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛南湾西侧鳄鱼岭"
+      },
+      {
+        "cname": "五彩滩",
+        "url": "/sight/weizhouisland120063/109884.html",
+        "s_img": "http://p.chanyouji.cn/77176/1383061765411p1882eb9mmbai6k4147m1kid1g15o.jpg?imageView/1/w/220/h/140",
+        "caddress": "北海市海城区北部湾海域涠洲岛上"
+      },
+      {
+        "cname": "天主教堂",
+        "url": "/sight/weizhouisland120063/109881.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/629/031/335/bc54ada341b64e1f8b541a0cacf6e4fe_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内盛塘村"
+      },
+      {
+        "cname": "滴水丹屏",
+        "url": "/sight/weizhouisland120063/109883.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/062/702/122/8fad374818344643aa457b2d60485fa5_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内的滴水村（鳄鱼山景区旁）。"
+      },
+      {
+        "cname": "石螺口海滩",
+        "url": "/sight/weizhouisland120063/109885.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/890/643/161/4dbf7b9efed443de8ff6101785a60ff0_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛西海岸"
+      },
+      {
+        "cname": "猪仔岭",
+        "url": "/sight/weizhouisland120063/109880.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/661/144/33ed7dc5d49c4376bb48a52955008188_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛月牙形海湾的中心部位"
+      },
+      {
+        "cname": "三婆庙",
+        "url": "/sight/weizhouisland120063/134912.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/591/230/642/5bbaf513afdd4d9889f553cc97e9f64e_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内涠洲岛旅游区管理委员会旁边"
+      },
+      {
+        "cname": "涠洲岛灯塔",
+        "url": "/sight/weizhouisland120063/109886.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/595/805/502/85b47144fd434da699027ec018856560_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛南北部湾海域"
+      },
+      {
+        "cname": "海底彩带",
+        "url": "/sight/weizhouisland120063/9370.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/737/223/103/c2476884ce5d41bf8e70a892eea492e6_C_220_140.jpg",
+        "caddress": "北海市涠洲岛往斜阳岛一路的海水底下"
+      },
+      {
+        "cname": "涠洲岛主标志广场",
+        "url": "/sight/weizhouisland120063/1674756.html",
+        "s_img": "",
+        "caddress": "北海市海城区涠洲岛西南部距火山口遗迹约一公里处。"
+      },
+      {
+        "cname": "中石化原油码头",
+        "url": "/sight/weizhouisland120063/1418236.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/FF/F3/CghzfFUEOX6AGIvoAADitHW24c4312_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内东角山村（按照指示牌处进入 ）。"
+      },
+      {
+        "cname": "圣母堂",
+        "url": "/sight/weizhouisland120063/1418194.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/04/27/CghzfFTt6iOAOAaEAAJvNbIwxt0410_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区内的城仔村内"
+      },
+      {
+        "cname": "月亮广场",
+        "url": "/sight/weizhouisland120063/1418243.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M03/1F/F6/CghzflSyXV-APOj-AASMpnrVVMk589_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛景区鳄鱼山景区内"
+      },
+      {
+        "cname": "相思湖水库",
+        "url": "/sight/weizhouisland120063/1418232.html",
+        "s_img": "",
+        "caddress": "北海市海城区涠洲岛景区内西角码头附近"
+      },
+      {
+        "cname": "南湾",
+        "url": "/sight/weizhouisland120063/1674648.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/FF/F6/CghzfFUEOqCAO5ipAADyFEANrXw612_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛最南端"
+      },
+      {
+        "cname": "涠洲岛国家地质博物馆",
+        "url": "/sight/weizhouisland120063/134911.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/794/110/24e566a898e448619f07362aa605eda0_C_220_140.jpg",
+        "caddress": "北海市海城区涠洲岛南部"
+      },
+      {
+        "cname": "贝壳沙滩",
+        "url": "/sight/weizhouisland120063/1674081.html",
+        "s_img": "",
+        "caddress": "北海市海城区北部湾海域涠洲岛东北角上"
+      },
+      {
+        "cname": "彩色公路",
+        "url": "/sight/weizhouisland120063/1674086.html",
+        "s_img": "",
+        "caddress": "北海市海城区涠洲岛北岸生态休闲路"
+      },
+      {
+        "cname": "斜阳岛",
+        "url": "/sight/weizhouisland120063/1674751.html",
+        "s_img": "",
+        "caddress": "北海市涠洲岛东南方向约9海里处"
+      }
+    ]
+  },
+  {
+    "cname": "柳州",
+    "url": "http://you.ctrip.com/sightlist/liuzhou143.html",
+    "places": [
+      {
+        "cname": "龙潭公园",
+        "url": "/sight/liuzhou143/62242.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/803/071/292/12508d9b659b42a8b805646690fbf9c4_C_220_140.jpg",
+        "caddress": "柳州市鱼峰区龙潭路43号"
+      },
+      {
+        "cname": "三江侗乡",
+        "url": "/sight/sanjiang975/16900.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/226/311/542/f23bcf8221d94887b752c496b56ef398_C_220_140.jpg",
+        "caddress": "柳州市三江侗族自治县县城内"
+      },
+      {
+        "cname": "柳侯公园",
+        "url": "/sight/liuzhou143/62241.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/360/388/117/eac1424942584a65b96397d5e47a7807_C_220_140.jpg",
+        "caddress": "柳州市城中区文惠路60号"
+      },
+      {
+        "cname": "程阳风雨桥",
+        "url": "/sight/sanjiang975/18135.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/630/588/5dca06e1f5294f938491170489b795a6_C_220_140.jpg",
+        "caddress": "三江侗族自治县古宜镇林溪乡平岩村程阳桥风景区内"
+      },
+      {
+        "cname": "柳州工业博物馆",
+        "url": "/sight/liuzhou143/1412454.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/974/292/511/532af9d158574508b7bc8ad5a7213009_C_220_140.jpg",
+        "caddress": "柳州市鱼峰区柳东路220号"
+      },
+      {
+        "cname": "百里柳江旅游景区",
+        "url": "/sight/liuzhou143/1412452.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M09/AD/63/CghzgFT4oV2ACx5eAAJrLxHXMu0098_C_220_140.jpg",
+        "caddress": "柳州市市区流域"
+      },
+      {
+        "cname": "马鞍山",
+        "url": "/sight/liuzhou143/16901.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/365/883/484/f08e8f90d2694a7795ae5cd6c5f09873_C_220_140.jpg",
+        "caddress": "柳州市鱼峰区屏山大道178号"
+      },
+      {
+        "cname": "马鹿山奇石博览园",
+        "url": "/sight/liuzhou143/1412469.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M03/E7/33/CghzfFS5seaAarrnAAGWExuExQA402_C_220_140.jpg",
+        "caddress": "柳州市城中区东环路272号"
+      },
+      {
+        "cname": "程阳八寨",
+        "url": "/sight/sanjiang975/131755.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/DC/27/CghzfFTYf_qANQukABX-pUIZsoI513_C_220_140.jpg",
+        "caddress": "林溪乡马安寨"
+      },
+      {
+        "cname": "立鱼峰风景区",
+        "url": "/sight/liuzhou143/51026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/506/480/460/9bc386cdadfe4c6aa0e82e233e13ff20_C_220_140.jpg",
+        "caddress": "柳州市城中区鱼峰路"
+      },
+      {
+        "cname": "城市规划展览馆",
+        "url": "/sight/liuzhou143/1412467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/171/267/332/9ea9234c393b47c5abbf7cd6971bfc7d_C_220_140.jpg",
+        "caddress": "柳州市城中区文昌路66号"
+      },
+      {
+        "cname": "石门仙湖景区",
+        "url": "/sight/liuzhou143/1482880.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/104/585/931/f7700b49cfee46d6a30bd77b2ab7001c_C_220_140.jpg",
+        "caddress": "柳州市融安县大良镇石门村"
+      },
+      {
+        "cname": "丹洲古城",
+        "url": "/sight/sanjiang975/62257.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/198/790/703/fabf2099049e482696782e331984b964_C_220_140.jpg",
+        "caddress": "柳州市三江侗族自治县丹洲镇丹洲村"
+      },
+      {
+        "cname": "融水贝江风景区",
+        "url": "/sight/liuzhou143/62288.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/636/000/52eb5dc0015a475cb0b9eb571457ee7e_C_220_140.jpg",
+        "caddress": "柳州市融水苗族自治县名族长赖村"
+      },
+      {
+        "cname": "都乐风景区",
+        "url": "/sight/liuzhou143/62245.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/516/479/139/59db26dfe97d4c8faf4063fcd86a0258_C_220_140.jpg",
+        "caddress": "柳州市柳江县南柳石路西七巷289"
+      },
+      {
+        "cname": "东门城楼",
+        "url": "/sight/liuzhou143/16902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/008/767/864/226655660d8b4580bf945512bf652175_C_220_140.jpg",
+        "caddress": "柳州市城中区曙光东路的文惠大桥北端"
+      },
+      {
+        "cname": "柳州动物园",
+        "url": "/sight/liuzhou143/1488467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/577/998/960/872f1fb4e6644d67b4415dc19a84be1b_C_220_140.jpg",
+        "caddress": "柳州市航银路89号"
+      },
+      {
+        "cname": "柳侯祠",
+        "url": "/sight/liuzhou143/18132.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/AD/63/CghzgFT4oB6ALqDTAAGcVXCN_TY110_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "融水苗寨",
+        "url": "/sight/rongshui3047/16935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/398/180/407/dd8b4a72c1ec4aebbb85a3fe53aad246_C_220_140.jpg",
+        "caddress": "柳州市融水苗族自治县香粉乡雨卜村"
+      },
+      {
+        "cname": "西来寺 ",
+        "url": "/sight/liuzhou143/50299.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/260/360/378/92f4dc2cea6e4901a55226fc0ff1758a_C_220_140.jpg",
+        "caddress": "柳州市城中区滨江西路"
+      },
+      {
+        "cname": "柳州文庙",
+        "url": "/sight/liuzhou143/1476773.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/087/564/980/075271c2d623469bb38c73130bb83d8e_C_220_140.jpg",
+        "caddress": "柳州市鱼峰区夫子路"
+      },
+      {
+        "cname": "柳州奇石馆",
+        "url": "/sight/liuzhou143/1411655.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/140/239/767/1acabbed0d8b4757a3723f7912007ecc_C_220_140.jpg",
+        "caddress": "柳州市柳城县马鹿山奇石博览园"
+      },
+      {
+        "cname": "鱼峰公园",
+        "url": "/sight/liuzhou143/62244.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M00/D0/55/CghzgFTX7TuANb1OAAIZu1DL39M691_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "雀山公园",
+        "url": "/sight/liuzhou143/18130.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/426/162/747/bd5944dbb1d94b4fb95dca36e5da6b7c_C_220_140.jpg",
+        "caddress": "柳州市柳北工业区"
+      },
+      {
+        "cname": "鹅山公园",
+        "url": "/sight/liuzhou143/62246.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "石门冲生态旅游景区",
+        "url": "/sight/sanjiang975/70479.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/779/523/333/904380802c40425593bc0ef1a5d7b39f_C_220_140.jpg",
+        "caddress": "柳州市三江侗族自治县丹洲镇东风村"
+      },
+      {
+        "cname": "雨卜民族风情旅游度假村",
+        "url": "/sight/rongshui3047/70397.html",
+        "s_img": "",
+        "caddress": "柳州市融水县雨卜村"
+      },
+      {
+        "cname": "鹿寨香桥岩溶国家地质公园",
+        "url": "/sight/liuzhou143/1407599.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/872/695/071/03558f478d11439e9a7140ea28419d48_C_220_140.jpg",
+        "caddress": "柳州市鹿寨县中渡镇"
+      },
+      {
+        "cname": "白莲洞",
+        "url": "/sight/liuzhou143/16904.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/549/972/836790b7a91a4de39014f43f5a3163d6_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "大桥、洛维观光农业旅游区",
+        "url": "/sight/liuzhou143/62252.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/394/760/131/5adc350075f14adda234265e0561ded5_C_220_140.jpg",
+        "caddress": "柳州市鱼峰区"
+      },
+      {
+        "cname": "蟠龙山",
+        "url": "/sight/liuzhou143/62248.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/291/275/074/b52b7183306049709c464a4229e02ca7_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "箭盘山奇石园",
+        "url": "/sight/liuzhou143/62240.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "江滨公园",
+        "url": "/sight/liuzhou143/62250.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/B6/06/CghzgVT56meAKS2WAAJB2pPtrzg161_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "八桂奇石馆",
+        "url": "/sight/liuzhou143/62254.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/032/754/098/51aa7a864ff345d6bfc3b6e7eed0bcb1_C_220_140.jpg",
+        "caddress": "柳州市鱼峰区屏山大道343号"
+      },
+      {
+        "cname": "柳州柳航游船",
+        "url": "/sight/liuzhou143/69655.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/787/617/888/f9267476b5b14270addaecb87db80b4e_C_220_140.jpg",
+        "caddress": "柳州市柳北区海员码头（柳航游船码头）"
+      },
+      {
+        "cname": "柳钢宾馆恒温游泳馆",
+        "url": "/sight/liuzhou143/69631.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/115/364/788/1a5682c4a00646ff939413a8340c8c10_C_220_140.jpg",
+        "caddress": "柳州市柳北区北雀路17号"
+      },
+      {
+        "cname": "侗乡鸟巢（坐夜）",
+        "url": "/sight/sanjiang975/70352.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/B8/4D/CghzgVSn_raAR1k0AAGMqCm8vAU845_C_220_140.jpg",
+        "caddress": "柳州市三江县古宜镇侗乡鸟巢"
+      },
+      {
+        "cname": "奇奇可可儿童乐园",
+        "url": "/sight/liuzhou143/69898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/762/626/842/03488932e5c04216b478ac063b9646b5_C_220_140.jpg",
+        "caddress": "柳州市鱼峰区谷埠街G区百和商场二楼"
+      },
+      {
+        "cname": "柳城崖山景区",
+        "url": "/sight/liucheng3072/70416.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/295/110/708f65685787487a9ce7e7965376e738_C_220_140.jpg",
+        "caddress": "柳州市柳城县大埔镇中寨村"
+      },
+      {
+        "cname": "千盛农庄",
+        "url": "/sight/liucheng3072/1412056.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/240/212/65049942004d477ca9619e5851623f51_C_220_140.jpg",
+        "caddress": "柳州市柳城县沙埔镇"
+      },
+      {
+        "cname": "龙女沟景区",
+        "url": "/sight/rongshui3047/70254.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/194/972/354/122ea0a52b404818985a627feed92026_C_220_140.jpg",
+        "caddress": "柳州市融水县四荣乡"
+      },
+      {
+        "cname": "龙宝大峡谷",
+        "url": "/sight/rongshui3047/70328.html",
+        "s_img": "",
+        "caddress": "柳州市融水苗族自治县四荣乡东田村小东江屯"
+      },
+      {
+        "cname": "碧云谷漂流",
+        "url": "/sight/liucheng3072/70110.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/153/186/145/0479ba8d33674785a63a2231c0415761_C_220_140.jpg",
+        "caddress": "柳州市柳城县沙埔镇大安新村（鸡公山加油站）东侧3.5公里"
+      },
+      {
+        "cname": "柳城洲尾农庄",
+        "url": "/sight/liucheng3072/70140.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/855/300/307/6597660452e14361828c909d006b4671_C_220_140.jpg",
+        "caddress": "柳州市柳城县沙埔镇"
+      }
+    ]
+  },
+  {
+    "cname": "靖西",
+    "url": "http://you.ctrip.com/sightlist/jingxi967.html",
+    "places": [
+      {
+        "cname": "通灵大峡谷",
+        "url": "/sight/jingxi967/51441.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/404/331/581/5aaacfd4f8fc4b008ab16ef9e7b12b7f_C_220_140.jpg",
+        "caddress": "百色市靖西县湖润镇新灵村"
+      },
+      {
+        "cname": "古龙山大峡谷",
+        "url": "/sight/jingxi967/51456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/040/573/849/37a215a7e7bd45f2acaddfeb26245906_C_220_140.jpg",
+        "caddress": "百色市靖西县胡润镇新灵村"
+      },
+      {
+        "cname": "鹅泉",
+        "url": "/sight/jingxi967/51464.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/701/445/846/e8b378c1e0f14f20a1487aeb43497cf8_C_220_140.jpg",
+        "caddress": "百色市靖西县新靖镇鹅泉村念安屯西"
+      },
+      {
+        "cname": "广西通灵大瀑布",
+        "url": "/sight/jingxi967/110159.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/176/790/639/e44d8def9c1247d79761e04366c8cf10_C_220_140.jpg",
+        "caddress": "通灵大峡谷内"
+      },
+      {
+        "cname": "靖西三牙山",
+        "url": "/sight/jingxi967/70462.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/715/531/263/ae31414b4e234f51a14cab1fc2267eb0_C_220_140.jpg",
+        "caddress": "百色市靖西县承德村"
+      }
+    ]
+  },
+  {
+    "cname": "贺州",
+    "url": "http://you.ctrip.com/sightlist/hezhou707.html",
+    "places": [
+      {
+        "cname": "黄姚古镇",
+        "url": "/sight/huangyaoancienttown120533/22158.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/393/388/570/b74cd7fef8984ad8960cac8a2e9f83c1_C_220_140.jpg",
+        "caddress": "贺州市昭平县黄姚镇"
+      },
+      {
+        "cname": "姑婆山国家森林公园",
+        "url": "/sight/hezhou707/22156.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/565/710/395/a30e056449984d3e9c15c7e6177e5f6e_C_220_140.jpg",
+        "caddress": "贺州市姑婆山大道9号"
+      },
+      {
+        "cname": "紫云洞景区",
+        "url": "/sight/hezhou707/68580.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/737/286/331/3516ea37d1154f9eb59652398c9e01a4_C_220_140.jpg",
+        "caddress": "贺州市鹅塘镇栗木村"
+      },
+      {
+        "cname": "玉石林风景区",
+        "url": "/sight/hezhou707/69544.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/481/293/889/d04e3c6bebc74c12bdc2d9ab8ad2f00a_C_220_140.jpg",
+        "caddress": "贺州市黄田镇清面村"
+      },
+      {
+        "cname": "贺州温泉",
+        "url": "/sight/hezhou707/22160.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/329/512/834/0b6f391c104c49f6b0571538ce840209_C_220_140.jpg",
+        "caddress": "贺州市建设东路180号"
+      },
+      {
+        "cname": "大桂山国家森林公园",
+        "url": "/sight/hezhou707/22162.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/473/629/409/5e1ad45641de4bf79a520e46e5fc4cf3_C_220_140.jpg",
+        "caddress": "贺州市步头镇大桂山国家森林公园"
+      },
+      {
+        "cname": "贺州客家围屋",
+        "url": "/sight/hezhou707/22163.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/618/945/dd42fd5f5af94f0bb67547d64486ce30_C_220_140.jpg",
+        "caddress": "贺州市莲塘镇客家围屋景区"
+      },
+      {
+        "cname": "秀水状元村",
+        "url": "/sight/hezhou707/22159.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/302/082/619/c87e2bf73ca749959a38db4569af2778_C_220_140.jpg",
+        "caddress": "贺州市富川县朝东镇秀水状元村"
+      },
+      {
+        "cname": "十八水原生态景区",
+        "url": "/sight/hezhou707/137452.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/448/815/011/958fd97eb5e24b9bb50df2e0736e1303_C_220_140.jpg",
+        "caddress": "贺州市平桂区黄田镇路花村境内"
+      },
+      {
+        "cname": "浮山风景名胜区",
+        "url": "/sight/hezhou707/22161.html",
+        "s_img": "",
+        "caddress": "贺州市八步区贺街镇临、贺两江交汇处。"
+      },
+      {
+        "cname": "明城",
+        "url": "/sight/hezhou707/70672.html",
+        "s_img": "",
+        "caddress": "贺州市富川瑶族自治县都庞岭余脉的西屏山下、富江上游的瞭高岭旁。"
+      },
+      {
+        "cname": "瑞光塔",
+        "url": "/sight/hezhou707/70671.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/574/037/753/5b94a693475c4d5db2f75b615f13ca02_C_220_140.jpg",
+        "caddress": "贺州市富川瑶族自治县富阳镇（县城南郊约500米富江西畔的急转弯处）。"
+      },
+      {
+        "cname": "文明阁",
+        "url": "/sight/huangyaoancienttown120533/134067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/827/560/144/15170ea9fd1742ff8097bab93aed9ef5_C_220_140.jpg",
+        "caddress": "位于黄姚古镇景区内"
+      },
+      {
+        "cname": "临贺故城",
+        "url": "/sight/hezhou707/22164.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/505/005/949/f2c77021ed5c4c67b18b657d559475ee_C_220_140.jpg",
+        "caddress": "贺州市贺街镇"
+      },
+      {
+        "cname": "周家水库",
+        "url": "/sight/huangyaoancienttown120533/134068.html",
+        "s_img": "",
+        "caddress": "贺州市昭平县周家水库"
+      },
+      {
+        "cname": "世外田园",
+        "url": "/sight/zhaobeng3067/69592.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/758/524/312/1b976d05caed4fe8bd5acd47bc471cfd_C_220_140.jpg",
+        "caddress": "贺州市昭平县黄姚笔头村白石寨和中洞村三宝山交界处"
+      },
+      {
+        "cname": "贺州土瑶寨风情山庄",
+        "url": "/sight/hezhou707/69881.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/091/545/512/924d6c9f5f2146a9a9afcc46c1e9f78e_C_220_140.jpg",
+        "caddress": "贺州市平桂区黄田镇土瑶寨山庄"
+      },
+      {
+        "cname": "姑婆山双龙漂流",
+        "url": "/sight/hezhou707/70266.html",
+        "s_img": "",
+        "caddress": "贺州市八步区姑婆山国家森林公园内"
+      },
+      {
+        "cname": "贺州十八水景区漂流",
+        "url": "/sight/hezhou707/131845.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/201/729/833/3b2f178793f4482e9aa76b1d6dd39793_C_220_140.jpg",
+        "caddress": "贺州市平桂区黄田镇路花村杨梅冲"
+      }
+    ]
+  },
+  {
+    "cname": "百色",
+    "url": "http://you.ctrip.com/sightlist/baise524.html",
+    "places": [
+      {
+        "cname": "通灵大峡谷",
+        "url": "/sight/jingxi967/51441.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/404/331/581/5aaacfd4f8fc4b008ab16ef9e7b12b7f_C_220_140.jpg",
+        "caddress": "百色市靖西县湖润镇新灵村"
+      },
+      {
+        "cname": "古龙山大峡谷",
+        "url": "/sight/jingxi967/51456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/040/573/849/37a215a7e7bd45f2acaddfeb26245906_C_220_140.jpg",
+        "caddress": "百色市靖西县胡润镇新灵村"
+      },
+      {
+        "cname": "鹅泉",
+        "url": "/sight/jingxi967/51464.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/701/445/846/e8b378c1e0f14f20a1487aeb43497cf8_C_220_140.jpg",
+        "caddress": "百色市靖西县新靖镇鹅泉村念安屯西"
+      },
+      {
+        "cname": "大石围天坑群",
+        "url": "/sight/leye968/17720.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/103/934/052/f2c923b2a1e646d2aca1d8207e00b5d5_C_220_140.jpg",
+        "caddress": "百色市乐业县"
+      },
+      {
+        "cname": "百色起义纪念馆",
+        "url": "/sight/baise524/51452.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/702/280/127/10bfa47941574142ac818dfcfdec55b0_C_220_140.jpg",
+        "caddress": "百色市城东大道百色起义纪念公园内"
+      },
+      {
+        "cname": "澄碧湖",
+        "url": "/sight/baise524/17721.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/955/845/931/17efdc4d394544c49f68eef04712d831_C_220_140.jpg",
+        "caddress": "百色市永乐乡境内"
+      },
+      {
+        "cname": "吉星岩",
+        "url": "/sight/baise524/54577.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/566/831/933/a6e216bfed0f4d3f9672ad03bbe26810_C_220_140.jpg",
+        "caddress": "百色市德保县南部"
+      },
+      {
+        "cname": "大王岭原始森林",
+        "url": "/sight/baise524/51446.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/134/092/112/bf3745ca680c4742a046f9755b9127fb_C_220_140.jpg",
+        "caddress": "百色市右江区大楞乡龙和村"
+      },
+      {
+        "cname": "广西通灵大瀑布",
+        "url": "/sight/jingxi967/110159.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/176/790/639/e44d8def9c1247d79761e04366c8cf10_C_220_140.jpg",
+        "caddress": "通灵大峡谷内"
+      },
+      {
+        "cname": "红叶森林公园",
+        "url": "/sight/debao3061/142564.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/402/037/544695ed2e8c43769385579fd141431d_C_220_140.jpg",
+        "caddress": "百色市德保县"
+      },
+      {
+        "cname": "黄猄洞天坑国家森林公园",
+        "url": "/sight/baise524/54572.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/706/232/285/b5f049e346ba415296c64c85b4f202ec_C_220_140.jpg",
+        "caddress": "百色市乐业县大石围天坑旁"
+      },
+      {
+        "cname": "穿洞天坑",
+        "url": "/sight/leye968/54530.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/622/324/501/d6098d7400884e0785e4a95607a74150_C_220_140.jpg",
+        "caddress": "百色市乐业县与河池市凤山县境内"
+      },
+      {
+        "cname": "凌云茶山金字塔",
+        "url": "/sight/baise524/54552.html",
+        "s_img": "",
+        "caddress": "百色市凌云县加尤镇央里村那力屯"
+      },
+      {
+        "cname": "岑王老山景区",
+        "url": "/sight/baise524/54574.html",
+        "s_img": "",
+        "caddress": "百色市田林县东部境内与乐业、凌云县相邻，距县城38公里。"
+      },
+      {
+        "cname": "云台山",
+        "url": "/sight/baise524/54582.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/049/992/310dfdacca8b4045976cc348d286204c_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "平果鸳鸯滩漂流",
+        "url": "/sight/baise524/141467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/796/907/094/eb38162967ae42919dc7aca6618cfd82_C_220_140.jpg",
+        "caddress": "百色市平果县马头镇金显村"
+      },
+      {
+        "cname": "布柳河",
+        "url": "/sight/baise524/51445.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/699/372/61ee7a1e051f4092baf8086b3a81dfc8_C_220_140.jpg",
+        "caddress": "广西省百色市乐业县与河池市凤山县境内。"
+      },
+      {
+        "cname": "粤东会馆",
+        "url": "/sight/baise524/17717.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/644/430/636/62d309028fc44e54bbfe3d465cb57aaf_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "旧州老街",
+        "url": "/sight/baise524/54569.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/735/735/081/525029e65de24f98b6703540a951b8d7_C_220_140.jpg",
+        "caddress": "百色市靖西县8公里"
+      },
+      {
+        "cname": "弄良岑氏墓",
+        "url": "/sight/baise524/54584.html",
+        "s_img": "",
+        "caddress": "百色市平果县旧城镇兴宁街西南约1.5公里的弄良"
+      },
+      {
+        "cname": "那坡黑衣壮寨",
+        "url": "/sight/baise524/54579.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/766/253/357/43ecfb76a21a42249502e1e3e2518f79_C_220_140.jpg",
+        "caddress": "百色市那坡县吞力屯黑衣壮风情园"
+      },
+      {
+        "cname": "罗妹莲花洞",
+        "url": "/sight/baise524/54563.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/042/176/293/e91f5c25b3ad45fbb5d694181c2a828b_C_220_140.jpg",
+        "caddress": "百色市乐业县城西南约1公里"
+      },
+      {
+        "cname": "百色起义烈士纪念碑",
+        "url": "/sight/baise524/17719.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/765/907/320/35f04f2ff2254223a0b61dcd9a52a03b_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "敢壮山布洛陀文化旅游区",
+        "url": "/sight/baise524/54561.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/392/650/453/dc781e8681034ad49cbce635c2ae167c_C_220_140.jpg",
+        "caddress": "百色市田阳县百育镇敢壮山景区"
+      },
+      {
+        "cname": "黎明通天河景区",
+        "url": "/sight/bengguan3062/132821.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/477/398/279/4f6ef8111acb4c059172d67ad0424b89_C_220_140.jpg",
+        "caddress": "广西百色平果黎明乡208省道旁"
+      },
+      {
+        "cname": "江美保矮马风情园",
+        "url": "/sight/baise524/54557.html",
+        "s_img": "",
+        "caddress": "百色市右江区"
+      },
+      {
+        "cname": "清风楼",
+        "url": "/sight/baise524/17718.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "十里莲塘",
+        "url": "/sight/baise524/54578.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/86/1F/Cghzf1TCNP6AVT3mAAFb1RRfZr8962_C_220_140.jpg",
+        "caddress": "百色市田东县祥周镇甘莲村"
+      },
+      {
+        "cname": "凌云水源洞",
+        "url": "/sight/baise524/51442.html",
+        "s_img": "",
+        "caddress": "百色市凌云县"
+      },
+      {
+        "cname": "纳灵洞",
+        "url": "/sight/baise524/51461.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/716/190/961120a8a1fe4b14978164581bb31bd5_C_220_140.jpg",
+        "caddress": "百色市凌云迎辉山"
+      },
+      {
+        "cname": "爱布瀑布群",
+        "url": "/sight/baise524/51455.html",
+        "s_img": "",
+        "caddress": "百色市靖西县爱布村"
+      },
+      {
+        "cname": "靖西三牙山",
+        "url": "/sight/jingxi967/70462.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/715/531/263/ae31414b4e234f51a14cab1fc2267eb0_C_220_140.jpg",
+        "caddress": "百色市靖西县承德村"
+      },
+      {
+        "cname": "冷水瀑布",
+        "url": "/sight/baise524/51457.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/524/582/790/3a2e12997ac34caca8aa1972c4869815_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "宫保府建筑群",
+        "url": "/sight/baise524/51466.html",
+        "s_img": "",
+        "caddress": "百色市西林县那劳乡那劳村"
+      },
+      {
+        "cname": "岑氏古建筑群",
+        "url": "/sight/baise524/54575.html",
+        "s_img": "",
+        "caddress": "百色市西林县那劳乡那劳村"
+      },
+      {
+        "cname": "虾泉",
+        "url": "/sight/baise524/54586.html",
+        "s_img": "",
+        "caddress": "百色市平果县城西果化镇虾山脚下"
+      },
+      {
+        "cname": "百谷和高岭坡遗址",
+        "url": "/sight/baise524/51458.html",
+        "s_img": "",
+        "caddress": "百色市田东县"
+      },
+      {
+        "cname": "波贴湖",
+        "url": "/sight/baise524/51444.html",
+        "s_img": "",
+        "caddress": "百色市至凌云县53公里路旁。"
+      },
+      {
+        "cname": "甘河－敢沫岩风景区",
+        "url": "/sight/baise524/54573.html",
+        "s_img": "",
+        "caddress": "百色市平果县"
+      },
+      {
+        "cname": "凌云石刻",
+        "url": "/sight/baise524/51451.html",
+        "s_img": "",
+        "caddress": "百色市周围以水源洞寿桃山为最多。"
+      },
+      {
+        "cname": "坡嘎拉地下长城",
+        "url": "/sight/baise524/54585.html",
+        "s_img": "",
+        "caddress": "百色市靖西县龙邦镇"
+      },
+      {
+        "cname": "天生桥旅游度假区",
+        "url": "/sight/baise524/54580.html",
+        "s_img": "",
+        "caddress": "百色市隆林各族自治县境内"
+      },
+      {
+        "cname": "龙须河",
+        "url": "/sight/baise524/69770.html",
+        "s_img": "",
+        "caddress": "百色市田东县园艺场"
+      },
+      {
+        "cname": "福禄河瀑布群",
+        "url": "/sight/baise524/17723.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "资源",
+    "url": "http://you.ctrip.com/sightlist/ziyuan980.html",
+    "places": [
+      {
+        "cname": "八角寨景区",
+        "url": "/sight/ziyuan980/48674.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/034/677/472/0fdccb06c68945dcb7b172215e9ee6e8_C_220_140.jpg",
+        "caddress": "桂林市资源县梅溪乡大坨村境内"
+      },
+      {
+        "cname": "天门山",
+        "url": "/sight/ziyuan980/131693.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/033/562/944/0f5a2a6218b045dcb1861f6cfc07f0bd_C_220_140.jpg",
+        "caddress": "桂林市资源县中峰乡车田湾村"
+      },
+      {
+        "cname": "资源丹霞国家地质公园",
+        "url": "/sight/ziyuan980/131698.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/747/565/221/f37d68dc643241e18f09ec711a051d4b_C_220_140.jpg",
+        "caddress": "桂林市资源县与湖南省新宁县交界"
+      },
+      {
+        "cname": "百卉谷生态景园",
+        "url": "/sight/ziyuan980/131508.html",
+        "s_img": "",
+        "caddress": "桂林市资源县资江漂流景区终点地段"
+      },
+      {
+        "cname": "资江景区",
+        "url": "/sight/ziyuan980/70473.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/009/001/192/e4cbb1fd4749458693369fdbb32cd901_C_220_140.jpg",
+        "caddress": "桂林市资源县中峰乡车田湾村"
+      },
+      {
+        "cname": "龙洞峡",
+        "url": "/sight/ziyuan980/1417671.html",
+        "s_img": "",
+        "caddress": "桂林市资源县车田苗族乡石山底村"
+      }
+    ]
+  },
+  {
+    "cname": "大新",
+    "url": "http://you.ctrip.com/sightlist/daxin963.html",
+    "places": [
+      {
+        "cname": "黑水河",
+        "url": "/sight/daxin963/110202.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/645/070/833/13ba3b04246d4e578b2df0c285dfe780_C_220_140.jpg",
+        "caddress": "崇左市大新县那岭乡陇玉村"
+      },
+      {
+        "cname": "龙宫仙境",
+        "url": "/sight/daxin963/140742.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/627/908/927/5ee93cfcf8224e1791216533fe4f56a5_C_220_140.jpg",
+        "caddress": "崇左市大新县那岭龙宫仙境景区"
+      }
+    ]
+  },
+  {
+    "cname": "崇左",
+    "url": "http://you.ctrip.com/sightlist/chongzuo837.html",
+    "places": [
+      {
+        "cname": "德天大瀑布",
+        "url": "/sight/chongzuo837/8842.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/392/810/921/dbfd806008344ad7951bbf30815d5751_C_220_140.jpg",
+        "caddress": "崇左市大新县硕龙镇德天川"
+      },
+      {
+        "cname": "凭祥友谊关",
+        "url": "/sight/pingxiang840/18120.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/566/619/6f0bff8f8aee416c8c10aff628ff29f5_C_220_140.jpg",
+        "caddress": "崇左市凭祥市南人路83号友谊关景区"
+      },
+      {
+        "cname": "明仕田园",
+        "url": "/sight/chongzuo837/54425.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/643/404/350/210b3b7023ba4e5397402f70fedfbcb2_C_220_140.jpg",
+        "caddress": "崇左市大新县城53公里的堪圩乡明仕村，距离南宁市180公里"
+      },
+      {
+        "cname": "黑水河",
+        "url": "/sight/daxin963/110202.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/645/070/833/13ba3b04246d4e578b2df0c285dfe780_C_220_140.jpg",
+        "caddress": "崇左市大新县那岭乡陇玉村"
+      },
+      {
+        "cname": "花山壁画",
+        "url": "/sight/chongzuo837/8845.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/677/586/980/bee9158c987a40e8869a2f628e289932_C_220_140.jpg",
+        "caddress": "崇左市宁明县驮龙镇左江岸边花山崖壁画景区花山码头"
+      },
+      {
+        "cname": "龙宫仙境",
+        "url": "/sight/daxin963/140742.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/627/908/927/5ee93cfcf8224e1791216533fe4f56a5_C_220_140.jpg",
+        "caddress": "崇左市大新县那岭龙宫仙境景区"
+      },
+      {
+        "cname": "石景林景区",
+        "url": "/sight/chongzuo837/21922.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/960/463/779/8f6efc1cc91b44d7ab0d16761ccb09c5_C_220_140.jpg",
+        "caddress": "崇左市江州区城区南郊5.5公里处，石景林路附近。"
+      },
+      {
+        "cname": "崇左斜塔",
+        "url": "/sight/chongzuo837/21921.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/619/618/293/0562123ee1cf4dfd8ff6c7bdbf3f3f03_C_220_140.jpg",
+        "caddress": "崇左市江州区熬头峰上"
+      },
+      {
+        "cname": "小连城",
+        "url": "/sight/longzhou3046/18121.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/211/545/817/4b5458663c444853acca32840edd1f49_C_220_140.jpg",
+        "caddress": "崇左市龙州县小连城景区"
+      },
+      {
+        "cname": "左江风景区",
+        "url": "/sight/chongzuo837/1408929.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/501/560/147/1e71360321d24c598f6695f1b800f6bb_C_220_140.jpg",
+        "caddress": "崇左市龙州县上金码头"
+      },
+      {
+        "cname": "胡志明展馆",
+        "url": "/sight/chongzuo837/1408928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/890/551/368/5dc0401546c043dfaf80abb1b419252d_C_220_140.jpg",
+        "caddress": "崇左市龙州县南街99号"
+      },
+      {
+        "cname": "法国驻龙州领事馆",
+        "url": "/sight/chongzuo837/1408926.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/575/322/669/d2eea718991f4d5faf740a45d9ebb5a0_C_220_140.jpg",
+        "caddress": "崇左市龙州县利民街"
+      },
+      {
+        "cname": "陆荣廷旧居陈列馆",
+        "url": "/sight/chongzuo837/1408933.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/732/327/738/8a448458b9fc41ad937f00be138495a7_C_220_140.jpg",
+        "caddress": "崇左市龙州水口镇水口旧街的西北面"
+      }
+    ]
+  },
+  {
+    "cname": "兴安",
+    "url": "http://you.ctrip.com/sightlist/xingan722.html",
+    "places": [
+      {
+        "cname": "灵渠",
+        "url": "/sight/xingan722/2884.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/430/409/926/5b45236d50ce4b5cbd2f5c6201c19912_C_220_140.jpg",
+        "caddress": "桂林市兴安县（古灵渠水流经兴安县城的南北两岸）"
+      },
+      {
+        "cname": "桂林乐满地主题乐园",
+        "url": "/sight/xingan722/140489.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/649/132/062/8388d0be76404e658181d4802b92d3e5_C_220_140.jpg",
+        "caddress": "桂林市兴安县志玲路"
+      },
+      {
+        "cname": "老人山",
+        "url": "/sight/xingan722/1417672.html",
+        "s_img": "",
+        "caddress": "桂林市兴安县老人山，在城西北桂湖之畔，与独秀峰、叠彩山鼎足三立。"
+      },
+      {
+        "cname": "竹海梯田",
+        "url": "/sight/xingan722/131660.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/029/114/040/b18cb56860a345ccb5f9794c89d36998_C_220_140.jpg",
+        "caddress": "桂林市兴安县"
+      },
+      {
+        "cname": "桂林猫儿山",
+        "url": "/sight/xingan722/18142.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/909/859/fef2cf1e4cd5454b942abc089758bbf1_C_220_140.jpg",
+        "caddress": "桂林市的北部于兴安县西北部"
+      },
+      {
+        "cname": "漓源瀑布景区",
+        "url": "/sight/xingan722/141687.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/515/647/528/71cefd73956f4c8b823e9762780d309e_C_220_140.jpg",
+        "caddress": "桂林市兴安县华江乡高寨村猫儿山"
+      },
+      {
+        "cname": "超然派大峡谷",
+        "url": "/sight/xingan722/131652.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/715/782/561/820df71d7557417082b58aa0fe9ee0bb_C_220_140.jpg",
+        "caddress": "桂林市兴安县华江乡高寨村"
+      },
+      {
+        "cname": "海底龙宫景区",
+        "url": "/sight/xingan722/141681.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/402/194/bf10815c2f3140ff9b1d8e09af1d8208_C_220_140.jpg",
+        "caddress": "桂林市漠川乡榜上村"
+      },
+      {
+        "cname": "忘忧谷度假山庄",
+        "url": "/sight/xingan722/1407604.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/844/255/215/4e118633c7cb4339a0ca5da3d819da9d_C_220_140.jpg",
+        "caddress": "桂林市兴安县华江乡高寨村（猫儿山附近2公里）。"
+      },
+      {
+        "cname": "世纪冰川灵佛洞景区",
+        "url": "/sight/xingan722/48681.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/908/471/265/99174bc2d791441c8c68e609591f5a1d_C_220_140.jpg",
+        "caddress": "桂林市兴安县桂黄一级公路严关镇梳子铺路段"
+      },
+      {
+        "cname": "秦皇宫",
+        "url": "/sight/xingan722/1417612.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/DC/9B/CghzfFTYhTuAAXrvAAGIMk0Ya6k426_C_220_140.jpg",
+        "caddress": "桂林市兴安县灵渠南路秦皇宫"
+      },
+      {
+        "cname": "秦家大院",
+        "url": "/sight/xingan722/133330.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/BA/FE/CghzflTYhzGAb9qRAAFuCqgd2xw354_C_220_140.jpg",
+        "caddress": "桂林市兴安县白石乡水源头村"
+      },
+      {
+        "cname": "古严关",
+        "url": "/sight/xingan722/131639.html",
+        "s_img": "",
+        "caddress": "桂林市兴安县严关乡严关村，兴安县城西南八公里处的两山夹峙的狭道中"
+      },
+      {
+        "cname": "乳洞岩",
+        "url": "/sight/xingan722/131638.html",
+        "s_img": "",
+        "caddress": "桂林市兴安县城南六公里外的龙蟠山下"
+      },
+      {
+        "cname": "红军堂",
+        "url": "/sight/xingan722/131643.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/772/095/961/c8ace5cee5da423ba71ff59f215b5890_C_220_140.jpg",
+        "caddress": "桂林市龙胜县城东部"
+      }
+    ]
+  },
+  {
+    "cname": "防城港",
+    "url": "http://you.ctrip.com/sightlist/fangchenggang698.html",
+    "places": [
+      {
+        "cname": "万尾金滩",
+        "url": "/sight/dongxing964/22063.html",
+        "s_img": "http://p.chanyouji.cn/1407502020/3BB69585-770D-4B3E-80F3-921D99EE1E13.jpg?imageView/1/w/220/h/140",
+        "caddress": "防城港市东兴市江平镇"
+      },
+      {
+        "cname": "白浪滩",
+        "url": "/sight/fangchenggang698/1412479.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/396/106/887/65984d67d66d4ae29ff9bd216ba303c4_C_220_140.jpg",
+        "caddress": "防城港市防城区江山乡江山半岛东南部"
+      },
+      {
+        "cname": "火山岛",
+        "url": "/sight/fangchenggang698/1408931.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/227/987/771/657c2ee2bd40488ba5959cbbb9d4eb02_C_220_140.jpg",
+        "caddress": "防城港市港口区光坡镇红沙村"
+      },
+      {
+        "cname": "东兴屏峰雨林公园",
+        "url": "/sight/fangchenggang698/1407598.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/925/990/246/3a9a854ea5bf4459a22a3b154bdb941b_C_220_140.jpg",
+        "caddress": "防城港市东兴市马路镇平丰村"
+      },
+      {
+        "cname": "江山半岛",
+        "url": "/sight/fangchenggang698/22064.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/949/320/918/9711c5e2eb4644afb2086cd000ec39fa_C_220_140.jpg",
+        "caddress": "防城港市防城区江山乡北部湾畔"
+      },
+      {
+        "cname": "野人谷",
+        "url": "/sight/fangchenggang698/141464.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/074/426/101/703d604fba51466ba33a188333452ca0_C_220_140.jpg",
+        "caddress": "防城港市那良镇那楼村"
+      },
+      {
+        "cname": "南山聪皇沟景区",
+        "url": "/sight/fangchenggang698/141463.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/668/281/737/a12b2e4cc6804eaba346411b6967c133_C_220_140.jpg",
+        "caddress": "防城港市防城区那梭镇"
+      },
+      {
+        "cname": "瑶山大峡谷",
+        "url": "/sight/fangchenggang698/141471.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/379/620/544/8fcbc97307354aa7b00d8741d223841d_C_220_140.jpg",
+        "caddress": "防城港市防城区垌中镇那涯村"
+      },
+      {
+        "cname": "十万大山国家森林公园",
+        "url": "/sight/fangchenggang698/22062.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/674/965/903/de1048c629794ebf98307e50bb0fad63_C_220_140.jpg",
+        "caddress": "防城港市上思县红旗林场"
+      },
+      {
+        "cname": "胡志明小道",
+        "url": "/sight/fangchenggang698/22065.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/418/033/571/832f01fff58c4b30b6f38452b6f024d7_C_220_140.jpg",
+        "caddress": "防城港室港口区北码头渡口"
+      },
+      {
+        "cname": "北仑河源头跨国漂流",
+        "url": "/sight/fangchenggang698/70367.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/940/199/516/7b311da1a94d448ea84d0cd31440fbe8_C_220_140.jpg",
+        "caddress": "防城港市防城区那良镇滩散村"
+      },
+      {
+        "cname": "峒中温泉",
+        "url": "/sight/fangchenggang698/22066.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/670/482/978/c4ebf31a238540d2a7952ba6a812c9fe_C_220_140.jpg",
+        "caddress": "防城港市防城区峒中镇板典街（在镇政府旁）。"
+      },
+      {
+        "cname": "尚绿岛生态度假山庄",
+        "url": "/sight/fangchenggang698/1412068.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/305/244/840/de99cc1235c849a2b7c873b2cc9d3cc6_C_220_140.jpg",
+        "caddress": "防城港市防城区防城镇三波水库内"
+      },
+      {
+        "cname": "金沙水旅游度假景区",
+        "url": "/sight/fangchenggang698/1412067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/952/196/449/398f25e211f644bb8e4e03d27991e2c0_C_220_140.jpg",
+        "caddress": "防城港市防城区那梭镇稔稳村"
+      }
+    ]
+  },
+  {
+    "cname": "钦州",
+    "url": "http://you.ctrip.com/sightlist/qinzhou697.html",
+    "places": [
+      {
+        "cname": "三娘湾",
+        "url": "/sight/qinzhou697/22119.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/715/415/297/f5066eb854d64f52a072007a83090125_C_220_140.jpg",
+        "caddress": "钦州市犀牛脚镇东面约5公里处海湾边三娘湾景区"
+      },
+      {
+        "cname": "冯子材故居",
+        "url": "/sight/qinzhou697/22124.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/DD/31/CghzfVSw_CmAR1bsAA9fW-oBMKI674_C_220_140.jpg",
+        "caddress": "钦州市钦南区宫保街三马路和四马路之间"
+      },
+      {
+        "cname": "八寨沟",
+        "url": "/sight/qinzhou697/131856.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/63/98/CghzgFThSuCAQ0IYAAKQNknz79s377_C_220_140.jpg",
+        "caddress": "钦州市钦北区贵台镇洞利村"
+      },
+      {
+        "cname": "三宣堂(刘永福故居)",
+        "url": "/sight/qinzhou697/22123.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/440/215/080/d62d413778594b8180f0d458111da14e_C_220_140.jpg",
+        "caddress": "钦州市钦南区板桂街10号"
+      },
+      {
+        "cname": "大芦村古宅",
+        "url": "/sight/qinzhou697/22126.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/466/157/646/b40d34bc985c4bdcbaab50176c5171ad_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "六峰山风景名胜旅游区",
+        "url": "/sight/lingshan969/141200.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/439/287/8bf4c66373fa4ff297bf4243fe2a2895_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县"
+      },
+      {
+        "cname": "七十二泾",
+        "url": "/sight/qinzhou697/22121.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/559/017/981/ce5276e2ad954d25a3e8769edf2bf5fe_C_220_140.jpg",
+        "caddress": "钦州市钦南区大番坡镇茅尾海内"
+      },
+      {
+        "cname": "灵东水上游乐避暑风景区",
+        "url": "/sight/lingshan969/141204.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/865/117/424/de9780cf9ee84386b094bb89a16ef3e4_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县"
+      },
+      {
+        "cname": "大芦村民俗风情旅游区",
+        "url": "/sight/lingshan969/141205.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/962/876/643/d980db5f4e9444ddbf497487fbec9b29_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县"
+      },
+      {
+        "cname": "王岗山",
+        "url": "/sight/qinzhou697/50632.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/648/543/136/3f4592acfd584e6292c90be768da642f_C_220_140.jpg",
+        "caddress": "钦州市大直镇西境，距市区53公里。"
+      },
+      {
+        "cname": "六峰山",
+        "url": "/sight/qinzhou697/22125.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/441/719/201/267b039c8b1a4b849148c43b6cdbf46b_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "三海岩",
+        "url": "/sight/lingshan969/141203.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/787/571/128/9bcb44bbc77642708bb9530af6f3a63b_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县灵山中学校园内"
+      },
+      {
+        "cname": "麻蓝岛",
+        "url": "/sight/qinzhou697/22120.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/191/423/336/3967982de5d8480aa374a0db7a04317e_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "玉林",
+    "url": "http://you.ctrip.com/sightlist/yulin141.html",
+    "places": [
+      {
+        "cname": "真武阁",
+        "url": "/sight/rongxian3044/135495.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/715/497/906/83ad96ab7d2f416f8acc45d793a056a3_C_220_140.jpg",
+        "caddress": "玉林市容县东外街57号"
+      },
+      {
+        "cname": "庆寿岩",
+        "url": "/sight/rongxian3044/70430.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/445/950/601/091f5c67cef64b9095a2238f1fc409fb_C_220_140.jpg",
+        "caddress": "玉林市容县石寨镇庆寿岩风景区"
+      },
+      {
+        "cname": "鹿峰山风景区",
+        "url": "/sight/yulin141/135492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/338/113/130/f2f10bdbbeb24a14943ec6e72ff37707_C_220_140.jpg",
+        "caddress": "玉林市兴业县以东距离兴业县城18公里"
+      },
+      {
+        "cname": "谢鲁山庄风景名胜区",
+        "url": "/sight/luchuan971/135493.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/309/615/573/b4bb35db8a6a49b09bca9d70e5999df8_C_220_140.jpg",
+        "caddress": "玉林市陆川县乌石镇谢鲁村"
+      },
+      {
+        "cname": "勾漏洞",
+        "url": "/sight/beiliu3045/131868.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/107/401/496/322d25d66c4e46e2bdc6d8b9b3ab5877_C_220_140.jpg",
+        "caddress": "玉林市北流城东路889号"
+      },
+      {
+        "cname": "大容山森林公园",
+        "url": "/sight/beiliu3045/131865.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/841/205/7f57c2ef8b4f4123893f2c3be3c61364_C_220_140.jpg",
+        "caddress": "玉林市北流县大容山林场内"
+      },
+      {
+        "cname": "云天宫",
+        "url": "/sight/yulin141/131862.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/074/148/496/4bb08a1935c8466d8fe82f25360b2832_C_220_140.jpg",
+        "caddress": "玉林市江滨路461号"
+      },
+      {
+        "cname": "玉林都峤山",
+        "url": "/sight/rongxian3044/131864.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/817/030/517/38b776f8a93c42dbb54edbb93be945af_C_220_140.jpg",
+        "caddress": "玉林市容县石寨镇庆寿岩景区"
+      },
+      {
+        "cname": "龙泉岩",
+        "url": "/sight/yulin141/131869.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/093/966/837/fbd4c1da3cf246b1accf042e4696d04c_C_220_140.jpg",
+        "caddress": "玉林市兴业县城隍镇鹿峰山风景区"
+      },
+      {
+        "cname": "龙珠湖",
+        "url": "/sight/luchuan971/131870.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/903/996/240/5587637fd7de440b9cadbeb877ea7543_C_220_140.jpg",
+        "caddress": "广西玉林市陆川县"
+      },
+      {
+        "cname": "天堂湖温泉度假山庄",
+        "url": "/sight/rongxian3044/137456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/690/182/494/701d4c6dcd54411689ba0bc73bf10cee_C_220_140.jpg",
+        "caddress": "省玉林市容县黎村镇温泉村"
+      },
+      {
+        "cname": "杨贵妃故里",
+        "url": "/sight/rongxian3044/135494.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/188/494/779/517c2deaec2547ff8b2039a3c16fc638_C_220_140.jpg",
+        "caddress": "广西壮族自治区玉林市容县十里乡杨外村"
+      },
+      {
+        "cname": "石嶷文塔",
+        "url": "/sight/yulin141/131873.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/274/133/3b9d4a093b504e709d7203fd5f4290b9_C_220_140.jpg",
+        "caddress": "广西壮族自治区玉林市兴业县石南镇"
+      },
+      {
+        "cname": "水月岩",
+        "url": "/sight/yulin141/131871.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/335/448/562/b57eb33fba4a4a0cb54c32cea5273a4b_C_220_140.jpg",
+        "caddress": "广西玉林市东南部"
+      },
+      {
+        "cname": "都峤柚谷",
+        "url": "/sight/rongxian3044/1407606.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/115/334/284/c65ab1ece9d946fe9fed824002e64569_C_220_140.jpg",
+        "caddress": "广西壮族自治区容县容州镇木进村"
+      },
+      {
+        "cname": "天门关",
+        "url": "/sight/yulin141/131872.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/281/045/270/dc33ba164dbb494ba0db9db72bf66879_C_220_140.jpg",
+        "caddress": "广西玉林市"
+      },
+      {
+        "cname": "黎村温泉",
+        "url": "/sight/rongxian3044/135498.html",
+        "s_img": "",
+        "caddress": "广西玉林市容县黎村镇"
+      },
+      {
+        "cname": "云天文化城",
+        "url": "/sight/yulin141/70422.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/172/643/490/10685d468a7c47c8b9760b317446bfa4_C_220_140.jpg",
+        "caddress": "玉林市玉州区江滨路461号"
+      }
+    ]
+  },
+  {
+    "cname": "三江",
+    "url": "http://you.ctrip.com/sightlist/sanjiang975.html",
+    "places": [
+      {
+        "cname": "三江侗乡",
+        "url": "/sight/sanjiang975/16900.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/226/311/542/f23bcf8221d94887b752c496b56ef398_C_220_140.jpg",
+        "caddress": "柳州市三江侗族自治县县城内"
+      },
+      {
+        "cname": "程阳风雨桥",
+        "url": "/sight/sanjiang975/18135.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/630/588/5dca06e1f5294f938491170489b795a6_C_220_140.jpg",
+        "caddress": "三江侗族自治县古宜镇林溪乡平岩村程阳桥风景区内"
+      },
+      {
+        "cname": "程阳八寨",
+        "url": "/sight/sanjiang975/131755.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/DC/27/CghzfFTYf_qANQukABX-pUIZsoI513_C_220_140.jpg",
+        "caddress": "林溪乡马安寨"
+      },
+      {
+        "cname": "丹洲古城",
+        "url": "/sight/sanjiang975/62257.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/198/790/703/fabf2099049e482696782e331984b964_C_220_140.jpg",
+        "caddress": "柳州市三江侗族自治县丹洲镇丹洲村"
+      },
+      {
+        "cname": "石门冲生态旅游景区",
+        "url": "/sight/sanjiang975/70479.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/779/523/333/904380802c40425593bc0ef1a5d7b39f_C_220_140.jpg",
+        "caddress": "柳州市三江侗族自治县丹洲镇东风村"
+      },
+      {
+        "cname": "侗乡鸟巢（坐夜）",
+        "url": "/sight/sanjiang975/70352.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/B8/4D/CghzgVSn_raAR1k0AAGMqCm8vAU845_C_220_140.jpg",
+        "caddress": "柳州市三江县古宜镇侗乡鸟巢"
+      }
+    ]
+  },
+  {
+    "cname": "巴马",
+    "url": "http://you.ctrip.com/sightlist/bama3041.html",
+    "places": [
+      {
+        "cname": "百魔洞",
+        "url": "/sight/bama3041/131883.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/855/743/044/4f304d0deed84363a65f9c2a9bafaa00_C_220_140.jpg",
+        "caddress": "河池市巴马县甲篆乡坡月村西侧"
+      },
+      {
+        "cname": "巴马长寿村",
+        "url": "/sight/bama3041/135109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/910/411/719/707ecd249c2344269d8b7721996ce56c_C_220_140.jpg",
+        "caddress": "河池市巴马瑶族自治县甲篆乡平安村巴盘屯"
+      },
+      {
+        "cname": "盘阳河",
+        "url": "/sight/bama3041/135110.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/883/581/139/970efd713b1643c68c811c385f1566a7_C_220_140.jpg",
+        "caddress": "河池市巴马县甲篆乡甲篆村约2公里烈屯漠斋山的百鸟洞流出（发源于凤山县乔音乡平垌，南流经乔音、凤山县城，于太平潜入地下形成暗河，经 34.8 公里后，于县境甲篆乡坡月村流出地表，再流经甲篆、巴马、凤凰、羌圩等乡镇，最后于羌圩乡常吉村汇入红水河）。"
+      },
+      {
+        "cname": "长寿博物馆",
+        "url": "/sight/bama3041/135108.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/753/743/515/af08db603f3541f787e8899a39815629_C_220_140.jpg",
+        "caddress": "广西河池市巴马县城东体育广场旁"
+      },
+      {
+        "cname": "长寿仁寿源",
+        "url": "/sight/bama3041/141706.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/547/602/354/dffbdb023d194cfcadc70326f36b8242_C_220_140.jpg",
+        "caddress": "河池市巴马县平林村敢烟屯（距县城10公里）"
+      },
+      {
+        "cname": "巴马水晶宫",
+        "url": "/sight/bama3041/131884.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/948/942/486/101cc13617fe44aeb148e12052b5fd87_C_220_140.jpg",
+        "caddress": "河池市巴马瑶族自治县那社乡大洛村牛洞屯（距县城约43公里）"
+      },
+      {
+        "cname": "巴马百鸟岩",
+        "url": "/sight/bama3041/135106.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/053/536/455/20dd0602d47c4622999ba7e231285870_C_220_140.jpg",
+        "caddress": "河池市巴马县甲篆乡烈屯西北面的漠斋山下"
+      },
+      {
+        "cname": "赐福湖",
+        "url": "/sight/bama3041/135107.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/155/642/261/730f6aa341af478ba216cb52017190b9_C_220_140.jpg",
+        "caddress": "河池市巴马县巴马镇赐福村"
+      },
+      {
+        "cname": "梦巴马",
+        "url": "/sight/bama3041/141708.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/655/940/265/6eeaf431b122409baef22de50c9d5bf1_C_220_140.jpg",
+        "caddress": "河池市巴马县城东北部长寿岛，在巴马县—东兰—金城江二级路边（距县城6千米）"
+      },
+      {
+        "cname": "盘阳河漂流",
+        "url": "/sight/bama3041/141707.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/370/318/259/e2c5db184c034a868e7d898733ff97ad_C_220_140.jpg",
+        "caddress": "河池市巴马县巴马瑶族自治县甲篆乡烈屯西北面的漠斋山下"
+      },
+      {
+        "cname": "百马村",
+        "url": "/sight/bama3041/147951.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/938/187/721/f275b9c84bdc4489afe3d9f59caf1960_C_220_140.jpg",
+        "caddress": "河池市巴马瑶族自治县甲篆乡百马村"
+      },
+      {
+        "cname": "好龙天坑群",
+        "url": "/sight/bama3041/135114.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/196/300/065/e5a4aead3707481fbe80fca9042f6853_C_220_140.jpg",
+        "caddress": "河池市巴马县所略乡、燕洞乡交界的弄中、交乐、龙田。"
+      },
+      {
+        "cname": "福源景区",
+        "url": "/sight/bama3041/135117.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/078/273/813/94515fc05d624679a47acfd7be02c619_C_220_140.jpg",
+        "caddress": "广西河池市巴马县那社乡大洛村"
+      },
+      {
+        "cname": "弄友原始森林",
+        "url": "/sight/bama3041/135112.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/347/378/003/80ccce1853d54a36aa19f008eee24373_C_220_140.jpg",
+        "caddress": "广西河池市巴马县西山乡弄友村"
+      },
+      {
+        "cname": "龙洪自然风景区",
+        "url": "/sight/bama3041/135113.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/503/056/620/8c5999d54bc24c5f8803bb866f1712f0_C_220_140.jpg",
+        "caddress": "广西河池市巴马县巴马镇龙洪村"
+      },
+      {
+        "cname": "柳羊溶洞",
+        "url": "/sight/bama3041/135122.html",
+        "s_img": "",
+        "caddress": "广西河池市巴马县甲篆乡百魔洞东北边约800米处"
+      },
+      {
+        "cname": "蓝家大院",
+        "url": "/sight/bama3041/135133.html",
+        "s_img": "",
+        "caddress": "广西河池市巴马县甲篆村盘阳河入口处"
+      }
+    ]
+  },
+  {
+    "cname": "梧州",
+    "url": "http://you.ctrip.com/sightlist/wuzhou142.html",
+    "places": [
+      {
+        "cname": "骑楼城 ",
+        "url": "/sight/wuzhou142/57751.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/552/876/734/4a7490b024c34d10a849af90172efaba_C_220_140.jpg",
+        "caddress": "梧州市河东老城区内"
+      },
+      {
+        "cname": "四恩寺",
+        "url": "/sight/wuzhou142/57748.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/495/774/103/d876fcf1c1f24c42854672117b6523d3_C_220_140.jpg",
+        "caddress": "梧州市万秀区石鼓路（白云山风景区内）"
+      },
+      {
+        "cname": "龙母太庙",
+        "url": "/sight/wuzhou142/57747.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/172/398/7bb0c8e881b14ed0b4cd5eb4816fe764_C_220_140.jpg",
+        "caddress": "梧州市万秀区桂林路75号"
+      },
+      {
+        "cname": "石表山",
+        "url": "/sight/tengxian143827/57728.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/431/142/647/52beb04cda884b60834427e7e82f2bda_C_220_140.jpg",
+        "caddress": "梧州市藤县象棋道家村"
+      },
+      {
+        "cname": "西竺园 ",
+        "url": "/sight/wuzhou142/57749.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/030/086/898/421882f85db545cebe5dc3e90127780a_C_220_140.jpg",
+        "caddress": "广西梧州市岗岭路珠投岭"
+      },
+      {
+        "cname": "戎圩古镇（龙圩镇）",
+        "url": "/sight/cangwu3052/57758.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县龙圩镇"
+      },
+      {
+        "cname": "梁羽生公园",
+        "url": "/sight/mengshan3057/57733.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/679/401/d4bee9ba2d4d46189906148d35659dee_C_220_140.jpg",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "白云山",
+        "url": "/sight/wuzhou142/57743.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/629/098/a6cbba5c05b3424381a5e1e21882523e_C_220_140.jpg",
+        "caddress": "广西梧州市万秀区"
+      },
+      {
+        "cname": "中山公园 ",
+        "url": "/sight/wuzhou142/57745.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/994/686/426/03739a9457a3454fbc88ce5d5179442a_C_220_140.jpg",
+        "caddress": "梧州市万秀区冰泉西路10号"
+      },
+      {
+        "cname": "天龙顶国家山地公园",
+        "url": "/sight/cenxi3056/57779.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/246/913/432/09265634c6be48ceafa7da1680a701c0_C_220_140.jpg",
+        "caddress": "广西梧州市岑溪市南渡镇吉太村"
+      },
+      {
+        "cname": "李济深故居",
+        "url": "/sight/cangwu3052/57711.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/6B/93/CghzfVSqQd6AIoOgAAIzZpq3oy0770_C_220_140.jpg",
+        "caddress": "广西梧州市苍梧县料神村"
+      },
+      {
+        "cname": "英国领事署旧址",
+        "url": "/sight/wuzhou142/57714.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/720/621/972/e58238b3d9b6418380fb86538dd4f872_C_220_140.jpg",
+        "caddress": "广西梧州市蝶山区大学路河滨公园内"
+      },
+      {
+        "cname": "潘塘公园",
+        "url": "/sight/wuzhou142/131763.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/860/665/527/7ec246687b09437587d5515e0f17aa0c_C_220_140.jpg",
+        "caddress": "广西梧州蝶山区新兴一路"
+      },
+      {
+        "cname": "圣文园 ",
+        "url": "/sight/wuzhou142/57716.html",
+        "s_img": "",
+        "caddress": "广西梧州市蝶山区"
+      },
+      {
+        "cname": "蝴蝶谷漂流风景区",
+        "url": "/sight/tengxian143827/57778.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/701/353/040/9856fcb08e3f4f2096a913691319d8ee_C_220_140.jpg",
+        "caddress": "桂林市临桂县宛田乡东宅江村"
+      },
+      {
+        "cname": "中共梧州地委、广西特委旧址 ",
+        "url": "/sight/wuzhou142/57713.html",
+        "s_img": "",
+        "caddress": "广西梧州市万秀区"
+      },
+      {
+        "cname": "玉梦胜景",
+        "url": "/sight/mengshan3057/57785.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "岑溪珍稀植物红豆杉",
+        "url": "/sight/cenxi3056/135100.html",
+        "s_img": "",
+        "caddress": "广西梧州市岑溪市南渡镇吉太村"
+      },
+      {
+        "cname": "河滨公园 ",
+        "url": "/sight/wuzhou142/57755.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M02/8D/C7/CghzgFTEcHuACgHJAALhACbvDes228_C_220_140.jpg",
+        "caddress": "广西梧州市蝶山区大学路"
+      },
+      {
+        "cname": "梧州龙母庙",
+        "url": "/sight/wuzhou142/70425.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M02/02/6B/CghzflTcHnSAbREtAAJkOn_2vOA035_C_220_140.jpg",
+        "caddress": "梧州市桂林路75号"
+      },
+      {
+        "cname": "州头古榕",
+        "url": "/sight/mengshan3057/57783.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "禤洲岛",
+        "url": "/sight/tengxian143827/57721.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/AE/D2/CghzflSmQ8qAX4rmAADh-MlsWgc472_C_220_140.jpg",
+        "caddress": "广西梧州市藤县"
+      },
+      {
+        "cname": "梧州龟苓膏工业旅游",
+        "url": "/sight/wuzhou142/135101.html",
+        "s_img": "",
+        "caddress": "广西梧州市长洲区新兴二路134号"
+      },
+      {
+        "cname": "太平狮山",
+        "url": "/sight/tengxian143827/57724.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/815/632/86881539893640599f84bb828e7d70bc_C_220_140.jpg",
+        "caddress": "梧州市藤县太平镇境内（范围东至太平镇良垌石脚村，西至安福石塘村，南至蒙江双德村，北至七政龙窟村）。"
+      },
+      {
+        "cname": "白霜涧 ",
+        "url": "/sight/cenxi3056/57738.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/030/028/758/8e88f27093bf45ce83ab6269afc0d360_C_220_140.jpg",
+        "caddress": "广西梧州岑溪市"
+      },
+      {
+        "cname": "道家村 ",
+        "url": "/sight/tengxian143827/57730.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/090/805/917/35c70143560446a4b61596c4fa231d89_C_220_140.jpg",
+        "caddress": "广西梧州藤县"
+      },
+      {
+        "cname": "大竹龙母庙 ",
+        "url": "/sight/cenxi3056/57737.html",
+        "s_img": "",
+        "caddress": "广西梧州市岑溪市糯垌镇大竹村"
+      },
+      {
+        "cname": "西炮台公园",
+        "url": "/sight/mengshan3057/57781.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/570/024/297/18b26277f8a94d4ca0e457b653684956_C_220_140.jpg",
+        "caddress": "广西梧州市蒙山县湄江大街150米"
+      },
+      {
+        "cname": "爽岛民俗风情旅游区 ",
+        "url": "/sight/cangwu3052/57753.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/720/042/190/92a4fa005e37418391066e2e5eb46f46_C_220_140.jpg",
+        "caddress": "广西梧州市苍梧县梨埠镇"
+      },
+      {
+        "cname": "飞龙湖旅游度假区 ",
+        "url": "/sight/cangwu3052/57739.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县梨埠镇凤仪村"
+      },
+      {
+        "cname": "六堡茶园 ",
+        "url": "/sight/wuzhou142/57709.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县六堡镇"
+      },
+      {
+        "cname": "鸳江春泛",
+        "url": "/sight/wuzhou142/57754.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/324/899/031/cdbcd6a945e649e587386a7c3bd056a4_C_220_140.jpg",
+        "caddress": "广西梧州市万秀区"
+      },
+      {
+        "cname": "爽心瀑布 ",
+        "url": "/sight/tengxian143827/57725.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县埌南镇黎寨村"
+      },
+      {
+        "cname": "袁崇焕故里 ",
+        "url": "/sight/tengxian143827/57720.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县天平镇新马村"
+      },
+      {
+        "cname": "中山纪念堂",
+        "url": "/sight/wuzhou142/57712.html",
+        "s_img": "",
+        "caddress": "广西梧州市万秀区冰泉西路中山公园内"
+      },
+      {
+        "cname": "白鹤山",
+        "url": "/sight/wuzhou142/57750.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "梧州市博物馆 ",
+        "url": "/sight/wuzhou142/57760.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/912/605/807/b3014da4c353442c8b78cb6bbcadbc0d_C_220_140.jpg",
+        "caddress": "广西梧州市万秀区大中路102号"
+      },
+      {
+        "cname": "藤县龙母庙 ",
+        "url": "/sight/tengxian143827/57723.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县胜西村"
+      },
+      {
+        "cname": "太和花园",
+        "url": "/sight/wuzhou142/57715.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/667/294/571/02f66abd73b94ea59acccd87506d61b7_C_220_140.jpg",
+        "caddress": "广西梧州市河西城区富民二路东山冲44号"
+      },
+      {
+        "cname": "苍梧粤东会馆 ",
+        "url": "/sight/cangwu3052/57740.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县县城"
+      },
+      {
+        "cname": "龙潭瀑布",
+        "url": "/sight/mengshan3057/57775.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县石龙冲"
+      },
+      {
+        "cname": "邓公庙",
+        "url": "/sight/cenxi3056/57736.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "蛇园 ",
+        "url": "/sight/wuzhou142/57756.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/600/496/646/5ee0b0db86034db98000b04e97aaa7f0_C_220_140.jpg",
+        "caddress": "广西梧州市万秀区石鼓路"
+      },
+      {
+        "cname": "允升塔 ",
+        "url": "/sight/wuzhou142/57757.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/5D/FF/CghzgFSf4WmAXxLSABkiemlHLfY612_C_220_140.jpg",
+        "caddress": "广西梧州市蝶山区火山路"
+      },
+      {
+        "cname": "火山夕焰",
+        "url": "/sight/wuzhou142/57763.html",
+        "s_img": "",
+        "caddress": "广西梧州市蝶山区"
+      },
+      {
+        "cname": "茶山湖",
+        "url": "/sight/mengshan3057/57774.html",
+        "s_img": "",
+        "caddress": "广西梧州蒙山县茶山水库"
+      },
+      {
+        "cname": "云龙公园",
+        "url": "/sight/wuzhou142/57742.html",
+        "s_img": "",
+        "caddress": "广西梧州市万秀区"
+      },
+      {
+        "cname": "鸳鸯江",
+        "url": "/sight/wuzhou142/131762.html",
+        "s_img": "",
+        "caddress": "广西梧州市河西岸"
+      },
+      {
+        "cname": "东华寺",
+        "url": "/sight/wuzhou142/57717.html",
+        "s_img": "",
+        "caddress": "广西梧州市长洲区长洲镇龙平村"
+      },
+      {
+        "cname": "白鹤观 ",
+        "url": "/sight/wuzhou142/57718.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/717/946/599/9af2ff4721744f5a854fa348a7e620ae_C_220_140.jpg",
+        "caddress": "广西梧州市蝶山区鸳江路"
+      },
+      {
+        "cname": "太平天国永安活动旧址",
+        "url": "/sight/mengshan3057/57732.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/E8/A2/CghzgFSrSfSADE90AA1MAWmvp7o384_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "梧州大爽河生态游乐景区",
+        "url": "/sight/cangwu3052/70279.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/244/088/39bfca5224954048b68e14b7a14b8e10_C_220_140.jpg",
+        "caddress": "梧州市苍梧县梨埠镇凤仪村"
+      },
+      {
+        "cname": "历史文化长廊",
+        "url": "/sight/wuzhou142/57780.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/201/268/710/d757bd9aab0a482e97107747c158079b_C_220_140.jpg",
+        "caddress": "广西梧州市万秀区西江路"
+      },
+      {
+        "cname": "系龙洲",
+        "url": "/sight/wuzhou142/57741.html",
+        "s_img": "",
+        "caddress": "广西梧州城东3.5公里的西江江心中"
+      },
+      {
+        "cname": "天书峡谷",
+        "url": "/sight/mengshan3057/57731.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "龙泉森林公园",
+        "url": "/sight/wuzhou142/57777.html",
+        "s_img": "",
+        "caddress": "广西梧州市万秀区"
+      },
+      {
+        "cname": "炳蔚塔 ",
+        "url": "/sight/wuzhou142/57762.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/724/333/236/9c4dac067524418f83e727bcb2295c1d_C_220_140.jpg",
+        "caddress": "广西梧州市长洲区"
+      },
+      {
+        "cname": "八宝塘 ",
+        "url": "/sight/wuzhou142/57759.html",
+        "s_img": "",
+        "caddress": "广西梧州市蝶山区"
+      },
+      {
+        "cname": "罗漫山",
+        "url": "/sight/wuzhou142/57729.html",
+        "s_img": "",
+        "caddress": "梧州市藤县天平镇罗漫村"
+      },
+      {
+        "cname": "山湖秀色",
+        "url": "/sight/mengshan3057/57784.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县县城北4公里处"
+      },
+      {
+        "cname": "石马山",
+        "url": "/sight/tengxian143827/57726.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县天平镇回龙村"
+      },
+      {
+        "cname": "石庙山",
+        "url": "/sight/cenxi3056/57735.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/860/520/669/3a628946b04a4375ad29cc6ade63289f_C_220_140.jpg",
+        "caddress": "广西省梧州市岑溪市水汶镇兆阳村"
+      },
+      {
+        "cname": "小娘山",
+        "url": "/sight/tengxian143827/57722.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县小娘山林场内"
+      },
+      {
+        "cname": "自驾车旅游营地",
+        "url": "/sight/wuzhou142/57708.html",
+        "s_img": "",
+        "caddress": "广西梧州市火山下"
+      }
+    ]
+  },
+  {
+    "cname": "凭祥",
+    "url": "http://you.ctrip.com/sightlist/pingxiang840.html",
+    "places": [
+      {
+        "cname": "凭祥友谊关",
+        "url": "/sight/pingxiang840/18120.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/566/619/6f0bff8f8aee416c8c10aff628ff29f5_C_220_140.jpg",
+        "caddress": "崇左市凭祥市南人路83号友谊关景区"
+      }
+    ]
+  },
+  {
+    "cname": "贵港",
+    "url": "http://you.ctrip.com/sightlist/guigang711.html",
+    "places": [
+      {
+        "cname": "西山风景名胜区",
+        "url": "/sight/guiping418/22228.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/850/985/985/24c003eede66434faecf04298432dc71_C_220_140.jpg",
+        "caddress": "贵港市桂平市西山路3号"
+      },
+      {
+        "cname": "九凌湖",
+        "url": "/sight/guigang711/22227.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "南山寺",
+        "url": "/sight/guigang711/22226.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M02/94/82/CghzfVSiHjGAH8KcAAF4DrqKok8102_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "龙潭国家森林公园",
+        "url": "/sight/guigang711/22232.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/448/624/554/b273b85647004b9bb96fe4709abbdfd7_C_220_140.jpg",
+        "caddress": "桂平市中山北路114号"
+      },
+      {
+        "cname": "太平天国金田起义旧址",
+        "url": "/sight/guigang711/22231.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "白石山",
+        "url": "/sight/guiping418/110204.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M08/92/8B/CghzflT55TGAM9HVAANU_KCSJDE019_C_220_140.jpg",
+        "caddress": "桂平市城东南"
+      },
+      {
+        "cname": "东塔",
+        "url": "/sight/guigang711/22233.html",
+        "s_img": "",
+        "caddress": "桂平市区东4公里的浔江岸边"
+      },
+      {
+        "cname": "青牛谷漂流",
+        "url": "/sight/guigang711/70065.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/793/601/366/08287357bf184284b9bee97044f1e3d9_C_220_140.jpg",
+        "caddress": "贵港市港北区中里乡三陵村"
+      },
+      {
+        "cname": "大藤峡风景区",
+        "url": "/sight/guigang711/22229.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/934/541/619/70c3c1a56334447ab75855af24ce7e96_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "河池",
+    "url": "http://you.ctrip.com/sightlist/hechi838.html",
+    "places": [
+      {
+        "cname": "百魔洞",
+        "url": "/sight/bama3041/131883.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/855/743/044/4f304d0deed84363a65f9c2a9bafaa00_C_220_140.jpg",
+        "caddress": "河池市巴马县甲篆乡坡月村西侧"
+      },
+      {
+        "cname": "巴马长寿村",
+        "url": "/sight/bama3041/135109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/910/411/719/707ecd249c2344269d8b7721996ce56c_C_220_140.jpg",
+        "caddress": "河池市巴马瑶族自治县甲篆乡平安村巴盘屯"
+      },
+      {
+        "cname": "盘阳河",
+        "url": "/sight/bama3041/135110.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/883/581/139/970efd713b1643c68c811c385f1566a7_C_220_140.jpg",
+        "caddress": "河池市巴马县甲篆乡甲篆村约2公里烈屯漠斋山的百鸟洞流出（发源于凤山县乔音乡平垌，南流经乔音、凤山县城，于太平潜入地下形成暗河，经 34.8 公里后，于县境甲篆乡坡月村流出地表，再流经甲篆、巴马、凤凰、羌圩等乡镇，最后于羌圩乡常吉村汇入红水河）。"
+      },
+      {
+        "cname": "凤山国家地质博物馆",
+        "url": "/sight/hechi838/131891.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/750/401/396/6b87033711104fcf999b308cff0eb7e1_C_220_140.jpg",
+        "caddress": "河池市凤山县袍里乡坡心村"
+      },
+      {
+        "cname": "长寿博物馆",
+        "url": "/sight/bama3041/135108.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/753/743/515/af08db603f3541f787e8899a39815629_C_220_140.jpg",
+        "caddress": "广西河池市巴马县城东体育广场旁"
+      },
+      {
+        "cname": "长寿仁寿源",
+        "url": "/sight/bama3041/141706.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/547/602/354/dffbdb023d194cfcadc70326f36b8242_C_220_140.jpg",
+        "caddress": "河池市巴马县平林村敢烟屯（距县城10公里）"
+      },
+      {
+        "cname": "巴马水晶宫",
+        "url": "/sight/bama3041/131884.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/948/942/486/101cc13617fe44aeb148e12052b5fd87_C_220_140.jpg",
+        "caddress": "河池市巴马瑶族自治县那社乡大洛村牛洞屯（距县城约43公里）"
+      },
+      {
+        "cname": "巴马百鸟岩",
+        "url": "/sight/bama3041/135106.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/053/536/455/20dd0602d47c4622999ba7e231285870_C_220_140.jpg",
+        "caddress": "河池市巴马县甲篆乡烈屯西北面的漠斋山下"
+      },
+      {
+        "cname": "赐福湖",
+        "url": "/sight/bama3041/135107.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/155/642/261/730f6aa341af478ba216cb52017190b9_C_220_140.jpg",
+        "caddress": "河池市巴马县巴马镇赐福村"
+      },
+      {
+        "cname": "六甲小三峡",
+        "url": "/sight/hechi838/137971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/942/674/314/b42dcc9419204497ab75b2030506c3e1_C_220_140.jpg",
+        "caddress": "河池市小三峡景区"
+      },
+      {
+        "cname": "三门海",
+        "url": "/sight/hechi838/131888.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/593/108/648/8bfba471fef84da0b0899711bc4104e0_C_220_140.jpg",
+        "caddress": "河池市凤山县袍里乡坡心村"
+      },
+      {
+        "cname": "梦巴马",
+        "url": "/sight/bama3041/141708.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/655/940/265/6eeaf431b122409baef22de50c9d5bf1_C_220_140.jpg",
+        "caddress": "河池市巴马县城东北部长寿岛，在巴马县—东兰—金城江二级路边（距县城6千米）"
+      },
+      {
+        "cname": "龙滩大峡谷国家森林公园",
+        "url": "/sight/hechi838/1470072.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/223/441/156/37130cd0ee1a487e90e92984301193c5_C_220_140.jpg",
+        "caddress": "河池市天峨县龙滩大峡谷"
+      },
+      {
+        "cname": "水上相思林",
+        "url": "/sight/luocheng3050/1413440.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/156/710/886/5c638609a8be4790b592434c2beb4bdd_C_220_140.jpg",
+        "caddress": "河池罗城县小长安镇罗东村"
+      },
+      {
+        "cname": "盘阳河漂流",
+        "url": "/sight/bama3041/141707.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/370/318/259/e2c5db184c034a868e7d898733ff97ad_C_220_140.jpg",
+        "caddress": "河池市巴马县巴马瑶族自治县甲篆乡烈屯西北面的漠斋山下"
+      },
+      {
+        "cname": "万寿谷",
+        "url": "/sight/hechi838/1408913.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/329/152/659/1a839ed08c5a49f69b28535bf14d897d_C_220_140.jpg",
+        "caddress": "河池市凤山县袍里乡坡心村"
+      },
+      {
+        "cname": "同寿山水",
+        "url": "/sight/hechi838/1408914.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/084/020/482/1c5bf78aa19d468f8c114178537980b2_C_220_140.jpg",
+        "caddress": "河池市凤山县袍里乡月里村袍屯大桥同寿山水"
+      },
+      {
+        "cname": "鸳鸯洞",
+        "url": "/sight/hechi838/131892.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/121/900/726/328aac98b78b4713a28b422e2177898e_C_220_140.jpg",
+        "caddress": "河池市凤山县"
+      },
+      {
+        "cname": "七百弄国家地质公园",
+        "url": "/sight/hechi838/1409352.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/300/802/794/a476cd366689498fabea22e00520e391_C_220_140.jpg",
+        "caddress": "河池市大化县七百弄乡"
+      },
+      {
+        "cname": "百马村",
+        "url": "/sight/bama3041/147951.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/938/187/721/f275b9c84bdc4489afe3d9f59caf1960_C_220_140.jpg",
+        "caddress": "河池市巴马瑶族自治县甲篆乡百马村"
+      },
+      {
+        "cname": "川洞河燕子湖景区",
+        "url": "/sight/hechi838/1475891.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/795/970/801/553554c4dd70428baa925964ba92af8c_C_220_140.jpg",
+        "caddress": "河池市天峨县"
+      },
+      {
+        "cname": "好龙天坑群",
+        "url": "/sight/bama3041/135114.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/196/300/065/e5a4aead3707481fbe80fca9042f6853_C_220_140.jpg",
+        "caddress": "河池市巴马县所略乡、燕洞乡交界的弄中、交乐、龙田。"
+      },
+      {
+        "cname": "广西南丹温泉公园",
+        "url": "/sight/nadan3059/70418.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/024/721/f2ae2a2930984916b5ba098241fd38e7_C_220_140.jpg",
+        "caddress": "河池市南丹县车河镇堂汉村拉高屯温泉公园"
+      },
+      {
+        "cname": "福源景区",
+        "url": "/sight/bama3041/135117.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/078/273/813/94515fc05d624679a47acfd7be02c619_C_220_140.jpg",
+        "caddress": "广西河池市巴马县那社乡大洛村"
+      },
+      {
+        "cname": "刘三姐故里景区",
+        "url": "/sight/hechi838/131894.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/596/628/106/a88e2e5986764daca0fafa924d7777e1_C_220_140.jpg",
+        "caddress": "河池市宜州市"
+      },
+      {
+        "cname": "大化红水河百里画廊",
+        "url": "/sight/hechi838/69740.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/918/113/784/244f6dcea404444080e5eb300744f2ec_C_220_140.jpg",
+        "caddress": "河池市大化县红水河百里画廊"
+      },
+      {
+        "cname": "弄友原始森林",
+        "url": "/sight/bama3041/135112.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/347/378/003/80ccce1853d54a36aa19f008eee24373_C_220_140.jpg",
+        "caddress": "广西河池市巴马县西山乡弄友村"
+      },
+      {
+        "cname": "都安瑶岭河漂流",
+        "url": "/sight/douan3063/70360.html",
+        "s_img": "",
+        "caddress": "河池市都安县下坳乡"
+      },
+      {
+        "cname": "龙洪自然风景区",
+        "url": "/sight/bama3041/135113.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/503/056/620/8c5999d54bc24c5f8803bb866f1712f0_C_220_140.jpg",
+        "caddress": "广西河池市巴马县巴马镇龙洪村"
+      },
+      {
+        "cname": "石头开花",
+        "url": "/sight/douan3063/70345.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/175/462/326/f824fb61bc6d47d18c75740217170565_C_220_140.jpg",
+        "caddress": "河池市都安瑶族自治县澄江乡红渡村鼓楼屯"
+      },
+      {
+        "cname": "柳羊溶洞",
+        "url": "/sight/bama3041/135122.html",
+        "s_img": "",
+        "caddress": "广西河池市巴马县甲篆乡百魔洞东北边约800米处"
+      },
+      {
+        "cname": "蓝家大院",
+        "url": "/sight/bama3041/135133.html",
+        "s_img": "",
+        "caddress": "广西河池市巴马县甲篆村盘阳河入口处"
+      },
+      {
+        "cname": "列宁岩",
+        "url": "/sight/donglan120136/110203.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "东兴",
+    "url": "http://you.ctrip.com/sightlist/dongxing964.html",
+    "places": [
+      {
+        "cname": "万尾金滩",
+        "url": "/sight/dongxing964/22063.html",
+        "s_img": "http://p.chanyouji.cn/1407502020/3BB69585-770D-4B3E-80F3-921D99EE1E13.jpg?imageView/1/w/220/h/140",
+        "caddress": "防城港市东兴市江平镇"
+      }
+    ]
+  },
+  {
+    "cname": "灵川",
+    "url": "http://you.ctrip.com/sightlist/lingchuan3064.html",
+    "places": [
+      {
+        "cname": "桃花江",
+        "url": "/sight/lingchuan3064/5928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/283/054/29c12033a2714ea4972bea5ecdf1539f_C_220_140.jpg",
+        "caddress": "桂林市灵川县"
+      },
+      {
+        "cname": "漓江古东景区",
+        "url": "/sight/lingchuan3064/1412528.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/564/419/385/4d374ef69e2b4d3abc8f0eb221bb1f6c_C_220_140.jpg",
+        "caddress": "桂林市灵川县大圩古镇南边（离桂林市区26公里）"
+      },
+      {
+        "cname": "大圩古镇",
+        "url": "/sight/lingchuan3064/26740.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/966/639/024/193be4384bd644eb85a74606ffc52979_C_220_140.jpg",
+        "caddress": "桂林市灵川县大圩镇"
+      },
+      {
+        "cname": "迪塘古民居",
+        "url": "/sight/lingchuan3064/1418166.html",
+        "s_img": "",
+        "caddress": "桂林市灵川县灵田乡四联村东部"
+      },
+      {
+        "cname": "大桐木湾村",
+        "url": "/sight/lingchuan3064/1417858.html",
+        "s_img": "",
+        "caddress": "桂林市灵川县海洋乡大桐木湾村"
+      },
+      {
+        "cname": "江头洲",
+        "url": "/sight/lingchuan3064/1417626.html",
+        "s_img": "",
+        "caddress": "桂林市灵川县九屋镇江头洲村"
+      },
+      {
+        "cname": "化眉弄",
+        "url": "/sight/lingchuan3064/147602.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/129/102/790/0f0fda13d37a472fb1690e1ceebed083_C_220_140.jpg",
+        "caddress": "桂林市灵川县化眉弄"
+      },
+      {
+        "cname": "龙门瀑布景区",
+        "url": "/sight/lingchuan3064/131624.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/682/857/519/23c00dadc1eb4edbbe766a8c245b26e5_C_220_140.jpg",
+        "caddress": "桂林市灵川县青狮潭镇东源村委畔头村旁"
+      },
+      {
+        "cname": "长冈岭古民居",
+        "url": "/sight/lingchuan3064/1418171.html",
+        "s_img": "",
+        "caddress": "桂林市灵川县灵田乡长冈岭村"
+      },
+      {
+        "cname": "大野神境",
+        "url": "/sight/lingchuan3064/1417562.html",
+        "s_img": "",
+        "caddress": "桂林市灵川县大境瑶族乡境内"
+      },
+      {
+        "cname": "毛洲岛 ",
+        "url": "/sight/lingchuan3064/1417836.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/939/998/151/3542eca7eb2b448b9bc48587a7d69b90_C_220_140.jpg",
+        "caddress": "桂林市灵川县大圩镇毛洲岛"
+      },
+      {
+        "cname": "海洋村",
+        "url": "/sight/lingchuan3064/131601.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/673/230/935/59a3f3638cbc40da9801f6c92a0276d1_C_220_140.jpg",
+        "caddress": "桂林市灵川县海洋乡海洋村"
+      },
+      {
+        "cname": "九连村",
+        "url": "/sight/lingchuan3064/1417573.html",
+        "s_img": "",
+        "caddress": "桂林市灵川县海洋乡九连村"
+      },
+      {
+        "cname": "熊村",
+        "url": "/sight/lingchuan3064/1417614.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/688/697/2f3df24c6c964001b48b6a44f1b5ccec_C_220_140.jpg",
+        "caddress": "桂林市灵川县熊村"
+      },
+      {
+        "cname": "明心寺",
+        "url": "/sight/lingchuan3064/1418091.html",
+        "s_img": "",
+        "caddress": "桂林市灵川县海洋乡东北2.5公里处的海洋山下"
+      }
+    ]
+  },
+  {
+    "cname": "来宾",
+    "url": "http://you.ctrip.com/sightlist/laibin839.html",
+    "places": [
+      {
+        "cname": "金秀莲花山景区",
+        "url": "/sight/laibin839/141757.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/490/194/678/920bfa7023fd4c33ad8526b9a8c19583_C_220_140.jpg",
+        "caddress": "来宾市金秀瑶族自治县"
+      },
+      {
+        "cname": "金秀大瑶山",
+        "url": "/sight/laibin839/16917.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/851/683/686/56c054cd9fb84353bbae9ba264cb5fd6_C_220_140.jpg",
+        "caddress": "来宾市金秀瑶族自治县长垌乡境内"
+      },
+      {
+        "cname": "象州温泉",
+        "url": "/sight/xiangzhou3060/18137.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/722/384/640/79fe450411db4188a3a5f66874ad4a8c_C_220_140.jpg",
+        "caddress": "来宾市象州县寺村镇热水村内"
+      },
+      {
+        "cname": "象州古象温泉度假村",
+        "url": "/sight/laibin839/1407610.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/067/205/279/51c6f90a98d74653a6178db5f419af98_C_220_140.jpg",
+        "caddress": "广西省来宾市象州县城郊花池村"
+      },
+      {
+        "cname": "圣堂山",
+        "url": "/sight/laibin839/50678.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/132/412/012/40a7fc9409e34739986b723e5d46195b_C_220_140.jpg",
+        "caddress": "来宾市金秀瑶族自治县"
+      },
+      {
+        "cname": "金秀圣堂湖生态旅游景区",
+        "url": "/sight/laibin839/1407601.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/867/182/066/b98fe208ccae438daabbecca724affb4_C_220_140.jpg",
+        "caddress": "广西来宾金秀县长垌乡。"
+      },
+      {
+        "cname": "古占瑶寨",
+        "url": "/sight/laibin839/1408932.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/054/917/262/7b9bae8dc3134624a5b64de8b7669e25_C_220_140.jpg",
+        "caddress": "来宾市长垌乡古占瑶寨"
+      },
+      {
+        "cname": "龙虎潭漂流",
+        "url": "/sight/laibin839/62226.html",
+        "s_img": "",
+        "caddress": "来宾市金秀县王雷村"
+      },
+      {
+        "cname": "平洞河漂流",
+        "url": "/sight/laibin839/70276.html",
+        "s_img": "",
+        "caddress": "来宾市兴宾区城厢乡平洞村"
+      }
+    ]
+  },
+  {
+    "cname": "灵山",
+    "url": "http://you.ctrip.com/sightlist/lingshan969.html",
+    "places": [
+      {
+        "cname": "六峰山风景名胜旅游区",
+        "url": "/sight/lingshan969/141200.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/439/287/8bf4c66373fa4ff297bf4243fe2a2895_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县"
+      },
+      {
+        "cname": "灵东水上游乐避暑风景区",
+        "url": "/sight/lingshan969/141204.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/865/117/424/de9780cf9ee84386b094bb89a16ef3e4_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县"
+      },
+      {
+        "cname": "大芦村民俗风情旅游区",
+        "url": "/sight/lingshan969/141205.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/962/876/643/d980db5f4e9444ddbf497487fbec9b29_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县"
+      },
+      {
+        "cname": "三海岩",
+        "url": "/sight/lingshan969/141203.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/787/571/128/9bcb44bbc77642708bb9530af6f3a63b_C_220_140.jpg",
+        "caddress": "中国广西壮族自治区钦州市灵山县灵山中学校园内"
+      }
+    ]
+  },
+  {
+    "cname": "荔浦",
+    "url": "http://you.ctrip.com/sightlist/lipu2020.html",
+    "places": [
+      {
+        "cname": "丰鱼岩",
+        "url": "/sight/lipu2020/18148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/086/118/981/2ea797672bfb469681532e8b983f9255_C_220_140.jpg",
+        "caddress": "桂林市荔浦县三河东里"
+      },
+      {
+        "cname": "桂林荔蒲荔江湾",
+        "url": "/sight/lipu2020/50486.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/508/116/721/12b2d1dab37c4c71b22beae6e1ed5ed2_C_220_140.jpg",
+        "caddress": "桂林市荔浦县青山镇"
+      },
+      {
+        "cname": "银龙古寨",
+        "url": "/sight/lipu2020/131664.html",
+        "s_img": "",
+        "caddress": "桂林市荔浦县马岭镇"
+      },
+      {
+        "cname": "鹅翎寺",
+        "url": "/sight/lipu2020/131653.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/66/3D/Cghzf1ThpyaAcBjyAAJeYkW9Shg778_C_220_140.jpg",
+        "caddress": "桂林市荔浦县城南2公里处"
+      },
+      {
+        "cname": "天河瀑布景区",
+        "url": "/sight/lipu2020/131663.html",
+        "s_img": "",
+        "caddress": "桂林市荔浦县蒲芦瑶族乡黎村"
+      },
+      {
+        "cname": "龙怀景区",
+        "url": "/sight/lipu2020/131550.html",
+        "s_img": "",
+        "caddress": "桂林市荔浦县龙怀乡龙怀景区"
+      }
+    ]
+  },
+  {
+    "cname": "蒙山",
+    "url": "http://you.ctrip.com/sightlist/mengshan3057.html",
+    "places": [
+      {
+        "cname": "梁羽生公园",
+        "url": "/sight/mengshan3057/57733.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/679/401/d4bee9ba2d4d46189906148d35659dee_C_220_140.jpg",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "玉梦胜景",
+        "url": "/sight/mengshan3057/57785.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "州头古榕",
+        "url": "/sight/mengshan3057/57783.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "西炮台公园",
+        "url": "/sight/mengshan3057/57781.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/570/024/297/18b26277f8a94d4ca0e457b653684956_C_220_140.jpg",
+        "caddress": "广西梧州市蒙山县湄江大街150米"
+      },
+      {
+        "cname": "龙潭瀑布",
+        "url": "/sight/mengshan3057/57775.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县石龙冲"
+      },
+      {
+        "cname": "茶山湖",
+        "url": "/sight/mengshan3057/57774.html",
+        "s_img": "",
+        "caddress": "广西梧州蒙山县茶山水库"
+      },
+      {
+        "cname": "太平天国永安活动旧址",
+        "url": "/sight/mengshan3057/57732.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/E8/A2/CghzgFSrSfSADE90AA1MAWmvp7o384_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "天书峡谷",
+        "url": "/sight/mengshan3057/57731.html",
+        "s_img": "",
+        "caddress": "广西梧州市蒙山县"
+      },
+      {
+        "cname": "山湖秀色",
+        "url": "/sight/mengshan3057/57784.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县县城北4公里处"
+      }
+    ]
+  },
+  {
+    "cname": "乐业",
+    "url": "http://you.ctrip.com/sightlist/leye968.html",
+    "places": [
+      {
+        "cname": "大石围天坑群",
+        "url": "/sight/leye968/17720.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/103/934/052/f2c923b2a1e646d2aca1d8207e00b5d5_C_220_140.jpg",
+        "caddress": "百色市乐业县"
+      },
+      {
+        "cname": "穿洞天坑",
+        "url": "/sight/leye968/54530.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/622/324/501/d6098d7400884e0785e4a95607a74150_C_220_140.jpg",
+        "caddress": "百色市乐业县与河池市凤山县境内"
+      },
+      {
+        "cname": "乐业-凤山世界地质公园",
+        "url": "/sight/leye968/1673863.html",
+        "s_img": "",
+        "caddress": "百色市乐业县（部分属于河池市凤山县）"
+      }
+    ]
+  },
+  {
+    "cname": "平果",
+    "url": "http://you.ctrip.com/sightlist/bengguan3062.html",
+    "places": [
+      {
+        "cname": "黎明通天河景区",
+        "url": "/sight/bengguan3062/132821.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/477/398/279/4f6ef8111acb4c059172d67ad0424b89_C_220_140.jpg",
+        "caddress": "广西百色平果黎明乡208省道旁"
+      }
+    ]
+  },
+  {
+    "cname": "桂平",
+    "url": "http://you.ctrip.com/sightlist/guiping418.html",
+    "places": [
+      {
+        "cname": "西山风景名胜区",
+        "url": "/sight/guiping418/22228.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/850/985/985/24c003eede66434faecf04298432dc71_C_220_140.jpg",
+        "caddress": "贵港市桂平市西山路3号"
+      },
+      {
+        "cname": "北回归线标志公园",
+        "url": "/sight/guiping418/22230.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/6D/5E/CghzfFSqRLiACkXYAANk_I46kqc314_C_220_140.jpg",
+        "caddress": "贵港桂平市城东区约5公里石咀镇小汶村南梧二级公路旁"
+      },
+      {
+        "cname": "白石山",
+        "url": "/sight/guiping418/110204.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M08/92/8B/CghzflT55TGAM9HVAANU_KCSJDE019_C_220_140.jpg",
+        "caddress": "桂平市城东南"
+      }
+    ]
+  },
+  {
+    "cname": "合浦",
+    "url": "http://you.ctrip.com/sightlist/hepu965.html",
+    "places": [
+      {
+        "cname": "星岛湖",
+        "url": "/sight/hepu965/9314.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/918/187/297/64c9b96a0f2544438adc023e12494dd0_C_220_140.jpg",
+        "caddress": "北海市合浦县洪潮江水库（合浦县以北24公里处的低丘陵地区）。"
+      },
+      {
+        "cname": "山口红树林",
+        "url": "/sight/hepu965/9310.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/148/789/626/01c56b41c0da4771a72ad57bd7486510_C_220_140.jpg",
+        "caddress": "北海市合浦县山口镇英罗港西岸"
+      },
+      {
+        "cname": "合浦汉墓群",
+        "url": "/sight/hepu965/9373.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/293/886/071/da4f651291ee4976aabee0011490c057_C_220_140.jpg",
+        "caddress": "北海市合浦县廉州镇东南郊望牛岭、风门岭、宝塔山和东北郊堂排一带。（博物馆地址：北海市合浦县定海南路81号）"
+      },
+      {
+        "cname": "文昌塔",
+        "url": "/sight/hepu965/9316.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/741/183/765/c172b4998bde4faf8ecbcc1ea5960605_C_220_140.jpg",
+        "caddress": "北海市合浦县廉州镇东南3公里处,汉墓博物馆对面。"
+      },
+      {
+        "cname": "大士阁",
+        "url": "/sight/hepu965/9313.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/097/717/331/64137809d8ba46bc866f286a3f6a1802_C_220_140.jpg",
+        "caddress": "北海市合浦县山口镇永安村内"
+      },
+      {
+        "cname": "东园家酒厂工业生态旅游观光园",
+        "url": "/sight/hepu965/131793.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/38/54/CghzfFS-Ur6AdVcTAABJxRqY0d8947_C_220_140.jpg",
+        "caddress": "北海市合浦县廉州镇高坡路59号"
+      }
+    ]
+  },
+  {
+    "cname": "全州",
+    "url": "http://you.ctrip.com/sightlist/quanzhou3040.html",
+    "places": [
+      {
+        "cname": "炎井温泉",
+        "url": "/sight/quanzhou3040/131603.html",
+        "s_img": "",
+        "caddress": "桂林市全州县大西江镇炎井温泉旅游风景区"
+      },
+      {
+        "cname": "龙水镇",
+        "url": "/sight/quanzhou3040/1417728.html",
+        "s_img": "",
+        "caddress": "桂林市全州县龙水镇"
+      },
+      {
+        "cname": "龙岩洞",
+        "url": "/sight/quanzhou3040/1417821.html",
+        "s_img": "",
+        "caddress": "桂林市全州县越城岭支脉的东瓜源，距全州县城5公里。"
+      },
+      {
+        "cname": "湘山寺",
+        "url": "/sight/quanzhou3040/1481695.html",
+        "s_img": "",
+        "caddress": "桂林市全州县桂黄中路"
+      },
+      {
+        "cname": "真宝鼎",
+        "url": "/sight/quanzhou3040/1417823.html",
+        "s_img": "",
+        "caddress": "桂林市全州县越城岭山脉"
+      }
+    ]
+  },
+  {
+    "cname": "北流",
+    "url": "http://you.ctrip.com/sightlist/beiliu3045.html",
+    "places": [
+      {
+        "cname": "勾漏洞",
+        "url": "/sight/beiliu3045/131868.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/107/401/496/322d25d66c4e46e2bdc6d8b9b3ab5877_C_220_140.jpg",
+        "caddress": "玉林市北流城东路889号"
+      },
+      {
+        "cname": "大容山森林公园",
+        "url": "/sight/beiliu3045/131865.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/841/205/7f57c2ef8b4f4123893f2c3be3c61364_C_220_140.jpg",
+        "caddress": "玉林市北流县大容山林场内"
+      }
+    ]
+  },
+  {
+    "cname": "岑溪",
+    "url": "http://you.ctrip.com/sightlist/cenxi3056.html",
+    "places": [
+      {
+        "cname": "天龙顶国家山地公园",
+        "url": "/sight/cenxi3056/57779.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/246/913/432/09265634c6be48ceafa7da1680a701c0_C_220_140.jpg",
+        "caddress": "广西梧州市岑溪市南渡镇吉太村"
+      },
+      {
+        "cname": "岑溪珍稀植物红豆杉",
+        "url": "/sight/cenxi3056/135100.html",
+        "s_img": "",
+        "caddress": "广西梧州市岑溪市南渡镇吉太村"
+      },
+      {
+        "cname": "白霜涧 ",
+        "url": "/sight/cenxi3056/57738.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/030/028/758/8e88f27093bf45ce83ab6269afc0d360_C_220_140.jpg",
+        "caddress": "广西梧州岑溪市"
+      },
+      {
+        "cname": "大竹龙母庙 ",
+        "url": "/sight/cenxi3056/57737.html",
+        "s_img": "",
+        "caddress": "广西梧州市岑溪市糯垌镇大竹村"
+      },
+      {
+        "cname": "邓公庙",
+        "url": "/sight/cenxi3056/57736.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "石庙山",
+        "url": "/sight/cenxi3056/57735.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/860/520/669/3a628946b04a4375ad29cc6ade63289f_C_220_140.jpg",
+        "caddress": "广西省梧州市岑溪市水汶镇兆阳村"
+      }
+    ]
+  },
+  {
+    "cname": "德保",
+    "url": "http://you.ctrip.com/sightlist/debao3061.html",
+    "places": [
+      {
+        "cname": "红叶森林公园",
+        "url": "/sight/debao3061/142564.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/402/037/544695ed2e8c43769385579fd141431d_C_220_140.jpg",
+        "caddress": "百色市德保县"
+      }
+    ]
+  },
+  {
+    "cname": "平乐",
+    "url": "http://you.ctrip.com/sightlist/bengle3065.html",
+    "places": [
+      {
+        "cname": "平乐榕津古榕",
+        "url": "/sight/bengle3065/145141.html",
+        "s_img": "",
+        "caddress": "桂林市平乐县张家镇榕津村内"
+      }
+    ]
+  },
+  {
+    "cname": "武鸣",
+    "url": "http://you.ctrip.com/sightlist/wuming979.html",
+    "places": [
+      {
+        "cname": "伊岭岩",
+        "url": "/sight/wuming979/8856.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/729/407/984/aa4f5cb3feb241a3a03e33e6201b64b1_C_220_140.jpg",
+        "caddress": "南宁市武鸣县双桥镇伊岭村"
+      },
+      {
+        "cname": "灵水",
+        "url": "/sight/wuming979/8847.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/010/701/437/c795c21f3f31458ab5129b7c22d452e2_C_220_140.jpg",
+        "caddress": "南宁市武鸣县灵水路5号"
+      },
+      {
+        "cname": "明秀园",
+        "url": "/sight/wuming979/8811.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/738/379/226/e2d89b27d4d941c2870fdafc22e0f63f_C_220_140.jpg",
+        "caddress": "南宁市武鸣县城区明秀路"
+      },
+      {
+        "cname": "武鸣县",
+        "url": "/sight/wuming979/1418578.html",
+        "s_img": "",
+        "caddress": "南宁市武鸣县"
+      },
+      {
+        "cname": "起凤山",
+        "url": "/sight/wuming979/54430.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/346/786/229/57df965a53d14a329f0402c974e5f51b_C_220_140.jpg",
+        "caddress": "南宁市武鸣县城东镇夏黄村"
+      },
+      {
+        "cname": "花花大世界",
+        "url": "/sight/wuming979/20304.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/403/326/b9f194ac0a154fdbb4f8f286e386ee85_C_220_140.jpg",
+        "caddress": "南宁市武鸣县双桥镇伊岭工业区C-3"
+      },
+      {
+        "cname": "仙湖水库",
+        "url": "/sight/wuming979/1460360.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M01/F5/71/Cghzf1UBnq6AL9UeAAZAms5knfY240_C_220_140.jpg",
+        "caddress": "南宁市武鸣县仙湖镇仙湖乡中桥村北部"
+      }
+    ]
+  },
+  {
+    "cname": "龙州",
+    "url": "http://you.ctrip.com/sightlist/longzhou3046.html",
+    "places": [
+      {
+        "cname": "小连城",
+        "url": "/sight/longzhou3046/18121.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/211/545/817/4b5458663c444853acca32840edd1f49_C_220_140.jpg",
+        "caddress": "崇左市龙州县小连城景区"
+      }
+    ]
+  },
+  {
+    "cname": "融水",
+    "url": "http://you.ctrip.com/sightlist/rongshui3047.html",
+    "places": [
+      {
+        "cname": "融水苗寨",
+        "url": "/sight/rongshui3047/16935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/398/180/407/dd8b4a72c1ec4aebbb85a3fe53aad246_C_220_140.jpg",
+        "caddress": "柳州市融水苗族自治县香粉乡雨卜村"
+      },
+      {
+        "cname": "雨卜民族风情旅游度假村",
+        "url": "/sight/rongshui3047/70397.html",
+        "s_img": "",
+        "caddress": "柳州市融水县雨卜村"
+      },
+      {
+        "cname": "龙女沟景区",
+        "url": "/sight/rongshui3047/70254.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/194/972/354/122ea0a52b404818985a627feed92026_C_220_140.jpg",
+        "caddress": "柳州市融水县四荣乡"
+      },
+      {
+        "cname": "龙宝大峡谷",
+        "url": "/sight/rongshui3047/70328.html",
+        "s_img": "",
+        "caddress": "柳州市融水苗族自治县四荣乡东田村小东江屯"
+      }
+    ]
+  },
+  {
+    "cname": "容县",
+    "url": "http://you.ctrip.com/sightlist/rongxian3044.html",
+    "places": [
+      {
+        "cname": "真武阁",
+        "url": "/sight/rongxian3044/135495.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/715/497/906/83ad96ab7d2f416f8acc45d793a056a3_C_220_140.jpg",
+        "caddress": "玉林市容县东外街57号"
+      },
+      {
+        "cname": "庆寿岩",
+        "url": "/sight/rongxian3044/70430.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/445/950/601/091f5c67cef64b9095a2238f1fc409fb_C_220_140.jpg",
+        "caddress": "玉林市容县石寨镇庆寿岩风景区"
+      },
+      {
+        "cname": "“三名”旅游景区",
+        "url": "/sight/rongxian3044/1673856.html",
+        "s_img": "",
+        "caddress": "玉林市容县境内"
+      },
+      {
+        "cname": "玉林都峤山",
+        "url": "/sight/rongxian3044/131864.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/817/030/517/38b776f8a93c42dbb54edbb93be945af_C_220_140.jpg",
+        "caddress": "玉林市容县石寨镇庆寿岩景区"
+      },
+      {
+        "cname": "天堂湖温泉度假山庄",
+        "url": "/sight/rongxian3044/137456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/690/182/494/701d4c6dcd54411689ba0bc73bf10cee_C_220_140.jpg",
+        "caddress": "省玉林市容县黎村镇温泉村"
+      },
+      {
+        "cname": "杨贵妃故里",
+        "url": "/sight/rongxian3044/135494.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/188/494/779/517c2deaec2547ff8b2039a3c16fc638_C_220_140.jpg",
+        "caddress": "广西壮族自治区玉林市容县十里乡杨外村"
+      },
+      {
+        "cname": "都峤柚谷",
+        "url": "/sight/rongxian3044/1407606.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/115/334/284/c65ab1ece9d946fe9fed824002e64569_C_220_140.jpg",
+        "caddress": "广西壮族自治区容县容州镇木进村"
+      },
+      {
+        "cname": "黎村温泉",
+        "url": "/sight/rongxian3044/135498.html",
+        "s_img": "",
+        "caddress": "广西玉林市容县黎村镇"
+      }
+    ]
+  },
+  {
+    "cname": "昭平",
+    "url": "http://you.ctrip.com/sightlist/zhaobeng3067.html",
+    "places": [
+      {
+        "cname": "黄姚古镇",
+        "url": "/sight/huangyaoancienttown120533/22158.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/393/388/570/b74cd7fef8984ad8960cac8a2e9f83c1_C_220_140.jpg",
+        "caddress": "贺州市昭平县黄姚镇"
+      },
+      {
+        "cname": "文明阁",
+        "url": "/sight/huangyaoancienttown120533/134067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/827/560/144/15170ea9fd1742ff8097bab93aed9ef5_C_220_140.jpg",
+        "caddress": "位于黄姚古镇景区内"
+      },
+      {
+        "cname": "周家水库",
+        "url": "/sight/huangyaoancienttown120533/134068.html",
+        "s_img": "",
+        "caddress": "贺州市昭平县周家水库"
+      },
+      {
+        "cname": "世外田园",
+        "url": "/sight/zhaobeng3067/69592.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/758/524/312/1b976d05caed4fe8bd5acd47bc471cfd_C_220_140.jpg",
+        "caddress": "贺州市昭平县黄姚笔头村白石寨和中洞村三宝山交界处"
+      }
+    ]
+  },
+  {
+    "cname": "横县",
+    "url": "http://you.ctrip.com/sightlist/hengxian966.html",
+    "places": [
+      {
+        "cname": "九龙瀑布群国家森林公园",
+        "url": "/sight/hengxian966/21925.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/983/376/636/576e25caa1bb452a950cab602c90fca3_C_220_140.jpg",
+        "caddress": "南宁市横县镇国有镇龙林场大吾林站内"
+      },
+      {
+        "cname": "西津湖",
+        "url": "/sight/hengxian966/1459916.html",
+        "s_img": "",
+        "caddress": "南宁市横县县城西南"
+      }
+    ]
+  },
+  {
+    "cname": "隆安",
+    "url": "http://you.ctrip.com/sightlist/longan3042.html",
+    "places": [
+      {
+        "cname": "龙虎山自然保护区",
+        "url": "/sight/longan3042/8846.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/901/540/566/a03a61ddc1d14404b1a316a1c7df8fed_C_220_140.jpg",
+        "caddress": "南宁市隆安县316省道"
+      },
+      {
+        "cname": "布泉河 ",
+        "url": "/sight/longan3042/1418601.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M02/D6/90/CghzgVSpNBmAUF_7AACpEwyijXI772_C_220_140.jpg",
+        "caddress": "南宁市隆安县布泉乡境内"
+      },
+      {
+        "cname": "雁江古镇",
+        "url": "/sight/longan3042/1460451.html",
+        "s_img": "",
+        "caddress": "南宁市隆安县雁江镇"
+      }
+    ]
+  },
+  {
+    "cname": "苍梧",
+    "url": "http://you.ctrip.com/sightlist/cangwu3052.html",
+    "places": [
+      {
+        "cname": "戎圩古镇（龙圩镇）",
+        "url": "/sight/cangwu3052/57758.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县龙圩镇"
+      },
+      {
+        "cname": "李济深故居",
+        "url": "/sight/cangwu3052/57711.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/6B/93/CghzfVSqQd6AIoOgAAIzZpq3oy0770_C_220_140.jpg",
+        "caddress": "广西梧州市苍梧县料神村"
+      },
+      {
+        "cname": "爽岛民俗风情旅游区 ",
+        "url": "/sight/cangwu3052/57753.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/720/042/190/92a4fa005e37418391066e2e5eb46f46_C_220_140.jpg",
+        "caddress": "广西梧州市苍梧县梨埠镇"
+      },
+      {
+        "cname": "飞龙湖旅游度假区 ",
+        "url": "/sight/cangwu3052/57739.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县梨埠镇凤仪村"
+      },
+      {
+        "cname": "苍梧粤东会馆 ",
+        "url": "/sight/cangwu3052/57740.html",
+        "s_img": "",
+        "caddress": "广西梧州市苍梧县县城"
+      },
+      {
+        "cname": "梧州大爽河生态游乐景区",
+        "url": "/sight/cangwu3052/70279.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/244/088/39bfca5224954048b68e14b7a14b8e10_C_220_140.jpg",
+        "caddress": "梧州市苍梧县梨埠镇凤仪村"
+      }
+    ]
+  },
+  {
+    "cname": "都安",
+    "url": "http://you.ctrip.com/sightlist/douan3063.html",
+    "places": [
+      {
+        "cname": "都安瑶岭河漂流",
+        "url": "/sight/douan3063/70360.html",
+        "s_img": "",
+        "caddress": "河池市都安县下坳乡"
+      },
+      {
+        "cname": "石头开花",
+        "url": "/sight/douan3063/70345.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/175/462/326/f824fb61bc6d47d18c75740217170565_C_220_140.jpg",
+        "caddress": "河池市都安瑶族自治县澄江乡红渡村鼓楼屯"
+      }
+    ]
+  },
+  {
+    "cname": "柳城",
+    "url": "http://you.ctrip.com/sightlist/liucheng3072.html",
+    "places": [
+      {
+        "cname": "知青城",
+        "url": "/sight/liucheng3072/1673647.html",
+        "s_img": "",
+        "caddress": "柳州市柳城县洛崖寨"
+      },
+      {
+        "cname": "柳城崖山景区",
+        "url": "/sight/liucheng3072/70416.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/295/110/708f65685787487a9ce7e7965376e738_C_220_140.jpg",
+        "caddress": "柳州市柳城县大埔镇中寨村"
+      },
+      {
+        "cname": "千盛农庄",
+        "url": "/sight/liucheng3072/1412056.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/240/212/65049942004d477ca9619e5851623f51_C_220_140.jpg",
+        "caddress": "柳州市柳城县沙埔镇"
+      },
+      {
+        "cname": "碧云谷漂流",
+        "url": "/sight/liucheng3072/70110.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/153/186/145/0479ba8d33674785a63a2231c0415761_C_220_140.jpg",
+        "caddress": "柳州市柳城县沙埔镇大安新村（鸡公山加油站）东侧3.5公里"
+      },
+      {
+        "cname": "柳城洲尾农庄",
+        "url": "/sight/liucheng3072/70140.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/855/300/307/6597660452e14361828c909d006b4671_C_220_140.jpg",
+        "caddress": "柳州市柳城县沙埔镇"
+      }
+    ]
+  },
+  {
+    "cname": "藤县",
+    "url": "http://you.ctrip.com/sightlist/tengxian143827.html",
+    "places": [
+      {
+        "cname": "石表山",
+        "url": "/sight/tengxian143827/57728.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/431/142/647/52beb04cda884b60834427e7e82f2bda_C_220_140.jpg",
+        "caddress": "梧州市藤县象棋道家村"
+      },
+      {
+        "cname": "蝴蝶谷漂流风景区",
+        "url": "/sight/tengxian143827/57778.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/701/353/040/9856fcb08e3f4f2096a913691319d8ee_C_220_140.jpg",
+        "caddress": "桂林市临桂县宛田乡东宅江村"
+      },
+      {
+        "cname": "禤洲岛",
+        "url": "/sight/tengxian143827/57721.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/AE/D2/CghzflSmQ8qAX4rmAADh-MlsWgc472_C_220_140.jpg",
+        "caddress": "广西梧州市藤县"
+      },
+      {
+        "cname": "太平狮山",
+        "url": "/sight/tengxian143827/57724.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/815/632/86881539893640599f84bb828e7d70bc_C_220_140.jpg",
+        "caddress": "梧州市藤县太平镇境内（范围东至太平镇良垌石脚村，西至安福石塘村，南至蒙江双德村，北至七政龙窟村）。"
+      },
+      {
+        "cname": "道家村 ",
+        "url": "/sight/tengxian143827/57730.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/090/805/917/35c70143560446a4b61596c4fa231d89_C_220_140.jpg",
+        "caddress": "广西梧州藤县"
+      },
+      {
+        "cname": "爽心瀑布 ",
+        "url": "/sight/tengxian143827/57725.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县埌南镇黎寨村"
+      },
+      {
+        "cname": "袁崇焕故里 ",
+        "url": "/sight/tengxian143827/57720.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县天平镇新马村"
+      },
+      {
+        "cname": "藤县龙母庙 ",
+        "url": "/sight/tengxian143827/57723.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县胜西村"
+      },
+      {
+        "cname": "石马山",
+        "url": "/sight/tengxian143827/57726.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县天平镇回龙村"
+      },
+      {
+        "cname": "小娘山",
+        "url": "/sight/tengxian143827/57722.html",
+        "s_img": "",
+        "caddress": "广西梧州市藤县小娘山林场内"
+      }
+    ]
+  },
+  {
+    "cname": "宾阳",
+    "url": "http://you.ctrip.com/sightlist/binyang3048.html",
+    "places": [
+      {
+        "cname": "蔡氏古宅",
+        "url": "/sight/binyang3048/142297.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/555/310/110/d25686e839444d18b55fe796abb0e2db_C_220_140.jpg",
+        "caddress": "南宁市宾阳县古辣镇的蔡村"
+      },
+      {
+        "cname": "程思远故居",
+        "url": "/sight/binyang3048/1462382.html",
+        "s_img": "",
+        "caddress": "南宁市宾阳县大桥镇大程村"
+      },
+      {
+        "cname": "南街",
+        "url": "/sight/binyang3048/1418752.html",
+        "s_img": "",
+        "caddress": "南宁市宾阳县芦圩镇内"
+      },
+      {
+        "cname": "炮龙老庙",
+        "url": "/sight/binyang3048/1459008.html",
+        "s_img": "",
+        "caddress": "南宁市宾阳县宾州镇中和街"
+      }
+    ]
+  },
+  {
+    "cname": "南丹",
+    "url": "http://you.ctrip.com/sightlist/nadan3059.html",
+    "places": [
+      {
+        "cname": "广西南丹温泉公园",
+        "url": "/sight/nadan3059/70418.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/024/721/f2ae2a2930984916b5ba098241fd38e7_C_220_140.jpg",
+        "caddress": "河池市南丹县车河镇堂汉村拉高屯温泉公园"
+      }
+    ]
+  },
+  {
+    "cname": "陆川",
+    "url": "http://you.ctrip.com/sightlist/luchuan971.html",
+    "places": [
+      {
+        "cname": "谢鲁山庄风景名胜区",
+        "url": "/sight/luchuan971/135493.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/309/615/573/b4bb35db8a6a49b09bca9d70e5999df8_C_220_140.jpg",
+        "caddress": "玉林市陆川县乌石镇谢鲁村"
+      },
+      {
+        "cname": "龙珠湖",
+        "url": "/sight/luchuan971/131870.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/903/996/240/5587637fd7de440b9cadbeb877ea7543_C_220_140.jpg",
+        "caddress": "广西玉林市陆川县"
+      }
+    ]
+  }
+]

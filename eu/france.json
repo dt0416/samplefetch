@@ -1,0 +1,3417 @@
+[
+  {
+    "cname": "巴黎",
+    "url": "http://you.ctrip.com/sightlist/paris308.html",
+    "places": [
+      {
+        "cname": "卢浮宫",
+        "url": "/sight/paris308/12908.html",
+        "s_img": "http://p.chanyouji.cn/59531/1375525488986p1811r2to51of58v6v6rs6l1pmrt.jpg?imageView/1/w/220/h/140",
+        "caddress": "Musée du Louvre, 75058 Paris"
+      },
+      {
+        "cname": "埃菲尔铁塔",
+        "url": "/sight/paris308/12906.html",
+        "s_img": "http://p.chanyouji.cn/76470/1382551223000p187j76a9e1ss2ruh8sn1t78v5t1t.jpg?imageView/1/w/220/h/140",
+        "caddress": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris"
+      },
+      {
+        "cname": "巴黎圣母院",
+        "url": "/sight/paris308/12564.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/830/221/013/ccdca8eb9abc43099522c5e0315dd0c5_C_220_140.jpg",
+        "caddress": "6 Parvis Notre-Dame, Place Jean-Paul II, 75004 Paris"
+      },
+      {
+        "cname": "凯旋门",
+        "url": "/sight/paris308/12565.html",
+        "s_img": "http://p.chanyouji.cn/182476/1414509598119p195bldnec1ibn1l2atcn1aj712hgb.jpg?imageView/1/w/220/h/140",
+        "caddress": "Place Charles de Gaulle, 75008 Paris"
+      },
+      {
+        "cname": "塞纳河",
+        "url": "/sight/paris308/12954.html",
+        "s_img": "http://p.chanyouji.cn/1377352495/8DA71C12-1B93-4124-AACC-79226B8C2DD9.jpg?imageView/1/w/220/h/140",
+        "caddress": "La Seine, Paris"
+      },
+      {
+        "cname": "凡尔赛宫",
+        "url": "/sight/paris308/12900.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/938/348/464/0ebe54fdcdfe44889e5460458b4f39c8_C_220_140.jpg",
+        "caddress": "Place d'Armes, 78000 Versailles"
+      },
+      {
+        "cname": "协和广场",
+        "url": "/sight/paris308/12563.html",
+        "s_img": "http://p.chanyouji.cn/6768/1348796874178p17858tq1618pk1p8c177718ua17cp3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Place de la Concord，75008 Paris"
+      },
+      {
+        "cname": "香榭丽舍大街",
+        "url": "/sight/paris308/13102.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/531/062/868/92f77c09fc3a4cc28809c40733296388_C_220_140.jpg",
+        "caddress": "Avenue des Champs-Elysees, 75008 Paris"
+      },
+      {
+        "cname": "圣心大教堂",
+        "url": "/sight/paris308/12568.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/681/718/808/464b5e42c3584ed9b102a0092b1aa634_C_220_140.jpg",
+        "caddress": "35 Rue du Chevalier de la Barre, 75018 Paris"
+      },
+      {
+        "cname": "荣军院",
+        "url": "/sight/paris308/25062.html",
+        "s_img": "http://p.chanyouji.cn/1290/1346317033210p175rbpja712cp1pg5t2pqt4sp4i.jpg?imageView/1/w/220/h/140",
+        "caddress": "129 Rue de Grenelle, 75007 Paris"
+      },
+      {
+        "cname": "巴黎歌剧院",
+        "url": "/sight/paris308/13101.html",
+        "s_img": "http://p.chanyouji.cn/59531/1375525400406p1811r2to417lq1s5i17g3k4a9bik.jpg?imageView/1/w/220/h/140",
+        "caddress": "Corner of Rues Scribe and Auber, 75009 Paris"
+      },
+      {
+        "cname": "奥赛博物馆",
+        "url": "/sight/paris308/46716.html",
+        "s_img": "http://p.chanyouji.cn/88836/1384764827198p189l6e8qip5n1p3g9321efa16jd20.jpg?imageView/1/w/220/h/140",
+        "caddress": "1 Rue de la Légion d'Honneur, 75007 Paris"
+      },
+      {
+        "cname": "亚历山大三世桥",
+        "url": "/sight/paris308/12567.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/267/247/820/b8c26f7f6f9b49189d7d7f75114455c0_C_220_140.jpg",
+        "caddress": "Quai d'Orsay, Cours La Reine,75008 Paris"
+      },
+      {
+        "cname": "皇宫",
+        "url": "/sight/paris308/13104.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/276/258/959/399ce9fc96a2493892339e9d4918f7a2_C_220_140.jpg",
+        "caddress": "8 Rue de Montpensier, 75001 Paris"
+      },
+      {
+        "cname": "枫丹白露宫",
+        "url": "/sight/paris308/13108.html",
+        "s_img": "http://p.chanyouji.cn/1373115906/CEDF4108-5A29-476D-BF9D-C344A3F1BBCC.jpg?imageView/1/w/220/h/140",
+        "caddress": "Château de Fontainebleau, 77300 Fontainebleau"
+      },
+      {
+        "cname": "蒙帕纳斯大厦",
+        "url": "/sight/paris308/67247.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/735/958/978/8ed42f44822541b9ab46711be2e906ac_C_220_140.jpg",
+        "caddress": "33, avenue du Maine，75015 Paris"
+      },
+      {
+        "cname": "先贤祠",
+        "url": "/sight/paris308/25061.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/068/340/184/4ace155804854656b85c7e267c5f491b_C_220_140.jpg",
+        "caddress": "Place du Panthéon, 75005 Paris"
+      },
+      {
+        "cname": "杜乐丽花园",
+        "url": "/sight/paris308/13107.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/240/605/015/262c15c4b14c48bab6ceccb5c330837a_C_220_140.jpg",
+        "caddress": "113 Rue de Rivoli, 75001 Paris"
+      },
+      {
+        "cname": "卢森堡公园",
+        "url": "/sight/paris308/13103.html",
+        "s_img": "http://p.chanyouji.cn/173559/1413883503444p194oumgpjnghdf31dfi1gbarrk40.jpg?imageView/1/w/220/h/140",
+        "caddress": "6e Arrondissement, 75006 Paris"
+      },
+      {
+        "cname": "西岱岛",
+        "url": "/sight/paris308/45622.html",
+        "s_img": "http://p.chanyouji.cn/75956/1382332909469p187cn3hln19bc39d1bap1ob514pso.jpg?imageView/1/w/220/h/140",
+        "caddress": "Ile de la Cité, 75004 Paris"
+      },
+      {
+        "cname": "蓬皮杜国家文化艺术中心",
+        "url": "/sight/paris308/25051.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/881/411/361/20573e261fe643bea7ed736845d415c5_C_220_140.jpg",
+        "caddress": "Place Georges Pompidou, 75004 Paris"
+      },
+      {
+        "cname": "市政厅",
+        "url": "/sight/paris308/12942.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/060/067/215/4ae10545cca74639a10aee9f0e9d8eb7_C_220_140.jpg",
+        "caddress": "Place de l'Hôtel de ville, 75004 Paris"
+      },
+      {
+        "cname": "小凯旋门",
+        "url": "/sight/paris308/122993.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/426/123/117/b92abdce50224b4dab5347508b1287b2_C_220_140.jpg",
+        "caddress": "Arc de Triomphe du Carrousel,75001 Paris（位于杜伊勒里公园和卢浮宫之间）"
+      },
+      {
+        "cname": "蒙玛特尔高地",
+        "url": "/sight/paris308/75767.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/334/246/414/ecb3657b98184a09adf2408b76f100b4_C_220_140.jpg",
+        "caddress": "Montmartre,75018 ParisMontmartre,75018 Paris"
+      },
+      {
+        "cname": "罗丹美术馆",
+        "url": "/sight/paris308/12928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/731/641/761/e94f75e0cc1a4f89b2de5a8ab6bed5ab_C_220_140.jpg",
+        "caddress": "Musée Rodin, 79 rue de Varenne, 75007 Paris"
+      },
+      {
+        "cname": "巴黎迪士尼",
+        "url": "/sight/paris308/65062.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/075/592/416/8f3def98ad5d466f848e13a71361c099_C_220_140.jpg",
+        "caddress": "77777 Marne La Vallée"
+      },
+      {
+        "cname": "新桥",
+        "url": "/sight/paris308/75711.html",
+        "s_img": "http://p.chanyouji.cn/1413962273/5A3A2AD0-8B81-4FD9-96FE-B3384B59E226.jpg?imageView/1/w/220/h/140",
+        "caddress": "1st arrondissement of Paris, 75001 Paris"
+      },
+      {
+        "cname": "巴黎战神广场",
+        "url": "/sight/paris308/72651.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/039/108/723/461c386a4cec45ef89c560b1d24972d0_C_220_140.jpg",
+        "caddress": "2 Allée Adrienne Lecouvreur, 75007 Paris"
+      },
+      {
+        "cname": "巴士底广场",
+        "url": "/sight/paris308/25053.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/911/266/980/ad421a62284e442aaecac88abe65abf7_C_220_140.jpg",
+        "caddress": "Place de la Bastille 75011 Paris"
+      },
+      {
+        "cname": "艺术桥",
+        "url": "/sight/paris308/1410645.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/CB/2F/Cghzf1S3XvKAZVsLAAhir8fP8IE042_C_220_140.jpg",
+        "caddress": "Pont des Arts, 75006 Paris"
+      },
+      {
+        "cname": "大宫",
+        "url": "/sight/paris308/12935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/501/063/648/9839526541ad4c59a1ed56889ce5ca31_C_220_140.jpg",
+        "caddress": "3 Avenue du Général Eisenhower, 75008 Paris"
+      },
+      {
+        "cname": "爱丽舍宫",
+        "url": "/sight/paris308/75763.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/518/207/362/0804e3f01ea14c96aa8a3412b06fc39d_C_220_140.jpg",
+        "caddress": "Paris"
+      },
+      {
+        "cname": "旺多姆广场",
+        "url": "/sight/paris308/25052.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/667/950/374/ce24c62282c94ea5a38c9d3b67bd8bde_C_220_140.jpg",
+        "caddress": "Place Vendôme, 75001 Paris"
+      },
+      {
+        "cname": "圣日耳曼大街",
+        "url": "/sight/paris308/75747.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/564/725/108/4612a1d05c374d37a77d6fd0dd28ff49_C_220_140.jpg",
+        "caddress": "Place St-Germain-des-Pres,75006 Paris"
+      },
+      {
+        "cname": "蒙田大街",
+        "url": "/sight/paris308/75754.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/393/212/830/cbafa38c10ef4ada8ff43ac14ca213f4_C_220_140.jpg",
+        "caddress": "Avenue Montaigne, 75008 Paris"
+      },
+      {
+        "cname": "爱墙",
+        "url": "/sight/paris308/1410643.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/547/927/094/a436b7fcef8b4cfab53fc47815f92335_C_220_140.jpg",
+        "caddress": "Square Jehan Rictus, Place des Abesses, 75018 Paris"
+      },
+      {
+        "cname": "孚日广场",
+        "url": "/sight/paris308/75769.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/149/047/783/b05114a5b20d4777b2bb122f6b2208da_C_220_140.jpg",
+        "caddress": "Place des Vosges, 75004 Paris"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/paris308/75770.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/285/709/4852465f47ef4122b1caef98bb269cc2_C_220_140.jpg",
+        "caddress": "101-105 Rue de Tolbiac,75013 Paris, France"
+      },
+      {
+        "cname": "橘园美术馆",
+        "url": "/sight/paris308/146284.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/802/095/070/e35f753c4d3742a6b54576def5a67615_C_220_140.jpg",
+        "caddress": "Jardin Tuileries, 75001 Paris"
+      },
+      {
+        "cname": "巴黎古监狱",
+        "url": "/sight/paris308/146888.html",
+        "s_img": "http://p.chanyouji.cn/94065/1388400467882p18d1hrgs38a91ttq1jksjf5sd05.jpg?imageView/1/w/220/h/140",
+        "caddress": "2 Boulevard du Palais, 75001 Paris"
+      },
+      {
+        "cname": "马德莱娜教堂",
+        "url": "/sight/paris308/12959.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/972/347/979/6d56d9a68fb545019582112d688bd569_C_220_140.jpg",
+        "caddress": "Place de la Madeleine, 75008 Paris"
+      },
+      {
+        "cname": "夏悠宫",
+        "url": "/sight/paris308/146299.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/376/809/402/b93302803c0f4a9c88a01de31e9546c2_C_220_140.jpg",
+        "caddress": "1 Place du Trocadéro et du 11 Novembre, 75016 Paris"
+      },
+      {
+        "cname": "圣厄斯塔什教堂",
+        "url": "/sight/paris308/13105.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/978/559/526/5502581ccdbb4518b36402ea9f952af1_C_220_140.jpg",
+        "caddress": "2 Impasse Saint-Eustache, 75001 Paris"
+      },
+      {
+        "cname": "小宫",
+        "url": "/sight/paris308/45616.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/244/222/335/d0d6779e01c248c793d3aeaa41d92953_C_220_140.jpg",
+        "caddress": "Avenue Winston Churchill, 75008 Paris"
+      },
+      {
+        "cname": "军事博物馆",
+        "url": "/sight/paris308/75748.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/267/179/501/3d39b33c53b34918b856e5ab941b439e_C_220_140.jpg",
+        "caddress": "129 Rue de Grenelle 75007 Paris"
+      },
+      {
+        "cname": "索邦大学",
+        "url": "/sight/paris308/75715.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/040/863/791/887c4a2cbe3e45f1a754b2d6fdee1f25_C_220_140.jpg",
+        "caddress": "Paris-Sorbonne University1 rue Victor Cousin75005 Pari"
+      },
+      {
+        "cname": "协和广场方尖碑",
+        "url": "/sight/paris308/1414163.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/616/960/712/564743d9a1034012bb4702b7bd89f6e9_C_220_140.jpg",
+        "caddress": "Place de la Concorde, 75008 Paris"
+      },
+      {
+        "cname": "奥维尔小镇",
+        "url": "/sight/paris308/147518.html",
+        "s_img": "http://p.chanyouji.cn/1408461949/A16CBF06-41FD-470D-A866-7EE1C333053D.jpg?imageView/1/w/220/h/140",
+        "caddress": "Auvers-sur-Oise, Paris"
+      },
+      {
+        "cname": "法国国家图书馆",
+        "url": "/sight/paris308/1414121.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/105/061/084/761196413d6046dabfd9516ad16e4d80_C_220_140.jpg",
+        "caddress": "Quai François Mauriac, 75013 Paris"
+      },
+      {
+        "cname": "圆顶教堂",
+        "url": "/sight/paris308/75753.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/903/212/400/93c1d605c7a2440bbe97ff665f8f6d15_C_220_140.jpg",
+        "caddress": "129 Rue de Grenelle, 75007 Paris"
+      },
+      {
+        "cname": "共和国广场 ",
+        "url": "/sight/paris308/110181.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/224/165/405/61fa3dd88b47488294eb7bf053d1d4dc_C_220_140.jpg",
+        "caddress": "Route de paris 75017 Paris, France"
+      },
+      {
+        "cname": "乔治五世大街",
+        "url": "/sight/paris308/142615.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/139/512/576/ca6b3e5653b7475490e49a86696b692d_C_220_140.jpg",
+        "caddress": "AVENUE GEORGE-V"
+      },
+      {
+        "cname": "小丘广场",
+        "url": "/sight/paris308/146295.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/013/225/514/ae07aa62a3ad4594be48e054c66078f5_C_220_140.jpg",
+        "caddress": "Place du Tertre, 75018 Paris"
+      },
+      {
+        "cname": "圣路易岛",
+        "url": "/sight/paris308/146289.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/187/727/6bdf3d1256364241971525052e510b4d_C_220_140.jpg",
+        "caddress": "Île Saint-Louis, Paris"
+      },
+      {
+        "cname": "香提邑城堡",
+        "url": "/sight/paris308/141855.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/911/769/830/5bed9a0025214429b399771ee1556f2f_C_220_140.jpg",
+        "caddress": "Château de Chantilly, 60500 Chantilly"
+      },
+      {
+        "cname": "巴黎橘园",
+        "url": "/sight/paris308/1414141.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/358/142/089/e0a7d93cdf0c4a5bbfb8d16efc151a87_C_220_140.jpg",
+        "caddress": "Jardin Tuileries, 75001 Paris"
+      },
+      {
+        "cname": "法国微型景观园",
+        "url": "/sight/paris308/1414196.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/662/634/76ca606108dd4ff29b5c3c090e5928ee_C_220_140.jpg",
+        "caddress": "Boulevard André Malraux, 78990 Élancourt"
+      },
+      {
+        "cname": "毕加索美术馆",
+        "url": "/sight/paris308/13106.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/772/388/576/6b148043ab884239a94cd081d1338ab3_C_220_140.jpg",
+        "caddress": "5 Rue de Thorigny, 75003 Paris"
+      },
+      {
+        "cname": "马德莱娜广场",
+        "url": "/sight/paris308/75757.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/698/898/541/ed7f02d4b4b14134b928afdde0ace667_C_220_140.jpg",
+        "caddress": "2 Passage de la Madeleine 75008 Paris"
+      },
+      {
+        "cname": "拉德芳斯新区拱门",
+        "url": "/sight/paris308/75771.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/972/643/507/d2caf9e32e5b4501b0b4b4432692acf5_C_220_140.jpg",
+        "caddress": "1 Parvis de la Defense 92044 Paris"
+      },
+      {
+        "cname": "拉雪兹公墓",
+        "url": "/sight/paris308/146287.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/176/399/425/52da5ea0ad6547d59b0d2700cd5654cc_C_220_140.jpg",
+        "caddress": "71, Rue des Rondeaux, 75020 Paris"
+      },
+      {
+        "cname": "达利空间",
+        "url": "/sight/paris308/146292.html",
+        "s_img": "http://p.chanyouji.cn/1306/1346328685287p175rmv7l51lmra12151i18kr16p2m.jpg?imageView/1/w/220/h/140",
+        "caddress": "11 Rue Poulbot, 75018 Paris"
+      },
+      {
+        "cname": "下水道博物馆",
+        "url": "/sight/paris308/146300.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/498/738/046/c7db7c83ce264c4d9777c8a53c2fdbb4_C_220_140.jpg",
+        "caddress": "Place de la Resistance 75007, Paris"
+      },
+      {
+        "cname": "拉丁区",
+        "url": "/sight/paris308/1414948.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/247/411/978/2a9a6f03fb2248d3a97f1db2485536b1_C_220_140.jpg",
+        "caddress": "Latin Quarter, 75005 Paris"
+      },
+      {
+        "cname": "凯布朗利博物馆",
+        "url": "/sight/paris308/1411272.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/620/621/838/f88159084c4a4e00b85a25a5ac9384d1_C_220_140.jpg",
+        "caddress": "37 Quai Branly, 75007 Paris"
+      },
+      {
+        "cname": "马蒙丹莫奈美术馆",
+        "url": "/sight/paris308/1411266.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/164/304/905/99a2a28a50ac47adb96d93198e0db461_C_220_140.jpg",
+        "caddress": "2 Rue Louis Boilly, 75016 Paris"
+      },
+      {
+        "cname": "雨果故居",
+        "url": "/sight/paris308/1415056.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/910/301/485/1e5760561bcd4426ba77e575b2ed91c6_C_220_140.jpg",
+        "caddress": "6 Place des Vosges, 75004 Paris"
+      },
+      {
+        "cname": "国立中世纪博物馆",
+        "url": "/sight/paris308/1411265.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/727/319/528/a749905e81024f7b8be1e93ac720ba05_C_220_140.jpg",
+        "caddress": "6 Place Paul Painlevé, 75005 Paris"
+      },
+      {
+        "cname": "无畏的约翰之塔",
+        "url": "/sight/paris308/110070.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/332/143/575/37752068f5164a0087f3b3b88fe3c32a_C_220_140.jpg",
+        "caddress": "20 Rue étienne Marcel, 75002 Paris"
+      },
+      {
+        "cname": "巴黎地下墓穴",
+        "url": "/sight/paris308/146291.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/907/689/044d7686972e437695d14dcd22517bb5_C_220_140.jpg",
+        "caddress": "1 Avenue du Colonel Henri Rol-Tanguy, 75014 Paris"
+      },
+      {
+        "cname": "德比尔哈克姆桥",
+        "url": "/sight/paris308/1415587.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/982/419/330/6f18d7773299452591934f6551b282c4_C_220_140.jpg",
+        "caddress": "Quai de Grenelle, 75015 Paris"
+      },
+      {
+        "cname": "卢森堡博物馆",
+        "url": "/sight/paris308/1414117.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/285/557/399/e0b1fe05e4a749589a3989bb96ce3da9_C_220_140.jpg",
+        "caddress": "19 Rue de Vaugirard, 75006 Paris"
+      },
+      {
+        "cname": "圣礼拜堂",
+        "url": "/sight/paris308/1415052.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/032/295/448/9a5bee415f5045d5a98d423d7cf060ef_C_220_140.jpg",
+        "caddress": "8 Boulevard du Palais, 75001 Paris"
+      },
+      {
+        "cname": "巴尔比宗",
+        "url": "/sight/paris308/1415743.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/607/911/733/5d783592e7954dd28ccdfee35296bf4f_C_220_140.jpg",
+        "caddress": "77630 Barbizon, Paris"
+      },
+      {
+        "cname": "枫丹白露森林",
+        "url": "/sight/paris308/1414148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/697/106/725/b1e104c458b44f108427f9ad1ca22688_C_220_140.jpg",
+        "caddress": "4, Rue Royale, 77300 Fontainebleau"
+      },
+      {
+        "cname": "蒙马特公墓",
+        "url": "/sight/paris308/1415752.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/515/295/742/11c040eac2644c8991dba550ce48468f_C_220_140.jpg",
+        "caddress": "20 Avenue Rachel, 75018 Paris"
+      },
+      {
+        "cname": "中世纪小镇普罗万",
+        "url": "/sight/paris308/1414168.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/547/105/2ace81c3542440f2adf1a4642ae5dedc_C_220_140.jpg",
+        "caddress": "Chemin de Villecran, 77160 Provins"
+      },
+      {
+        "cname": "阿尔玛桥",
+        "url": "/sight/paris308/1415755.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/688/395/023/2ed2099ed6c64ef18e0fc39ac5ba6f85_C_220_140.jpg",
+        "caddress": "Pont de l'Alma, Paris"
+      },
+      {
+        "cname": "巴尔扎克故居",
+        "url": "/sight/paris308/1415902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/995/180/099/0f0c59810e0045538dd9186af1e11348_C_220_140.jpg",
+        "caddress": "47 Rue Raynouard, 75016 Paris"
+      },
+      {
+        "cname": "巴黎大清真寺",
+        "url": "/sight/paris308/1415546.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/927/050/e1b39d6c55644e9e921f1f472bb8f9d6_C_220_140.jpg",
+        "caddress": "2 bis Place du Puits de l’Ermite, 75005 Paris"
+      },
+      {
+        "cname": "巴黎东京宫",
+        "url": "/sight/paris308/1414129.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/968/944/077/479cc062a94244f2b183e852b2236efd_C_220_140.jpg",
+        "caddress": "13 Avenue du Président Wilson, 75116 Paris"
+      },
+      {
+        "cname": "巴黎格雷万蜡像馆",
+        "url": "/sight/paris308/1414120.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/269/989/659/b5d291f7bed0491fa8712d65eb4d672d_C_220_140.jpg",
+        "caddress": "10 Boulevard Montmartre, 75009 Paris"
+      },
+      {
+        "cname": "巴黎国立高等美术学院",
+        "url": "/sight/paris308/1415586.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/791/790/482/2630620b41c8427dac413ecf40f0c7b1_C_220_140.jpg",
+        "caddress": "14 Rue Bonaparte, 75006 Paris"
+      },
+      {
+        "cname": "巴黎巧克力博物馆",
+        "url": "/sight/paris308/1416228.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/493/540/170/279f3f5822d14c3d8774815973485285_C_220_140.jpg",
+        "caddress": "28 Boulevard de Bonne Nouvelle, 75010 Paris"
+      },
+      {
+        "cname": "巴黎现代艺术博物馆",
+        "url": "/sight/paris308/1415763.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/619/521/857/aaecdfe332c64dfe962c4b339ebdc8eb_C_220_140.jpg",
+        "caddress": "11 Avenue du Président Wilson, 75116 Paris"
+      },
+      {
+        "cname": "芭嘉黛尔公园",
+        "url": "/sight/paris308/1416003.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/190/518/111/4dd14ff0cf714807b31c95d058c0cbfd_C_220_140.jpg",
+        "caddress": "Route de Sèvres à Neuilly, 75016 Paris"
+      },
+      {
+        "cname": "贝尔维尔公园",
+        "url": "/sight/paris308/1415581.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/595/390/915/e9a64a33d51b4da6a16caa0deae27dd2_C_220_140.jpg",
+        "caddress": "47 Rue des Couronnes, 75020 Paris"
+      },
+      {
+        "cname": "贝尔希公园",
+        "url": "/sight/paris308/1415683.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/806/294/856/e8fcf868850242b4b3fd82e6f2b3d03a_C_220_140.jpg",
+        "caddress": "128 Quai de Bercy, 75012 Paris"
+      },
+      {
+        "cname": "伯特肖蒙公园",
+        "url": "/sight/paris308/1414146.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/059/090/504/c58c011162684637b6a72f07f8efff36_C_220_140.jpg",
+        "caddress": "1 Rue Botzaris, 75019 Paris"
+      },
+      {
+        "cname": "德拉克洛瓦美术馆",
+        "url": "/sight/paris308/1415878.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/723/803/768/b437c8592b97418cbc294c13062f89ed_C_220_140.jpg",
+        "caddress": "6 Rue de Furstenberg, 75006 Paris"
+      },
+      {
+        "cname": "哥纳克-珍博物馆",
+        "url": "/sight/paris308/1415908.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/926/514/105/c5c5c22592f3445d9d12d9c3ff9139c2_C_220_140.jpg",
+        "caddress": "8 Rue Elzevir, 75003 Paris"
+      },
+      {
+        "cname": "科学工业城",
+        "url": "/sight/paris308/1415866.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/893/571/752/1bd6936e0d6443e8ae346fa0e6114a71_C_220_140.jpg",
+        "caddress": "30 Avenue Corentin Cariou, 75019 Paris"
+      },
+      {
+        "cname": "矿物和地质展览馆",
+        "url": "/sight/paris308/1415669.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/170/756/800/00ebec07e97147bf96df75450dcaf224_C_220_140.jpg",
+        "caddress": "36 Rue Geoffroy-Saint-Hilaire, 75005 Paris"
+      },
+      {
+        "cname": "浪漫生活博物馆",
+        "url": "/sight/paris308/1415990.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/947/818/756/6eba1311ca6244a9a9c6e2e0a03f1741_C_220_140.jpg",
+        "caddress": "16 Rue Chaptal, 75009 Paris"
+      },
+      {
+        "cname": "绿荫步道",
+        "url": "/sight/paris308/1416137.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/071/737/330/2ea77f608ae5466180d371b7f31b272e_C_220_140.jpg",
+        "caddress": "Quinze-Vingts, 75012 Paris"
+      },
+      {
+        "cname": "罗兰加洛斯球场博物馆",
+        "url": "/sight/paris308/1415835.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/161/510/931/12a74b40460347a2895ec1f9f5c43bf0_C_220_140.jpg",
+        "caddress": "2 Avenue Gordon Bennett, 75016 Paris"
+      },
+      {
+        "cname": "蒙帕纳斯公墓",
+        "url": "/sight/paris308/1415853.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/659/842/019/88e02d4ee7064e8987f91e43b0aa4f58_C_220_140.jpg",
+        "caddress": "3 Boulevard Edgar Quinet, 75014 Paris"
+      },
+      {
+        "cname": "蒙梭公园",
+        "url": "/sight/paris308/1415969.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/293/741/424/a30c0a3499b54976a2525141cac86558_C_220_140.jpg",
+        "caddress": "35 Boulevard de Courcelles, 75008 Paris"
+      },
+      {
+        "cname": "葡萄酒博物馆",
+        "url": "/sight/paris308/1415927.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/731/135/495/4661fa297ebe4f89add8d9af4f84a2dd_C_220_140.jpg",
+        "caddress": "5 Square Charles Dickens, 75016 Paris"
+      },
+      {
+        "cname": "全景廊街",
+        "url": "/sight/paris308/1415158.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/673/842/713/917e2fea73cb4ebdb6e8a827fd6663b0_C_220_140.jpg",
+        "caddress": "Passage des Panoramas, 75002 Paris"
+      },
+      {
+        "cname": "茹弗鲁瓦廊街",
+        "url": "/sight/paris308/1415970.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/638/267/031/8b387242c4ee405fa66d27bddba3dce3_C_220_140.jpg",
+        "caddress": "Passage Jouffroy 75009 Paris"
+      },
+      {
+        "cname": "塞瑞斯.德欧特伊植物园",
+        "url": "/sight/paris308/1415559.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/268/285/033/7c968e6b21d2491c9ad8284a03688128_C_220_140.jpg",
+        "caddress": "57 rue Cuvier, 2 rue Buffon, 36 rue Geoffroy-Saint-Hilaire, place Valhubert 75005 Paris"
+      },
+      {
+        "cname": "尚蒂伊城堡公园",
+        "url": "/sight/paris308/1414130.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/684/106/481/b1f516b184c34101a3e21bbaa145418e_C_220_140.jpg",
+        "caddress": "7 Rue du Connétable, 60500 Chantilly"
+      },
+      {
+        "cname": "圣马丁运河",
+        "url": "/sight/paris308/1415826.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/158/060/647/e51650d25c7547958875d1a37aa75b16_C_220_140.jpg",
+        "caddress": "Canal Saint Martin 75010 Paris"
+      },
+      {
+        "cname": "圣雅克塔",
+        "url": "/sight/paris308/1415104.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/908/192/583/f4934cb3079244208d77c6ffd166efc0_C_220_140.jpg",
+        "caddress": "39 Rue de Rivoli, 75004 Paris"
+      },
+      {
+        "cname": "索镇公园",
+        "url": "/sight/paris308/1415533.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/926/692/670/91edbbcf236944609cc138fb93d22657_C_220_140.jpg",
+        "caddress": "Domaine de Sceaux, 92330 Sceaux"
+      },
+      {
+        "cname": "太子广场",
+        "url": "/sight/paris308/1416188.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/949/638/580/1786377647c644b1860fce7c07bf0790_C_220_140.jpg",
+        "caddress": "Place Dauphine, 75001 Paris"
+      },
+      {
+        "cname": "天主圣三教堂",
+        "url": "/sight/paris308/1416180.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/985/003/764/00b90578036f4531865bd8b85b318b90_C_220_140.jpg",
+        "caddress": "Place d'Estienne d'Orves, 75009 Paris"
+      },
+      {
+        "cname": "维耶特公园",
+        "url": "/sight/paris308/1415727.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/812/254/062/852c4f3dfcad42c7b331fcc0cdefe751_C_220_140.jpg",
+        "caddress": "211 Avenue Jean Jaurès, 75019 Paris"
+      },
+      {
+        "cname": "犹太人大屠杀纪念馆",
+        "url": "/sight/paris308/1416149.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/224/177/e2d6f61768c7412b9d0f81283353a446_C_220_140.jpg",
+        "caddress": "17 Rue Geoffroy l'Asnier, 75004 Paris"
+      },
+      {
+        "cname": "子爵城堡",
+        "url": "/sight/paris308/1414128.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/756/680/169/d3941d4264914fe4b5fe9c0aad6451c2_C_220_140.jpg",
+        "caddress": "Château de Vaux le Vicomte, 77950 Maincy"
+      },
+      {
+        "cname": "自由女神像",
+        "url": "/sight/paris308/1415044.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/240/947/940/db0d8ac71b2248b9a8024af64709a8ce_C_220_140.jpg",
+        "caddress": "Pont de Grenelle, 75015 Paris"
+      },
+      {
+        "cname": "巴黎玩偶博物馆",
+        "url": "/sight/paris308/1416054.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/664/570/316/a2d0b1c6f15240baac4a02cf09c60196_C_220_140.jpg",
+        "caddress": "Impasse Berthaud quartier Beaubourg, 75003 Paris,"
+      },
+      {
+        "cname": "圣塞味利教堂",
+        "url": "/sight/paris308/1415540.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/834/738/035/741b6e1df20b43168d54febace8da92a_C_220_140.jpg",
+        "caddress": "1 Rue des Prêtres Saint-Séverin, 75005 Paris"
+      },
+      {
+        "cname": "圣日耳曼德佩修道院",
+        "url": "/sight/paris308/146887.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/705/829/675/dde98022a765414b823ab5a95fd8aee7_C_220_140.jpg",
+        "caddress": "Saint-Germain-des-Prés, 75006 Paris"
+      },
+      {
+        "cname": "圣让蒙马特教堂",
+        "url": "/sight/paris308/1416142.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/511/479/704/e802744772cd4c7ba1ae5530395e67c9_C_220_140.jpg",
+        "caddress": "19 Rue des Abbesses, 75018 Paris"
+      },
+      {
+        "cname": "城堡遗迹公园",
+        "url": "/sight/paris308/136573.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/446/945/057d7081a59541808272ff8d399288b9_C_220_140.jpg",
+        "caddress": "Montée du Château, 06000 Nice"
+      },
+      {
+        "cname": "贡比涅城堡",
+        "url": "/sight/paris308/1415963.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/530/928/727/7b379bc0933d4cbeaff0466e34a57e1f_C_220_140.jpg",
+        "caddress": "Place du Général de Gaulle, 60200 Compiègne"
+      },
+      {
+        "cname": "巴士底歌剧院",
+        "url": "/sight/paris308/142852.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/285/478/536/79712fa52e0b4958b32c7b99dea42195_C_220_140.jpg",
+        "caddress": "130 rue de Lyon, 75 012 Paris"
+      },
+      {
+        "cname": "国家自然历史博物馆",
+        "url": "/sight/paris308/1415397.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/360/916/848/e6fdbb4149d64a6382b03e0b952b5c22_C_220_140.jpg",
+        "caddress": "57 Rue Cuvier, 75005 Paris"
+      },
+      {
+        "cname": "阿斯特克主题公园",
+        "url": "/sight/paris308/1483347.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/411/722/871/66bd7dccf7a14b188364a8491e371779_C_220_140.jpg",
+        "caddress": "60128 Plailly, 法国"
+      },
+      {
+        "cname": "圣艾蒂安教堂",
+        "url": "/sight/paris308/1415306.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/497/660/426/73854de36d6b4c4a86ab2af60c47c9c9_C_220_140.jpg",
+        "caddress": "Place Sainte-Geneviève, 75005 Paris"
+      },
+      {
+        "cname": "赎罪礼拜堂",
+        "url": "/sight/paris308/1415632.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/124/235/657/0ac0bee288cb471d94bf940d218b63e5_C_220_140.jpg",
+        "caddress": "29 Rue Pasquier, 75008 Paris"
+      },
+      {
+        "cname": "旭丽府邸",
+        "url": "/sight/paris308/1415914.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/057/627/087/ed55612fc3df462f8708d3204793a759_C_220_140.jpg",
+        "caddress": "62 Rue Saint-Antoine, 75004 Paris"
+      },
+      {
+        "cname": "集美博物馆",
+        "url": "/sight/paris308/1415236.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/742/295/245/b4d823d4ddef41cf8e0f646cd8a53f9f_C_220_140.jpg",
+        "caddress": "6 Place d'Iéna, 75116 Paris"
+      },
+      {
+        "cname": "瓦尔嘉朗广场",
+        "url": "/sight/paris308/1416207.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/756/635/651/61eaaadba6824fe29872acaf2b7277a9_C_220_140.jpg",
+        "caddress": "Saint-Germain-l'Auxerrois, 75001 Paris"
+      },
+      {
+        "cname": "巴黎圣母院的考古地下室",
+        "url": "/sight/paris308/1414131.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/716/393/715/ef29e2616e934f53bdc3a2998965577b_C_220_140.jpg",
+        "caddress": "7 Parvis Notre-Dame - Place Jean-Paul II, 75004 Paris"
+      },
+      {
+        "cname": "巴黎圣奥古斯丁大教堂",
+        "url": "/sight/paris308/1416084.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/288/954/386/dee6928ba19849648c4260af61e72f26_C_220_140.jpg",
+        "caddress": "8 Avenue César Caire, 75008 Paris"
+      },
+      {
+        "cname": "马提尼翁府",
+        "url": "/sight/paris308/1415922.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/444/916/d7b7929e477648c4a057243a8275c235_C_220_140.jpg",
+        "caddress": "57 Rue de Varenne, 75007 Paris"
+      },
+      {
+        "cname": "波旁宫",
+        "url": "/sight/paris308/1415092.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/605/638/323/5fe204fe56904dc98806b58f31b98a49_C_220_140.jpg",
+        "caddress": "33 Quai d'Orsay, 75007 Paris"
+      },
+      {
+        "cname": "勒阿尔市场",
+        "url": "/sight/paris308/1415008.html",
+        "s_img": "",
+        "caddress": "Les Halles, 75001 Paris"
+      },
+      {
+        "cname": "蒙苏里公园",
+        "url": "/sight/paris308/1415987.html",
+        "s_img": "",
+        "caddress": "14e Arrondissement, 75014 Paris"
+      },
+      {
+        "cname": "圣日耳曼德佩区",
+        "url": "/sight/paris308/139081.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/730/715/080/cc1998583c994f88a38d311cf71a5648_C_220_140.jpg",
+        "caddress": "Saint-Germain Des Prés, 75006 Paris"
+      },
+      {
+        "cname": "圣叙尔比斯教堂",
+        "url": "/sight/paris308/1415456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/119/247/084/374bade1994c470a82e2cadd5f0f55e5_C_220_140.jpg",
+        "caddress": "2 Rue Palatine, 75006 Paris"
+      },
+      {
+        "cname": "里沃利大街",
+        "url": "/sight/paris308/136915.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/419/207/925/c3df3c1f29ad4b34b349f113f8581fe1_C_220_140.jpg",
+        "caddress": "Rue de Rivoli, 75008 Paris"
+      },
+      {
+        "cname": "夏丽皇家修道院",
+        "url": "/sight/paris308/1415961.html",
+        "s_img": "",
+        "caddress": "60300 Fontaine-Chaalis, 法国"
+      },
+      {
+        "cname": "圣·多诺黑街",
+        "url": "/sight/paris308/142610.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/423/010/350/30760e1e75204b459e407d15b2a0242d_C_220_140.jpg",
+        "caddress": "Rue Saint-Honoré"
+      },
+      {
+        "cname": "圣丹尼",
+        "url": "/sight/paris308/139128.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/752/158/681/1b985d9cd0c841f3bc117cd4bdb3ce67_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "尼斯",
+    "url": "http://you.ctrip.com/sightlist/nice580.html",
+    "places": [
+      {
+        "cname": "尼斯老城",
+        "url": "/sight/nice580/136945.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/826/631/e11cbe45662740b793483c97e45f3344_C_220_140.jpg",
+        "caddress": "Vieux-Nice,France"
+      },
+      {
+        "cname": "格拉斯",
+        "url": "/sight/nice580/22310.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/000/007/566/7ded9e06616b45658856f2bc6fac622e_C_220_140.jpg",
+        "caddress": "Grasse, France"
+      },
+      {
+        "cname": "天使湾",
+        "url": "/sight/nice580/132309.html",
+        "s_img": "http://m.chanyouji.cn/1382013336/00000000-0000-0000-0000-000000000C2C.jpg?imageView/1/w/220/h/140",
+        "caddress": "117 Promenade des Anglais,France"
+      },
+      {
+        "cname": "埃兹",
+        "url": "/sight/nice580/22309.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/995/867/139/8cdcb436b94c45529b10f6e2b9535e74_C_220_140.jpg",
+        "caddress": "Èze, Nice"
+      },
+      {
+        "cname": "马塞纳广场",
+        "url": "/sight/nice580/132300.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/614/754/653/629642c0d0664de988c593c9e610c2c5_C_220_140.jpg",
+        "caddress": "13 Place Masséna"
+      },
+      {
+        "cname": "芒通",
+        "url": "/sight/nice580/22311.html",
+        "s_img": "http://p.chanyouji.cn/16461/1379895386998p18542okjge8k1o1nv7ojd1e1v5.jpg?imageView/1/w/220/h/140",
+        "caddress": "Menton,France"
+      },
+      {
+        "cname": "英国人散步大道",
+        "url": "/sight/nice580/139080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/166/631/6e6488253dc048788e0f7cf83454b95f_C_220_140.jpg",
+        "caddress": "Promenade des Anglais"
+      },
+      {
+        "cname": "萨雷雅广场集市",
+        "url": "/sight/nice580/1413429.html",
+        "s_img": "http://m.chanyouji.cn/1382013324/00000000-0000-0000-0000-000000000C1F.jpg?imageView/1/w/220/h/140",
+        "caddress": "Cours Saleya 06300 Nice"
+      },
+      {
+        "cname": "城堡丘陵",
+        "url": "/sight/nice580/1410647.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/906/637/476/9d9eb35c43d44418bfcd48a16da8ae9c_C_220_140.jpg",
+        "caddress": "Colline du Chateau overlook, Vieille Ville, 06300 Nice"
+      },
+      {
+        "cname": "俄罗斯东正教圣尼古拉大教堂",
+        "url": "/sight/nice580/22312.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/994/200/911/47844949d3e3454e80d3d26030110f1c_C_220_140.jpg",
+        "caddress": "Avenue Nicolas II 06000 Nice, France"
+      },
+      {
+        "cname": "朱尔·谢雷美术馆",
+        "url": "/sight/nice580/137090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/287/464/276/4def85c5d153495f95cfcce980bd5332_C_220_140.jpg",
+        "caddress": "33 Avenue des Baumettes, Nice"
+      },
+      {
+        "cname": "尼斯现代与当代美术馆",
+        "url": "/sight/nice580/136954.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/513/580/090/ca39e6398d5e4c8392fcafd3426447de_C_220_140.jpg",
+        "caddress": "Promenade des Arts, 06000 Nice"
+      },
+      {
+        "cname": "尼斯圣母院",
+        "url": "/sight/nice580/136950.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/700/415/361/38a68bfd680d4f1b8b172983e430245f_C_220_140.jpg",
+        "caddress": "37 Avenue Jean Médecin, Nice"
+      },
+      {
+        "cname": "尼斯海角",
+        "url": "/sight/nice580/1484902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/34/7C/CghzgVUIk2aAfdphAAH8kVSRKCg446_C_220_140.jpg",
+        "caddress": "31 Boulevard Maurice Maeterlinck"
+      },
+      {
+        "cname": "英国滨海大道",
+        "url": "/sight/nice580/1412673.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/153/398/699/baa68991d90a4785b63c09079e3d9ccb_C_220_140.jpg",
+        "caddress": "267 Promenade des Anglais"
+      },
+      {
+        "cname": "金梅德新大道",
+        "url": "/sight/nice580/22315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/753/397/336/4ee8d5298d624fd8ac59eb71cb401101_C_220_140.jpg",
+        "caddress": "Nice, France"
+      },
+      {
+        "cname": "夏加尔美术馆",
+        "url": "/sight/nice580/22304.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/607/419/092/06a09fa82d364dd2b92eb78fbd2359b1_C_220_140.jpg",
+        "caddress": "Ave Docteur Menard, 06000 Nice, France"
+      },
+      {
+        "cname": "尼斯圣雷帕拉特大教堂",
+        "url": "/sight/nice580/1413449.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/620/643/548/1b4d4dd5dd344020848e5c3f5fafbbaa_C_220_140.jpg",
+        "caddress": "3 Place Rossetti, 06300 Nice"
+      },
+      {
+        "cname": "马蒂斯美术馆",
+        "url": "/sight/nice580/22306.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/611/196/446/60bcb725e8c74000ba0870de6a0a67fa_C_220_140.jpg",
+        "caddress": "164 Avenue des Arènes de Cimiez, 06000 Nice"
+      },
+      {
+        "cname": "威利弗朗斯-苏梅镇",
+        "url": "/sight/nice580/1484696.html",
+        "s_img": "",
+        "caddress": "06230 Villefranche-sur-Mer"
+      },
+      {
+        "cname": "比奥泳滩",
+        "url": "/sight/nice580/1484692.html",
+        "s_img": "",
+        "caddress": "50 Promenade Jacques Thibaud"
+      },
+      {
+        "cname": "加里波第广场",
+        "url": "/sight/nice580/1484901.html",
+        "s_img": "",
+        "caddress": "5 Place Garibaldi"
+      },
+      {
+        "cname": "拉斯卡伊宫",
+        "url": "/sight/nice580/1484683.html",
+        "s_img": "",
+        "caddress": "15 Rue Droite, 06300 Nice"
+      },
+      {
+        "cname": "马塞纳博物馆",
+        "url": "/sight/nice580/1484731.html",
+        "s_img": "",
+        "caddress": "65 Rue de France, 06000 Nice"
+      },
+      {
+        "cname": "美国码头",
+        "url": "/sight/nice580/1484896.html",
+        "s_img": "",
+        "caddress": "75 Quai des États-Unis"
+      },
+      {
+        "cname": "尼斯城堡山",
+        "url": "/sight/nice580/1484898.html",
+        "s_img": "",
+        "caddress": "83-85 Quai des États-Unis"
+      },
+      {
+        "cname": "尼斯圣母大教堂",
+        "url": "/sight/nice580/1484916.html",
+        "s_img": "",
+        "caddress": "110 Rue Notre-Dame Ouest, Montréal, Québec H2Y 1T2"
+      },
+      {
+        "cname": "西米耶高地",
+        "url": "/sight/nice580/1484640.html",
+        "s_img": "",
+        "caddress": "184 Av des Arènes de Cimiez Nice France"
+      },
+      {
+        "cname": "亚洲艺术博物馆",
+        "url": "/sight/nice580/1484485.html",
+        "s_img": "",
+        "caddress": "405 Promenade des Anglais, 06200 Nice"
+      },
+      {
+        "cname": "英国城堡",
+        "url": "/sight/nice580/1484749.html",
+        "s_img": "",
+        "caddress": "176 Boulevard Carnot, 06300 Nice"
+      },
+      {
+        "cname": "马塞纳美术馆",
+        "url": "/sight/nice580/22307.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/565/293/4aba3f38c1a84ee0bf0b0a4014298200_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "路易斯·尼塞拉图书馆",
+        "url": "/sight/nice580/1484514.html",
+        "s_img": "",
+        "caddress": "2 Place Yves Klein, 06300 Nice"
+      },
+      {
+        "cname": "耶稣教堂",
+        "url": "/sight/nice580/1484714.html",
+        "s_img": "",
+        "caddress": "Via degli Astalli, 16, 00186 Roma"
+      },
+      {
+        "cname": "阿尔伯特一世花园",
+        "url": "/sight/nice580/1484758.html",
+        "s_img": "",
+        "caddress": "2-16 Avenue de Verdun, 06000 Nice"
+      },
+      {
+        "cname": "阿玛达考古博物馆",
+        "url": "/sight/nice580/1484652.html",
+        "s_img": "",
+        "caddress": "25 Boulevard Carnot, 06000 Nice"
+      },
+      {
+        "cname": "凤凰花卉公园",
+        "url": "/sight/nice580/1484751.html",
+        "s_img": "",
+        "caddress": "405 Promenade des Anglais, 06200 Nice"
+      },
+      {
+        "cname": "国立马克·夏加尔博物馆",
+        "url": "/sight/nice580/1484741.html",
+        "s_img": "",
+        "caddress": "Avenue Docteur Ménard, 06000 Nice"
+      },
+      {
+        "cname": "梅康图尔国家公园",
+        "url": "/sight/nice580/1484664.html",
+        "s_img": "",
+        "caddress": "23 Rue d'Italie, 06000 Nice"
+      },
+      {
+        "cname": "尼斯美术馆",
+        "url": "/sight/nice580/1484689.html",
+        "s_img": "",
+        "caddress": "33 Avenue des Baumettes, 06000 Nice"
+      },
+      {
+        "cname": "省府",
+        "url": "/sight/nice580/1484699.html",
+        "s_img": "",
+        "caddress": "Place Pierre Gautier, 06000 Nice"
+      },
+      {
+        "cname": "席米埃圣母修道院",
+        "url": "/sight/nice580/1484721.html",
+        "s_img": "",
+        "caddress": "Place Jean Paul 2, 06000 Nice"
+      },
+      {
+        "cname": "立法大楼",
+        "url": "/sight/nice580/22314.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "Florian",
+        "url": "/sight/nice580/142601.html",
+        "s_img": "",
+        "caddress": "14 Quai Papacino-06300-Nice,France（在尼斯港）"
+      },
+      {
+        "cname": "尼斯橄榄之家",
+        "url": "/sight/nice580/142604.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "Maison Poilpot-Aux Parfums De ...",
+        "url": "/sight/nice580/142603.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "普罗旺斯",
+    "url": "http://you.ctrip.com/sightlist/provence750.html",
+    "places": [
+      {
+        "cname": "戛纳",
+        "url": "/sight/cannes715/139082.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/064/273/931/26bc9cdc33524647b69cd71997699109_C_220_140.jpg",
+        "caddress": "法国戛纳"
+      },
+      {
+        "cname": "尼斯老城",
+        "url": "/sight/nice580/136945.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/826/631/e11cbe45662740b793483c97e45f3344_C_220_140.jpg",
+        "caddress": "Vieux-Nice,France"
+      },
+      {
+        "cname": "普罗旺斯",
+        "url": "/sight/provence750/139084.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/959/851/713/f771b5c21d7044d2b4dd6c8376c5e03f_C_220_140.jpg",
+        "caddress": "法国东南部的一个地区，毗邻地中海，和意大利接壤"
+      },
+      {
+        "cname": "格拉斯",
+        "url": "/sight/nice580/22310.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/000/007/566/7ded9e06616b45658856f2bc6fac622e_C_220_140.jpg",
+        "caddress": "Grasse, France"
+      },
+      {
+        "cname": "天使湾",
+        "url": "/sight/nice580/132309.html",
+        "s_img": "http://m.chanyouji.cn/1382013336/00000000-0000-0000-0000-000000000C2C.jpg?imageView/1/w/220/h/140",
+        "caddress": "117 Promenade des Anglais,France"
+      },
+      {
+        "cname": "凡尔登大峡谷和圣十字湖",
+        "url": "/sight/aixenprovence1441/132098.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/412/134/aa8afbbd400c479fb4c79bcff0444d3a_C_220_140.jpg",
+        "caddress": "Les Salles-sur-Verdon"
+      },
+      {
+        "cname": "埃兹",
+        "url": "/sight/nice580/22309.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/995/867/139/8cdcb436b94c45529b10f6e2b9535e74_C_220_140.jpg",
+        "caddress": "Èze, Nice"
+      },
+      {
+        "cname": "阿尔勒",
+        "url": "/sight/provence750/139072.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/189/155/896/8c5c3ec736e4480380ac43ed365c7646_C_220_140.jpg",
+        "caddress": "位于法国隆和三角洲的顶点，保存有罗马古迹，世界遗产之一"
+      },
+      {
+        "cname": "马塞纳广场",
+        "url": "/sight/nice580/132300.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/614/754/653/629642c0d0664de988c593c9e610c2c5_C_220_140.jpg",
+        "caddress": "13 Place Masséna"
+      },
+      {
+        "cname": "马赛旧港",
+        "url": "/sight/marseille120370/132112.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/080/155/760/9f7fa78f3f634681aaa393f5a62fca31_C_220_140.jpg",
+        "caddress": "Le Vieux Port, Rue Pytheas, Marseille"
+      },
+      {
+        "cname": "红土城",
+        "url": "/sight/thevaucluse120363/132146.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/433/787/447/94d0cbe639b54b698c5d5f8483daf0f2_C_220_140.jpg",
+        "caddress": "Place de la poste，84220，Roussillon"
+      },
+      {
+        "cname": "瓦伦索勒",
+        "url": "/sight/valensole120538/132129.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/645/591/171/e7981b9c9e0c4e588a0a6b8357ca3c22_C_220_140.jpg",
+        "caddress": "Place des héros-de-la-résistance, 04210, Valensole"
+      },
+      {
+        "cname": "石头城",
+        "url": "/sight/avignon1100/132109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/736/111/061/c39c45abef5641baab232aaf74b718a1_C_220_140.jpg",
+        "caddress": "Gordes, France"
+      },
+      {
+        "cname": "芒通",
+        "url": "/sight/nice580/22311.html",
+        "s_img": "http://p.chanyouji.cn/16461/1379895386998p18542okjge8k1o1nv7ojd1e1v5.jpg?imageView/1/w/220/h/140",
+        "caddress": "Menton,France"
+      },
+      {
+        "cname": "阿维尼翁断桥",
+        "url": "/sight/avignon1100/78467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/979/044/072/cbb513a8593a451aa8403f98af269383_C_220_140.jpg",
+        "caddress": "6 Rue Pente Rapide Charles Andezi, 84000, Avignon"
+      },
+      {
+        "cname": "小十字大道",
+        "url": "/sight/cannes715/136691.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/621/423/274/1989600185524023a67e109794b84edb_C_220_140.jpg",
+        "caddress": "Boulevard de la Croisette"
+      },
+      {
+        "cname": "英国人散步大道",
+        "url": "/sight/nice580/139080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/166/631/6e6488253dc048788e0f7cf83454b95f_C_220_140.jpg",
+        "caddress": "Promenade des Anglais"
+      },
+      {
+        "cname": "戛纳影节宫",
+        "url": "/sight/cannes715/22377.html",
+        "s_img": "http://p.chanyouji.cn/2904/1347370765814p176qo19jj1rpb1mj870qc66ecs.jpg?imageView/1/w/220/h/140",
+        "caddress": "1 Boulevard de la Croisette, 06400 Cannes"
+      },
+      {
+        "cname": "萨雷雅广场集市",
+        "url": "/sight/nice580/1413429.html",
+        "s_img": "http://m.chanyouji.cn/1382013324/00000000-0000-0000-0000-000000000C1F.jpg?imageView/1/w/220/h/140",
+        "caddress": "Cours Saleya 06300 Nice"
+      },
+      {
+        "cname": "城堡丘陵",
+        "url": "/sight/nice580/1410647.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/906/637/476/9d9eb35c43d44418bfcd48a16da8ae9c_C_220_140.jpg",
+        "caddress": "Colline du Chateau overlook, Vieille Ville, 06300 Nice"
+      },
+      {
+        "cname": "隆尚宫",
+        "url": "/sight/marseille120370/132360.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/423/466/fd77afd89247475bac09d64c39a2c4c7_C_220_140.jpg",
+        "caddress": "22 Boulevard Longchamp, 13001 Marseille"
+      },
+      {
+        "cname": "伊夫堡",
+        "url": "/sight/bouchesdurhone392/13097.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/713/964/980/5e2fb29208444f4b9012583cff493c71_C_220_140.jpg",
+        "caddress": "法国伊夫堡"
+      },
+      {
+        "cname": "教皇宫殿",
+        "url": "/sight/avignon1100/123049.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/071/931/125/962e30d5151646628f58f67f97f428b9_C_220_140.jpg",
+        "caddress": "Place du Palais, 84000 Avignon"
+      },
+      {
+        "cname": "塞南克修道院",
+        "url": "/sight/gordes120371/132118.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/654/764/270/89a10363769440969ee24dcd2782a919_C_220_140.jpg",
+        "caddress": "Monastère cistercien, 84220 Gordes, 法国"
+      },
+      {
+        "cname": "圣母加德大教堂",
+        "url": "/sight/marseille120370/13098.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/652/115/a4f878c8bcc347589d7faae2240a024d_C_220_140.jpg",
+        "caddress": "Rue Fort du Sanctuaire, 13281 Marseille"
+      },
+      {
+        "cname": "俄罗斯东正教圣尼古拉大教堂",
+        "url": "/sight/nice580/22312.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/994/200/911/47844949d3e3454e80d3d26030110f1c_C_220_140.jpg",
+        "caddress": "Avenue Nicolas II 06000 Nice, France"
+      },
+      {
+        "cname": "阿维尼翁老城",
+        "url": "/sight/provence750/136370.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/500/643/747/14bf3f500b514c56b1d027666d12602a_C_220_140.jpg",
+        "caddress": "阿维尼翁，法国 ‎"
+      },
+      {
+        "cname": "阿尔勒古罗马竞技场",
+        "url": "/sight/provence750/1411737.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/493/418/165/95ebc83184684c3ebb8c1ea8ef090b5b_C_220_140.jpg",
+        "caddress": "1 Rond-point des Arènes, 13200 Arles,"
+      },
+      {
+        "cname": "圣母大教堂",
+        "url": "/sight/avignon1100/132235.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/950/938/684/32017e8924c844b296f2b1f664ace0ac_C_220_140.jpg",
+        "caddress": "Place du Palais, 84000 Avignon"
+      },
+      {
+        "cname": "薰衣草博物馆",
+        "url": "/sight/avignon1100/132151.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/887/877/987/bc6bde3f572143d5acd1dcb5c315a30e_C_220_140.jpg",
+        "caddress": "Route de Gordes, 84220 Cabrières-d'Avignon,"
+      },
+      {
+        "cname": "弗里乌群岛",
+        "url": "/sight/marseille120370/136662.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/191/096/48518cfda92e4fdd97fadeaba82bb249_C_220_140.jpg",
+        "caddress": "Îles du Frioul, 13007 Marseille"
+      },
+      {
+        "cname": "索村",
+        "url": "/sight/avignon1100/132153.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/977/883/344/ff60220ae07b45139f8f642499be7ef7_C_220_140.jpg",
+        "caddress": "Avenue de la Promenade, 84390, Sault"
+      },
+      {
+        "cname": "韦尔东峡谷",
+        "url": "/sight/provence750/1411752.html",
+        "s_img": "http://m.chanyouji.cn/57550/1375398406704p180u24agh8cbe15cgk0jsmf2.jpg?imageView/1/w/220/h/140",
+        "caddress": "83630 Aiguines"
+      },
+      {
+        "cname": "朱尔·谢雷美术馆",
+        "url": "/sight/nice580/137090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/287/464/276/4def85c5d153495f95cfcce980bd5332_C_220_140.jpg",
+        "caddress": "33 Avenue des Baumettes, Nice"
+      },
+      {
+        "cname": "古罗马剧场",
+        "url": "/sight/provence750/22636.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/434/419/066/8cee9aaf59654b6a94d0b1cc49c32d46_C_220_140.jpg",
+        "caddress": "Rue Madeleine Roch, 84100 Orange"
+      },
+      {
+        "cname": "马赛美术馆",
+        "url": "/sight/bouchesdurhone392/13100.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/755/428/0c18f914a85b4fefa469197d35d9797e_C_220_140.jpg",
+        "caddress": "7 Rue Édouard Stephan, Marseille, France"
+      },
+      {
+        "cname": "尼斯现代与当代美术馆",
+        "url": "/sight/nice580/136954.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/513/580/090/ca39e6398d5e4c8392fcafd3426447de_C_220_140.jpg",
+        "caddress": "Promenade des Arts, 06000 Nice"
+      },
+      {
+        "cname": "圣保罗·德·旺斯",
+        "url": "/sight/cannes715/1413481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/707/180/817/ff205ffc4caa41549cc7ca2cf322ecbd_C_220_140.jpg",
+        "caddress": "Saint-Paul de Vence,France"
+      },
+      {
+        "cname": "波城古堡",
+        "url": "/sight/provence750/22632.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/280/345/625/c0df97b6a6564948808f97f6a1802b8d_C_220_140.jpg",
+        "caddress": "13520 Les Baux-de-Provence"
+      },
+      {
+        "cname": "卡斯特尔博物馆",
+        "url": "/sight/cannes715/136819.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/796/505/935/6a6ce6a1d129429194825a230e6109c0_C_220_140.jpg",
+        "caddress": "Le Suquet, Rue de la Castre, 06400 Cannes"
+      },
+      {
+        "cname": "梵高吊桥",
+        "url": "/sight/provence750/132332.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/778/783/636/6b3b12ffa11e42518ceac1cb051b3ce6_C_220_140.jpg",
+        "caddress": "13200 Arles"
+      },
+      {
+        "cname": "小宫博物馆",
+        "url": "/sight/avignon1100/132156.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/922/265/613/f528a39d7f17444f83eaf36b7f8ee88c_C_220_140.jpg",
+        "caddress": "Palais des archevêques, Place du Palais, 84000 Avignon"
+      },
+      {
+        "cname": "守护圣母教堂",
+        "url": "/sight/marseille120370/132689.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/107/135/231/a2bb41b6227946e1a12d6d1f8c6da962_C_220_140.jpg",
+        "caddress": "Rue Fort du Sanctuaire, 13006 Marseille, 法国"
+      },
+      {
+        "cname": "尼斯圣母院",
+        "url": "/sight/nice580/136950.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/700/415/361/38a68bfd680d4f1b8b172983e430245f_C_220_140.jpg",
+        "caddress": "37 Avenue Jean Médecin, Nice"
+      },
+      {
+        "cname": "伊夫岛",
+        "url": "/sight/marseille120370/132370.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/998/134/626/cd5bfe2421dc455f9c5f3327f6947615_C_220_140.jpg",
+        "caddress": "Chateaud'IfIle du Frioul"
+      },
+      {
+        "cname": "钟楼广场",
+        "url": "/sight/avignon1100/132173.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/792/744/506/a505ed9bfafc4281a4013277ca04ffb9_C_220_140.jpg",
+        "caddress": "84000 Avignon"
+      },
+      {
+        "cname": "城堡美术馆",
+        "url": "/sight/cannes715/22374.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/837/323/701/b1edae4f423743239ec4e6c81494d514_C_220_140.jpg",
+        "caddress": "Le Suquet, Rue de la Castre, 06400 Cannes"
+      },
+      {
+        "cname": "英国滨海大道",
+        "url": "/sight/nice580/1412673.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/153/398/699/baa68991d90a4785b63c09079e3d9ccb_C_220_140.jpg",
+        "caddress": "267 Promenade des Anglais"
+      },
+      {
+        "cname": "金梅德新大道",
+        "url": "/sight/nice580/22315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/753/397/336/4ee8d5298d624fd8ac59eb71cb401101_C_220_140.jpg",
+        "caddress": "Nice, France"
+      },
+      {
+        "cname": "阿维尼翁新城",
+        "url": "/sight/avignon1100/78447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/850/451/21ad07788ebb403abacff27eaac6eb06_C_220_140.jpg",
+        "caddress": "Villeneuve-lès-Avignon, Languedoc-Roussillon, 法国"
+      },
+      {
+        "cname": "圣维克多修道院",
+        "url": "/sight/bouchesdurhone392/25115.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/457/100/900/078d72e6ade64bbe9f662d312ecd87f4_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "泉水镇",
+        "url": "/sight/avignon1100/132130.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/027/704/244/2249be131c3445c68807efd1f90febab_C_220_140.jpg",
+        "caddress": "Residence Jean-Garcin"
+      },
+      {
+        "cname": "卡西斯",
+        "url": "/sight/provence750/139083.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/121/040/207/4e7393f13ad247128ab18a784cbb131c_C_220_140.jpg",
+        "caddress": "Cassis"
+      },
+      {
+        "cname": "夏加尔美术馆",
+        "url": "/sight/nice580/22304.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/607/419/092/06a09fa82d364dd2b92eb78fbd2359b1_C_220_140.jpg",
+        "caddress": "Ave Docteur Menard, 06000 Nice, France"
+      },
+      {
+        "cname": "尼斯圣雷帕拉特大教堂",
+        "url": "/sight/nice580/1413449.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/620/643/548/1b4d4dd5dd344020848e5c3f5fafbbaa_C_220_140.jpg",
+        "caddress": "3 Place Rossetti, 06300 Nice"
+      },
+      {
+        "cname": "马蒂斯美术馆",
+        "url": "/sight/nice580/22306.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/611/196/446/60bcb725e8c74000ba0870de6a0a67fa_C_220_140.jpg",
+        "caddress": "164 Avenue des Arènes de Cimiez, 06000 Nice"
+      },
+      {
+        "cname": "圣托菲姆教堂",
+        "url": "/sight/provence750/132154.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/647/104/970/63e8100b9aac4e5eaeef0601a10064c6_C_220_140.jpg",
+        "caddress": "12 Rue du Cloître, 13200 Arles, 法国"
+      },
+      {
+        "cname": "圆形竞技场",
+        "url": "/sight/provence750/22630.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/382/594/745/1aba690d5aec4ab3bfe1eca4afeb7fa8_C_220_140.jpg",
+        "caddress": "1 Rond-point des Arènes 13200 Arles, France"
+      },
+      {
+        "cname": "博尼约小城",
+        "url": "/sight/thevaucluse12997/1412635.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/669/385/463/b58aebc95f624eaebf10960d23c62bbb_C_220_140.jpg",
+        "caddress": "Parc Naturel régional du Luberon, 84480 Bonnieux,"
+      },
+      {
+        "cname": "噶拉斯香水小镇",
+        "url": "/sight/cannes715/1412646.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/108/306/96c351b31768402f99e08a173c58d794_C_220_140.jpg",
+        "caddress": "06130 Grasse,"
+      },
+      {
+        "cname": "教皇新堡",
+        "url": "/sight/provence750/132165.html",
+        "s_img": "http://m.chanyouji.cn/148034/1406306692624p18tn6ibfub9p4ka1826s8hk22.jpg?imageView/1/w/220/h/140",
+        "caddress": "20 Rue Joseph Ducos 84230 Chateauneuf-du-Pape"
+      },
+      {
+        "cname": "米拉波大道",
+        "url": "/sight/provence750/22640.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/653/333/951/fb53eecd7de54e75b47d70b3a7323827_C_220_140.jpg",
+        "caddress": "13100 Aix-en-Provence"
+      },
+      {
+        "cname": "昂蒂布毕加索美术馆",
+        "url": "/sight/antibes1448/1414222.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/078/107/648/87fcde0ac1434678970ea9680be3a566_C_220_140.jpg",
+        "caddress": "Château Grimaldi, Place Mariejol, 06600 Antibes"
+      },
+      {
+        "cname": "普罗旺斯地区莱博",
+        "url": "/sight/provence750/1485557.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/265/749/989/d0d64cd286a849119474ccb7659c9342_C_220_140.jpg",
+        "caddress": "13520 Les Baux-de-Provence"
+      },
+      {
+        "cname": "梵高疗养院",
+        "url": "/sight/provence750/132351.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/006/748/153/0fb7aef80dab4579b0e4a0eb94584ce9_C_220_140.jpg",
+        "caddress": "Place Félix Rey, 13637 Arles Cedex,"
+      },
+      {
+        "cname": "玛卓大教堂",
+        "url": "/sight/marseille120370/132374.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/813/961/801/1a8eb5e79ec442cea6f5a9251c657a24_C_220_140.jpg",
+        "caddress": "1 Avenue Robert Schuman, 13002 Marseille"
+      },
+      {
+        "cname": "格兰特美术馆",
+        "url": "/sight/provence750/22635.html",
+        "s_img": "",
+        "caddress": "Petite rue Saint-Jean, 13100 Aix-en-Provence"
+      },
+      {
+        "cname": "旺多姆楼",
+        "url": "/sight/aixenprovence1441/1414201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/676/973/601/ebd6cfc9fc5040e48d2c7a2e18138ed1_C_220_140.jpg",
+        "caddress": "13 Rue de la Molle, 13100 Aix-en-Provence"
+      },
+      {
+        "cname": "旧港",
+        "url": "/sight/bouchesdurhone392/25116.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/681/436/014/843fce2fbff940f98c51d738bf648ca5_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "古代剧场",
+        "url": "/sight/provence750/87163.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/614/251/670/de36f73cd41c4009b746996832f35007_C_220_140.jpg",
+        "caddress": "Rue du Clo顃re, 13200 Arles"
+      },
+      {
+        "cname": "古救济院",
+        "url": "/sight/marseille120370/132371.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/770/310/422/14b2855c799f4235b2012f61c7be0387_C_220_140.jpg",
+        "caddress": "2 Rue de la Charité, 13002 Marseille,"
+      },
+      {
+        "cname": "埃克兰国家公园",
+        "url": "/sight/provence750/1485212.html",
+        "s_img": "",
+        "caddress": "Provence-Alpes-Côte d'Azur"
+      },
+      {
+        "cname": "奥朗日",
+        "url": "/sight/provence750/1485556.html",
+        "s_img": "",
+        "caddress": "84100 Orange"
+      },
+      {
+        "cname": "吕贝龙地址公园",
+        "url": "/sight/provence750/1485238.html",
+        "s_img": "",
+        "caddress": "59650 Villeneuve-d'Ascq"
+      },
+      {
+        "cname": "陶瓷小镇",
+        "url": "/sight/provence750/1485742.html",
+        "s_img": "",
+        "caddress": "04360 Moustiers-Sainte-Marie"
+      },
+      {
+        "cname": "圣马格丽特岛",
+        "url": "/sight/cannes715/139129.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/525/230/178/f2be18f88ed14caf8048c70e3892c0c1_C_220_140.jpg",
+        "caddress": "圣马格丽特岛"
+      },
+      {
+        "cname": "狭海湾",
+        "url": "/sight/marseille120370/132377.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/899/262/762/323e755eed1143fda35e6e6f6da38f65_C_220_140.jpg",
+        "caddress": "53 Rue Pite-Pite, 13008 Marseille,"
+      },
+      {
+        "cname": "柯布西耶的组合住宅",
+        "url": "/sight/marseille120370/132372.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/975/091/476/eae4ce1ea1a9450da59f9fd50ef9ee25_C_220_140.jpg",
+        "caddress": "280 Boulevard Michelet, 13008 Marseille"
+      },
+      {
+        "cname": "欧舒丹香水工厂",
+        "url": "/sight/provence750/132090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/514/962/737/832ee7f45dff4c87b0216d7ed705ff93_C_220_140.jpg",
+        "caddress": "17 Rue des Francs Bourgeois, 75004 Paris"
+      },
+      {
+        "cname": "列航群岛",
+        "url": "/sight/cannes715/22375.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/590/613/166/bfad20539d6d4d94820cd971dd42287a_C_220_140.jpg",
+        "caddress": "Ile Sainte-Marguerite"
+      },
+      {
+        "cname": "格里尼昂城堡",
+        "url": "/sight/provence750/136687.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/540/134/646/f34d0a0f57b24ce583215e0c8078216d_C_220_140.jpg",
+        "caddress": "Château de Grignan, 26230 Grignan"
+      },
+      {
+        "cname": "马塞纳美术馆",
+        "url": "/sight/nice580/22307.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/565/293/4aba3f38c1a84ee0bf0b0a4014298200_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "格兰特美术馆",
+        "url": "/sight/provence750/1676143.html",
+        "s_img": "",
+        "caddress": "Petite rue Saint-Jean, 13080 Aix-en-Provence"
+      },
+      {
+        "cname": "加尔德修道院",
+        "url": "/sight/marseille120370/132366.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/309/804/497/3fa2f635846349af84dc92ac9317c62b_C_220_140.jpg",
+        "caddress": "Rue Fort du Sanctuaire, 13006 Marseille"
+      },
+      {
+        "cname": "亚耳古代博物馆",
+        "url": "/sight/provence750/22631.html",
+        "s_img": "",
+        "caddress": "Musée de l'Arles et de la Provence antiques, Arles, France"
+      },
+      {
+        "cname": "阿普特主教座堂",
+        "url": "/sight/provence750/1485541.html",
+        "s_img": "",
+        "caddress": "Place de la Cathédrale, Rue des Marchands, 84400 Apt"
+      },
+      {
+        "cname": "造纸坊",
+        "url": "/sight/provence750/1485558.html",
+        "s_img": "",
+        "caddress": "Chemin du Gouffre, 84800 Fontaine-de-Vaucluse"
+      },
+      {
+        "cname": "安德烈城堡",
+        "url": "/sight/avignon1100/132166.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/188/006/974/ae725fa6491148029abc2cf8f784e753_C_220_140.jpg",
+        "caddress": "Montée du Fort Saint-André, 30400, Villeneuve-lès- Avignon"
+      },
+      {
+        "cname": "阿维尼翁中央车站",
+        "url": "/sight/avignon1100/132169.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/138/926/846/0e586ca98d02474eba56e3dd0ed3772d_C_220_140.jpg",
+        "caddress": "5 Avenue Monclar, 84000 Avignon, 法国"
+      },
+      {
+        "cname": "圣苏维尔大教堂",
+        "url": "/sight/provence750/22638.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/712/769/564/1bd6993114284167924dd4fc15e05734_C_220_140.jpg",
+        "caddress": "34 place des Martyrs-de-la-Résistance"
+      },
+      {
+        "cname": "马赛历史博物馆",
+        "url": "/sight/marseille120370/132110.html",
+        "s_img": "",
+        "caddress": "5-9 Rue Henri Barbusse 13001 Marseille, France"
+      },
+      {
+        "cname": "花宫娜香水店",
+        "url": "/sight/provence750/107432.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/764/531/469/b7f062c048164fffae03eadd54299183_C_220_140.jpg",
+        "caddress": "51 Rue des Francs Bourgeois, 75004 Paris"
+      },
+      {
+        "cname": "坎缇尼博物馆",
+        "url": "/sight/marseille120370/132373.html",
+        "s_img": "",
+        "caddress": "19 Rue Grignan, 13006 Marseille"
+      },
+      {
+        "cname": "康斯坦丁公共浴场遗址 ",
+        "url": "/sight/provence750/132162.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/177/348/168/f1b3911f258d47dbb419267b43095461_C_220_140.jpg",
+        "caddress": "rue du Grand Prieuré City Centre"
+      },
+      {
+        "cname": "桑通博物馆",
+        "url": "/sight/marseille120370/132363.html",
+        "s_img": "",
+        "caddress": "47/49 Rue Neuve Sainte-Catherine"
+      },
+      {
+        "cname": "都德的风车",
+        "url": "/sight/provence750/22634.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/261/513/887/7e0537dc69d049039a1043724d962f5a_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "加桑迪博物馆",
+        "url": "/sight/provence750/132096.html",
+        "s_img": "",
+        "caddress": "64 Boulevard Gassendi, 04000 Digne-les-Bains"
+      },
+      {
+        "cname": "比贝米采石场",
+        "url": "/sight/provence750/1485242.html",
+        "s_img": "",
+        "caddress": "3080 Chemin de Bibémus, 13100 Aix-en-Provence"
+      },
+      {
+        "cname": "凡尔登自然公园",
+        "url": "/sight/provence750/1485296.html",
+        "s_img": "",
+        "caddress": "Domaine de Valx, 04360 Moustiers-Sainte-Marie"
+      },
+      {
+        "cname": "圣皮埃尔教堂",
+        "url": "/sight/avignon1100/132237.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/452/799/918/ebe79459de974bacb3d9bf6797f31425_C_220_140.jpg",
+        "caddress": "Place Saint-Pierre, 84000 Avignon"
+      },
+      {
+        "cname": "马赛主教座堂 ",
+        "url": "/sight/marseille120370/132145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/721/271/845/4f1c9a97ee994f66aa86e8c3089a0e5b_C_220_140.jpg",
+        "caddress": "place de la Major 2e"
+      },
+      {
+        "cname": "希望喷泉",
+        "url": "/sight/marseille120370/132368.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/204/863/411/6cf73dd7cf2d4839b885e4e64cefe1f3_C_220_140.jpg",
+        "caddress": "Place de l'Arbre de l'Espérance, Marseille（2600年公园门口）"
+      },
+      {
+        "cname": "时尚博物馆",
+        "url": "/sight/marseille120370/132361.html",
+        "s_img": "",
+        "caddress": "22 Boulevard Longchamp, 13001 Marseille"
+      },
+      {
+        "cname": "阿维尼翁戏剧节",
+        "url": "/sight/provence750/136495.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/456/814/593/fdc8fb789e7a4bbabfea5b015dc027ce_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "Valmer别墅 ",
+        "url": "/sight/provence750/132163.html",
+        "s_img": "",
+        "caddress": "275 corniche Président John F Kennedy 7e"
+      },
+      {
+        "cname": "米拉玛空间",
+        "url": "/sight/cannes715/142373.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/744/936/378/2314a865bdc041d792280f1a77061899_C_220_140.jpg",
+        "caddress": "Angle boulevard de la Croisette - Rue Pasteur, 06400 Cannes"
+      },
+      {
+        "cname": "拉皮代尔博物馆",
+        "url": "/sight/provence750/132171.html",
+        "s_img": "",
+        "caddress": "27 Rue de la République, 84000 Avignon"
+      }
+    ]
+  },
+  {
+    "cname": "戛纳",
+    "url": "http://you.ctrip.com/sightlist/cannes715.html",
+    "places": [
+      {
+        "cname": "戛纳",
+        "url": "/sight/cannes715/139082.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/064/273/931/26bc9cdc33524647b69cd71997699109_C_220_140.jpg",
+        "caddress": "法国戛纳"
+      },
+      {
+        "cname": "小十字大道",
+        "url": "/sight/cannes715/136691.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/621/423/274/1989600185524023a67e109794b84edb_C_220_140.jpg",
+        "caddress": "Boulevard de la Croisette"
+      },
+      {
+        "cname": "戛纳影节宫",
+        "url": "/sight/cannes715/22377.html",
+        "s_img": "http://p.chanyouji.cn/2904/1347370765814p176qo19jj1rpb1mj870qc66ecs.jpg?imageView/1/w/220/h/140",
+        "caddress": "1 Boulevard de la Croisette, 06400 Cannes"
+      },
+      {
+        "cname": "圣保罗·德·旺斯",
+        "url": "/sight/cannes715/1413481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/707/180/817/ff205ffc4caa41549cc7ca2cf322ecbd_C_220_140.jpg",
+        "caddress": "Saint-Paul de Vence,France"
+      },
+      {
+        "cname": "卡斯特尔博物馆",
+        "url": "/sight/cannes715/136819.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/796/505/935/6a6ce6a1d129429194825a230e6109c0_C_220_140.jpg",
+        "caddress": "Le Suquet, Rue de la Castre, 06400 Cannes"
+      },
+      {
+        "cname": "城堡美术馆",
+        "url": "/sight/cannes715/22374.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/837/323/701/b1edae4f423743239ec4e6c81494d514_C_220_140.jpg",
+        "caddress": "Le Suquet, Rue de la Castre, 06400 Cannes"
+      },
+      {
+        "cname": "噶拉斯香水小镇",
+        "url": "/sight/cannes715/1412646.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/108/306/96c351b31768402f99e08a173c58d794_C_220_140.jpg",
+        "caddress": "06130 Grasse,"
+      },
+      {
+        "cname": "加利福尼亚区",
+        "url": "/sight/cannes715/1488393.html",
+        "s_img": "",
+        "caddress": "17 Boulevard Montfleury, 06400 Cannes"
+      },
+      {
+        "cname": "戛纳老港",
+        "url": "/sight/cannes715/1488487.html",
+        "s_img": "",
+        "caddress": "Le vieux port,Jetée Albert Édouard, 06400 Cannes"
+      },
+      {
+        "cname": "戛纳市政厅",
+        "url": "/sight/cannes715/1488414.html",
+        "s_img": "",
+        "caddress": "31 Boulevard de la Ferrage, 06400 Cannes"
+      },
+      {
+        "cname": "节庆会议宫",
+        "url": "/sight/cannes715/1488444.html",
+        "s_img": "",
+        "caddress": "Boulevard de la Croisette, 06400 Cannes"
+      },
+      {
+        "cname": "卡诺大道",
+        "url": "/sight/cannes715/1488448.html",
+        "s_img": "",
+        "caddress": "4 Rue Lord Byron"
+      },
+      {
+        "cname": "勒兰修道院",
+        "url": "/sight/cannes715/1488428.html",
+        "s_img": "",
+        "caddress": "Ile St Honorat, 06400 Cannes"
+      },
+      {
+        "cname": "梅纳迪耶街",
+        "url": "/sight/cannes715/1488430.html",
+        "s_img": "",
+        "caddress": "06400 Cannes"
+      },
+      {
+        "cname": "圣奥诺阿岛",
+        "url": "/sight/cannes715/1488425.html",
+        "s_img": "",
+        "caddress": "Ile St-Honorat"
+      },
+      {
+        "cname": "圣玛格丽特岛",
+        "url": "/sight/cannes715/1488452.html",
+        "s_img": "",
+        "caddress": "Allée du Centre"
+      },
+      {
+        "cname": "苏克区",
+        "url": "/sight/cannes715/1488397.html",
+        "s_img": "",
+        "caddress": "6 Rue Georges Clemenceau"
+      },
+      {
+        "cname": "星光大道",
+        "url": "/sight/cannes715/1488486.html",
+        "s_img": "",
+        "caddress": "blvd de la Croisette Baie de Cannes near Palais des Festivals"
+      },
+      {
+        "cname": "自由林荫道",
+        "url": "/sight/cannes715/1488496.html",
+        "s_img": "",
+        "caddress": "6 Rue Emile Négrin, 06400 Cannes"
+      },
+      {
+        "cname": "圣马格丽特岛",
+        "url": "/sight/cannes715/139129.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/525/230/178/f2be18f88ed14caf8048c70e3892c0c1_C_220_140.jpg",
+        "caddress": "圣马格丽特岛"
+      },
+      {
+        "cname": "列航群岛",
+        "url": "/sight/cannes715/22375.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/590/613/166/bfad20539d6d4d94820cd971dd42287a_C_220_140.jpg",
+        "caddress": "Ile Sainte-Marguerite"
+      },
+      {
+        "cname": "艾斯佩蓝圣母院",
+        "url": "/sight/cannes715/1488433.html",
+        "s_img": "",
+        "caddress": "1 Rue de la Castre, 06400 Cannes"
+      },
+      {
+        "cname": "泡泡宫",
+        "url": "/sight/cannes715/1488426.html",
+        "s_img": "",
+        "caddress": "9 Boulevard de la Croisette, 06400 Cannes"
+      },
+      {
+        "cname": "博纳尔博物馆",
+        "url": "/sight/cannes715/1488440.html",
+        "s_img": "",
+        "caddress": "16 Boulevard Sadi Carnot, 06110 Le Cannet"
+      },
+      {
+        "cname": "电影宫",
+        "url": "/sight/cannes715/1488415.html",
+        "s_img": "",
+        "caddress": "Boulevard de la Croisette, 06400 Cannes"
+      },
+      {
+        "cname": "马尔迈松展览馆",
+        "url": "/sight/cannes715/1488387.html",
+        "s_img": "",
+        "caddress": "Avenue du Château de Malmaison, 92500 Rueil-Malmaison"
+      },
+      {
+        "cname": "米拉玛空间",
+        "url": "/sight/cannes715/142373.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/744/936/378/2314a865bdc041d792280f1a77061899_C_220_140.jpg",
+        "caddress": "Angle boulevard de la Croisette - Rue Pasteur, 06400 Cannes"
+      },
+      {
+        "cname": "Rue du Marché Forville",
+        "url": "/sight/cannes715/142374.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "阿维尼翁",
+    "url": "http://you.ctrip.com/sightlist/avignon1100.html",
+    "places": [
+      {
+        "cname": "石头城",
+        "url": "/sight/avignon1100/132109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/736/111/061/c39c45abef5641baab232aaf74b718a1_C_220_140.jpg",
+        "caddress": "Gordes, France"
+      },
+      {
+        "cname": "阿维尼翁断桥",
+        "url": "/sight/avignon1100/78467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/979/044/072/cbb513a8593a451aa8403f98af269383_C_220_140.jpg",
+        "caddress": "6 Rue Pente Rapide Charles Andezi, 84000, Avignon"
+      },
+      {
+        "cname": "教皇宫殿",
+        "url": "/sight/avignon1100/123049.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/071/931/125/962e30d5151646628f58f67f97f428b9_C_220_140.jpg",
+        "caddress": "Place du Palais, 84000 Avignon"
+      },
+      {
+        "cname": "圣母大教堂",
+        "url": "/sight/avignon1100/132235.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/950/938/684/32017e8924c844b296f2b1f664ace0ac_C_220_140.jpg",
+        "caddress": "Place du Palais, 84000 Avignon"
+      },
+      {
+        "cname": "薰衣草博物馆",
+        "url": "/sight/avignon1100/132151.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/887/877/987/bc6bde3f572143d5acd1dcb5c315a30e_C_220_140.jpg",
+        "caddress": "Route de Gordes, 84220 Cabrières-d'Avignon,"
+      },
+      {
+        "cname": "索村",
+        "url": "/sight/avignon1100/132153.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/977/883/344/ff60220ae07b45139f8f642499be7ef7_C_220_140.jpg",
+        "caddress": "Avenue de la Promenade, 84390, Sault"
+      },
+      {
+        "cname": "小宫博物馆",
+        "url": "/sight/avignon1100/132156.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/922/265/613/f528a39d7f17444f83eaf36b7f8ee88c_C_220_140.jpg",
+        "caddress": "Palais des archevêques, Place du Palais, 84000 Avignon"
+      },
+      {
+        "cname": "钟楼广场",
+        "url": "/sight/avignon1100/132173.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/792/744/506/a505ed9bfafc4281a4013277ca04ffb9_C_220_140.jpg",
+        "caddress": "84000 Avignon"
+      },
+      {
+        "cname": "阿维尼翁新城",
+        "url": "/sight/avignon1100/78447.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/850/451/21ad07788ebb403abacff27eaac6eb06_C_220_140.jpg",
+        "caddress": "Villeneuve-lès-Avignon, Languedoc-Roussillon, 法国"
+      },
+      {
+        "cname": "泉水镇",
+        "url": "/sight/avignon1100/132130.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/027/704/244/2249be131c3445c68807efd1f90febab_C_220_140.jpg",
+        "caddress": "Residence Jean-Garcin"
+      },
+      {
+        "cname": "安格拉东博物馆",
+        "url": "/sight/avignon1100/1475965.html",
+        "s_img": "",
+        "caddress": "5 Rue Laboureur, 84000 Avignon"
+      },
+      {
+        "cname": "教皇宫广场",
+        "url": "/sight/avignon1100/1476642.html",
+        "s_img": "",
+        "caddress": "84000 Avignon"
+      },
+      {
+        "cname": "岩石公园",
+        "url": "/sight/avignon1100/1485559.html",
+        "s_img": "",
+        "caddress": "84000 Avignon"
+      },
+      {
+        "cname": "卡尔维博物馆",
+        "url": "/sight/avignon1100/1475958.html",
+        "s_img": "",
+        "caddress": "65 Rue Joseph Vernet, 84000 Avignon"
+      },
+      {
+        "cname": "兰伯特收藏馆",
+        "url": "/sight/avignon1100/1475983.html",
+        "s_img": "",
+        "caddress": "5 Rue Violette, 84000 Avignon"
+      },
+      {
+        "cname": "路易·武朗博物馆",
+        "url": "/sight/avignon1100/1475956.html",
+        "s_img": "",
+        "caddress": "17 Rue Victor Hugo, 84000 Avignon"
+      },
+      {
+        "cname": "安德烈城堡",
+        "url": "/sight/avignon1100/132166.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/188/006/974/ae725fa6491148029abc2cf8f784e753_C_220_140.jpg",
+        "caddress": "Montée du Fort Saint-André, 30400, Villeneuve-lès- Avignon"
+      },
+      {
+        "cname": "阿维尼翁中央车站",
+        "url": "/sight/avignon1100/132169.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/138/926/846/0e586ca98d02474eba56e3dd0ed3772d_C_220_140.jpg",
+        "caddress": "5 Avenue Monclar, 84000 Avignon, 法国"
+      },
+      {
+        "cname": "阿维尼翁市政厅",
+        "url": "/sight/avignon1100/132220.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/236/188/227/848f5665b88848ab81b376e9ee455fa4_C_220_140.jpg",
+        "caddress": "Hotel de Ville 29, rue de Rivoli 75004 Paris"
+      },
+      {
+        "cname": "阿维尼翁圣母大教堂",
+        "url": "/sight/avignon1100/1485545.html",
+        "s_img": "",
+        "caddress": "Place du Palais, 84000 Avignon"
+      },
+      {
+        "cname": "圣皮埃尔教堂",
+        "url": "/sight/avignon1100/132237.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/452/799/918/ebe79459de974bacb3d9bf6797f31425_C_220_140.jpg",
+        "caddress": "Place Saint-Pierre, 84000 Avignon"
+      },
+      {
+        "cname": "罗歇德多姆公园",
+        "url": "/sight/avignon1100/132231.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/066/120/347/8c9fcb8b31a3464e8895623064b2a04f_C_220_140.jpg",
+        "caddress": "41 Cours Jean Jaurès 84000 Avignon, France"
+      }
+    ]
+  },
+  {
+    "cname": "里昂",
+    "url": "http://you.ctrip.com/sightlist/lyon391.html",
+    "places": [
+      {
+        "cname": "里昂老城",
+        "url": "/sight/lyon391/25160.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/589/530/299/091c6c048bd44d9387b4d7c00a2fd68d_C_220_140.jpg",
+        "caddress": "Vieux Lyon，69005"
+      },
+      {
+        "cname": "白莱果广场",
+        "url": "/sight/lyon391/25159.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/287/507/281/8cf0393fbb804962b37b66af05280302_C_220_140.jpg",
+        "caddress": "Place Bellecour, 69002 Lyon"
+      },
+      {
+        "cname": "富维耶山",
+        "url": "/sight/lyon391/142193.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/880/393/411/a28890bd35f243bba6258010cd531678_C_220_140.jpg",
+        "caddress": "2 Place de Fourvière 69005 Lyon"
+      },
+      {
+        "cname": "富尔维耶圣母教堂",
+        "url": "/sight/lyon391/136681.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/438/526/271/477e8b8c315f4b7b97f2305d44e9b3cd_C_220_140.jpg",
+        "caddress": "8 Place de Fourvière 69005 Lyon"
+      },
+      {
+        "cname": "圣让首席大教堂",
+        "url": "/sight/lyon391/22091.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/555/915/595/b3c4bbf047dc4d18a5d59ca36bff6b1c_C_220_140.jpg",
+        "caddress": "Place Saint-Jean 69005 Lyon"
+      },
+      {
+        "cname": "里昂市政府",
+        "url": "/sight/lyon391/142205.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/729/845/119/c38e9f5c9e184f84b31cdfbc3d0947fc_C_220_140.jpg",
+        "caddress": "16 Rue de la République, 69002 Lyon"
+      },
+      {
+        "cname": "印刷博物馆",
+        "url": "/sight/lyon391/25155.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/883/803/134/bed3afe62c4243c5828d6e92771863e6_C_220_140.jpg",
+        "caddress": "13 Rue de la Poulaillerie 69002 Lyon"
+      },
+      {
+        "cname": "金头公园",
+        "url": "/sight/lyon391/25154.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/211/417/064/2c7843c0e93e485292b2f19ffeb1ca8e_C_220_140.jpg",
+        "caddress": "Rue du General Leclerc, 69006 Lyon"
+      },
+      {
+        "cname": "国际微缩电影艺术博物馆",
+        "url": "/sight/lyon391/142203.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/292/626/603/03e4d6d7c3c0497180b0cf15316c29fc_C_220_140.jpg",
+        "caddress": "60，Rue Saint-Jean，69005 Lyon"
+      },
+      {
+        "cname": "里昂丝绸博物馆/装饰艺术博物馆",
+        "url": "/sight/lyon391/25156.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/163/031/533/5878f20da6bf47a89a832513b84089ad_C_220_140.jpg",
+        "caddress": "34 Rue de la Charité, 69002 Lyon"
+      },
+      {
+        "cname": "卢米埃博物馆",
+        "url": "/sight/lyon391/25161.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/635/132/102/6aba9ce31d5e4e34ba5dc55d2ff9e8f2_C_220_140.jpg",
+        "caddress": "25 Rue du 1er Film 69008 Lyon"
+      },
+      {
+        "cname": "高卢-罗马文化博物馆",
+        "url": "/sight/lyon391/22093.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/692/104/420/e288d11626bb4effa470130e3a495b64_C_220_140.jpg",
+        "caddress": "17 Rue Cleberg, 69005 Lyon"
+      },
+      {
+        "cname": "里昂美术馆",
+        "url": "/sight/lyon391/142206.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/922/532/403/67849a83ebfa4451b636171d3a343d13_C_220_140.jpg",
+        "caddress": "20，Place des Terreaux，69001 Lyon"
+      },
+      {
+        "cname": "里昂古罗马大剧院",
+        "url": "/sight/lyon391/25164.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/777/964/126/bb810f04169c424d8b0dd7f579d7eaa3_C_220_140.jpg",
+        "caddress": "Rue Roger Radisson, 69005 Lyon"
+      },
+      {
+        "cname": "汽车博物馆",
+        "url": "/sight/lyon391/1414416.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/5D/99/Cghzf1SuGbyARL43AAImlZVamD4562_C_220_140.jpg",
+        "caddress": "645 Rue du Musée, 69270 Rochetaillée-sur-Saône"
+      },
+      {
+        "cname": "里昂人壁画",
+        "url": "/sight/lyon391/1413406.html",
+        "s_img": "",
+        "caddress": "里昂一区，索恩河拐弯处，Angle du 49，Quai Saint-Vincent 和du 2 rue de la Martinière的交叉路口。"
+      },
+      {
+        "cname": "丝织工人之墙",
+        "url": "/sight/lyon391/1413384.html",
+        "s_img": "",
+        "caddress": "位于里昂红十字街区(Croix Rousse)，Bd des Canuts和Rue Denfert Rochereau两条路交汇的X路口。"
+      },
+      {
+        "cname": "纺织工人之家",
+        "url": "/sight/lyon391/1413418.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/728/011/192/cd8883b04cb34f7e8380ea9a3a88b984_C_220_140.jpg",
+        "caddress": "10 et 12, rue d'Ivry，69004 Lyon"
+      },
+      {
+        "cname": "里昂城市和木偶博物馆",
+        "url": "/sight/lyon391/142201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/659/934/688/1bdbdb688b934e8aad7d1598100d29f0_C_220_140.jpg",
+        "caddress": "1，place du petit collège，69005，Lyon"
+      },
+      {
+        "cname": "缝纫街",
+        "url": "/sight/lyon391/1414406.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/122/387/646/9eac120e89214717b6224f8d1e9b5113_C_220_140.jpg",
+        "caddress": "Rue Mercière, Lyon"
+      },
+      {
+        "cname": "观景花园",
+        "url": "/sight/lyon391/1414383.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/223/774/971/cdec2b5efa39487e844cbd912fd8f855_C_220_140.jpg",
+        "caddress": "Place de l'Abbé Larue, Lyon"
+      },
+      {
+        "cname": "里昂现代艺术博物馆",
+        "url": "/sight/lyon391/1414411.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/264/637/0077c3a665364092868f8441be0b1f91_C_220_140.jpg",
+        "caddress": "81 Quai Charles de Gaulle, 69006 Lyon"
+      },
+      {
+        "cname": "波拿巴桥",
+        "url": "/sight/lyon391/1414376.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/153/473/475/7f04ec6089354784b5e6ce758427dba4_C_220_140.jpg",
+        "caddress": "Pont Bonaparte, Lyon"
+      },
+      {
+        "cname": "拉法耶特桥",
+        "url": "/sight/lyon391/1414395.html",
+        "s_img": "",
+        "caddress": "Pont Lafayette, Lyon"
+      },
+      {
+        "cname": "圣布吕诺教堂",
+        "url": "/sight/lyon391/1414396.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/954/262/973/7df99461657744c18e8b32ac9d09e348_C_220_140.jpg",
+        "caddress": "9 Impasse des Chartreux, 69001 Lyon"
+      },
+      {
+        "cname": "圣尼济耶教堂",
+        "url": "/sight/lyon391/1414401.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/739/989/757/6fb3bd1b0b9a41c7a8f9636eb0a35e09_C_220_140.jpg",
+        "caddress": "1 Rue Saint-Nizier, 69002 Lyon"
+      },
+      {
+        "cname": "交易所教堂",
+        "url": "/sight/lyon391/1414377.html",
+        "s_img": "",
+        "caddress": "2 Rue de la Loge, 69005 Lyon"
+      },
+      {
+        "cname": "里昂大清真寺",
+        "url": "/sight/lyon391/1414408.html",
+        "s_img": "",
+        "caddress": "146 Boulevard Pinel, 69008 Lyon"
+      },
+      {
+        "cname": "里昂水族馆",
+        "url": "/sight/lyon391/1414431.html",
+        "s_img": "",
+        "caddress": "7 Rue Stéphane Dechant, 69350 La Mulatière"
+      },
+      {
+        "cname": "玫瑰塔",
+        "url": "/sight/lyon391/1414384.html",
+        "s_img": "",
+        "caddress": "22 Rue du Bœuf, 69005 Lyon"
+      },
+      {
+        "cname": "三玛丽街",
+        "url": "/sight/lyon391/1414409.html",
+        "s_img": "",
+        "caddress": "Rue des 3 Maries, 69005 Lyon"
+      },
+      {
+        "cname": "圣埃克絮佩里雕像",
+        "url": "/sight/lyon391/1414391.html",
+        "s_img": "",
+        "caddress": "Statue de Saint-Exupéry, 69002 Lyon"
+      },
+      {
+        "cname": "沃土广场",
+        "url": "/sight/lyon391/1407220.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/634/742/c14761f093934e828325933a4810860c_C_220_140.jpg",
+        "caddress": "Place des Terreaux，69001 Lyon"
+      },
+      {
+        "cname": "古罗马剧场",
+        "url": "/sight/lyon391/1414371.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/213/069/688/ca24bb84b9a648589e69ae9a7d5df0e4_C_220_140.jpg",
+        "caddress": "6 Rue de l'Antiquaille, 69005 Lyon"
+      },
+      {
+        "cname": "牛肉街",
+        "url": "/sight/lyon391/1414385.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/064/748/420/820c634c92974647a55b09c785b95b20_C_220_140.jpg",
+        "caddress": "Rue du Bœuf, Lyon"
+      },
+      {
+        "cname": "圣埃克絮佩里街",
+        "url": "/sight/lyon391/1414407.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/009/406/6e62be09815640e19f5e82409a985383_C_220_140.jpg",
+        "caddress": "Rue Antoine de Saint Exupéry, Lyon"
+      },
+      {
+        "cname": "策肋定剧院",
+        "url": "/sight/lyon391/1414436.html",
+        "s_img": "",
+        "caddress": "4 Rue Charles Dullin, 69002 Lyon"
+      },
+      {
+        "cname": "Tony Garnier博物馆",
+        "url": "/sight/lyon391/1413424.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/878/490/650/f5cee016a2eb43b58a09f5a821d9c1cb_C_220_140.jpg",
+        "caddress": "4 rue des Serpollières 69008 Lyon"
+      }
+    ]
+  },
+  {
+    "cname": "马赛",
+    "url": "http://you.ctrip.com/sightlist/marseille120370.html",
+    "places": [
+      {
+        "cname": "凡尔登大峡谷和圣十字湖",
+        "url": "/sight/aixenprovence1441/132098.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/412/134/aa8afbbd400c479fb4c79bcff0444d3a_C_220_140.jpg",
+        "caddress": "Les Salles-sur-Verdon"
+      },
+      {
+        "cname": "马赛旧港",
+        "url": "/sight/marseille120370/132112.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/080/155/760/9f7fa78f3f634681aaa393f5a62fca31_C_220_140.jpg",
+        "caddress": "Le Vieux Port, Rue Pytheas, Marseille"
+      },
+      {
+        "cname": "马赛老港",
+        "url": "/sight/marseille120370/146913.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/452/795/418/6ba8c183a7fc4baca96c2d5b109f9196_C_220_140.jpg",
+        "caddress": "Vieux Port marseille"
+      },
+      {
+        "cname": "隆尚宫",
+        "url": "/sight/marseille120370/132360.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/423/466/fd77afd89247475bac09d64c39a2c4c7_C_220_140.jpg",
+        "caddress": "22 Boulevard Longchamp, 13001 Marseille"
+      },
+      {
+        "cname": "圣母加德大教堂",
+        "url": "/sight/marseille120370/13098.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/652/115/a4f878c8bcc347589d7faae2240a024d_C_220_140.jpg",
+        "caddress": "Rue Fort du Sanctuaire, 13281 Marseille"
+      },
+      {
+        "cname": "弗里乌群岛",
+        "url": "/sight/marseille120370/136662.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/191/096/48518cfda92e4fdd97fadeaba82bb249_C_220_140.jpg",
+        "caddress": "Îles du Frioul, 13007 Marseille"
+      },
+      {
+        "cname": "守护圣母教堂",
+        "url": "/sight/marseille120370/132689.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/107/135/231/a2bb41b6227946e1a12d6d1f8c6da962_C_220_140.jpg",
+        "caddress": "Rue Fort du Sanctuaire, 13006 Marseille, 法国"
+      },
+      {
+        "cname": "伊夫岛",
+        "url": "/sight/marseille120370/132370.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/998/134/626/cd5bfe2421dc455f9c5f3327f6947615_C_220_140.jpg",
+        "caddress": "Chateaud'IfIle du Frioul"
+      },
+      {
+        "cname": "玛卓大教堂",
+        "url": "/sight/marseille120370/132374.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/813/961/801/1a8eb5e79ec442cea6f5a9251c657a24_C_220_140.jpg",
+        "caddress": "1 Avenue Robert Schuman, 13002 Marseille"
+      },
+      {
+        "cname": "旺多姆楼",
+        "url": "/sight/aixenprovence1441/1414201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/676/973/601/ebd6cfc9fc5040e48d2c7a2e18138ed1_C_220_140.jpg",
+        "caddress": "13 Rue de la Molle, 13100 Aix-en-Provence"
+      },
+      {
+        "cname": "古救济院",
+        "url": "/sight/marseille120370/132371.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/770/310/422/14b2855c799f4235b2012f61c7be0387_C_220_140.jpg",
+        "caddress": "2 Rue de la Charité, 13002 Marseille,"
+      },
+      {
+        "cname": "波梅格岛",
+        "url": "/sight/marseille120370/1477891.html",
+        "s_img": "",
+        "caddress": "13007 Marseille"
+      },
+      {
+        "cname": "博雷利公园",
+        "url": "/sight/marseille120370/1477931.html",
+        "s_img": "",
+        "caddress": "Avenue du Prado, 13008 Marseille"
+      },
+      {
+        "cname": "蒂布朗岛",
+        "url": "/sight/marseille120370/1477883.html",
+        "s_img": "",
+        "caddress": "303 Boulevard Alexandre Delabre"
+      },
+      {
+        "cname": "加纳比耶尔大街",
+        "url": "/sight/marseille120370/1477933.html",
+        "s_img": "",
+        "caddress": "13001 Marseille"
+      },
+      {
+        "cname": "拉托诺岛",
+        "url": "/sight/marseille120370/1477888.html",
+        "s_img": "",
+        "caddress": "Chemin de Saint-Estève"
+      },
+      {
+        "cname": "圣罗兰教堂",
+        "url": "/sight/marseille120370/1477916.html",
+        "s_img": "",
+        "caddress": "68 Boulevard de Magenta, 75010 Paris"
+      },
+      {
+        "cname": "狭海湾",
+        "url": "/sight/marseille120370/132377.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/899/262/762/323e755eed1143fda35e6e6f6da38f65_C_220_140.jpg",
+        "caddress": "53 Rue Pite-Pite, 13008 Marseille,"
+      },
+      {
+        "cname": "柯布西耶的组合住宅",
+        "url": "/sight/marseille120370/132372.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/975/091/476/eae4ce1ea1a9450da59f9fd50ef9ee25_C_220_140.jpg",
+        "caddress": "280 Boulevard Michelet, 13008 Marseille"
+      },
+      {
+        "cname": "加尔德修道院",
+        "url": "/sight/marseille120370/132366.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/309/804/497/3fa2f635846349af84dc92ac9317c62b_C_220_140.jpg",
+        "caddress": "Rue Fort du Sanctuaire, 13006 Marseille"
+      },
+      {
+        "cname": "马赛历史博物馆",
+        "url": "/sight/marseille120370/132110.html",
+        "s_img": "",
+        "caddress": "5-9 Rue Henri Barbusse 13001 Marseille, France"
+      },
+      {
+        "cname": "坎缇尼博物馆",
+        "url": "/sight/marseille120370/132373.html",
+        "s_img": "",
+        "caddress": "19 Rue Grignan, 13006 Marseille"
+      },
+      {
+        "cname": "桑通博物馆",
+        "url": "/sight/marseille120370/132363.html",
+        "s_img": "",
+        "caddress": "47/49 Rue Neuve Sainte-Catherine"
+      },
+      {
+        "cname": "旧石器时代博物馆",
+        "url": "/sight/marseille120370/1477899.html",
+        "s_img": "",
+        "caddress": "3 Place Victor Hugo, 13003 Marseille"
+      },
+      {
+        "cname": "马赛主教座堂 ",
+        "url": "/sight/marseille120370/132145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/721/271/845/4f1c9a97ee994f66aa86e8c3089a0e5b_C_220_140.jpg",
+        "caddress": "place de la Major 2e"
+      },
+      {
+        "cname": "希望喷泉",
+        "url": "/sight/marseille120370/132368.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/204/863/411/6cf73dd7cf2d4839b885e4e64cefe1f3_C_220_140.jpg",
+        "caddress": "Place de l'Arbre de l'Espérance, Marseille（2600年公园门口）"
+      },
+      {
+        "cname": "时尚博物馆",
+        "url": "/sight/marseille120370/132361.html",
+        "s_img": "",
+        "caddress": "22 Boulevard Longchamp, 13001 Marseille"
+      }
+    ]
+  },
+  {
+    "cname": "第戎",
+    "url": "http://you.ctrip.com/sightlist/dijon1053.html",
+    "places": [
+      {
+        "cname": "第戎",
+        "url": "/sight/dijon1053/26188.html",
+        "s_img": "http://p.chanyouji.cn/67322/1378198361338p183hg5s1r1ou1o0mjqsrkr4ke28.jpg?imageView/1/w/220/h/140",
+        "caddress": "法国第戎"
+      },
+      {
+        "cname": "歌剧院广场 ",
+        "url": "/sight/dijon1053/63543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/154/041/242/d3d6fb79ff3c4788a939afa07032e5ff_C_220_140.jpg",
+        "caddress": "Rue Vaillant, 21000 Dijon"
+      },
+      {
+        "cname": "吉约姆大门 ",
+        "url": "/sight/dijon1053/63534.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/312/086/337/64a233d0567e49b89c2bd0149b6811f7_C_220_140.jpg",
+        "caddress": "Pl. Darcy, Dijon"
+      },
+      {
+        "cname": "第戎圣母院 ",
+        "url": "/sight/dijon1053/63539.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/241/572/892/70ee38b2d91a48be8cba0379c85c98b0_C_220_140.jpg",
+        "caddress": "Place Notre Dame, 21000 Dijon"
+      },
+      {
+        "cname": "自由广场  ",
+        "url": "/sight/dijon1053/63548.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/F0/C6/Cghzf1UBBDeAcjpoABCXe1eIIKw644_C_220_140.jpg",
+        "caddress": "Place de la Libération, 21000 Dijon"
+      },
+      {
+        "cname": "法院  ",
+        "url": "/sight/dijon1053/63549.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/635/095/720/4fc8a256a5744e34b6bf2602918cfb92_C_220_140.jpg",
+        "caddress": "Palais de justice, 21000 Dijon"
+      },
+      {
+        "cname": "图尔尼",
+        "url": "/sight/dijon1053/72639.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/630/643/758/fdddbbec9ebd40419f367c2bf25ec8ab_C_220_140.jpg",
+        "caddress": "Tourny, France"
+      },
+      {
+        "cname": "格朗吉尔建筑和广场",
+        "url": "/sight/dijon1053/63535.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/854/338/91628aeb32d240aea1c64e1e74d8f68e_C_220_140.jpg",
+        "caddress": "Place Grangier, 21000 Dijon"
+      },
+      {
+        "cname": "圣贝尼涅大教堂",
+        "url": "/sight/dijon1053/63763.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/142/497/d7252c3d04ac4211b7d848aa1c2584ca_C_220_140.jpg",
+        "caddress": "Place Saint Bénigne, 21000 Dijon"
+      },
+      {
+        "cname": "勃艮第公爵和政府宫殿 ",
+        "url": "/sight/dijon1053/63547.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/446/788/846/994866b62c2a4b959428faa5cafba897_C_220_140.jpg",
+        "caddress": "Cour de Bar du Palais des Etats, Dijon, France"
+      },
+      {
+        "cname": "博讷",
+        "url": "/sight/dijon1053/72638.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/965/138/267/1c2c29ba3a7344e79366414aaf14be84_C_220_140.jpg",
+        "caddress": "Beaune, France"
+      },
+      {
+        "cname": "菲利普·勒·邦塔楼  ",
+        "url": "/sight/dijon1053/63546.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/956/773/129/5099b2e3719244c9bee414b67aca0650_C_220_140.jpg",
+        "caddress": "Place des Ducs de Bourgogne, 21000 Dijon"
+      },
+      {
+        "cname": "第戎美术馆",
+        "url": "/sight/dijon1053/1414198.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/270/634/993/8f1c3a2aea1b4925bb7dbf116f361ef6_C_220_140.jpg",
+        "caddress": "Palais des ducs et des Etats de Bourgogne, 1 Rue Rameau, 21000 Dijon"
+      },
+      {
+        "cname": "猫头鹰街",
+        "url": "/sight/dijon1053/63540.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/131/702/0a5f95337b794e8385f9153453626103_C_220_140.jpg",
+        "caddress": "Rue de la Chouette, 21000 Dijon"
+      },
+      {
+        "cname": "弗尔日大街 ",
+        "url": "/sight/dijon1053/63538.html",
+        "s_img": "",
+        "caddress": "Rue des Forges, 21000 Dijon"
+      },
+      {
+        "cname": "钟楼旅馆",
+        "url": "/sight/dijon1053/63533.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/269/102/564/17942de8fcd34921a2cb0cab30139283_C_220_140.jpg",
+        "caddress": "14 Place Darcy, 21000 Dijon"
+      },
+      {
+        "cname": "佛朗索瓦鲁德广场",
+        "url": "/sight/dijon1053/63537.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/111/450/677/350acb4e77f046ee9c98ef6044ce561d_C_220_140.jpg",
+        "caddress": "21000 Dijon"
+      },
+      {
+        "cname": "巴尔塔楼",
+        "url": "/sight/dijon1053/63545.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/106/270/870/9091b0f9b02546deb3b0e837d217e005_C_220_140.jpg",
+        "caddress": "1 Rue Rameau, 21000 Dijon,"
+      },
+      {
+        "cname": "私人府邸  ",
+        "url": "/sight/dijon1053/63550.html",
+        "s_img": "",
+        "caddress": "rue Vauban, dijon"
+      },
+      {
+        "cname": "达尔西公园",
+        "url": "/sight/dijon1053/63531.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/457/549/253/6d8da96a46304bbda5c50dfcc332d735_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "葡萄酒博物馆",
+        "url": "/sight/dijon1053/75889.html",
+        "s_img": "",
+        "caddress": "1 Rue Rameau, 21000 Dijon"
+      },
+      {
+        "cname": "米列埃尔之家",
+        "url": "/sight/dijon1053/63541.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/481/547/534/9743807693234c129a5ba1c7392d2637_C_220_140.jpg",
+        "caddress": "Rue de la Chouette, 21000 Dijon"
+      },
+      {
+        "cname": "圣·米歇尔教堂",
+        "url": "/sight/dijon1053/63773.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/649/320/483/0a4164e859ff4e67af88cfced22e7c47_C_220_140.jpg",
+        "caddress": "Place Saint-Michel, 21000 Dijon"
+      },
+      {
+        "cname": "博舒埃广场  ",
+        "url": "/sight/dijon1053/63551.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/155/319/395/5f10ad331146478b8c99a596cfffe58b_C_220_140.jpg",
+        "caddress": "35 Place Bossuet, 21000 Dijon"
+      },
+      {
+        "cname": "圣·菲利贝尔  ",
+        "url": "/sight/dijon1053/63552.html",
+        "s_img": "",
+        "caddress": "Rue Michelet, 21000 Dijon"
+      },
+      {
+        "cname": "沃盖的府邸  ",
+        "url": "/sight/dijon1053/63542.html",
+        "s_img": "",
+        "caddress": "8 Rue de la Chouette, 21000 Dijon"
+      }
+    ]
+  },
+  {
+    "cname": "卢瓦尔河谷",
+    "url": "http://you.ctrip.com/sightlist/loirevalley12786.html",
+    "places": [
+      {
+        "cname": "香波堡",
+        "url": "/sight/loirevalley12786/22593.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/933/712/799/2993511ed5eb4477a28f10c1b5c78004_C_220_140.jpg",
+        "caddress": "Chateau 41250 Chambord, France"
+      },
+      {
+        "cname": "舍农索城堡",
+        "url": "/sight/loirevalley12786/78438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/049/062/292/7c9c1d39409646139284d43bccd4b4ab_C_220_140.jpg",
+        "caddress": "Chateau de Chenonceau, 37150 Chenonceaux"
+      },
+      {
+        "cname": "昂布瓦兹",
+        "url": "/sight/amboise51480/107544.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/348/341/808/51ef44213bf04a3ab1f39a9a5ecc48ec_C_220_140.jpg",
+        "caddress": "52 Place Michel Debré 37400 Amboise, 法国"
+      },
+      {
+        "cname": "昂布瓦兹皇家城堡",
+        "url": "/sight/amboise51480/1414246.html",
+        "s_img": "http://m.chanyouji.cn/135725/1403622636706p18r76r17me2d1t6q14tccui2dve.jpg?imageView/1/w/220/h/140",
+        "caddress": "37400 Amboise"
+      },
+      {
+        "cname": "布洛瓦皇家城堡",
+        "url": "/sight/blois51512/1416041.html",
+        "s_img": "http://m.chanyouji.cn/tips/buluwachengbao.jpg?imageView/1/w/220/h/140",
+        "caddress": "6 Place du Château 41000 Blois"
+      },
+      {
+        "cname": "舍维尼城堡",
+        "url": "/sight/loirevalley12786/78445.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/836/508/188/32d20eb8115b4320ab892a05b07e6ecb_C_220_140.jpg",
+        "caddress": "41700 Cheverny, 法国"
+      },
+      {
+        "cname": "克洛吕斯城堡",
+        "url": "/sight/amboise51480/136828.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/002/093/609/0e60121a90b9456b9768f514c240fc0f_C_220_140.jpg",
+        "caddress": "2 Rue du Clos Lucé, 37400 Amboise, 法国"
+      },
+      {
+        "cname": "卢瓦河谷城堡区",
+        "url": "/sight/tours729/139109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/174/742/839/a343e30e4b6c47cfbd134cac173f3c38_C_220_140.jpg",
+        "caddress": "42120 Commelle-Vernay"
+      },
+      {
+        "cname": "雪维尼城堡",
+        "url": "/sight/loirevalley12786/1414206.html",
+        "s_img": "http://m.chanyouji.cn/131607/1402545849901p18q72n8vc1itm17qvonm1auj1t1b2g.jpg?imageView/1/w/220/h/140",
+        "caddress": "Château de Cheverny, 41700 Cheverny"
+      },
+      {
+        "cname": "沙特尔主教座堂",
+        "url": "/sight/loirevalley12786/1414940.html",
+        "s_img": "",
+        "caddress": "16 Cloître Notre Dame, 28000 Chartres"
+      }
+    ]
+  },
+  {
+    "cname": "隆河口省",
+    "url": "http://you.ctrip.com/sightlist/bouchesdurhone392.html",
+    "places": [
+      {
+        "cname": "伊夫堡",
+        "url": "/sight/bouchesdurhone392/13097.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/713/964/980/5e2fb29208444f4b9012583cff493c71_C_220_140.jpg",
+        "caddress": "法国伊夫堡"
+      },
+      {
+        "cname": "马赛美术馆",
+        "url": "/sight/bouchesdurhone392/13100.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/755/428/0c18f914a85b4fefa469197d35d9797e_C_220_140.jpg",
+        "caddress": "7 Rue Édouard Stephan, Marseille, France"
+      },
+      {
+        "cname": "圣维克多修道院",
+        "url": "/sight/bouchesdurhone392/25115.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/457/100/900/078d72e6ade64bbe9f662d312ecd87f4_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "旧港",
+        "url": "/sight/bouchesdurhone392/25116.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/681/436/014/843fce2fbff940f98c51d738bf648ca5_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "波尔多",
+    "url": "http://you.ctrip.com/sightlist/bordeaux716.html",
+    "places": [
+      {
+        "cname": "坎康斯广场",
+        "url": "/sight/bordeaux716/22492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/063/399/305/a3748062141c4644889e82157d8b293d_C_220_140.jpg",
+        "caddress": "2 Place des Quinconces, 33000 Bordeaux"
+      },
+      {
+        "cname": "波尔多大剧院",
+        "url": "/sight/bordeaux716/22485.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/617/527/820/c3d4b2301bde4df49bfb255597a16a76_C_220_140.jpg",
+        "caddress": "Place de la Comédie, 33000 Bordeaux"
+      },
+      {
+        "cname": "市立美术馆",
+        "url": "/sight/bordeaux716/22523.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/362/016/106/f6d6ce7236ea4a6bb6a678e539651ca7_C_220_140.jpg",
+        "caddress": "20 Cours d'Albret, 33000 Bordeaux"
+      },
+      {
+        "cname": "圣安德列大教堂",
+        "url": "/sight/bordeaux716/22484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/366/212/938/bc4a5ca0428b4a78ba1356c11d4661ff_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "圣米歇尔教堂",
+        "url": "/sight/bordeaux716/22524.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/911/275/438/cc06d529d7e14428823c6202101954f5_C_220_140.jpg",
+        "caddress": "Place Meynard, 33800 Bordeaux"
+      },
+      {
+        "cname": "考古学博物馆",
+        "url": "/sight/bordeaux716/22522.html",
+        "s_img": "",
+        "caddress": "20 Cours Pasteur, 33000 Bordeaux"
+      }
+    ]
+  },
+  {
+    "cname": "艾克斯",
+    "url": "http://you.ctrip.com/sightlist/aixenprovence1441.html",
+    "places": [
+      {
+        "cname": "凡尔登大峡谷和圣十字湖",
+        "url": "/sight/aixenprovence1441/132098.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/412/134/aa8afbbd400c479fb4c79bcff0444d3a_C_220_140.jpg",
+        "caddress": "Les Salles-sur-Verdon"
+      },
+      {
+        "cname": "塞尚画室",
+        "url": "/sight/aixenprovence1441/22637.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/820/917/133/9121fd23ae5342e4abdcb08db3d92bb7_C_220_140.jpg",
+        "caddress": "9 Avenue Paul Cézanne, 13100 Aix-en-Provence"
+      },
+      {
+        "cname": "旺多姆楼",
+        "url": "/sight/aixenprovence1441/1414201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/676/973/601/ebd6cfc9fc5040e48d2c7a2e18138ed1_C_220_140.jpg",
+        "caddress": "13 Rue de la Molle, 13100 Aix-en-Provence"
+      },
+      {
+        "cname": "圣维克多山",
+        "url": "/sight/aixenprovence1441/1485531.html",
+        "s_img": "",
+        "caddress": "13100 Saint-Antonin-sur-Bayon"
+      },
+      {
+        "cname": "圣索沃尔大教堂",
+        "url": "/sight/aixenprovence1441/1485555.html",
+        "s_img": "",
+        "caddress": "34 Place des Martyrs-de-la-Résistance, 13100 Aix-en-Provence"
+      }
+    ]
+  },
+  {
+    "cname": "图尔",
+    "url": "http://you.ctrip.com/sightlist/tours729.html",
+    "places": [
+      {
+        "cname": "卢瓦河谷城堡区",
+        "url": "/sight/tours729/139109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/174/742/839/a343e30e4b6c47cfbd134cac173f3c38_C_220_140.jpg",
+        "caddress": "42120 Commelle-Vernay"
+      }
+    ]
+  },
+  {
+    "cname": "戈尔德",
+    "url": "http://you.ctrip.com/sightlist/gordes120371.html",
+    "places": [
+      {
+        "cname": "塞南克修道院",
+        "url": "/sight/gordes120371/132118.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/654/764/270/89a10363769440969ee24dcd2782a919_C_220_140.jpg",
+        "caddress": "Monastère cistercien, 84220 Gordes, 法国"
+      }
+    ]
+  },
+  {
+    "cname": "瓦朗索勒",
+    "url": "http://you.ctrip.com/sightlist/valensole120538.html",
+    "places": [
+      {
+        "cname": "瓦伦索勒",
+        "url": "/sight/valensole120538/132129.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/645/591/171/e7981b9c9e0c4e588a0a6b8357ca3c22_C_220_140.jpg",
+        "caddress": "Place des héros-de-la-résistance, 04210, Valensole"
+      }
+    ]
+  },
+  {
+    "cname": "夏慕尼",
+    "url": "http://you.ctrip.com/sightlist/chamonix143892.html",
+    "places": [
+      {
+        "cname": "南针峰",
+        "url": "/sight/chamonix143892/71250.html",
+        "s_img": "",
+        "caddress": "Aiguille du Midi, Chamonix-Mont-Blanc"
+      },
+      {
+        "cname": "勃朗峰",
+        "url": "/sight/chamonix143892/1412671.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/326/279/699/4fe69fd2a40449ecad404d69bcf33054_C_220_140.jpg",
+        "caddress": "勃朗峰法国沙莫尼蒙勃朗"
+      },
+      {
+        "cname": "冰海",
+        "url": "/sight/chamonix143892/71252.html",
+        "s_img": "",
+        "caddress": "Mer de Glace, Chamonix-Mont-Blanc"
+      },
+      {
+        "cname": "布拉旺峰",
+        "url": "/sight/chamonix143892/71251.html",
+        "s_img": "",
+        "caddress": "Le Brévent, Chamonix-Mont-Blanc"
+      }
+    ]
+  },
+  {
+    "cname": "尼姆",
+    "url": "http://you.ctrip.com/sightlist/niems1391.html",
+    "places": [
+      {
+        "cname": "加尔桥",
+        "url": "/sight/niems1391/132315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/991/116/688/0f2370e04dad45458aed4709e622c8c2_C_220_140.jpg",
+        "caddress": "Route du Pont du Gard, 30210 Vers-Pont-du-Gard,"
+      },
+      {
+        "cname": "尼姆竞技场",
+        "url": "/sight/niems1391/1414916.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/646/410/184/96de0265d5e7407cb22b2a5ef8050bee_C_220_140.jpg",
+        "caddress": "Arena of Nîmes, Boulevard des Arènes, 30000 Nîmes"
+      },
+      {
+        "cname": "卡利神殿",
+        "url": "/sight/niems1391/1414927.html",
+        "s_img": "",
+        "caddress": "Maison Carrée, Avenue du Général Perrier, 30000 Nîmes"
+      }
+    ]
+  },
+  {
+    "cname": "圣马洛",
+    "url": "http://you.ctrip.com/sightlist/saintmalo1476.html",
+    "places": [
+      {
+        "cname": "奥马哈海滩",
+        "url": "/sight/saintmalo1476/139073.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/937/177/972/2143571a2e194484a2832a3d18423f39_C_220_140.jpg",
+        "caddress": "Ancienne RN13, 14710 Formigny"
+      },
+      {
+        "cname": "美军公墓纪念馆",
+        "url": "/sight/saintmalo1476/139115.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/194/235/6efe5c6dcfdc475b8bf8ee8bee16cffa_C_220_140.jpg",
+        "caddress": "Omaha Beach, 14710 Colleville-sur-Mer"
+      },
+      {
+        "cname": "大水族馆",
+        "url": "/sight/saintmalo1476/79515.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/804/295/653/3cebb79c7d8f42ac80871f786347e19b_C_220_140.jpg",
+        "caddress": "Rue du Général Patton, 35402 Saint-Malo"
+      },
+      {
+        "cname": "樊尚大教堂",
+        "url": "/sight/saintmalo1476/79516.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/300/452/351/8be7b8d1758a498f93e1dee8a3772e22_C_220_140.jpg",
+        "caddress": "12 Rue Saint-Benoist, 35400 Saint-Malo"
+      },
+      {
+        "cname": "圣马洛历史博物馆",
+        "url": "/sight/saintmalo1476/79519.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/848/199/783/f58aada7a2514347baab8fad7f86b32c_C_220_140.jpg",
+        "caddress": "L'hôtel de Ville, 35400 Saint-Malo"
+      },
+      {
+        "cname": "圣马洛城堡",
+        "url": "/sight/saintmalo1476/79517.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/986/777/913/b89e34d233eb45349fcc4c7df4905765_C_220_140.jpg",
+        "caddress": "8 Rue d'Estrées, 35400 Saint-Malo"
+      }
+    ]
+  },
+  {
+    "cname": "吉维尼",
+    "url": "http://you.ctrip.com/sightlist/giverny59019.html",
+    "places": [
+      {
+        "cname": "莫奈花园",
+        "url": "/sight/giverny59019/1408095.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/079/146/217/69f856aa5585467e9395eb33db8f1010_C_220_140.jpg",
+        "caddress": "84 Rue Claude Monet, 27620 Giverny, 法国"
+      },
+      {
+        "cname": "奥维尔城堡",
+        "url": "/sight/giverny59019/1679133.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/6E/90/CghzflUK4NOAP59DAACuCNVh-C4347_C_220_140.jpg",
+        "caddress": "Rue Léry, 95430 Auvers-sur-Oise"
+      },
+      {
+        "cname": "印象主义绘画美术馆",
+        "url": "/sight/giverny59019/1676011.html",
+        "s_img": "",
+        "caddress": "99 Rue Claude Monet, 27620 Giverny, France"
+      }
+    ]
+  },
+  {
+    "cname": "里尔",
+    "url": "http://you.ctrip.com/sightlist/lille808.html",
+    "places": []
+  },
+  {
+    "cname": "图卢兹",
+    "url": "http://you.ctrip.com/sightlist/toulouse1454.html",
+    "places": [
+      {
+        "cname": "空中客车总部",
+        "url": "/sight/toulouse1454/77567.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/746/638/140/c8babb1215274fc0b3ca640c08a85794_C_220_140.jpg",
+        "caddress": "Rond Point de la Crabe, 31300 Toulouse"
+      },
+      {
+        "cname": "南运河",
+        "url": "/sight/toulouse1454/77565.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/730/427/665/880e03c73bdb41a69c2b24ff570dc4ca_C_220_140.jpg",
+        "caddress": "Canal du Midi"
+      },
+      {
+        "cname": "雅各宾修道院",
+        "url": "/sight/toulouse1454/77568.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/275/285/074/fa36612ecec84937bbfff79cc2f2c503_C_220_140.jpg",
+        "caddress": "Parvis des Jacobins, 31000 Toulouse"
+      }
+    ]
+  },
+  {
+    "cname": "鲁昂",
+    "url": "http://you.ctrip.com/sightlist/rouen1975.html",
+    "places": [
+      {
+        "cname": "鲁昂美术馆",
+        "url": "/sight/rouen1975/1410653.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/124/269/770/42df2ea4ca1c471c8fc51753c748aa5c_C_220_140.jpg",
+        "caddress": "Esplanade Marcel Duchamp, 76000 Rouen"
+      },
+      {
+        "cname": "鲁昂圣女贞德教堂",
+        "url": "/sight/rouen1975/1675953.html",
+        "s_img": "",
+        "caddress": "La Ferme Jeanne D'Arc, Place du Vieux Marché, 76000 Rouen"
+      }
+    ]
+  },
+  {
+    "cname": "Burgundy",
+    "url": "http://you.ctrip.com/sightlist/burgundy20749.html",
+    "places": [
+      {
+        "cname": "第戎",
+        "url": "/sight/dijon1053/26188.html",
+        "s_img": "http://p.chanyouji.cn/67322/1378198361338p183hg5s1r1ou1o0mjqsrkr4ke28.jpg?imageView/1/w/220/h/140",
+        "caddress": "法国第戎"
+      },
+      {
+        "cname": "歌剧院广场 ",
+        "url": "/sight/dijon1053/63543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/154/041/242/d3d6fb79ff3c4788a939afa07032e5ff_C_220_140.jpg",
+        "caddress": "Rue Vaillant, 21000 Dijon"
+      },
+      {
+        "cname": "吉约姆大门 ",
+        "url": "/sight/dijon1053/63534.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/312/086/337/64a233d0567e49b89c2bd0149b6811f7_C_220_140.jpg",
+        "caddress": "Pl. Darcy, Dijon"
+      },
+      {
+        "cname": "第戎圣母院 ",
+        "url": "/sight/dijon1053/63539.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/241/572/892/70ee38b2d91a48be8cba0379c85c98b0_C_220_140.jpg",
+        "caddress": "Place Notre Dame, 21000 Dijon"
+      },
+      {
+        "cname": "自由广场  ",
+        "url": "/sight/dijon1053/63548.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/F0/C6/Cghzf1UBBDeAcjpoABCXe1eIIKw644_C_220_140.jpg",
+        "caddress": "Place de la Libération, 21000 Dijon"
+      },
+      {
+        "cname": "博讷济贫院主宫医院",
+        "url": "/sight/burgundy20749/75891.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/753/572/546/c2b6e3233c5141f8b7ac35ccfa6101f1_C_220_140.jpg",
+        "caddress": "Rue de l'Hôtel Dieu, 21200 Beaune"
+      },
+      {
+        "cname": "法院  ",
+        "url": "/sight/dijon1053/63549.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/635/095/720/4fc8a256a5744e34b6bf2602918cfb92_C_220_140.jpg",
+        "caddress": "Palais de justice, 21000 Dijon"
+      },
+      {
+        "cname": "图尔尼",
+        "url": "/sight/dijon1053/72639.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/630/643/758/fdddbbec9ebd40419f367c2bf25ec8ab_C_220_140.jpg",
+        "caddress": "Tourny, France"
+      },
+      {
+        "cname": "格朗吉尔建筑和广场",
+        "url": "/sight/dijon1053/63535.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/854/338/91628aeb32d240aea1c64e1e74d8f68e_C_220_140.jpg",
+        "caddress": "Place Grangier, 21000 Dijon"
+      },
+      {
+        "cname": "圣贝尼涅大教堂",
+        "url": "/sight/dijon1053/63763.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/142/497/d7252c3d04ac4211b7d848aa1c2584ca_C_220_140.jpg",
+        "caddress": "Place Saint Bénigne, 21000 Dijon"
+      },
+      {
+        "cname": "勃艮第公爵和政府宫殿 ",
+        "url": "/sight/dijon1053/63547.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/446/788/846/994866b62c2a4b959428faa5cafba897_C_220_140.jpg",
+        "caddress": "Cour de Bar du Palais des Etats, Dijon, France"
+      },
+      {
+        "cname": "博讷",
+        "url": "/sight/dijon1053/72638.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/965/138/267/1c2c29ba3a7344e79366414aaf14be84_C_220_140.jpg",
+        "caddress": "Beaune, France"
+      },
+      {
+        "cname": "菲利普·勒·邦塔楼  ",
+        "url": "/sight/dijon1053/63546.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/956/773/129/5099b2e3719244c9bee414b67aca0650_C_220_140.jpg",
+        "caddress": "Place des Ducs de Bourgogne, 21000 Dijon"
+      },
+      {
+        "cname": "第戎美术馆",
+        "url": "/sight/dijon1053/1414198.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/270/634/993/8f1c3a2aea1b4925bb7dbf116f361ef6_C_220_140.jpg",
+        "caddress": "Palais des ducs et des Etats de Bourgogne, 1 Rue Rameau, 21000 Dijon"
+      },
+      {
+        "cname": "猫头鹰街",
+        "url": "/sight/dijon1053/63540.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/131/702/0a5f95337b794e8385f9153453626103_C_220_140.jpg",
+        "caddress": "Rue de la Chouette, 21000 Dijon"
+      },
+      {
+        "cname": "弗尔日大街 ",
+        "url": "/sight/dijon1053/63538.html",
+        "s_img": "",
+        "caddress": "Rue des Forges, 21000 Dijon"
+      },
+      {
+        "cname": "钟楼旅馆",
+        "url": "/sight/dijon1053/63533.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/269/102/564/17942de8fcd34921a2cb0cab30139283_C_220_140.jpg",
+        "caddress": "14 Place Darcy, 21000 Dijon"
+      },
+      {
+        "cname": "佛朗索瓦鲁德广场",
+        "url": "/sight/dijon1053/63537.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/111/450/677/350acb4e77f046ee9c98ef6044ce561d_C_220_140.jpg",
+        "caddress": "21000 Dijon"
+      },
+      {
+        "cname": "波玛酒庄",
+        "url": "/sight/burgundy20749/1676026.html",
+        "s_img": "",
+        "caddress": "Château de Pommard 15, rue Marey Monge BP 30018 - 21630 POMMARD"
+      },
+      {
+        "cname": "慕珑酒庄",
+        "url": "/sight/burgundy20749/1410343.html",
+        "s_img": "",
+        "caddress": "10, Rue du 11 Novembre, 21190 Meursault"
+      },
+      {
+        "cname": "巴尔塔楼",
+        "url": "/sight/dijon1053/63545.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/106/270/870/9091b0f9b02546deb3b0e837d217e005_C_220_140.jpg",
+        "caddress": "1 Rue Rameau, 21000 Dijon,"
+      },
+      {
+        "cname": "私人府邸  ",
+        "url": "/sight/dijon1053/63550.html",
+        "s_img": "",
+        "caddress": "rue Vauban, dijon"
+      },
+      {
+        "cname": "达尔西公园",
+        "url": "/sight/dijon1053/63531.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/457/549/253/6d8da96a46304bbda5c50dfcc332d735_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "葡萄酒博物馆",
+        "url": "/sight/dijon1053/75889.html",
+        "s_img": "",
+        "caddress": "1 Rue Rameau, 21000 Dijon"
+      },
+      {
+        "cname": "米列埃尔之家",
+        "url": "/sight/dijon1053/63541.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/481/547/534/9743807693234c129a5ba1c7392d2637_C_220_140.jpg",
+        "caddress": "Rue de la Chouette, 21000 Dijon"
+      },
+      {
+        "cname": "圣·米歇尔教堂",
+        "url": "/sight/dijon1053/63773.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/649/320/483/0a4164e859ff4e67af88cfced22e7c47_C_220_140.jpg",
+        "caddress": "Place Saint-Michel, 21000 Dijon"
+      },
+      {
+        "cname": "博舒埃广场  ",
+        "url": "/sight/dijon1053/63551.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/155/319/395/5f10ad331146478b8c99a596cfffe58b_C_220_140.jpg",
+        "caddress": "35 Place Bossuet, 21000 Dijon"
+      },
+      {
+        "cname": "圣·菲利贝尔  ",
+        "url": "/sight/dijon1053/63552.html",
+        "s_img": "",
+        "caddress": "Rue Michelet, 21000 Dijon"
+      },
+      {
+        "cname": "沃盖的府邸  ",
+        "url": "/sight/dijon1053/63542.html",
+        "s_img": "",
+        "caddress": "8 Rue de la Chouette, 21000 Dijon"
+      }
+    ]
+  },
+  {
+    "cname": "上诺曼底大区",
+    "url": "http://you.ctrip.com/sightlist/uppernormandy123709.html",
+    "places": [
+      {
+        "cname": "鲁昂圣母大教堂",
+        "url": "/sight/uppernormandy123709/142272.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/807/870/758/ab974944fdcc42b6b1f318b191ace2d4_C_220_140.jpg",
+        "caddress": "Rouen"
+      },
+      {
+        "cname": "日韦尔尼印象主义绘画美术馆",
+        "url": "/sight/uppernormandy123709/1414234.html",
+        "s_img": "",
+        "caddress": "99 Rue Claude Monet, 27620 Giverny"
+      },
+      {
+        "cname": "翁弗勒",
+        "url": "/sight/uppernormandy123709/142270.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/358/016/453/2ebb050c54224a5c800f8780eca6687d_C_220_140.jpg",
+        "caddress": "Rouen"
+      },
+      {
+        "cname": "大钟拱门",
+        "url": "/sight/uppernormandy123709/142271.html",
+        "s_img": "",
+        "caddress": "Rouen"
+      },
+      {
+        "cname": "圣马可卢教堂",
+        "url": "/sight/uppernormandy123709/142273.html",
+        "s_img": "",
+        "caddress": "Rue St. Romain"
+      }
+    ]
+  },
+  {
+    "cname": "Les Andelys",
+    "url": "http://you.ctrip.com/sightlist/lesandelys59055.html",
+    "places": [
+      {
+        "cname": "吉维尼",
+        "url": "/sight/lesandelys59055/83391.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/405/028/206/db88081ac20c4b05a41a2b60e59020b8_C_220_140.jpg",
+        "caddress": "莱桑代利区埃科县"
+      }
+    ]
+  },
+  {
+    "cname": "蒙彼利埃",
+    "url": "http://you.ctrip.com/sightlist/montpellier1116.html",
+    "places": [
+      {
+        "cname": "蒙彼利埃",
+        "url": "/sight/montpellier1116/1417737.html",
+        "s_img": "",
+        "caddress": "Montpelier, VT"
+      }
+    ]
+  },
+  {
+    "cname": "昂蒂布",
+    "url": "http://you.ctrip.com/sightlist/antibes1448.html",
+    "places": [
+      {
+        "cname": "昂蒂布毕加索美术馆",
+        "url": "/sight/antibes1448/1414222.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/078/107/648/87fcde0ac1434678970ea9680be3a566_C_220_140.jpg",
+        "caddress": "Château Grimaldi, Place Mariejol, 06600 Antibes"
+      }
+    ]
+  },
+  {
+    "cname": "夏慕尼白朗峰",
+    "url": "http://you.ctrip.com/sightlist/chamonixmontblanc1966.html",
+    "places": [
+      {
+        "cname": "南针峰",
+        "url": "/sight/chamonix143892/71250.html",
+        "s_img": "",
+        "caddress": "Aiguille du Midi, Chamonix-Mont-Blanc"
+      },
+      {
+        "cname": "冰海",
+        "url": "/sight/chamonix143892/71252.html",
+        "s_img": "",
+        "caddress": "Mer de Glace, Chamonix-Mont-Blanc"
+      },
+      {
+        "cname": "布拉旺峰",
+        "url": "/sight/chamonix143892/71251.html",
+        "s_img": "",
+        "caddress": "Le Brévent, Chamonix-Mont-Blanc"
+      },
+      {
+        "cname": "夏慕尼",
+        "url": "/sight/chamonixmontblanc1966/141568.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/118/566/002/9032fdfe7bd6470793ec388f255b55f4_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "Etretat",
+    "url": "http://you.ctrip.com/sightlist/etretat59070.html",
+    "places": []
+  },
+  {
+    "cname": "兰斯",
+    "url": "http://you.ctrip.com/sightlist/reims1974.html",
+    "places": [
+      {
+        "cname": "兰斯圣母大教堂",
+        "url": "/sight/reims1974/1414229.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/889/867/327/3a042269ec4b43d9a38c4bdd708609fd_C_220_140.jpg",
+        "caddress": "3 Rue Guillaume de Machault, 51100 Reims"
+      }
+    ]
+  },
+  {
+    "cname": "昂布瓦兹",
+    "url": "http://you.ctrip.com/sightlist/amboise51480.html",
+    "places": [
+      {
+        "cname": "昂布瓦兹",
+        "url": "/sight/amboise51480/107544.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/348/341/808/51ef44213bf04a3ab1f39a9a5ecc48ec_C_220_140.jpg",
+        "caddress": "52 Place Michel Debré 37400 Amboise, 法国"
+      },
+      {
+        "cname": "昂布瓦兹皇家城堡",
+        "url": "/sight/amboise51480/1414246.html",
+        "s_img": "http://m.chanyouji.cn/135725/1403622636706p18r76r17me2d1t6q14tccui2dve.jpg?imageView/1/w/220/h/140",
+        "caddress": "37400 Amboise"
+      },
+      {
+        "cname": "克洛吕斯城堡",
+        "url": "/sight/amboise51480/136828.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/002/093/609/0e60121a90b9456b9768f514c240fc0f_C_220_140.jpg",
+        "caddress": "2 Rue du Clos Lucé, 37400 Amboise, 法国"
+      }
+    ]
+  },
+  {
+    "cname": "奥尔良",
+    "url": "http://you.ctrip.com/sightlist/orleans1095.html",
+    "places": []
+  },
+  {
+    "cname": "巴约",
+    "url": "http://you.ctrip.com/sightlist/bayeux2118.html",
+    "places": [
+      {
+        "cname": "法国诺曼底战役博物馆",
+        "url": "/sight/bayeux2118/142269.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/069/064/864/40b8c734cc7d465bbc260d8bb09ba594_C_220_140.jpg",
+        "caddress": "Rouen"
+      }
+    ]
+  },
+  {
+    "cname": "亚眠",
+    "url": "http://you.ctrip.com/sightlist/amiens12128.html",
+    "places": [
+      {
+        "cname": "亚眠大教堂",
+        "url": "/sight/amiens12128/132468.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/617/913/604/7c47aa82ede04df6ab15fc78fad86c7c_C_220_140.jpg",
+        "caddress": "位于皮卡第地区中心，索姆省亚眠市，在巴黎以北100公里"
+      }
+    ]
+  },
+  {
+    "cname": "普瓦捷",
+    "url": "http://you.ctrip.com/sightlist/poitiers12663.html",
+    "places": [
+      {
+        "cname": "普瓦捷未来影视城",
+        "url": "/sight/poitiers12663/1414235.html",
+        "s_img": "",
+        "caddress": "Avenue du Téléport, 86360 Chasseneuil-du-Poitou"
+      }
+    ]
+  },
+  {
+    "cname": "里克威尔",
+    "url": "http://you.ctrip.com/sightlist/riquewihr45999.html",
+    "places": []
+  },
+  {
+    "cname": "米卢斯",
+    "url": "http://you.ctrip.com/sightlist/mulhouse46058.html",
+    "places": [
+      {
+        "cname": "米卢斯老爷车博物馆",
+        "url": "/sight/mulhouse46058/1407636.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/930/395/518/f04381a63cbd446d919e2ebbac813383_C_220_140.jpg",
+        "caddress": "192 Avenue de Colmar 68051 Mulhouse, France"
+      }
+    ]
+  },
+  {
+    "cname": "伊瓦尔",
+    "url": "http://you.ctrip.com/sightlist/yvoire52291.html",
+    "places": []
+  },
+  {
+    "cname": "萨瓦及勃朗峰区域",
+    "url": "http://you.ctrip.com/sightlist/savoiemontblancarea143899.html",
+    "places": [
+      {
+        "cname": "LES MENUIRES",
+        "url": "/sight/savoiemontblancarea143899/143294.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/234/821/632/c7c1bb38214948a6a987886eb5178b10_C_220_140.jpg",
+        "caddress": "73440 - Les Menuires - France"
+      },
+      {
+        "cname": "SAINT MARTIN DE BELLEVILLE",
+        "url": "/sight/savoiemontblancarea143899/143295.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/508/057/959/e42e2aee0de44c728c98aff6938ff60a_C_220_140.jpg",
+        "caddress": "73440 - Saint Martin de Belleville - France"
+      }
+    ]
+  }
+]

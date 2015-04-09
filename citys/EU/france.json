@@ -1,0 +1,667 @@
+[
+  {
+    "cname": "巴黎",
+    "suggest_places": [
+      {
+        "cname": "卢浮宫",
+        "url": "/sight/paris308/12908.html"
+      },
+      {
+        "cname": "埃菲尔铁塔",
+        "url": "/sight/paris308/12906.html"
+      },
+      {
+        "cname": "巴黎圣母院",
+        "url": "/sight/paris308/12564.html"
+      },
+      {
+        "cname": "凯旋门",
+        "url": "/sight/paris308/12565.html"
+      },
+      {
+        "cname": "塞纳河",
+        "url": "/sight/paris308/12954.html"
+      }
+    ],
+    "url": "/sightlist/paris308.html"
+  },
+  {
+    "cname": "尼斯",
+    "suggest_places": [
+      {
+        "cname": "尼斯老城",
+        "url": "/sight/nice580/136945.html"
+      },
+      {
+        "cname": "格拉斯",
+        "url": "/sight/nice580/22310.html"
+      },
+      {
+        "cname": "天使湾",
+        "url": "/sight/nice580/132309.html"
+      },
+      {
+        "cname": "埃兹",
+        "url": "/sight/nice580/22309.html"
+      },
+      {
+        "cname": "马塞纳广场",
+        "url": "/sight/nice580/132300.html"
+      }
+    ],
+    "url": "/sightlist/nice580.html"
+  },
+  {
+    "cname": "普罗旺斯",
+    "suggest_places": [
+      {
+        "cname": "戛纳",
+        "url": "/sight/provence750/139082.html"
+      },
+      {
+        "cname": "尼斯老城",
+        "url": "/sight/provence750/136945.html"
+      },
+      {
+        "cname": "普罗旺斯",
+        "url": "/sight/provence750/139084.html"
+      },
+      {
+        "cname": "格拉斯",
+        "url": "/sight/provence750/22310.html"
+      },
+      {
+        "cname": "天使湾",
+        "url": "/sight/provence750/132309.html"
+      }
+    ],
+    "url": "/sightlist/provence750.html"
+  },
+  {
+    "cname": "戛纳",
+    "suggest_places": [
+      {
+        "cname": "戛纳",
+        "url": "/sight/cannes715/139082.html"
+      },
+      {
+        "cname": "小十字大道",
+        "url": "/sight/cannes715/136691.html"
+      },
+      {
+        "cname": "戛纳影节宫",
+        "url": "/sight/cannes715/22377.html"
+      },
+      {
+        "cname": "圣保罗·德·旺斯",
+        "url": "/sight/cannes715/1413481.html"
+      },
+      {
+        "cname": "卡斯特尔博物馆",
+        "url": "/sight/cannes715/136819.html"
+      }
+    ],
+    "url": "/sightlist/cannes715.html"
+  },
+  {
+    "cname": "阿维尼翁",
+    "suggest_places": [
+      {
+        "cname": "石头城",
+        "url": "/sight/avignon1100/132109.html"
+      },
+      {
+        "cname": "阿维尼翁断桥",
+        "url": "/sight/avignon1100/78467.html"
+      },
+      {
+        "cname": "教皇宫殿",
+        "url": "/sight/avignon1100/123049.html"
+      },
+      {
+        "cname": "圣母大教堂",
+        "url": "/sight/avignon1100/132235.html"
+      },
+      {
+        "cname": "薰衣草博物馆",
+        "url": "/sight/avignon1100/132151.html"
+      }
+    ],
+    "url": "/sightlist/avignon1100.html"
+  },
+  {
+    "cname": "里昂",
+    "suggest_places": [
+      {
+        "cname": "里昂老城",
+        "url": "/sight/lyon391/25160.html"
+      },
+      {
+        "cname": "白莱果广场",
+        "url": "/sight/lyon391/25159.html"
+      },
+      {
+        "cname": "富维耶山",
+        "url": "/sight/lyon391/142193.html"
+      },
+      {
+        "cname": "富尔维耶圣母教堂",
+        "url": "/sight/lyon391/136681.html"
+      },
+      {
+        "cname": "圣让首席大教堂",
+        "url": "/sight/lyon391/22091.html"
+      }
+    ],
+    "url": "/sightlist/lyon391.html"
+  },
+  {
+    "cname": "马赛",
+    "suggest_places": [
+      {
+        "cname": "凡尔登大峡谷和圣十字湖",
+        "url": "/sight/marseille120370/132098.html"
+      },
+      {
+        "cname": "马赛旧港",
+        "url": "/sight/marseille120370/132112.html"
+      },
+      {
+        "cname": "马赛老港",
+        "url": "/sight/marseille120370/146913.html"
+      },
+      {
+        "cname": "隆尚宫",
+        "url": "/sight/marseille120370/132360.html"
+      },
+      {
+        "cname": "圣母加德大教堂",
+        "url": "/sight/marseille120370/13098.html"
+      }
+    ],
+    "url": "/sightlist/marseille120370.html"
+  },
+  {
+    "cname": "第戎",
+    "suggest_places": [
+      {
+        "cname": "第戎",
+        "url": "/sight/dijon1053/26188.html"
+      },
+      {
+        "cname": "歌剧院广场 ",
+        "url": "/sight/dijon1053/63543.html"
+      },
+      {
+        "cname": "吉约姆大门 ",
+        "url": "/sight/dijon1053/63534.html"
+      },
+      {
+        "cname": "第戎圣母院 ",
+        "url": "/sight/dijon1053/63539.html"
+      },
+      {
+        "cname": "自由广场  ",
+        "url": "/sight/dijon1053/63548.html"
+      }
+    ],
+    "url": "/sightlist/dijon1053.html"
+  },
+  {
+    "cname": "卢瓦尔河谷",
+    "suggest_places": [
+      {
+        "cname": "香波堡",
+        "url": "/sight/loirevalley12786/22593.html"
+      },
+      {
+        "cname": "舍农索城堡",
+        "url": "/sight/loirevalley12786/78438.html"
+      },
+      {
+        "cname": "昂布瓦兹",
+        "url": "/sight/loirevalley12786/107544.html"
+      },
+      {
+        "cname": "昂布瓦兹皇家城堡",
+        "url": "/sight/loirevalley12786/1414246.html"
+      },
+      {
+        "cname": "布洛瓦皇家城堡",
+        "url": "/sight/loirevalley12786/1416041.html"
+      }
+    ],
+    "url": "/sightlist/loirevalley12786.html"
+  },
+  {
+    "cname": "隆河口省",
+    "suggest_places": [
+      {
+        "cname": "伊夫堡",
+        "url": "/sight/bouchesdurhone392/13097.html"
+      },
+      {
+        "cname": "马赛美术馆",
+        "url": "/sight/bouchesdurhone392/13100.html"
+      },
+      {
+        "cname": "圣维克多修道院",
+        "url": "/sight/bouchesdurhone392/25115.html"
+      },
+      {
+        "cname": "旧港",
+        "url": "/sight/bouchesdurhone392/25116.html"
+      }
+    ],
+    "url": "/sightlist/bouchesdurhone392.html"
+  },
+  {
+    "cname": "波尔多",
+    "suggest_places": [
+      {
+        "cname": "坎康斯广场",
+        "url": "/sight/bordeaux716/22492.html"
+      },
+      {
+        "cname": "波尔多大剧院",
+        "url": "/sight/bordeaux716/22485.html"
+      },
+      {
+        "cname": "市立美术馆",
+        "url": "/sight/bordeaux716/22523.html"
+      },
+      {
+        "cname": "圣安德列大教堂",
+        "url": "/sight/bordeaux716/22484.html"
+      },
+      {
+        "cname": "圣米歇尔教堂",
+        "url": "/sight/bordeaux716/22524.html"
+      }
+    ],
+    "url": "/sightlist/bordeaux716.html"
+  },
+  {
+    "cname": "艾克斯",
+    "suggest_places": [
+      {
+        "cname": "凡尔登大峡谷和圣十字湖",
+        "url": "/sight/aixenprovence1441/132098.html"
+      },
+      {
+        "cname": "塞尚画室",
+        "url": "/sight/aixenprovence1441/22637.html"
+      },
+      {
+        "cname": "旺多姆楼",
+        "url": "/sight/aixenprovence1441/1414201.html"
+      },
+      {
+        "cname": "圣维克多山",
+        "url": "/sight/aixenprovence1441/1485531.html"
+      },
+      {
+        "cname": "圣索沃尔大教堂",
+        "url": "/sight/aixenprovence1441/1485555.html"
+      }
+    ],
+    "url": "/sightlist/aixenprovence1441.html"
+  },
+  {
+    "cname": "图尔",
+    "suggest_places": [
+      {
+        "cname": "卢瓦河谷城堡区",
+        "url": "/sight/tours729/139109.html"
+      }
+    ],
+    "url": "/sightlist/tours729.html"
+  },
+  {
+    "cname": "戈尔德",
+    "suggest_places": [
+      {
+        "cname": "塞南克修道院",
+        "url": "/sight/gordes120371/132118.html"
+      }
+    ],
+    "url": "/sightlist/gordes120371.html"
+  },
+  {
+    "cname": "瓦朗索勒",
+    "suggest_places": [
+      {
+        "cname": "瓦伦索勒",
+        "url": "/sight/valensole120538/132129.html"
+      }
+    ],
+    "url": "/sightlist/valensole120538.html"
+  },
+  {
+    "cname": "夏慕尼",
+    "suggest_places": [
+      {
+        "cname": "南针峰",
+        "url": "/sight/chamonix143892/71250.html"
+      },
+      {
+        "cname": "勃朗峰",
+        "url": "/sight/chamonix143892/1412671.html"
+      },
+      {
+        "cname": "冰海",
+        "url": "/sight/chamonix143892/71252.html"
+      },
+      {
+        "cname": "布拉旺峰",
+        "url": "/sight/chamonix143892/71251.html"
+      }
+    ],
+    "url": "/sightlist/chamonix143892.html"
+  },
+  {
+    "cname": "尼姆",
+    "suggest_places": [
+      {
+        "cname": "加尔桥",
+        "url": "/sight/niems1391/132315.html"
+      },
+      {
+        "cname": "尼姆竞技场",
+        "url": "/sight/niems1391/1414916.html"
+      },
+      {
+        "cname": "卡利神殿",
+        "url": "/sight/niems1391/1414927.html"
+      }
+    ],
+    "url": "/sightlist/niems1391.html"
+  },
+  {
+    "cname": "圣马洛",
+    "suggest_places": [
+      {
+        "cname": "奥马哈海滩",
+        "url": "/sight/saintmalo1476/139073.html"
+      },
+      {
+        "cname": "美军公墓纪念馆",
+        "url": "/sight/saintmalo1476/139115.html"
+      },
+      {
+        "cname": "大水族馆",
+        "url": "/sight/saintmalo1476/79515.html"
+      },
+      {
+        "cname": "樊尚大教堂",
+        "url": "/sight/saintmalo1476/79516.html"
+      },
+      {
+        "cname": "圣马洛历史博物馆",
+        "url": "/sight/saintmalo1476/79519.html"
+      }
+    ],
+    "url": "/sightlist/saintmalo1476.html"
+  },
+  {
+    "cname": "吉维尼",
+    "suggest_places": [
+      {
+        "cname": "莫奈花园",
+        "url": "/sight/giverny59019/1408095.html"
+      },
+      {
+        "cname": "奥维尔城堡",
+        "url": "/sight/giverny59019/1679133.html"
+      },
+      {
+        "cname": "印象主义绘画美术馆",
+        "url": "/sight/giverny59019/1676011.html"
+      }
+    ],
+    "url": "/sightlist/giverny59019.html"
+  },
+  {
+    "cname": "里尔",
+    "suggest_places": [],
+    "url": "/sightlist/lille808.html"
+  },
+  {
+    "cname": "图卢兹",
+    "suggest_places": [
+      {
+        "cname": "空中客车总部",
+        "url": "/sight/toulouse1454/77567.html"
+      },
+      {
+        "cname": "南运河",
+        "url": "/sight/toulouse1454/77565.html"
+      },
+      {
+        "cname": "雅各宾修道院",
+        "url": "/sight/toulouse1454/77568.html"
+      }
+    ],
+    "url": "/sightlist/toulouse1454.html"
+  },
+  {
+    "cname": "鲁昂",
+    "suggest_places": [
+      {
+        "cname": "鲁昂美术馆",
+        "url": "/sight/rouen1975/1410653.html"
+      },
+      {
+        "cname": "鲁昂圣女贞德教堂",
+        "url": "/sight/rouen1975/1675953.html"
+      }
+    ],
+    "url": "/sightlist/rouen1975.html"
+  },
+  {
+    "cname": "Burgundy",
+    "suggest_places": [
+      {
+        "cname": "第戎",
+        "url": "/sight/burgundy20749/26188.html"
+      },
+      {
+        "cname": "歌剧院广场 ",
+        "url": "/sight/burgundy20749/63543.html"
+      },
+      {
+        "cname": "吉约姆大门 ",
+        "url": "/sight/burgundy20749/63534.html"
+      },
+      {
+        "cname": "第戎圣母院 ",
+        "url": "/sight/burgundy20749/63539.html"
+      },
+      {
+        "cname": "自由广场  ",
+        "url": "/sight/burgundy20749/63548.html"
+      }
+    ],
+    "url": "/sightlist/burgundy20749.html"
+  },
+  {
+    "cname": "上诺曼底大区",
+    "suggest_places": [
+      {
+        "cname": "鲁昂圣母大教堂",
+        "url": "/sight/uppernormandy123709/142272.html"
+      },
+      {
+        "cname": "日韦尔尼印象主义绘画美术馆",
+        "url": "/sight/uppernormandy123709/1414234.html"
+      },
+      {
+        "cname": "翁弗勒",
+        "url": "/sight/uppernormandy123709/142270.html"
+      },
+      {
+        "cname": "大钟拱门",
+        "url": "/sight/uppernormandy123709/142271.html"
+      },
+      {
+        "cname": "圣马可卢教堂",
+        "url": "/sight/uppernormandy123709/142273.html"
+      }
+    ],
+    "url": "/sightlist/uppernormandy123709.html"
+  },
+  {
+    "cname": "Les Andelys",
+    "suggest_places": [
+      {
+        "cname": "吉维尼",
+        "url": "/sight/lesandelys59055/83391.html"
+      }
+    ],
+    "url": "/sightlist/lesandelys59055.html"
+  },
+  {
+    "cname": "蒙彼利埃",
+    "suggest_places": [
+      {
+        "cname": "蒙彼利埃",
+        "url": "/sight/montpellier1116/1417737.html"
+      }
+    ],
+    "url": "/sightlist/montpellier1116.html"
+  },
+  {
+    "cname": "昂蒂布",
+    "suggest_places": [
+      {
+        "cname": "昂蒂布毕加索美术馆",
+        "url": "/sight/antibes1448/1414222.html"
+      }
+    ],
+    "url": "/sightlist/antibes1448.html"
+  },
+  {
+    "cname": "夏慕尼白朗峰",
+    "suggest_places": [
+      {
+        "cname": "南针峰",
+        "url": "/sight/chamonixmontblanc1966/71250.html"
+      },
+      {
+        "cname": "冰海",
+        "url": "/sight/chamonixmontblanc1966/71252.html"
+      },
+      {
+        "cname": "布拉旺峰",
+        "url": "/sight/chamonixmontblanc1966/71251.html"
+      },
+      {
+        "cname": "夏慕尼",
+        "url": "/sight/chamonixmontblanc1966/141568.html"
+      }
+    ],
+    "url": "/sightlist/chamonixmontblanc1966.html"
+  },
+  {
+    "cname": "Etretat",
+    "suggest_places": [],
+    "url": "/sightlist/etretat59070.html"
+  },
+  {
+    "cname": "兰斯",
+    "suggest_places": [
+      {
+        "cname": "兰斯圣母大教堂",
+        "url": "/sight/reims1974/1414229.html"
+      }
+    ],
+    "url": "/sightlist/reims1974.html"
+  },
+  {
+    "cname": "昂布瓦兹",
+    "suggest_places": [
+      {
+        "cname": "昂布瓦兹",
+        "url": "/sight/amboise51480/107544.html"
+      },
+      {
+        "cname": "昂布瓦兹皇家城堡",
+        "url": "/sight/amboise51480/1414246.html"
+      },
+      {
+        "cname": "克洛吕斯城堡",
+        "url": "/sight/amboise51480/136828.html"
+      }
+    ],
+    "url": "/sightlist/amboise51480.html"
+  },
+  {
+    "cname": "奥尔良",
+    "suggest_places": [],
+    "url": "/sightlist/orleans1095.html"
+  },
+  {
+    "cname": "巴约",
+    "suggest_places": [
+      {
+        "cname": "法国诺曼底战役博物馆",
+        "url": "/sight/bayeux2118/142269.html"
+      }
+    ],
+    "url": "/sightlist/bayeux2118.html"
+  },
+  {
+    "cname": "亚眠",
+    "suggest_places": [
+      {
+        "cname": "亚眠大教堂",
+        "url": "/sight/amiens12128/132468.html"
+      }
+    ],
+    "url": "/sightlist/amiens12128.html"
+  },
+  {
+    "cname": "普瓦捷",
+    "suggest_places": [
+      {
+        "cname": "普瓦捷未来影视城",
+        "url": "/sight/poitiers12663/1414235.html"
+      }
+    ],
+    "url": "/sightlist/poitiers12663.html"
+  },
+  {
+    "cname": "里克威尔",
+    "suggest_places": [],
+    "url": "/sightlist/riquewihr45999.html"
+  },
+  {
+    "cname": "米卢斯",
+    "suggest_places": [
+      {
+        "cname": "米卢斯老爷车博物馆",
+        "url": "/sight/mulhouse46058/1407636.html"
+      }
+    ],
+    "url": "/sightlist/mulhouse46058.html"
+  },
+  {
+    "cname": "伊瓦尔",
+    "suggest_places": [],
+    "url": "/sightlist/yvoire52291.html"
+  },
+  {
+    "cname": "萨瓦及勃朗峰区域",
+    "suggest_places": [
+      {
+        "cname": "LES MENUIRES",
+        "url": "/sight/savoiemontblancarea143899/143294.html"
+      },
+      {
+        "cname": "SAINT MARTIN DE BELLEVILLE",
+        "url": "/sight/savoiemontblancarea143899/143295.html"
+      }
+    ],
+    "url": "/sightlist/savoiemontblancarea143899.html"
+  }
+]

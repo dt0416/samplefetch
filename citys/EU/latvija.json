@@ -1,0 +1,28 @@
+[
+  {
+    "cname": "里加",
+    "suggest_places": [
+      {
+        "cname": "拉脱维亚战争博物馆",
+        "url": "/sight/riga1245/1510493.html"
+      },
+      {
+        "cname": "火药塔",
+        "url": "/sight/riga1245/1510523.html"
+      },
+      {
+        "cname": "阿尔伯特街",
+        "url": "/sight/riga1245/1510459.html"
+      },
+      {
+        "cname": "中央大市场",
+        "url": "/sight/riga1245/1510551.html"
+      },
+      {
+        "cname": "黑头宫",
+        "url": "/sight/riga1245/1506902.html"
+      }
+    ],
+    "url": "/sightlist/riga1245.html"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "cname": "科伦坡",
+    "suggest_places": [
+      {
+        "cname": "独立广场",
+        "url": "/sight/colombo753/135349.html"
+      },
+      {
+        "cname": "国立博物馆",
+        "url": "/sight/colombo753/22975.html"
+      },
+      {
+        "cname": "班达拉奈克国际会议大厦",
+        "url": "/sight/colombo753/22968.html"
+      },
+      {
+        "cname": "甘加拉玛雅寺庙",
+        "url": "/sight/colombo753/135360.html"
+      },
+      {
+        "cname": "城堡区",
+        "url": "/sight/colombo753/142387.html"
+      }
+    ],
+    "url": "/sightlist/colombo753.html"
+  },
+  {
+    "cname": "康提",
+    "suggest_places": [
+      {
+        "cname": "佛牙寺",
+        "url": "/sight/kandy1722/93916.html"
+      },
+      {
+        "cname": "康提皇家植物园",
+        "url": "/sight/kandy1722/139942.html"
+      }
+    ],
+    "url": "/sightlist/kandy1722.html"
+  },
+  {
+    "cname": "加勒",
+    "suggest_places": [
+      {
+        "cname": "加勒",
+        "url": "/sight/galle14797/139937.html"
+      },
+      {
+        "cname": "加勒要塞",
+        "url": "/sight/galle14797/97152.html"
+      },
+      {
+        "cname": "海龟孵化场",
+        "url": "/sight/galle14797/1482851.html"
+      }
+    ],
+    "url": "/sightlist/galle14797.html"
+  },
+  {
+    "cname": "锡吉里耶",
+    "suggest_places": [
+      {
+        "cname": "狮子岩",
+        "url": "/sight/sigiriya21489/22973.html"
+      }
+    ],
+    "url": "/sightlist/sigiriya21489.html"
+  },
+  {
+    "cname": "努沃勒埃利耶",
+    "suggest_places": [
+      {
+        "cname": "霍顿平原国家公园",
+        "url": "/sight/nuwaraeliya23067/145834.html"
+      },
+      {
+        "cname": "努沃勒埃利耶",
+        "url": "/sight/nuwaraeliya23067/139955.html"
+      },
+      {
+        "cname": "Mackwoods茶厂",
+        "url": "/sight/nuwaraeliya23067/1489511.html"
+      }
+    ],
+    "url": "/sightlist/nuwaraeliya23067.html"
+  },
+  {
+    "cname": "尼甘布",
+    "suggest_places": [
+      {
+        "cname": "圣玛丽教堂",
+        "url": "/sight/negombo1727/93921.html"
+      },
+      {
+        "cname": "尼甘布中心鱼市场",
+        "url": "/sight/negombo1727/1489377.html"
+      },
+      {
+        "cname": "尼甘布泻湖",
+        "url": "/sight/negombo1727/1412458.html"
+      },
+      {
+        "cname": "荷兰运河",
+        "url": "/sight/negombo1727/1486871.html"
+      }
+    ],
+    "url": "/sightlist/negombo1727.html"
+  },
+  {
+    "cname": "Pinnawela",
+    "suggest_places": [
+      {
+        "cname": "品纳维拉大象孤儿院",
+        "url": "/sight/pinnawela143841/22967.html"
+      }
+    ],
+    "url": "/sightlist/pinnawela143841.html"
+  },
+  {
+    "cname": "提萨马哈拉马",
+    "suggest_places": [],
+    "url": "/sightlist/tissamaharama21501.html"
+  },
+  {
+    "cname": "丹布勒",
+    "suggest_places": [
+      {
+        "cname": "丹布勒石窟",
+        "url": "/sight/dambulla23053/97151.html"
+      }
+    ],
+    "url": "/sightlist/dambulla23053.html"
+  },
+  {
+    "cname": "阿努拉德普勒",
+    "suggest_places": [
+      {
+        "cname": "阿努拉德普勒",
+        "url": "/sight/anuradhapura21486/22964.html"
+      },
+      {
+        "cname": "斯里摩珂菩提树",
+        "url": "/sight/anuradhapura21486/97148.html"
+      },
+      {
+        "cname": "艾苏卢姆尼亚石庙",
+        "url": "/sight/anuradhapura21486/97149.html"
+      },
+      {
+        "cname": "图帕拉玛灵塔",
+        "url": "/sight/anuradhapura21486/97150.html"
+      }
+    ],
+    "url": "/sightlist/anuradhapura21486.html"
+  },
+  {
+    "cname": "马特勒",
+    "suggest_places": [
+      {
+        "cname": "美蕊沙",
+        "url": "/sight/matara23055/145838.html"
+      }
+    ],
+    "url": "/sightlist/matara23055.html"
+  },
+  {
+    "cname": "埃勒",
+    "suggest_places": [
+      {
+        "cname": "乌达瓦勒韦国家公园",
+        "url": "/sight/ella21475/1407964.html"
+      }
+    ],
+    "url": "/sightlist/ella21475.html"
+  },
+  {
+    "cname": "波隆纳鲁沃",
+    "suggest_places": [
+      {
+        "cname": "波隆纳鲁瓦",
+        "url": "/sight/polonnaruwa21473/139958.html"
+      },
+      {
+        "cname": "米内日亚国家公园",
+        "url": "/sight/polonnaruwa21473/1410682.html"
+      },
+      {
+        "cname": "帕拉克拉玛湖",
+        "url": "/sight/polonnaruwa21473/97154.html"
+      },
+      {
+        "cname": "萨特马哈儿普拉萨达",
+        "url": "/sight/polonnaruwa21473/97153.html"
+      }
+    ],
+    "url": "/sightlist/polonnaruwa21473.html"
+  },
+  {
+    "cname": "本托塔",
+    "suggest_places": [],
+    "url": "/sightlist/bentota14793.html"
+  },
+  {
+    "cname": "雅拉国家公园",
+    "suggest_places": [
+      {
+        "cname": "雅拉国家公园",
+        "url": "/sight/yalanationalpark23068/139986.html"
+      }
+    ],
+    "url": "/sightlist/yalanationalpark23068.html"
+  },
+  {
+    "cname": "希卡杜瓦",
+    "suggest_places": [
+      {
+        "cname": "南部海滩",
+        "url": "/sight/hikkaduwa14794/22972.html"
+      }
+    ],
+    "url": "/sightlist/hikkaduwa14794.html"
+  },
+  {
+    "cname": "Dehiwala",
+    "suggest_places": [
+      {
+        "cname": "芒特拉维尼海滩",
+        "url": "/sight/dehiwala23061/135365.html"
+      }
+    ],
+    "url": "/sightlist/dehiwala23061.html"
+  },
+  {
+    "cname": "宾纳瓦拉",
+    "suggest_places": [],
+    "url": "/sightlist/pinnawala23075.html"
+  }
+]

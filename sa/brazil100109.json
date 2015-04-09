@@ -1,0 +1,782 @@
+[
+  {
+    "cname": "里约热内卢",
+    "url": "http://you.ctrip.com/sightlist/riodejaneiro932.html",
+    "places": [
+      {
+        "cname": "面包山",
+        "url": "/sight/riodejaneiro932/139992.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/012/043/229/50a5392183024590a593fb437cd2b0b8_C_220_140.jpg",
+        "caddress": "Avenida Pasteur, 520, Urca, Rio de Janeiro - RJ, 04719-001"
+      },
+      {
+        "cname": "基督山",
+        "url": "/sight/riodejaneiro932/139991.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/504/162/622/3d4535702d694c62854f5cdc4cff6a1b_C_220_140.jpg",
+        "caddress": "Parque Nacional da Tijuca, Alto da Boa Vista, Rio de Janeiro"
+      },
+      {
+        "cname": "伊帕内玛海滩",
+        "url": "/sight/riodejaneiro932/139994.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/491/331/173/09446b5df3be4c35bdd9cca1ae6e8a36_C_220_140.jpg",
+        "caddress": "Ipanem Beach, Rio de Janeiro, State of Rio de Janeiro"
+      },
+      {
+        "cname": "天梯教堂",
+        "url": "/sight/riodejaneiro932/139993.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/692/587/023/741cef346cad411d9bc956391b113ab8_C_220_140.jpg",
+        "caddress": "Av. Chile 245, Rio de Janeiro, State of Rio de Janeiro 20031-170"
+      },
+      {
+        "cname": "科帕卡瓦纳海滩",
+        "url": "/sight/riodejaneiro932/139995.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/098/825/8c43783cfbd64e82bf5b9b3abdca631a_C_220_140.jpg",
+        "caddress": "巴西里约热内卢南区4米长的海滩。"
+      },
+      {
+        "cname": "瓜纳巴拉湾",
+        "url": "/sight/riodejaneiro932/76785.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/000/240/1edc39de291541d3be7baded973e51c9_C_220_140.jpg",
+        "caddress": "Guanabara Bay, Rio de Janeiro"
+      },
+      {
+        "cname": "贫民区",
+        "url": "/sight/riodejaneiro932/140005.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/840/280/137/5a9c92b484ec432eb9f8849157081fcc_C_220_140.jpg",
+        "caddress": "Favela, Rio de Janeiro"
+      },
+      {
+        "cname": "国家博物馆",
+        "url": "/sight/riodejaneiro932/139998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/252/036/463/ba0562e3e0eb48e4937e4c7f547ffcfc_C_220_140.jpg",
+        "caddress": "Quinta da Boa Vista - São Cristóvão Rio de Janeiro - RJ, 20940-040"
+      },
+      {
+        "cname": "国家历史博物馆",
+        "url": "/sight/riodejaneiro932/71041.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/687/123/034/ed75cdb4f39d4eeea8d27e8c533c9627_C_220_140.jpg",
+        "caddress": "Praça Mal. Âncora, Centro, RJ, 20021-200"
+      },
+      {
+        "cname": "格米亚海滩",
+        "url": "/sight/riodejaneiro932/71042.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/280/100/577/4bc2b3a323714949be9a79412dd99512_C_220_140.jpg",
+        "caddress": "Grumari, Rio de Janeiro, State of Rio de Janeiro"
+      },
+      {
+        "cname": "尼特罗伊跨海大桥",
+        "url": "/sight/riodejaneiro932/137204.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/262/329/916/24dff9227cb84908a49ab0179244e611_C_220_140.jpg",
+        "caddress": "Niteroi, Rio de Janeiro"
+      },
+      {
+        "cname": "马拉卡纳体育场",
+        "url": "/sight/riodejaneiro932/140004.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/451/925/692/ca70c4c9384d4ba89b25655af9cd2517_C_220_140.jpg",
+        "caddress": "Rua Prof Eurico Rabelo，Portao 18，Maracana"
+      },
+      {
+        "cname": "革命英雄宫",
+        "url": "/sight/riodejaneiro932/1407433.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/119/614/588/ad6cfdc4ff54470ba5d61f4c92e216ec_C_220_140.jpg",
+        "caddress": "Palácio Tiradentes Rua Dom Manuel Rio de Janeiro"
+      },
+      {
+        "cname": "瓜拿巴拉宫 ",
+        "url": "/sight/riodejaneiro932/71038.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/018/213/055/07a7916f1e4a45a6b7672492096d741f_C_220_140.jpg",
+        "caddress": "Av Ataulfo de Paiva 1228 Leblon"
+      },
+      {
+        "cname": "Passeio Público公园",
+        "url": "/sight/riodejaneiro932/1413028.html",
+        "s_img": "",
+        "caddress": "Rua do Passeio Centro"
+      },
+      {
+        "cname": "西尼兰地亚广场",
+        "url": "/sight/riodejaneiro932/1407437.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/651/243/731/7488798545774e6fa4d4e2accfadb400_C_220_140.jpg",
+        "caddress": "Av Rio Branco"
+      },
+      {
+        "cname": "里约植物园",
+        "url": "/sight/riodejaneiro932/139996.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/486/689/786/21e119b519934c23849ba8fb9909ab81_C_220_140.jpg",
+        "caddress": "Rua Jardim Botanico 1008, Rio de Janeiro, State of Rio de Janeiro"
+      },
+      {
+        "cname": " Área Verde‎公园",
+        "url": "/sight/riodejaneiro932/1407424.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/404/395/018/f6e2df55dcef4b01bebc9818aab89582_C_220_140.jpg",
+        "caddress": "General Herculano Gomes"
+      },
+      {
+        "cname": "巴西国家图书馆",
+        "url": "/sight/riodejaneiro932/1407423.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/424/209/893/e752b44eac284b4688d294a0f3f94a43_C_220_140.jpg",
+        "caddress": "Av. Rio Branco, 219 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "奇久卡国家森林公园",
+        "url": "/sight/riodejaneiro932/139997.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/102/885/317/5951b134780246cfa60140acc15fabbd_C_220_140.jpg",
+        "caddress": "奇久卡公园覆盖了若干个城区，公园的主要入口在 Estada da Cascatina 850, Alto da Boa Vista"
+      },
+      {
+        "cname": "法国-巴西之家",
+        "url": "/sight/riodejaneiro932/1407446.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/539/496/4b42284e5b5f4e3885e915906e95e61f_C_220_140.jpg",
+        "caddress": "R. Visc. de Itaboraí, 78 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "圣本笃修道院",
+        "url": "/sight/riodejaneiro932/1407419.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/304/720/368/2e0cbb6cadf4499da6c0e51ac8872998_C_220_140.jpg",
+        "caddress": "R. D Gerardo, 68 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "伊娃·克拉宾艺术博物馆",
+        "url": "/sight/riodejaneiro932/1407458.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/639/466/046/7261ecfb72354061944f6698b277e873_C_220_140.jpg",
+        "caddress": "Av. Epitácio Pessoa, 2480 - Lagoa, Rio de Janeiro"
+      },
+      {
+        "cname": "塞勒隆台阶",
+        "url": "/sight/riodejaneiro932/139999.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/588/064/458/4eebd5a23dc94d8da49cb4755a969252_C_220_140.jpg",
+        "caddress": "Rua Manoel Cameiro（接近Rua Joaquim Silva路口），Santa Teresa区"
+      },
+      {
+        "cname": "Carioca高架渠/桥 水道",
+        "url": "/sight/riodejaneiro932/1407418.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/285/439/a16c8e57d3e94e2798093561334ba50c_C_220_140.jpg",
+        "caddress": "Tv do Mosqueira, 13 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "Catacumba公园",
+        "url": "/sight/riodejaneiro932/1413008.html",
+        "s_img": "",
+        "caddress": "Avenida Epitácio Pessoa, 3000 - Lagoa, Rio de Janeiro - RJ, 22471-001"
+      },
+      {
+        "cname": "Catete公园",
+        "url": "/sight/riodejaneiro932/1413012.html",
+        "s_img": "",
+        "caddress": "Rua do Catete, 181, Glória, Rio de Janeiro"
+      },
+      {
+        "cname": "Joa海滩",
+        "url": "/sight/riodejaneiro932/1413036.html",
+        "s_img": "",
+        "caddress": "Rua Sargento José da Silva São Conrado, Rio de Janeiro"
+      },
+      {
+        "cname": "巴西银行文化中心",
+        "url": "/sight/riodejaneiro932/1413029.html",
+        "s_img": "",
+        "caddress": "Rua Primeiro de Março, 66 - Centro, Rio de Janeiro - RJ, 20010-000"
+      },
+      {
+        "cname": "博塔佛戈海滩",
+        "url": "/sight/riodejaneiro932/1413006.html",
+        "s_img": "",
+        "caddress": "Av dos Naçoes Unidas"
+      },
+      {
+        "cname": "普林哈海滩",
+        "url": "/sight/riodejaneiro932/1413030.html",
+        "s_img": "",
+        "caddress": "Avenida Estado Guanabara Recreio dos Bandeirantes，Rio de Janeiro"
+      },
+      {
+        "cname": "奇科门德斯生态公园",
+        "url": "/sight/riodejaneiro932/1413037.html",
+        "s_img": "",
+        "caddress": "Recreio dos Bandeirantes, RJ"
+      },
+      {
+        "cname": "圣保罗市立剧院",
+        "url": "/sight/riodejaneiro932/1413016.html",
+        "s_img": "",
+        "caddress": "Praça Ramos de Azevedo, s/n - Republica, São Paulo - SP"
+      },
+      {
+        "cname": "中华亭",
+        "url": "/sight/riodejaneiro932/1413039.html",
+        "s_img": "",
+        "caddress": "Estr. da Vista Chinesa, 789 - Alto da Boa Vista, Rio de Janeiro - RJ, 20531-410"
+      },
+      {
+        "cname": "坎德拉利亚教堂",
+        "url": "/sight/riodejaneiro932/140000.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/865/637/934ec9c54139408f9fc1d627129a9543_C_220_140.jpg",
+        "caddress": "Rua Primeiro de Marco, 64 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "圣特蕾莎区",
+        "url": "/sight/riodejaneiro932/140002.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/915/359/774/6858823b20d04437b1ed747b35feabae_C_220_140.jpg",
+        "caddress": "Rio de Janeiro, State of Rio de Janeiro"
+      },
+      {
+        "cname": "帝国皇宫",
+        "url": "/sight/riodejaneiro932/1407440.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/738/271/263/f59b3b6d4cc941c19886e2c0b20e4318_C_220_140.jpg",
+        "caddress": "Praça Quinze de Novembro, 48 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "印第安人博物馆",
+        "url": "/sight/riodejaneiro932/1407439.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/251/513/526/1ee9a4455f8448e2ad151e60afdb714d_C_220_140.jpg",
+        "caddress": "Rua da Palmeiras, 55 - Botafogo, Rio de Janeiro"
+      },
+      {
+        "cname": "拉帕区",
+        "url": "/sight/riodejaneiro932/1407465.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/273/162/577/9bee43bedb15492da967b9533b6f846a_C_220_140.jpg",
+        "caddress": "Lapa ,Rio de Janeiro"
+      },
+      {
+        "cname": "里约热内卢国家美术馆",
+        "url": "/sight/riodejaneiro932/1407422.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/678/090/153/c1d4547bfa6640ed9e212dfc39687fca_C_220_140.jpg",
+        "caddress": "Av. Rio Branco, 199 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "Cidade do Samba",
+        "url": "/sight/riodejaneiro932/1407425.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/954/378/822/7434d0b3ac9844c389c7dda08db57e3b_C_220_140.jpg",
+        "caddress": "Rua Rivadávia Corrêa - Gamboa, Rio de Janeiro"
+      },
+      {
+        "cname": "Eduardo Guinle公园",
+        "url": "/sight/riodejaneiro932/1407435.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/421/208/8ba35fa128614148bcfb2faab9ff3adc_C_220_140.jpg",
+        "caddress": "R. Gago Coutinho, 66 - Laranjeiras, Rio de Janeiro"
+      },
+      {
+        "cname": "Lage公园",
+        "url": "/sight/riodejaneiro932/1407460.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/672/153/735/0d6420f4a9784eb99b11003cbc5453dd_C_220_140.jpg",
+        "caddress": "R. Botanical Garden, 414 - Jardim Botanico, Rio de Janeiro - RJ, 22461-000"
+      },
+      {
+        "cname": "Mangueira桑巴舞学校",
+        "url": "/sight/riodejaneiro932/1407944.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/447/211/751/b31c21b8f4134b98b8fe88c4b9d84e33_C_220_140.jpg",
+        "caddress": "Rua Visconde de Niterói, 1072, Mangueira"
+      },
+      {
+        "cname": "Paquetá岛",
+        "url": "/sight/riodejaneiro932/1407438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/708/364/668/7f43e9d26c034159b907af61f0f2183b_C_220_140.jpg",
+        "caddress": "Paquetá, Rio de Janeiro"
+      },
+      {
+        "cname": "Parque Natural Municipal Bosqu...",
+        "url": "/sight/riodejaneiro932/1407431.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/246/481/822/0714ca22a62f48cf9dd006c8d3020cc6_C_220_140.jpg",
+        "caddress": "Av Sernambetiba, Recreio dos Bandeirantes"
+      },
+      {
+        "cname": "弗拉明戈公园",
+        "url": "/sight/riodejaneiro932/1407432.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/020/129/346/6c0ce2b61d3a45ad8a4ce7bf0cd706be_C_220_140.jpg",
+        "caddress": "Flamengo, Rio de Janeiro"
+      },
+      {
+        "cname": "科帕卡巴纳堡垒军队历史博物馆",
+        "url": "/sight/riodejaneiro932/1407421.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/582/433/415/4c206d05805a4d79ad94194592b834e6_C_220_140.jpg",
+        "caddress": "Praça Cel. Eugênio Franco, 1 - Copacabana, Rio de Janeiro"
+      },
+      {
+        "cname": "里约热内卢现代艺术博物馆",
+        "url": "/sight/riodejaneiro932/1407434.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/862/187/542/76ff8576caef437ab4b923de1f605f77_C_220_140.jpg",
+        "caddress": "Acesso para Av Inf-d. Henrique, 85 - Parque do Flamengo, Rio de Janeiro"
+      },
+      {
+        "cname": "罗德里格环礁",
+        "url": "/sight/riodejaneiro932/140001.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/909/850/853/e46f2bf056524420bd143dcb0094903e_C_220_140.jpg",
+        "caddress": "Av. Borges de Medeiros"
+      },
+      {
+        "cname": "里约中心",
+        "url": "/sight/riodejaneiro932/1413026.html",
+        "s_img": "",
+        "caddress": "Praça Floriano, S/N - Centro, Rio de Janeiro - RJ, 20031-050"
+      },
+      {
+        "cname": "共和国公园",
+        "url": "/sight/riodejaneiro932/1413038.html",
+        "s_img": "",
+        "caddress": "Rua Saldanha Marinho - Centro, Campos dos Goytacazes - RJ"
+      },
+      {
+        "cname": "美景公园",
+        "url": "/sight/riodejaneiro932/1413027.html",
+        "s_img": "",
+        "caddress": "São Cristóvão, RJ"
+      },
+      {
+        "cname": "财政岛",
+        "url": "/sight/riodejaneiro932/1407455.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/508/387/265/756355bd62c14c7288693f953a0a08bb_C_220_140.jpg",
+        "caddress": "Ilha Fiscal, Rio de Janeiro - RJ"
+      },
+      {
+        "cname": "第一帝国博物馆",
+        "url": "/sight/riodejaneiro932/1407456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/021/106/561/482a7f3e06ce45b0a3c362432a87f3a6_C_220_140.jpg",
+        "caddress": "Av Dom Pedro II 293"
+      },
+      {
+        "cname": "海洋军事博物馆",
+        "url": "/sight/riodejaneiro932/1407436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/708/246/965/049665c575614158bd4c76f6011f7706_C_220_140.jpg",
+        "caddress": "R. Dom Manoel, 15 - Centro, Rio de Janeiro"
+      },
+      {
+        "cname": "航天博物馆",
+        "url": "/sight/riodejaneiro932/1407430.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/917/438/c4ff387a8b1140be89e95a0e91f6af3c_C_220_140.jpg",
+        "caddress": "Avenida Marechal Fontenelle, 2000 - Campo dos Afonsos, Rio de Janeiro"
+      },
+      {
+        "cname": "外交历史博物馆",
+        "url": "/sight/riodejaneiro932/1407445.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/819/222/738/8013e9b22a0342e394ede41dfa499f67_C_220_140.jpg",
+        "caddress": "Avenida Marechal Floriano, 203-333 - Centro"
+      },
+      {
+        "cname": "药剂师之家",
+        "url": "/sight/riodejaneiro932/1407457.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/301/686/322/bc94e85fe8884993abbf88d1cbb3d7cd_C_220_140.jpg",
+        "caddress": "R. Cosme Velho 822, Rio de Janeiro"
+      },
+      {
+        "cname": "Jacone Lagoon",
+        "url": "/sight/marica139576/30025.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "圣保罗",
+    "url": "http://you.ctrip.com/sightlist/saopaulo933.html",
+    "places": [
+      {
+        "cname": "巴西独立纪念碑",
+        "url": "/sight/saopaulo933/76922.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/526/426/895/54413b45698b4cb19257478e2bf2c140_C_220_140.jpg",
+        "caddress": "Praça do Monumento, s/nº, Ipiranga, São Paulo, SP, 04261-050"
+      },
+      {
+        "cname": "圣保罗主教座堂",
+        "url": "/sight/saopaulo933/84038.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/684/578/595/4f3a38ba527d410187b17cd6691742fa_C_220_140.jpg",
+        "caddress": "Praça da Sé, São Paulo - SP, 01001-000"
+      },
+      {
+        "cname": "皇宫博物馆",
+        "url": "/sight/saopaulo933/76925.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/966/335/194/409d8320645b44eba5469cb303b9d9fe_C_220_140.jpg",
+        "caddress": "Parque da Independência, s/n.º - Ipiranga - CEP 04218-970 - Caixa"
+      },
+      {
+        "cname": "圣保罗金融街",
+        "url": "/sight/saopaulo933/1410023.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/257/680/615/994b47487e1d48f5afd0701dedb24f46_C_220_140.jpg",
+        "caddress": "Av. Paulista, São Paulo,"
+      },
+      {
+        "cname": "圣保罗独立公园",
+        "url": "/sight/saopaulo933/1410315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/056/669/846/3f37de89643d462c93fb851fbe3e28ba_C_220_140.jpg",
+        "caddress": "Parque da Independência, Ipiranga, São Paulo - SP, 04263-000"
+      },
+      {
+        "cname": "圣保罗艺术博物馆",
+        "url": "/sight/saopaulo933/1410290.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/979/823/794/e7a418f33a96451bb39b4f8d6155234f_C_220_140.jpg",
+        "caddress": "Avenida Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200"
+      },
+      {
+        "cname": "巴西拓荒者群雕",
+        "url": "/sight/saopaulo933/76919.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/248/759/992/474bbb50979148d5aa87576faf5e7a8d_C_220_140.jpg",
+        "caddress": "Praça Armando Sales Oliveira - Ibirapuera, São Paulo - SP"
+      },
+      {
+        "cname": "伊比拉普埃拉公园",
+        "url": "/sight/saopaulo933/1410321.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/897/887/855/c4862944fd7b43f5bdadbc730a4c4efb_C_220_140.jpg",
+        "caddress": "Avenida Pedro Álvares Cabral - Vila Mariana, São Paulo - SP"
+      },
+      {
+        "cname": "天主教艺术博物馆",
+        "url": "/sight/saopaulo933/1410303.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/923/710/975b974a0b18412ba3e266d94515b82b_C_220_140.jpg",
+        "caddress": "Avenida Tiradentes, 676 - Luz, São Paulo - SP, 01102-000"
+      },
+      {
+        "cname": "拉美纪念馆",
+        "url": "/sight/saopaulo933/76920.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/573/055/670/328b92c369854d588ec0f271f889aa20_C_220_140.jpg",
+        "caddress": "Avenida Auro Soares de Moura Andrade, 664 - Barra Funda, São Paulo - SP, 01156-001"
+      },
+      {
+        "cname": "蝙蝠侠胡同",
+        "url": "/sight/saopaulo933/1412491.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/900/506/811/79e10fa4f3034401adee6fe1900b5530_C_220_140.jpg",
+        "caddress": "R. Gonçalo Afonso - Vila Madalena, São Paulo - SP"
+      },
+      {
+        "cname": "东方街",
+        "url": "/sight/saopaulo933/1416181.html",
+        "s_img": "",
+        "caddress": "R.Galãvo Bueno, Liberdade, São Paulo-SP，Rua São Joaquim, Liberdade, São Paulo-SP。"
+      },
+      {
+        "cname": "圣保罗体育场",
+        "url": "/sight/saopaulo933/1410282.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/547/171/912/21b919a2029d4cfcacf6701ba8a227a2_C_220_140.jpg",
+        "caddress": "Avenida Miguel Ignácio Curi, 111 - Vila Carmosina, São Paulo - SP, 08295-005"
+      },
+      {
+        "cname": "布坦坦研究所",
+        "url": "/sight/saopaulo933/1412493.html",
+        "s_img": "",
+        "caddress": "Av. Vital Brasil, 1500, Butantã, São Paulo - SP, 05503-900"
+      },
+      {
+        "cname": "圣保罗市立剧院",
+        "url": "/sight/saopaulo933/1410292.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/790/420/318/e089814cb5fc427cbde8c9876ea0905f_C_220_140.jpg",
+        "caddress": "Praça Ramos de Azevedo, s/n - Republica, São Paulo - SP, 01037-010"
+      }
+    ]
+  },
+  {
+    "cname": "巴西利亚",
+    "url": "http://you.ctrip.com/sightlist/brasilia1426.html",
+    "places": [
+      {
+        "cname": "巴西利亚天主教大教堂",
+        "url": "/sight/brasilia1426/72366.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/825/976/936/a3b250e3cd4942f6a8acc388a0f577e9_C_220_140.jpg",
+        "caddress": "Ministries, lot 12, Brasília - DF, 70050-000"
+      },
+      {
+        "cname": "三权广场",
+        "url": "/sight/brasilia1426/72346.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/154/813/014/fee222d7366b478796f3e4491fc7b9de_C_220_140.jpg",
+        "caddress": "Praça dos Três Poderes, Brasília - DF, 70100-000"
+      },
+      {
+        "cname": "库比契克总统纪念碑",
+        "url": "/sight/brasilia1426/1410172.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/864/225/175/088f78289312438294460e446ec7ba4d_C_220_140.jpg",
+        "caddress": "Eixo Monumental, Lado Oeste - Praça do Cruzeiro - Sargento, Brasília, Brasília - DF, 70070-300"
+      },
+      {
+        "cname": "蓝色教堂",
+        "url": "/sight/brasilia1426/1410194.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/800/649/986/8106022f2cd442a0b819cb8df3e1c81f_C_220_140.jpg",
+        "caddress": "Santuario Dom Bosco, Brasilia, DF"
+      },
+      {
+        "cname": "巴西利亚国家公园",
+        "url": "/sight/brasilia1426/84080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/545/765/841/13fc27f6c5f64cf6875bcb8f84fa6df9_C_220_140.jpg",
+        "caddress": "DF Highway 003, Km 8.5, SOF Norte, Brasília - DF, 70730-000"
+      },
+      {
+        "cname": "伊塔马拉蒂宫",
+        "url": "/sight/brasilia1426/1410173.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/127/218/759/d316962e54274729997544a043cf163f_C_220_140.jpg",
+        "caddress": "Esplanada dos Ministérios, Bloco H, Eixo Monumental, Brasília - DF, 70170-090"
+      },
+      {
+        "cname": "巴西利亚电视塔",
+        "url": "/sight/brasilia1426/72857.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/903/162/622/219bf19773fe440ca0a6236d8fc93abc_C_220_140.jpg",
+        "caddress": "Sain, Brasilia, Federal Distric"
+      },
+      {
+        "cname": "总统纪念堂",
+        "url": "/sight/brasilia1426/1416163.html",
+        "s_img": "",
+        "caddress": "Eixo Monumental - Lado Oeste Praça do Cruzeiro cep 70.070-30"
+      },
+      {
+        "cname": "巴西利亚国家体育场",
+        "url": "/sight/brasilia1426/1410174.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/380/544/034/76650d21cbeb4aa98169cc8672315f95_C_220_140.jpg",
+        "caddress": "Asa Norte, Brasília - DF, 70070-701"
+      }
+    ]
+  },
+  {
+    "cname": "萨尔瓦多",
+    "url": "http://you.ctrip.com/sightlist/salvador1724.html",
+    "places": [
+      {
+        "cname": "圣弗朗西斯科教堂",
+        "url": "/sight/salvador1724/1410273.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/833/746/725/b93b9b6547ff431485ab7d4f28712b93_C_220_140.jpg",
+        "caddress": "Rua da Ordem Terceira - Pelourinho, Salvador - BA, 40026-260"
+      },
+      {
+        "cname": "缤纷主教堂",
+        "url": "/sight/salvador1724/1410274.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/384/646/069/66886d09ae4a4ab9bb05bf75d732d843_C_220_140.jpg",
+        "caddress": "Praça Sr. do Bonfim, s/n - Bonfim, Salvador - BA, 40415-475"
+      },
+      {
+        "cname": "新水源体育场",
+        "url": "/sight/salvador1724/1410271.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/759/565/752/36cbf4c9626e420ba877309c09ed358e_C_220_140.jpg",
+        "caddress": "Ladeira da Fonte das Pedras - Nazaré, Salvador - BA, 40050-565"
+      },
+      {
+        "cname": "现代艺术博物馆",
+        "url": "/sight/salvador1724/1410272.html",
+        "s_img": "",
+        "caddress": "Av. Contorno, Salvador"
+      }
+    ]
+  },
+  {
+    "cname": "马瑙斯",
+    "url": "http://you.ctrip.com/sightlist/manaus13750.html",
+    "places": [
+      {
+        "cname": "亚马逊剧院",
+        "url": "/sight/manaus13750/1410256.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/635/095/642/ea234eba99ac4e36affeadc15ee6f9d3_C_220_140.jpg",
+        "caddress": "Avenida Eduardo Ribeiro, Centro, Manaus - AM, 69025-140"
+      },
+      {
+        "cname": "亚马逊竞技场",
+        "url": "/sight/manaus13750/1410249.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/110/184/299/3934446a2e1a46ed98286df6841a7842_C_220_140.jpg",
+        "caddress": "Avenida Djalma Batista, 3637 - Flores, Manaus - AM, 69050-010"
+      },
+      {
+        "cname": "百年大剧院",
+        "url": "/sight/manaus13750/139920.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/667/908/873/93baebfaef8b4ea5bfba9946d3101b76_C_220_140.jpg",
+        "caddress": "Centro, Manaus - Amazonas, 巴西 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "阿雷格里港",
+    "url": "http://you.ctrip.com/sightlist/portoalegre1723.html",
+    "places": [
+      {
+        "cname": "南里奥格兰德美术馆",
+        "url": "/sight/portoalegre1723/1410265.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/082/037/184/5ead7f1e04c5468a9470a393a3ad9de8_C_220_140.jpg",
+        "caddress": "Rua Sete de Setembro - Centro, Porto Alegre - RS"
+      },
+      {
+        "cname": "贝拉里奥体育场",
+        "url": "/sight/portoalegre1723/1410232.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/387/569/869/31f3facd8dfd4ac3a8363a9ff0cbbd26_C_220_140.jpg",
+        "caddress": "Avenida Padre Cacique, 891 - Praia de Belas, Porto Alegre - RS, 90180-240"
+      },
+      {
+        "cname": "马里奥昆塔纳文化之家",
+        "url": "/sight/portoalegre1723/1410266.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/709/534/925/d7aad7dd9a7d4f3a9f43227a9517a435_C_220_140.jpg",
+        "caddress": "Rua dos Andradas, 736 - Centro, Porto Alegre - RS, 90020-003"
+      }
+    ]
+  },
+  {
+    "cname": "累西腓",
+    "url": "http://you.ctrip.com/sightlist/recife1812.html",
+    "places": [
+      {
+        "cname": "卡莱塔斯海滩",
+        "url": "/sight/recife1812/1410211.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/689/144/019/7dab1f5ce3324113b5b184753fcf8418_C_220_140.jpg",
+        "caddress": "Loteamento Águas Compridas, Cabo de Santo Agostinho"
+      },
+      {
+        "cname": "弗朗西斯科·布雷南德陶艺工作室",
+        "url": "/sight/recife1812/1410206.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/323/361/810/68dae33cad1b49dfbd60016b8e10699c_C_220_140.jpg",
+        "caddress": "Avenida Engenheiro Domingos Ferreira, 12 - Boa Viagem, Recife - PE, 51020-030"
+      },
+      {
+        "cname": "共和国广场",
+        "url": "/sight/recife1812/1410209.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/437/192/094/0c9b9e0df40a4b7686e18b1050218dbf_C_220_140.jpg",
+        "caddress": "Praça da República - São Antônio, Recife - PE"
+      },
+      {
+        "cname": "快乐旅途海滩",
+        "url": "/sight/recife1812/1410208.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/648/733/879/e33c3d4a2de14e6298478652875b531d_C_220_140.jpg",
+        "caddress": "Avenida Boa Viagem, 5576 - Boa Viagem, Recife - PE, 51030-000"
+      },
+      {
+        "cname": "圣弗朗西斯科三阶教堂",
+        "url": "/sight/recife1812/1410195.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/863/584/973/b0e04e9637a7437e852bb7e84536453b_C_220_140.jpg",
+        "caddress": "Igreja da Ordem Terceira de São Francisco, Recife, PE"
+      },
+      {
+        "cname": "卡哈尔·祖尔以色列犹太教堂",
+        "url": "/sight/recife1812/1410207.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/727/857/588/e491cd2b0e534f7cad5639446c7acb9e_C_220_140.jpg",
+        "caddress": "Rua do Bom Jesus, 197 - Recife, Olinda and Recife - PE, 50030-170"
+      },
+      {
+        "cname": "伯南布哥竞技场",
+        "url": "/sight/recife1812/1410201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/359/421/230/d7a67a5a2f694a5f972ced2c0f9aff2a_C_220_140.jpg",
+        "caddress": "Av. Deus É Fiel, 01 Letra A, Jardim Penedo, São Lourenço da Mata - PE, 54710-010"
+      },
+      {
+        "cname": "伯南布哥州博物馆",
+        "url": "/sight/recife1812/1410202.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/925/048/186/9e705e76fe88445bbd667a873bdb459f_C_220_140.jpg",
+        "caddress": "Avenida Rui Barbosa, 960 - Graças, Recife - PE, 52050-000"
+      },
+      {
+        "cname": "东北部人类博物馆",
+        "url": "/sight/recife1812/1410200.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/794/887/993/ed414fa6e9cd4288a6b28577ce0f53bb_C_220_140.jpg",
+        "caddress": "Av. Dezessete de Agosto, 2187 - Casa Forte, Recife - PE, 52061-540"
+      }
+    ]
+  },
+  {
+    "cname": "纳塔尔",
+    "url": "http://you.ctrip.com/sightlist/natal1720.html",
+    "places": [
+      {
+        "cname": "Pirangi海滩",
+        "url": "/sight/natal1720/1410263.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/372/744/385/85ec156e68314a8fbc6548e2bcf37b07_C_220_140.jpg",
+        "caddress": "Praia de Pirangi, Natal"
+      },
+      {
+        "cname": "内格拉海滩",
+        "url": "/sight/natal1720/1410264.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/606/747/bfce78d09d894376926edaa021f9372e_C_220_140.jpg",
+        "caddress": "Av Erivan França, Natal"
+      },
+      {
+        "cname": "瑞斯马高斯堡垒",
+        "url": "/sight/natal1720/1410262.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/434/448/090/d6f51821b49c4b6ab0cb40e3f775aa0e_C_220_140.jpg",
+        "caddress": "Forte dos Reis Magos, Natal - RN"
+      },
+      {
+        "cname": "沙丘体育场",
+        "url": "/sight/natal1720/1410261.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/247/727/724/d91a4f44c10548d1b006d711b1225767_C_220_140.jpg",
+        "caddress": "Av. Prudente de Morais, 5121 - Lagoa Nova, Natal - RN, 59020-510"
+      }
+    ]
+  },
+  {
+    "cname": "库亚巴",
+    "url": "http://you.ctrip.com/sightlist/cuiaba13793.html",
+    "places": [
+      {
+        "cname": "潘塔纳尔体育场",
+        "url": "/sight/cuiaba13793/1410216.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/650/456/645/4e26c0e05d9d4e6cb7e618a1af97f2bd_C_220_140.jpg",
+        "caddress": "Avenida Agrícola Paes de Barros, Cidade Alta, Cuiabá - MT, 78030-210"
+      }
+    ]
+  },
+  {
+    "cname": "贝洛奥里藏特",
+    "url": "http://you.ctrip.com/sightlist/belohorizonte13862.html",
+    "places": [
+      {
+        "cname": "市立公园",
+        "url": "/sight/belohorizonte13862/1410179.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/202/688/384/899b28b417fa4832ad62c84f681ed10c_C_220_140.jpg",
+        "caddress": "Avenida Afonso Pena-Centro,Belo Horizonte"
+      },
+      {
+        "cname": "艺术宫",
+        "url": "/sight/belohorizonte13862/1410186.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/455/269/146/dba0a650e7a54bb691b5a4f915e1f00b_C_220_140.jpg",
+        "caddress": "Belo Horizonte, MG"
+      },
+      {
+        "cname": "鲁伊·巴尔博萨广场",
+        "url": "/sight/belohorizonte13862/1410191.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/241/792/375/b3cf7fe2c8e948be8f51e10f0d994900_C_220_140.jpg",
+        "caddress": "Praça Rui Barbosa, Centro, Belo Horizonte - MG"
+      },
+      {
+        "cname": "米内罗体育场",
+        "url": "/sight/belohorizonte13862/1410181.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/635/320/982/dd78b6b9e90c40528e35164feabfae1d_C_220_140.jpg",
+        "caddress": "Avenida Antônio Abrahão Caram, 1001 - São José (Pampulha), Belo Horizonte - MG, 31275-000"
+      },
+      {
+        "cname": "以色列·皮涅罗广场",
+        "url": "/sight/belohorizonte13862/1410182.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/311/250/312/5f0591ebbeb749b690afa116d17b2473_C_220_140.jpg",
+        "caddress": "Praca Do Papa-Mangabeiras,Belo Horizonte,State of Minas Gerais 30210-320,Brazil"
+      },
+      {
+        "cname": "阿西西的圣方济各教堂",
+        "url": "/sight/belohorizonte13862/1410198.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/907/819/216/5f5ac119a6d8441aa937389ee89b4471_C_220_140.jpg",
+        "caddress": "Avenida Otacílio Negrão de Lima, 3000 - Pampulha\nBelo Horizonte - MG, 31365-450"
+      },
+      {
+        "cname": "潘普利亚艺术馆",
+        "url": "/sight/belohorizonte13862/1410192.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/901/045/088/9e5803cd06144405977120f94db2decd_C_220_140.jpg",
+        "caddress": "Av Dr Otacílio Negrao Lima, 16585 - Pampulha, Belo Horizonte - MG, 31365-450"
+      },
+      {
+        "cname": "快乐旅途圣母大教堂",
+        "url": "/sight/belohorizonte13862/1410197.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/475/894/873/53e9581b99dd4bfbb9e71658353d038f_C_220_140.jpg",
+        "caddress": "Rua Sergipe, 175 - Funcionários, Belo Horizonte - MG, 30130-170"
+      }
+    ]
+  },
+  {
+    "cname": "福塔莱萨",
+    "url": "http://you.ctrip.com/sightlist/fortaleza13900.html",
+    "places": [
+      {
+        "cname": "Cumbuco海滩",
+        "url": "/sight/fortaleza13900/1410203.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/764/712/452/0c73886e6bfa422095d5af6242e7ec4e_C_220_140.jpg",
+        "caddress": "Cumbuco Beach, Fortaleza - CE"
+      },
+      {
+        "cname": "Meireles海滩",
+        "url": "/sight/fortaleza13900/1410242.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/832/054/7596f4657b7a4615a4cd46e6a7bc6d9b_C_220_140.jpg",
+        "caddress": "Praia do Meireles, Fortaleza"
+      },
+      {
+        "cname": "卡斯特劳体育场",
+        "url": "/sight/fortaleza13900/1410241.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/127/666/845/0a0936dd507a4728826a99a6d7c7e43d_C_220_140.jpg",
+        "caddress": "Av. Alberto Craveiro, 2901, Castelão, Fortaleza - CE, 60861-211"
+      }
+    ]
+  }
+]

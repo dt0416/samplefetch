@@ -1,0 +1,64 @@
+[
+  {
+    "cname": "新加坡",
+    "suggest_places": [
+      {
+        "cname": "乌节路",
+        "url": "/sight/singapore53/108118.html"
+      },
+      {
+        "cname": "克拉码头",
+        "url": "/sight/singapore53/3654.html"
+      },
+      {
+        "cname": "圣淘沙岛",
+        "url": "/sight/singapore53/47929.html"
+      },
+      {
+        "cname": "鱼尾狮像公园",
+        "url": "/sight/singapore53/62748.html"
+      },
+      {
+        "cname": "新加坡动物园",
+        "url": "/sight/singapore53/3678.html"
+      }
+    ],
+    "url": "/sightlist/singapore53.html"
+  },
+  {
+    "cname": "圣淘沙",
+    "suggest_places": [
+      {
+        "cname": "新加坡环球影城",
+        "url": "/sight/sentosa776/75830.html"
+      },
+      {
+        "cname": "圣淘沙名胜世界",
+        "url": "/sight/sentosa776/87411.html"
+      },
+      {
+        "cname": "S.E.A海洋馆",
+        "url": "/sight/sentosa776/141369.html"
+      },
+      {
+        "cname": "巴拉湾海滩",
+        "url": "/sight/sentosa776/107848.html"
+      },
+      {
+        "cname": "圣淘沙名胜世界海洋生物园",
+        "url": "/sight/sentosa776/66798.html"
+      }
+    ],
+    "url": "/sightlist/sentosa776.html"
+  },
+  {
+    "cname": "裕廊",
+    "suggest_places": [
+      {
+        "cname": "裕廊飞禽公园",
+        "url": "/sight/jurong21393/3679.html"
+      }
+    ],
+    "url": "/sightlist/jurong21393.html"
+  }
+]

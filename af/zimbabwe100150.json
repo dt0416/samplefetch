@@ -1,0 +1,43 @@
+[
+  {
+    "cname": "哈拉雷",
+    "url": "http://you.ctrip.com/sightlist/harare1255.html",
+    "places": []
+  },
+  {
+    "cname": "维多利亚瀑布",
+    "url": "http://you.ctrip.com/sightlist/victoriafalls20092.html",
+    "places": [
+      {
+        "cname": "维多利亚瀑布",
+        "url": "/sight/victoriafalls20092/123078.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/840/403/430/d48496842200432e8288758a006eaac7_C_220_140.jpg",
+        "caddress": "津巴布韦(近赞比亚边界)"
+      },
+      {
+        "cname": "赞比西河",
+        "url": "/sight/victoriafalls20092/134364.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/922/418/567/d60874952d4844509cdfad7df8c5e8f9_C_220_140.jpg",
+        "caddress": "赞比亚西北16公里处"
+      },
+      {
+        "cname": "维多利亚瀑布",
+        "url": "/sight/livingstone20042/134359.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/0D/B3/CghzfFUHRiOAKtTfAAJ6UfiN1Bs156_C_220_140.jpg",
+        "caddress": "非洲赞比西河的中游赞比亚与津巴布韦接壤处"
+      },
+      {
+        "cname": "维多利亚大桥（赞比亚大桥）",
+        "url": "/sight/victoriafalls20092/139979.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/369/318/797/0c8cef6cd0b54a8293fbe8fad23930a9_C_220_140.jpg",
+        "caddress": "Livingstone, Southern, Zambia"
+      },
+      {
+        "cname": "魔鬼泳池",
+        "url": "/sight/victoriafalls20092/134365.html",
+        "s_img": "",
+        "caddress": "Victoria Falls, Zambezi Drive Zimbabwe"
+      }
+    ]
+  }
+]

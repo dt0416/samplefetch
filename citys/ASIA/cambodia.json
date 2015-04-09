@@ -1,0 +1,109 @@
+[
+  {
+    "cname": "暹粒",
+    "suggest_places": [
+      {
+        "cname": "吴哥窟",
+        "url": "/sight/siemreap599/1408833.html"
+      },
+      {
+        "cname": "女王宫",
+        "url": "/sight/siemreap599/19930.html"
+      },
+      {
+        "cname": "巴戎寺",
+        "url": "/sight/siemreap599/19929.html"
+      },
+      {
+        "cname": "崩密列",
+        "url": "/sight/siemreap599/19935.html"
+      },
+      {
+        "cname": "巴肯山",
+        "url": "/sight/siemreap599/19932.html"
+      }
+    ],
+    "url": "/sightlist/siemreap599.html"
+  },
+  {
+    "cname": "金边",
+    "suggest_places": [
+      {
+        "cname": "国家博物馆",
+        "url": "/sight/phnompenh489/19966.html"
+      },
+      {
+        "cname": "金边皇宫",
+        "url": "/sight/phnompenh489/19965.html"
+      },
+      {
+        "cname": "中央市场",
+        "url": "/sight/phnompenh489/110300.html"
+      },
+      {
+        "cname": "银殿",
+        "url": "/sight/phnompenh489/139674.html"
+      },
+      {
+        "cname": "独立纪念碑",
+        "url": "/sight/phnompenh489/19971.html"
+      }
+    ],
+    "url": "/sightlist/phnompenh489.html"
+  },
+  {
+    "cname": "西哈努克",
+    "suggest_places": [
+      {
+        "cname": "西哈努克",
+        "url": "/sight/sihanoukville1033/146520.html"
+      },
+      {
+        "cname": "高龙岛",
+        "url": "/sight/sihanoukville1033/110492.html"
+      },
+      {
+        "cname": "索卡海滩",
+        "url": "/sight/sihanoukville1033/26071.html"
+      },
+      {
+        "cname": "胜利海滩",
+        "url": "/sight/sihanoukville1033/26072.html"
+      },
+      {
+        "cname": "奥哲迭海滩",
+        "url": "/sight/sihanoukville1033/26069.html"
+      }
+    ],
+    "url": "/sightlist/sihanoukville1033.html"
+  },
+  {
+    "cname": "罗洛士",
+    "suggest_places": [
+      {
+        "cname": "Rolous",
+        "url": "/sight/roluos23163/122884.html"
+      }
+    ],
+    "url": "/sightlist/roluos23163.html"
+  },
+  {
+    "cname": "茶胶",
+    "suggest_places": [
+      {
+        "cname": "Spean Thma",
+        "url": "/sight/takeo23160/122882.html"
+      },
+      {
+        "cname": "Chapel of the Hospital",
+        "url": "/sight/takeo23160/122883.html"
+      }
+    ],
+    "url": "/sightlist/takeo23160.html"
+  },
+  {
+    "cname": "贡布",
+    "suggest_places": [],
+    "url": "/sightlist/kampot23161.html"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "cname": "波哥大",
+    "suggest_places": [
+      {
+        "cname": "圣克拉拉教堂",
+        "url": "/sight/bogota1702/1417903.html"
+      },
+      {
+        "cname": "圣弗朗西斯科教堂",
+        "url": "/sight/bogota1702/1418162.html"
+      },
+      {
+        "cname": "圣伊格纳西奥教堂",
+        "url": "/sight/bogota1702/1418161.html"
+      }
+    ],
+    "url": "/sightlist/bogota1702.html"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "cname": "卡萨布兰卡",
+    "suggest_places": [
+      {
+        "cname": "哈桑二世清真寺",
+        "url": "/sight/casablanca1693/140126.html"
+      },
+      {
+        "cname": "迈阿密海滨大道",
+        "url": "/sight/casablanca1693/1409543.html"
+      },
+      {
+        "cname": "里克咖啡馆",
+        "url": "/sight/casablanca1693/1409201.html"
+      },
+      {
+        "cname": "圣人区",
+        "url": "/sight/casablanca1693/1410306.html"
+      }
+    ],
+    "url": "/sightlist/casablanca1693.html"
+  },
+  {
+    "cname": "马拉喀什",
+    "suggest_places": [
+      {
+        "cname": "库图比亚清真寺",
+        "url": "/sight/marrakech1748/140127.html"
+      },
+      {
+        "cname": "不眠广场",
+        "url": "/sight/marrakech1748/1409648.html"
+      },
+      {
+        "cname": "伊芙圣罗兰花园",
+        "url": "/sight/marrakech1748/1409633.html"
+      },
+      {
+        "cname": "梅纳拉花园",
+        "url": "/sight/marrakech1748/1409646.html"
+      },
+      {
+        "cname": "巴迪皇宫",
+        "url": "/sight/marrakech1748/1409650.html"
+      }
+    ],
+    "url": "/sightlist/marrakech1748.html"
+  },
+  {
+    "cname": "非斯",
+    "suggest_places": [
+      {
+        "cname": "卡鲁因清真寺",
+        "url": "/sight/fes1730/1414341.html"
+      },
+      {
+        "cname": "卡拉维因大学",
+        "url": "/sight/fes1730/1414338.html"
+      },
+      {
+        "cname": "伊德里斯陵墓",
+        "url": "/sight/fes1730/1414340.html"
+      }
+    ],
+    "url": "/sightlist/fes1730.html"
+  },
+  {
+    "cname": "拉巴特",
+    "suggest_places": [
+      {
+        "cname": "舍拉废墟遗址",
+        "url": "/sight/rabat1735/1410317.html"
+      },
+      {
+        "cname": "乌达雅堡",
+        "url": "/sight/rabat1735/1410312.html"
+      },
+      {
+        "cname": "拉巴特阿拉伯人区",
+        "url": "/sight/rabat1735/1410326.html"
+      },
+      {
+        "cname": "穆罕默德五世皇陵",
+        "url": "/sight/rabat1735/140122.html"
+      },
+      {
+        "cname": "拉巴特皇宫",
+        "url": "/sight/rabat1735/1414351.html"
+      }
+    ],
+    "url": "/sightlist/rabat1735.html"
+  },
+  {
+    "cname": "丹吉尔",
+    "suggest_places": [
+      {
+        "cname": "非洲洞",
+        "url": "/sight/tangier1738/1409577.html"
+      },
+      {
+        "cname": "丹吉尔老城区",
+        "url": "/sight/tangier1738/1412661.html"
+      },
+      {
+        "cname": "美国使节博物馆",
+        "url": "/sight/tangier1738/1409583.html"
+      },
+      {
+        "cname": "斯帕特尔海角灯塔",
+        "url": "/sight/tangier1738/1409621.html"
+      }
+    ],
+    "url": "/sightlist/tangier1738.html"
+  },
+  {
+    "cname": "瓦尔扎扎特",
+    "suggest_places": [
+      {
+        "cname": "古城埃本哈杜",
+        "url": "/sight/ouarzazate1734/140125.html"
+      }
+    ],
+    "url": "/sightlist/ouarzazate1734.html"
+  },
+  {
+    "cname": "梅克内斯",
+    "suggest_places": [
+      {
+        "cname": "曼索尔城门",
+        "url": "/sight/meknes21761/1414334.html"
+      },
+      {
+        "cname": "皇家马厩粮仓",
+        "url": "/sight/meknes21761/1414337.html"
+      }
+    ],
+    "url": "/sightlist/meknes21761.html"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "cname": "帕罗",
+    "suggest_places": [
+      {
+        "cname": "虎穴寺",
+        "url": "/sight/paro21433/145829.html"
+      },
+      {
+        "cname": "不丹国家博物馆",
+        "url": "/sight/paro21433/1413165.html"
+      },
+      {
+        "cname": "Chele La山隘",
+        "url": "/sight/paro21433/1413286.html"
+      },
+      {
+        "cname": "哈阿河谷",
+        "url": "/sight/paro21433/1413277.html"
+      },
+      {
+        "cname": "帕罗宗",
+        "url": "/sight/paro21433/145830.html"
+      }
+    ],
+    "url": "/sightlist/paro21433.html"
+  },
+  {
+    "cname": "廷布",
+    "suggest_places": [
+      {
+        "cname": "多曲拉山口",
+        "url": "/sight/thimphu21431/1413167.html"
+      },
+      {
+        "cname": "民俗博物馆",
+        "url": "/sight/thimphu21431/1413095.html"
+      },
+      {
+        "cname": "塔金动物园",
+        "url": "/sight/thimphu21431/1413319.html"
+      },
+      {
+        "cname": "释迦摩尼佛像",
+        "url": "/sight/thimphu21431/1413422.html"
+      },
+      {
+        "cname": "扎西确宗",
+        "url": "/sight/thimphu21431/1413274.html"
+      }
+    ],
+    "url": "/sightlist/thimphu21431.html"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "cname": "里约热内卢",
+    "suggest_places": [
+      {
+        "cname": "面包山",
+        "url": "/sight/riodejaneiro932/139992.html"
+      },
+      {
+        "cname": "基督山",
+        "url": "/sight/riodejaneiro932/139991.html"
+      },
+      {
+        "cname": "伊帕内玛海滩",
+        "url": "/sight/riodejaneiro932/139994.html"
+      },
+      {
+        "cname": "天梯教堂",
+        "url": "/sight/riodejaneiro932/139993.html"
+      },
+      {
+        "cname": "科帕卡瓦纳海滩",
+        "url": "/sight/riodejaneiro932/139995.html"
+      }
+    ],
+    "url": "/sightlist/riodejaneiro932.html"
+  },
+  {
+    "cname": "圣保罗",
+    "suggest_places": [
+      {
+        "cname": "巴西独立纪念碑",
+        "url": "/sight/saopaulo933/76922.html"
+      },
+      {
+        "cname": "圣保罗主教座堂",
+        "url": "/sight/saopaulo933/84038.html"
+      },
+      {
+        "cname": "皇宫博物馆",
+        "url": "/sight/saopaulo933/76925.html"
+      },
+      {
+        "cname": "圣保罗金融街",
+        "url": "/sight/saopaulo933/1410023.html"
+      },
+      {
+        "cname": "圣保罗独立公园",
+        "url": "/sight/saopaulo933/1410315.html"
+      }
+    ],
+    "url": "/sightlist/saopaulo933.html"
+  },
+  {
+    "cname": "巴西利亚",
+    "suggest_places": [
+      {
+        "cname": "巴西利亚天主教大教堂",
+        "url": "/sight/brasilia1426/72366.html"
+      },
+      {
+        "cname": "三权广场",
+        "url": "/sight/brasilia1426/72346.html"
+      },
+      {
+        "cname": "库比契克总统纪念碑",
+        "url": "/sight/brasilia1426/1410172.html"
+      },
+      {
+        "cname": "蓝色教堂",
+        "url": "/sight/brasilia1426/1410194.html"
+      },
+      {
+        "cname": "巴西利亚国家公园",
+        "url": "/sight/brasilia1426/84080.html"
+      }
+    ],
+    "url": "/sightlist/brasilia1426.html"
+  },
+  {
+    "cname": "萨尔瓦多",
+    "suggest_places": [
+      {
+        "cname": "圣弗朗西斯科教堂",
+        "url": "/sight/salvador1724/1410273.html"
+      },
+      {
+        "cname": "缤纷主教堂",
+        "url": "/sight/salvador1724/1410274.html"
+      },
+      {
+        "cname": "新水源体育场",
+        "url": "/sight/salvador1724/1410271.html"
+      },
+      {
+        "cname": "现代艺术博物馆",
+        "url": "/sight/salvador1724/1410272.html"
+      }
+    ],
+    "url": "/sightlist/salvador1724.html"
+  },
+  {
+    "cname": "马瑙斯",
+    "suggest_places": [
+      {
+        "cname": "亚马逊剧院",
+        "url": "/sight/manaus13750/1410256.html"
+      },
+      {
+        "cname": "亚马逊竞技场",
+        "url": "/sight/manaus13750/1410249.html"
+      },
+      {
+        "cname": "百年大剧院",
+        "url": "/sight/manaus13750/139920.html"
+      }
+    ],
+    "url": "/sightlist/manaus13750.html"
+  },
+  {
+    "cname": "阿雷格里港",
+    "suggest_places": [
+      {
+        "cname": "南里奥格兰德美术馆",
+        "url": "/sight/portoalegre1723/1410265.html"
+      },
+      {
+        "cname": "贝拉里奥体育场",
+        "url": "/sight/portoalegre1723/1410232.html"
+      },
+      {
+        "cname": "马里奥昆塔纳文化之家",
+        "url": "/sight/portoalegre1723/1410266.html"
+      }
+    ],
+    "url": "/sightlist/portoalegre1723.html"
+  },
+  {
+    "cname": "累西腓",
+    "suggest_places": [
+      {
+        "cname": "卡莱塔斯海滩",
+        "url": "/sight/recife1812/1410211.html"
+      },
+      {
+        "cname": "弗朗西斯科·布雷南德陶艺工作室",
+        "url": "/sight/recife1812/1410206.html"
+      },
+      {
+        "cname": "共和国广场",
+        "url": "/sight/recife1812/1410209.html"
+      },
+      {
+        "cname": "快乐旅途海滩",
+        "url": "/sight/recife1812/1410208.html"
+      },
+      {
+        "cname": "圣弗朗西斯科三阶教堂",
+        "url": "/sight/recife1812/1410195.html"
+      }
+    ],
+    "url": "/sightlist/recife1812.html"
+  },
+  {
+    "cname": "纳塔尔",
+    "suggest_places": [
+      {
+        "cname": "Pirangi海滩",
+        "url": "/sight/natal1720/1410263.html"
+      },
+      {
+        "cname": "内格拉海滩",
+        "url": "/sight/natal1720/1410264.html"
+      },
+      {
+        "cname": "瑞斯马高斯堡垒",
+        "url": "/sight/natal1720/1410262.html"
+      },
+      {
+        "cname": "沙丘体育场",
+        "url": "/sight/natal1720/1410261.html"
+      }
+    ],
+    "url": "/sightlist/natal1720.html"
+  },
+  {
+    "cname": "库亚巴",
+    "suggest_places": [
+      {
+        "cname": "潘塔纳尔体育场",
+        "url": "/sight/cuiaba13793/1410216.html"
+      }
+    ],
+    "url": "/sightlist/cuiaba13793.html"
+  },
+  {
+    "cname": "贝洛奥里藏特",
+    "suggest_places": [
+      {
+        "cname": "市立公园",
+        "url": "/sight/belohorizonte13862/1410179.html"
+      },
+      {
+        "cname": "艺术宫",
+        "url": "/sight/belohorizonte13862/1410186.html"
+      },
+      {
+        "cname": "鲁伊·巴尔博萨广场",
+        "url": "/sight/belohorizonte13862/1410191.html"
+      },
+      {
+        "cname": "米内罗体育场",
+        "url": "/sight/belohorizonte13862/1410181.html"
+      },
+      {
+        "cname": "以色列·皮涅罗广场",
+        "url": "/sight/belohorizonte13862/1410182.html"
+      }
+    ],
+    "url": "/sightlist/belohorizonte13862.html"
+  },
+  {
+    "cname": "福塔莱萨",
+    "suggest_places": [
+      {
+        "cname": "Cumbuco海滩",
+        "url": "/sight/fortaleza13900/1410203.html"
+      },
+      {
+        "cname": "Meireles海滩",
+        "url": "/sight/fortaleza13900/1410242.html"
+      },
+      {
+        "cname": "卡斯特劳体育场",
+        "url": "/sight/fortaleza13900/1410241.html"
+      }
+    ],
+    "url": "/sightlist/fortaleza13900.html"
+  }
+]

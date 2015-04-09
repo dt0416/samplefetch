@@ -1,0 +1,1102 @@
+[
+  {
+    "cname": "拉萨",
+    "suggest_places": [
+      {
+        "cname": "布达拉宫",
+        "url": "/sight/lhasa36/3117.html"
+      },
+      {
+        "cname": "大昭寺",
+        "url": "/sight/lhasa36/3119.html"
+      },
+      {
+        "cname": "纳木错",
+        "url": "/sight/lhasa36/11793.html"
+      },
+      {
+        "cname": "八廓街",
+        "url": "/sight/lhasa36/3124.html"
+      },
+      {
+        "cname": "罗布林卡",
+        "url": "/sight/lhasa36/3118.html"
+      }
+    ],
+    "url": "/sightlist/lhasa36.html"
+  },
+  {
+    "cname": "林芝",
+    "suggest_places": [
+      {
+        "cname": "雅鲁藏布大峡谷",
+        "url": "/sight/linzhi126/4625.html"
+      },
+      {
+        "cname": "巴松措",
+        "url": "/sight/linzhi126/4621.html"
+      },
+      {
+        "cname": "南迦巴瓦峰",
+        "url": "/sight/linzhi126/4619.html"
+      },
+      {
+        "cname": "米堆冰川",
+        "url": "/sight/linzhi126/55246.html"
+      },
+      {
+        "cname": "尼洋河",
+        "url": "/sight/linzhi126/55245.html"
+      }
+    ],
+    "url": "/sightlist/linzhi126.html"
+  },
+  {
+    "cname": "日喀则",
+    "suggest_places": [
+      {
+        "cname": "扎什伦布寺",
+        "url": "/sight/rikaze100/4271.html"
+      },
+      {
+        "cname": "珠峰大本营",
+        "url": "/sight/rikaze100/133016.html"
+      },
+      {
+        "cname": "珠穆朗玛峰",
+        "url": "/sight/rikaze100/4280.html"
+      },
+      {
+        "cname": "白居寺",
+        "url": "/sight/rikaze100/4272.html"
+      },
+      {
+        "cname": "卡若拉冰川",
+        "url": "/sight/rikaze100/109942.html"
+      }
+    ],
+    "url": "/sightlist/rikaze100.html"
+  },
+  {
+    "cname": "阿里",
+    "suggest_places": [
+      {
+        "cname": "冈仁波齐",
+        "url": "/sight/ali99/4315.html"
+      },
+      {
+        "cname": "玛旁雍错",
+        "url": "/sight/ali99/11796.html"
+      },
+      {
+        "cname": "拉昂错",
+        "url": "/sight/ali99/55996.html"
+      },
+      {
+        "cname": "班公错",
+        "url": "/sight/ali99/4317.html"
+      },
+      {
+        "cname": "古格王国遗址",
+        "url": "/sight/ali99/4316.html"
+      }
+    ],
+    "url": "/sightlist/ali99.html"
+  },
+  {
+    "cname": "浪卡子",
+    "suggest_places": [
+      {
+        "cname": "羊卓雍措",
+        "url": "/sight/langqiazi2438/43863.html"
+      },
+      {
+        "cname": "甘巴拉山口",
+        "url": "/sight/langqiazi2438/132895.html"
+      },
+      {
+        "cname": "普莫雍错",
+        "url": "/sight/langqiazi2438/132898.html"
+      },
+      {
+        "cname": "桑丁寺",
+        "url": "/sight/langqiazi2438/129075.html"
+      },
+      {
+        "cname": "姜桑拉姆峰",
+        "url": "/sight/langqiazi2438/54935.html"
+      }
+    ],
+    "url": "/sightlist/langqiazi2438.html"
+  },
+  {
+    "cname": "林芝县",
+    "suggest_places": [
+      {
+        "cname": "尼洋河",
+        "url": "/sight/linzhixian2449/55245.html"
+      },
+      {
+        "cname": "色季拉山",
+        "url": "/sight/linzhixian2449/77603.html"
+      },
+      {
+        "cname": "帕隆藏布江",
+        "url": "/sight/linzhixian2449/133615.html"
+      },
+      {
+        "cname": "措木及日景区",
+        "url": "/sight/linzhixian2449/128990.html"
+      },
+      {
+        "cname": "林芝自然博物馆",
+        "url": "/sight/linzhixian2449/133577.html"
+      }
+    ],
+    "url": "/sightlist/linzhixian2449.html"
+  },
+  {
+    "cname": "山南",
+    "suggest_places": [
+      {
+        "cname": "羊卓雍措",
+        "url": "/sight/shannan339/43863.html"
+      },
+      {
+        "cname": "桑耶寺",
+        "url": "/sight/shannan339/11822.html"
+      },
+      {
+        "cname": "雍布拉康",
+        "url": "/sight/shannan339/11830.html"
+      },
+      {
+        "cname": "拉姆拉错",
+        "url": "/sight/shannan339/11811.html"
+      },
+      {
+        "cname": "昌珠寺",
+        "url": "/sight/shannan339/11836.html"
+      }
+    ],
+    "url": "/sightlist/shannan339.html"
+  },
+  {
+    "cname": "定日",
+    "suggest_places": [
+      {
+        "cname": "珠峰大本营",
+        "url": "/sight/dingri2450/133016.html"
+      },
+      {
+        "cname": "绒布寺",
+        "url": "/sight/dingri2450/11852.html"
+      },
+      {
+        "cname": "卓奥友峰",
+        "url": "/sight/dingri2450/54967.html"
+      },
+      {
+        "cname": "绒布冰川",
+        "url": "/sight/dingri2450/4281.html"
+      },
+      {
+        "cname": "嘉措拉山口",
+        "url": "/sight/dingri2450/132747.html"
+      }
+    ],
+    "url": "/sightlist/dingri2450.html"
+  },
+  {
+    "cname": "江孜",
+    "suggest_places": [
+      {
+        "cname": "白居寺",
+        "url": "/sight/jiangzi2437/4272.html"
+      },
+      {
+        "cname": "卡若拉冰川",
+        "url": "/sight/jiangzi2437/109942.html"
+      },
+      {
+        "cname": "帕拉庄园",
+        "url": "/sight/jiangzi2437/54920.html"
+      },
+      {
+        "cname": "江孜宗山古堡",
+        "url": "/sight/jiangzi2437/4273.html"
+      },
+      {
+        "cname": "满拉水库",
+        "url": "/sight/jiangzi2437/129026.html"
+      }
+    ],
+    "url": "/sightlist/jiangzi2437.html"
+  },
+  {
+    "cname": "当雄",
+    "suggest_places": [
+      {
+        "cname": "那根拉山口",
+        "url": "/sight/dangxiong2443/109943.html"
+      },
+      {
+        "cname": "唐古拉山口",
+        "url": "/sight/dangxiong2443/51568.html"
+      },
+      {
+        "cname": "念青唐古拉观景台",
+        "url": "/sight/dangxiong2443/44016.html"
+      },
+      {
+        "cname": "唐拉昂曲峰",
+        "url": "/sight/dangxiong2443/54452.html"
+      },
+      {
+        "cname": "迎宾石",
+        "url": "/sight/dangxiong2443/1487587.html"
+      }
+    ],
+    "url": "/sightlist/dangxiong2443.html"
+  },
+  {
+    "cname": "波密",
+    "suggest_places": [
+      {
+        "cname": "米堆冰川",
+        "url": "/sight/bomi2436/55246.html"
+      },
+      {
+        "cname": "排龙天险",
+        "url": "/sight/bomi2436/128989.html"
+      },
+      {
+        "cname": "岗乡自然保护区",
+        "url": "/sight/bomi2436/4642.html"
+      },
+      {
+        "cname": "通麦大桥",
+        "url": "/sight/bomi2436/1493445.html"
+      },
+      {
+        "cname": "易贡国家地质公园",
+        "url": "/sight/bomi2436/128991.html"
+      }
+    ],
+    "url": "/sightlist/bomi2436.html"
+  },
+  {
+    "cname": "工布江达",
+    "suggest_places": [
+      {
+        "cname": "中流砥柱",
+        "url": "/sight/gongbujiangda120396/128970.html"
+      },
+      {
+        "cname": "格萨尔古堡",
+        "url": "/sight/gongbujiangda120396/128993.html"
+      },
+      {
+        "cname": "巴松湖国家森林公园",
+        "url": "/sight/gongbujiangda120396/1493277.html"
+      },
+      {
+        "cname": "帕嘎寺",
+        "url": "/sight/gongbujiangda120396/4616.html"
+      },
+      {
+        "cname": "布如沟温泉群",
+        "url": "/sight/gongbujiangda120396/1417248.html"
+      }
+    ],
+    "url": "/sightlist/gongbujiangda120396.html"
+  },
+  {
+    "cname": "八宿",
+    "suggest_places": [
+      {
+        "cname": "然乌湖",
+        "url": "/sight/basu120403/43786.html"
+      },
+      {
+        "cname": "怒江七十二道拐",
+        "url": "/sight/basu120403/145205.html"
+      },
+      {
+        "cname": "来古冰川",
+        "url": "/sight/basu120403/52577.html"
+      },
+      {
+        "cname": "多拉神山",
+        "url": "/sight/basu120403/18701.html"
+      },
+      {
+        "cname": "八宿嘎学岩画",
+        "url": "/sight/basu120403/18693.html"
+      }
+    ],
+    "url": "/sightlist/basu120403.html"
+  },
+  {
+    "cname": "昌都",
+    "suggest_places": [
+      {
+        "cname": "然乌湖",
+        "url": "/sight/changdu559/43786.html"
+      },
+      {
+        "cname": "怒江七十二道拐",
+        "url": "/sight/changdu559/145205.html"
+      },
+      {
+        "cname": "东达山",
+        "url": "/sight/changdu559/129081.html"
+      },
+      {
+        "cname": "西藏盐井千年古盐田",
+        "url": "/sight/changdu559/145206.html"
+      },
+      {
+        "cname": "来古冰川",
+        "url": "/sight/changdu559/52577.html"
+      }
+    ],
+    "url": "/sightlist/changdu559.html"
+  },
+  {
+    "cname": "那曲地区",
+    "suggest_places": [
+      {
+        "cname": "错那湖",
+        "url": "/sight/naqu919/109941.html"
+      },
+      {
+        "cname": "羌塘草原",
+        "url": "/sight/naqu919/44009.html"
+      },
+      {
+        "cname": "当惹雍错",
+        "url": "/sight/naqu919/44024.html"
+      },
+      {
+        "cname": "色林措",
+        "url": "/sight/naqu919/44023.html"
+      },
+      {
+        "cname": "申扎自然保护区",
+        "url": "/sight/naqu919/44018.html"
+      }
+    ],
+    "url": "/sightlist/naqu919.html"
+  },
+  {
+    "cname": "比如",
+    "suggest_places": [
+      {
+        "cname": "比如骷髅墙",
+        "url": "/sight/biru120390/44013.html"
+      },
+      {
+        "cname": "羊秀自然风景区",
+        "url": "/sight/biru120390/55764.html"
+      }
+    ],
+    "url": "/sightlist/biru120390.html"
+  },
+  {
+    "cname": "左贡",
+    "suggest_places": [
+      {
+        "cname": "东达山",
+        "url": "/sight/zuogong120405/129081.html"
+      }
+    ],
+    "url": "/sightlist/zuogong120405.html"
+  },
+  {
+    "cname": "聂拉木",
+    "suggest_places": [
+      {
+        "cname": "樟木口岸",
+        "url": "/sight/nielamu2445/11788.html"
+      },
+      {
+        "cname": "希夏邦马峰",
+        "url": "/sight/nielamu2445/54916.html"
+      },
+      {
+        "cname": "中尼友谊桥",
+        "url": "/sight/nielamu2445/146845.html"
+      }
+    ],
+    "url": "/sightlist/nielamu2445.html"
+  },
+  {
+    "cname": "普兰",
+    "suggest_places": [
+      {
+        "cname": "玛旁雍错",
+        "url": "/sight/pulan2440/11796.html"
+      },
+      {
+        "cname": "拉昂错",
+        "url": "/sight/pulan2440/55996.html"
+      },
+      {
+        "cname": "纳木那尼峰",
+        "url": "/sight/pulan2440/55997.html"
+      },
+      {
+        "cname": "即乌寺",
+        "url": "/sight/pulan2440/110473.html"
+      },
+      {
+        "cname": "科迦寺",
+        "url": "/sight/pulan2440/11802.html"
+      }
+    ],
+    "url": "/sightlist/pulan2440.html"
+  },
+  {
+    "cname": "札达",
+    "suggest_places": [
+      {
+        "cname": "古格王国遗址",
+        "url": "/sight/zhada2454/4316.html"
+      },
+      {
+        "cname": "札达土林",
+        "url": "/sight/zhada2454/4423.html"
+      },
+      {
+        "cname": "托林寺",
+        "url": "/sight/zhada2454/11801.html"
+      },
+      {
+        "cname": "皮央东嘎洞窟遗址",
+        "url": "/sight/zhada2454/56000.html"
+      }
+    ],
+    "url": "/sightlist/zhada2454.html"
+  },
+  {
+    "cname": "那曲",
+    "suggest_places": [
+      {
+        "cname": "羌塘草原",
+        "url": "/sight/naqu120387/44009.html"
+      },
+      {
+        "cname": "卓玛峡谷",
+        "url": "/sight/naqu120387/44011.html"
+      },
+      {
+        "cname": "草原八塔",
+        "url": "/sight/naqu120387/44007.html"
+      },
+      {
+        "cname": "桑丹康桑雪山",
+        "url": "/sight/naqu120387/44014.html"
+      },
+      {
+        "cname": "孝登寺",
+        "url": "/sight/naqu120387/55759.html"
+      }
+    ],
+    "url": "/sightlist/naqu120387.html"
+  },
+  {
+    "cname": "安多",
+    "suggest_places": [
+      {
+        "cname": "错那湖",
+        "url": "/sight/anduo120385/109941.html"
+      },
+      {
+        "cname": "格拉丹东雪山",
+        "url": "/sight/anduo120385/44020.html"
+      }
+    ],
+    "url": "/sightlist/anduo120385.html"
+  },
+  {
+    "cname": "贡嘎",
+    "suggest_places": [
+      {
+        "cname": "夏珠林寺",
+        "url": "/sight/gongga120408/129067.html"
+      },
+      {
+        "cname": "多吉扎寺",
+        "url": "/sight/gongga120408/55604.html"
+      },
+      {
+        "cname": "昌果沟文化遗址",
+        "url": "/sight/gongga120408/43866.html"
+      },
+      {
+        "cname": "土旦热麦寺",
+        "url": "/sight/gongga120408/129077.html"
+      },
+      {
+        "cname": "贡嘎曲德寺",
+        "url": "/sight/gongga120408/129053.html"
+      }
+    ],
+    "url": "/sightlist/gongga120408.html"
+  },
+  {
+    "cname": "芒康",
+    "suggest_places": [
+      {
+        "cname": "红拉山滇金丝猴国家级自然保护区",
+        "url": "/sight/mangkang2452/56114.html"
+      },
+      {
+        "cname": "盐井天主教堂",
+        "url": "/sight/mangkang2452/56094.html"
+      },
+      {
+        "cname": "莽错",
+        "url": "/sight/mangkang2452/56098.html"
+      }
+    ],
+    "url": "/sightlist/mangkang2452.html"
+  },
+  {
+    "cname": "扎囊",
+    "suggest_places": [
+      {
+        "cname": "桑耶寺",
+        "url": "/sight/zhanang2451/11822.html"
+      },
+      {
+        "cname": "青朴修行地",
+        "url": "/sight/zhanang2451/11839.html"
+      },
+      {
+        "cname": "敏珠林寺",
+        "url": "/sight/zhanang2451/11840.html"
+      },
+      {
+        "cname": "海布日神山",
+        "url": "/sight/zhanang2451/11826.html"
+      },
+      {
+        "cname": "扎塘寺",
+        "url": "/sight/zhanang2451/55543.html"
+      }
+    ],
+    "url": "/sightlist/zhanang2451.html"
+  },
+  {
+    "cname": "尼玛",
+    "suggest_places": [
+      {
+        "cname": "当惹雍错",
+        "url": "/sight/nima120383/44024.html"
+      },
+      {
+        "cname": "色林措",
+        "url": "/sight/nima120383/44023.html"
+      },
+      {
+        "cname": "达果雪山",
+        "url": "/sight/nima120383/44006.html"
+      },
+      {
+        "cname": "象雄王国遗址",
+        "url": "/sight/nima120383/44012.html"
+      },
+      {
+        "cname": "达则错",
+        "url": "/sight/nima120383/132456.html"
+      }
+    ],
+    "url": "/sightlist/nima120383.html"
+  },
+  {
+    "cname": "日土",
+    "suggest_places": [
+      {
+        "cname": "班公错",
+        "url": "/sight/ritu120147/4317.html"
+      },
+      {
+        "cname": "界山达坂",
+        "url": "/sight/ritu120147/129041.html"
+      },
+      {
+        "cname": "日土岩画",
+        "url": "/sight/ritu120147/55998.html"
+      }
+    ],
+    "url": "/sightlist/ritu120147.html"
+  },
+  {
+    "cname": "加查",
+    "suggest_places": [
+      {
+        "cname": "拉姆拉错",
+        "url": "/sight/jiacha120409/11811.html"
+      },
+      {
+        "cname": "琼果杰寺",
+        "url": "/sight/jiacha120409/11817.html"
+      },
+      {
+        "cname": "那玉河谷",
+        "url": "/sight/jiacha120409/132899.html"
+      }
+    ],
+    "url": "/sightlist/jiacha120409.html"
+  },
+  {
+    "cname": "米林",
+    "suggest_places": [
+      {
+        "cname": "佛掌沙丘",
+        "url": "/sight/milin2448/128975.html"
+      },
+      {
+        "cname": "直白村",
+        "url": "/sight/milin2448/1412455.html"
+      },
+      {
+        "cname": "格嘎温泉",
+        "url": "/sight/milin2448/81963.html"
+      },
+      {
+        "cname": "那木拉错",
+        "url": "/sight/milin2448/1493289.html"
+      },
+      {
+        "cname": "大渡卡遗址",
+        "url": "/sight/milin2448/128983.html"
+      }
+    ],
+    "url": "/sightlist/milin2448.html"
+  },
+  {
+    "cname": "乃东",
+    "suggest_places": [
+      {
+        "cname": "昌珠寺",
+        "url": "/sight/naidong2441/11836.html"
+      },
+      {
+        "cname": "贡布日神山",
+        "url": "/sight/naidong2441/11827.html"
+      },
+      {
+        "cname": "烈士陵园",
+        "url": "/sight/naidong2441/129078.html"
+      },
+      {
+        "cname": "吉如拉康寺",
+        "url": "/sight/naidong2441/55587.html"
+      },
+      {
+        "cname": "泽当寺",
+        "url": "/sight/naidong2441/129071.html"
+      }
+    ],
+    "url": "/sightlist/naidong2441.html"
+  },
+  {
+    "cname": "萨迦",
+    "suggest_places": [
+      {
+        "cname": "萨迦寺",
+        "url": "/sight/sajia2442/4275.html"
+      },
+      {
+        "cname": "刚钦寺",
+        "url": "/sight/sajia2442/54965.html"
+      },
+      {
+        "cname": "刚坚寺",
+        "url": "/sight/sajia2442/1489338.html"
+      }
+    ],
+    "url": "/sightlist/sajia2442.html"
+  },
+  {
+    "cname": "措勤",
+    "suggest_places": [
+      {
+        "cname": "扎日南木错",
+        "url": "/sight/cuoqin120146/132147.html"
+      },
+      {
+        "cname": "达瓦错",
+        "url": "/sight/cuoqin120146/129046.html"
+      },
+      {
+        "cname": "措勤河",
+        "url": "/sight/cuoqin120146/132866.html"
+      },
+      {
+        "cname": "布嘎寺",
+        "url": "/sight/cuoqin120146/132862.html"
+      },
+      {
+        "cname": "边拉拉康",
+        "url": "/sight/cuoqin120146/132863.html"
+      }
+    ],
+    "url": "/sightlist/cuoqin120146.html"
+  },
+  {
+    "cname": "拉孜",
+    "suggest_places": [
+      {
+        "cname": "觉囊寺",
+        "url": "/sight/lazi2444/54938.html"
+      },
+      {
+        "cname": "平措林寺",
+        "url": "/sight/lazi2444/54931.html"
+      }
+    ],
+    "url": "/sightlist/lazi2444.html"
+  },
+  {
+    "cname": "亚东",
+    "suggest_places": [
+      {
+        "cname": "卓木拉日峰",
+        "url": "/sight/yadong120090/81918.html"
+      },
+      {
+        "cname": "卓木拉日雪山",
+        "url": "/sight/yadong120090/132869.html"
+      },
+      {
+        "cname": "东嘎寺",
+        "url": "/sight/yadong120090/132117.html"
+      }
+    ],
+    "url": "/sightlist/yadong120090.html"
+  },
+  {
+    "cname": "吉隆",
+    "suggest_places": [
+      {
+        "cname": "大唐天竺使出铭",
+        "url": "/sight/jilong120374/1489353.html"
+      },
+      {
+        "cname": "帕巴寺",
+        "url": "/sight/jilong120374/132873.html"
+      }
+    ],
+    "url": "/sightlist/jilong120374.html"
+  },
+  {
+    "cname": "卡若区",
+    "suggest_places": [
+      {
+        "cname": "强巴林寺",
+        "url": "/sight/karuo2453/18690.html"
+      },
+      {
+        "cname": "噶玛寺",
+        "url": "/sight/karuo2453/18702.html"
+      },
+      {
+        "cname": "谷布神山",
+        "url": "/sight/karuo2453/56090.html"
+      },
+      {
+        "cname": "卡若文化遗址",
+        "url": "/sight/karuo2453/18689.html"
+      },
+      {
+        "cname": "小恩达遗址",
+        "url": "/sight/karuo2453/56105.html"
+      }
+    ],
+    "url": "/sightlist/karuo2453.html"
+  },
+  {
+    "cname": "丁青",
+    "suggest_places": [
+      {
+        "cname": "孜珠寺",
+        "url": "/sight/dingqing2447/18700.html"
+      },
+      {
+        "cname": "布托湖",
+        "url": "/sight/dingqing2447/18699.html"
+      }
+    ],
+    "url": "/sightlist/dingqing2447.html"
+  },
+  {
+    "cname": "申扎",
+    "suggest_places": [
+      {
+        "cname": "申扎自然保护区",
+        "url": "/sight/shenzha120386/44018.html"
+      },
+      {
+        "cname": "错鄂",
+        "url": "/sight/shenzha120386/55758.html"
+      }
+    ],
+    "url": "/sightlist/shenzha120386.html"
+  },
+  {
+    "cname": "仲巴",
+    "suggest_places": [
+      {
+        "cname": "帕羊",
+        "url": "/sight/zhongba120376/1489328.html"
+      },
+      {
+        "cname": "杰玛央宗冰川",
+        "url": "/sight/zhongba120376/129035.html"
+      }
+    ],
+    "url": "/sightlist/zhongba120376.html"
+  },
+  {
+    "cname": "双湖特别区",
+    "suggest_places": [
+      {
+        "cname": "普若岗日冰川",
+        "url": "/sight/shuanghu120393/55756.html"
+      }
+    ],
+    "url": "/sightlist/shuanghu120393.html"
+  },
+  {
+    "cname": "类乌齐",
+    "suggest_places": [
+      {
+        "cname": "查杰玛大殿",
+        "url": "/sight/leiwuqi120400/18698.html"
+      },
+      {
+        "cname": "伊日温泉",
+        "url": "/sight/leiwuqi120400/18707.html"
+      },
+      {
+        "cname": "卡玛多塔林",
+        "url": "/sight/leiwuqi120400/18704.html"
+      },
+      {
+        "cname": "德庆颇章神山",
+        "url": "/sight/leiwuqi120400/18691.html"
+      },
+      {
+        "cname": "长毛岭养鹿场",
+        "url": "/sight/leiwuqi120400/56097.html"
+      }
+    ],
+    "url": "/sightlist/leiwuqi120400.html"
+  },
+  {
+    "cname": "桑日",
+    "suggest_places": [
+      {
+        "cname": "巴郎却康",
+        "url": "/sight/sangri120413/11812.html"
+      },
+      {
+        "cname": "恰嘎曲德寺",
+        "url": "/sight/sangri120413/55605.html"
+      },
+      {
+        "cname": "沃卡温泉",
+        "url": "/sight/sangri120413/11810.html"
+      },
+      {
+        "cname": "曲龙寺",
+        "url": "/sight/sangri120413/11813.html"
+      },
+      {
+        "cname": "卡玛当寺",
+        "url": "/sight/sangri120413/55607.html"
+      }
+    ],
+    "url": "/sightlist/sangri120413.html"
+  },
+  {
+    "cname": "错那",
+    "suggest_places": [
+      {
+        "cname": "康格多山",
+        "url": "/sight/cuona120414/55527.html"
+      },
+      {
+        "cname": "拿日雍错",
+        "url": "/sight/cuona120414/132894.html"
+      }
+    ],
+    "url": "/sightlist/cuona120414.html"
+  },
+  {
+    "cname": "琼结",
+    "suggest_places": [
+      {
+        "cname": "藏王墓",
+        "url": "/sight/qiongjie2439/11837.html"
+      },
+      {
+        "cname": "藏王墓",
+        "url": "/sight/qiongjie2439/1417266.html"
+      },
+      {
+        "cname": "日乌德钦寺",
+        "url": "/sight/qiongjie2439/129060.html"
+      }
+    ],
+    "url": "/sightlist/qiongjie2439.html"
+  },
+  {
+    "cname": "康马",
+    "suggest_places": [
+      {
+        "cname": "南尼寺",
+        "url": "/sight/kangma120372/54961.html"
+      },
+      {
+        "cname": "依玛寺",
+        "url": "/sight/kangma120372/129020.html"
+      }
+    ],
+    "url": "/sightlist/kangma120372.html"
+  },
+  {
+    "cname": "南木林",
+    "suggest_places": [
+      {
+        "cname": "格登曲廓林寺",
+        "url": "/sight/nanmulin120373/54940.html"
+      },
+      {
+        "cname": "热拉雍仲林寺",
+        "url": "/sight/nanmulin120373/54924.html"
+      }
+    ],
+    "url": "/sightlist/nanmulin120373.html"
+  },
+  {
+    "cname": "朗县",
+    "suggest_places": [
+      {
+        "cname": "巴尔曲德寺",
+        "url": "/sight/langxian120395/54936.html"
+      },
+      {
+        "cname": "列山古墓群",
+        "url": "/sight/langxian120395/4618.html"
+      }
+    ],
+    "url": "/sightlist/langxian120395.html"
+  },
+  {
+    "cname": "江达",
+    "suggest_places": [
+      {
+        "cname": "生钦朗扎山",
+        "url": "/sight/jingda120398/18706.html"
+      },
+      {
+        "cname": "果布白宗山",
+        "url": "/sight/jingda120398/129083.html"
+      },
+      {
+        "cname": "波罗吉荣大峡谷",
+        "url": "/sight/jingda120398/18697.html"
+      },
+      {
+        "cname": "波罗古泽",
+        "url": "/sight/jingda120398/18694.html"
+      }
+    ],
+    "url": "/sightlist/jingda120398.html"
+  },
+  {
+    "cname": "改则",
+    "suggest_places": [
+      {
+        "cname": "洞错",
+        "url": "/sight/gaize120145/129040.html"
+      }
+    ],
+    "url": "/sightlist/gaize120145.html"
+  },
+  {
+    "cname": "措美",
+    "suggest_places": [
+      {
+        "cname": "哲古错",
+        "url": "/sight/cuomei120410/132893.html"
+      }
+    ],
+    "url": "/sightlist/cuomei120410.html"
+  },
+  {
+    "cname": "白朗",
+    "suggest_places": [
+      {
+        "cname": "嘎东寺",
+        "url": "/sight/bailang120377/54958.html"
+      },
+      {
+        "cname": "常美切巴寺",
+        "url": "/sight/bailang120377/129018.html"
+      }
+    ],
+    "url": "/sightlist/bailang120377.html"
+  },
+  {
+    "cname": "巴青",
+    "suggest_places": [
+      {
+        "cname": "麦莫溶洞",
+        "url": "/sight/baqing120392/44008.html"
+      },
+      {
+        "cname": "门莫扎嘎山脉",
+        "url": "/sight/baqing120392/55762.html"
+      }
+    ],
+    "url": "/sightlist/baqing120392.html"
+  },
+  {
+    "cname": "洛扎",
+    "suggest_places": [
+      {
+        "cname": "赛卡古托寺",
+        "url": "/sight/luozha120411/55536.html"
+      },
+      {
+        "cname": "吉堆吐蕃墓群",
+        "url": "/sight/luozha120411/55601.html"
+      },
+      {
+        "cname": "桑噶方托寺",
+        "url": "/sight/luozha120411/55603.html"
+      },
+      {
+        "cname": "拉隆寺",
+        "url": "/sight/luozha120411/129055.html"
+      }
+    ],
+    "url": "/sightlist/luozha120411.html"
+  },
+  {
+    "cname": "曲松",
+    "suggest_places": [
+      {
+        "cname": "拉加里王宫",
+        "url": "/sight/qusong120412/11820.html"
+      }
+    ],
+    "url": "/sightlist/qusong120412.html"
+  }
+]

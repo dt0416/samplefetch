@@ -1,0 +1,523 @@
+[
+  {
+    "cname": "布宜诺斯艾利斯",
+    "url": "http://you.ctrip.com/sightlist/buenosaires931.html",
+    "places": [
+      {
+        "cname": "五月广场",
+        "url": "/sight/buenosaires931/140045.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/700/816/090/69fedbda8f44413b89f6eb84a1a6bfd9_C_220_140.jpg",
+        "caddress": "Plaza de Mayo, 1084 Buenos Aires"
+      },
+      {
+        "cname": "雷科莱塔墓地",
+        "url": "/sight/buenosaires931/140043.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/614/734/593/84ea7976f5ef4de8a59ee57b285c64cb_C_220_140.jpg",
+        "caddress": "Junin 1790, Buenos Aires 1116"
+      },
+      {
+        "cname": "总统府",
+        "url": "/sight/buenosaires931/77510.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/349/637/211/0b019c3ebb474a3ca97297469bcab592_C_220_140.jpg",
+        "caddress": "Balcarce 50, 1064 Buenos Aires"
+      },
+      {
+        "cname": "博卡街区",
+        "url": "/sight/buenosaires931/140046.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/627/480/278/cbb10b74de8f4039bab9423959d3c530_C_220_140.jpg",
+        "caddress": "La Boca, Autonomous City of Buenos Aires"
+      },
+      {
+        "cname": "七月九日大道",
+        "url": "/sight/buenosaires931/140047.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/239/022/218/4b3c977957c148b5a868aa45d56aedc3_C_220_140.jpg",
+        "caddress": "Av 9 de Julio Buenos Aires, Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "cname": "方尖碑",
+        "url": "/sight/buenosaires931/140042.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/157/925/770/ed37d09a5c904794b40c65af4838a4cc_C_220_140.jpg",
+        "caddress": "Av Pres. Roque Sáenz Pena 991, 1035 Buenos Aires"
+      },
+      {
+        "cname": "国民议会大厦",
+        "url": "/sight/buenosaires931/140041.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/844/777/635/fe8b868d76a9433cbd18531d803f7b0d_C_220_140.jpg",
+        "caddress": "Hipólito Yrigoyen 1835, 1089 Ciudad De Buenos Aires"
+      },
+      {
+        "cname": "老虎洲",
+        "url": "/sight/buenosaires931/136513.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/390/284/067/5aa1946179f34ad094d957f7d7aa7c6d_C_220_140.jpg",
+        "caddress": "由巴拉那河和乌拉圭河流入阿根廷境内的银河而形成的三角洲区域。"
+      },
+      {
+        "cname": "首都大教堂",
+        "url": "/sight/buenosaires931/76794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/423/895/840/812755eb47f14b448b9259102f9a125c_C_220_140.jpg",
+        "caddress": "San Martín 42, Buenos Aires"
+      },
+      {
+        "cname": "国家艺术博物馆",
+        "url": "/sight/buenosaires931/140049.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/341/438/680/761e1ab216f24a20a94e04cb7ab61277_C_220_140.jpg",
+        "caddress": "Avenida Del Libertador 1473 - C1425AAA Buenos Aires"
+      },
+      {
+        "cname": "El Ateneo书店",
+        "url": "/sight/buenosaires931/140051.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/648/936/666/8d2bf5c5124d40838181b4d71c1a0a8a_C_220_140.jpg",
+        "caddress": "Av. Santa Fe 1860, Piso 2, C1123AAN Buenos Aires, Capital Federal"
+      },
+      {
+        "cname": "Isaac Fernández Blanco艺术博...",
+        "url": "/sight/buenosaires931/1407477.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/944/345/366/d54956d40cbd449ea96c789ed58ddbe7_C_220_140.jpg",
+        "caddress": "Suipacha 1422, Buenos Aires, Capital Federal"
+      },
+      {
+        "cname": "日本公园",
+        "url": "/sight/buenosaires931/1407497.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/350/944/499/171475f430484a40bc70c173356e751c_C_220_140.jpg",
+        "caddress": "cnr Avs Casares & Berro"
+      },
+      {
+        "cname": "巴拉那河",
+        "url": "/sight/buenosaires931/76791.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/709/966/363/d10591e81b9b415c83b589933c74a90b_C_220_140.jpg",
+        "caddress": "于巴西高原东南缘的曼蒂凯拉山脉北坡起始，自东北向西南，流经巴西东南部、巴拉圭、阿根廷东北部；至巴拉那折向东南，注入拉普拉塔河。"
+      },
+      {
+        "cname": "科隆剧院",
+        "url": "/sight/buenosaires931/140048.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/454/772/714/1f5ae1f944c74bb2b3e33c4a8709c92e_C_220_140.jpg",
+        "caddress": "Tucumán 1171 (Pasaje de Carruajes)"
+      },
+      {
+        "cname": "帕多瓦植物园",
+        "url": "/sight/buenosaires931/1407494.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/712/898/451/6fa2796e96cd4f46b6f9dc9c60708fc7_C_220_140.jpg",
+        "caddress": "Av Santa Fe 3951, 1425 Buenos Aires"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/buenosaires931/1407475.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/562/708/025/138ba14c99574d329d595b83da717598_C_220_140.jpg",
+        "caddress": "Mendoza Belgrano"
+      },
+      {
+        "cname": "阿根廷钢花",
+        "url": "/sight/buenosaires931/140930.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/003/060/845/961cca890a6345709ae03e43822bd3a5_C_220_140.jpg",
+        "caddress": "Av Pres. Figueroa Alcorta 2263, 1425 Buenos Aires, Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "cname": "正义之宫",
+        "url": "/sight/buenosaires931/1407490.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/962/450/437/11db44182e1544de9ae8597f568509cf_C_220_140.jpg",
+        "caddress": "Talcahuano 550, Buenos Aires"
+      },
+      {
+        "cname": "女人桥",
+        "url": "/sight/buenosaires931/140929.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/608/138/027/d1b6ffcced604dd6ac9d89047fba4530_C_220_140.jpg",
+        "caddress": "Buenos Aires, Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "cname": "圣马丁广场",
+        "url": "/sight/buenosaires931/140050.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/934/979/458/3d72eeb18a3a447bbefc9a30bec8959a_C_220_140.jpg",
+        "caddress": "Av Santa Fe & Florida Retiro"
+      },
+      {
+        "cname": "卡迷你多街",
+        "url": "/sight/buenosaires931/1414232.html",
+        "s_img": "",
+        "caddress": "Buenos Aires, Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "cname": "圣特尔莫区",
+        "url": "/sight/buenosaires931/1414228.html",
+        "s_img": "",
+        "caddress": "Buenos Aires, Autonomous City of Buenos Aires"
+      },
+      {
+        "cname": "现代艺术博物馆",
+        "url": "/sight/buenosaires931/1407482.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/044/422/432/f1efae779bab4601b4dc6efea91afbf4_C_220_140.jpg",
+        "caddress": "Av Don Pedro de Mendoza 1929, 1169 Ciudad De Buenos Aires"
+      },
+      {
+        "cname": "布宜诺斯艾利斯动物园",
+        "url": "/sight/buenosaires931/1407464.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/108/535/330/6b43b3c3f1ed46e5ab36cb4bb6f97b82_C_220_140.jpg",
+        "caddress": "Av. Sarmiento y Av. Las Heras, Buenos Aires"
+      },
+      {
+        "cname": "Facultad de Ingeniería",
+        "url": "/sight/buenosaires931/1407484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/103/483/775/52b5a1ba8cf446d182830578c4742997_C_220_140.jpg",
+        "caddress": "Av General Las Heras"
+      },
+      {
+        "cname": "爱德华多·西沃里博物馆",
+        "url": "/sight/buenosaires931/1407491.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/374/878/525/07b83eec615d4a95a17a616e7d87ae31_C_220_140.jpg",
+        "caddress": "Parque 3 de Febrero, Av de la Infanta Isabel 555 Palermo"
+      },
+      {
+        "cname": "巴罗洛宫",
+        "url": "/sight/buenosaires931/1407500.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/033/652/754/09c8f400c7a745dba8f682f5874aaac0_C_220_140.jpg",
+        "caddress": "Av de Mayo 1370, 1085 Buenos Aires"
+      },
+      {
+        "cname": "贝隆夫人美术馆",
+        "url": "/sight/buenosaires931/1407503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/815/676/848/731aa2819be042d58792e2fc23257566_C_220_140.jpg",
+        "caddress": "Lafinur 2988, Capital Federal"
+      },
+      {
+        "cname": "格雷纳多别墅",
+        "url": "/sight/buenosaires931/1407462.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/181/868/161/b87fb45fbc8d47e88e620155e45d6ee1_C_220_140.jpg",
+        "caddress": "Defensa 755 Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "cname": "国家艺术装饰博物馆",
+        "url": "/sight/buenosaires931/1407483.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/770/574/940/d0adce56923b4232b16d4c4f26333e16_C_220_140.jpg",
+        "caddress": "Av del Libertador 1902, 1425 Buenos Aires"
+      },
+      {
+        "cname": "和平宫",
+        "url": "/sight/buenosaires931/1407476.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/182/002/022/2811fb8fa63747ecb55dc54b7d046ec5_C_220_140.jpg",
+        "caddress": "Santa Fe 750"
+      },
+      {
+        "cname": "拉美艺术博物馆",
+        "url": "/sight/buenosaires931/1407463.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/339/040/358/b4f4b3c4ede64a19bc6bfead40d21108_C_220_140.jpg",
+        "caddress": "Av Pres. Figueroa Alcorta 3415, C1425CLA Buenos Aires"
+      },
+      {
+        "cname": "莱萨马公园",
+        "url": "/sight/buenosaires931/1407495.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/211/549/964/c5d3ba13c4b94853ad215d4c206f3a07_C_220_140.jpg",
+        "caddress": "Defensa & Av Brasil San Telmo"
+      },
+      {
+        "cname": "萨米恩托战舰",
+        "url": "/sight/buenosaires931/1407470.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/764/518/003/936170186522421d97df28321f35206a_C_220_140.jpg",
+        "caddress": "Pierina Dealessi, Buenos Aires"
+      },
+      {
+        "cname": "自然湿地保护区",
+        "url": "/sight/buenosaires931/1407496.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/273/260/710/6bef06357d014930b888770a638e8ed2_C_220_140.jpg",
+        "caddress": "Av Tristán Achával Rodríguez 1550"
+      },
+      {
+        "cname": "国会广场",
+        "url": "/sight/buenosaires931/1407472.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/848/849/453/3538bc939f234347852bcbc646834c3f_C_220_140.jpg",
+        "caddress": "Buenos Aires"
+      },
+      {
+        "cname": "五月大道",
+        "url": "/sight/buenosaires931/1407459.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/511/030/562/16f54b4e6c0a4c7da95b809878d636b1_C_220_140.jpg",
+        "caddress": "Avenida de Mayo ,Buenos Aires"
+      },
+      {
+        "cname": "意大利广场",
+        "url": "/sight/buenosaires931/1407471.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/896/711/805/db5a1979c6a643f4972b2f293a7e8237_C_220_140.jpg",
+        "caddress": "Av Santa Fe 4000, Buenos Aires"
+      },
+      {
+        "cname": "卢汉动物园",
+        "url": "/sight/buenosaires931/1414242.html",
+        "s_img": "",
+        "caddress": "Au. Acceso Oeste, Luján, Buenos Aires"
+      },
+      {
+        "cname": "纪念钟塔",
+        "url": "/sight/buenosaires931/1407478.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/381/441/875/38b580b3a8ff4aaeb58779bf199483d2_C_220_140.jpg",
+        "caddress": "Retiro - Buenos Aires, Buenos Aires"
+      },
+      {
+        "cname": "Monserrat街区",
+        "url": "/sight/buenosaires931/1407473.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/524/203/454/602da6f84b2e4caba19c415328c3520d_C_220_140.jpg",
+        "caddress": "Plaza de Mayo附近及周边"
+      },
+      {
+        "cname": "阿尔贝托·J·阿曼多体育场",
+        "url": "/sight/buenosaires931/1407493.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/227/679/312/46c1f20f0af6488db264cc2923fe1598_C_220_140.jpg",
+        "caddress": "Boca - City of Buenos Aires, Buenos Aires"
+      },
+      {
+        "cname": "阿根廷艺术家博物馆",
+        "url": "/sight/buenosaires931/1407481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/994/645/889/74a0ffb861b2454e85d65f8fb8dbafd3_C_220_140.jpg",
+        "caddress": "Av Don Pedro de Mendoza 1835, Buenos Aires, Capital Federal"
+      },
+      {
+        "cname": "多雷戈广场",
+        "url": "/sight/buenosaires931/1407502.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/188/624/722/9fbfe2af9b7a47ffac518b7b46eea5c2_C_220_140.jpg",
+        "caddress": "cnr of Defensa and Humberto Primo San Telmo"
+      },
+      {
+        "cname": "圣菲大道",
+        "url": "/sight/buenosaires931/1407474.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/248/133/589/fa370b25aa7948d784624ba947fe4c03_C_220_140.jpg",
+        "caddress": "Avenida Santa Fe"
+      },
+      {
+        "cname": "圣体圣殿",
+        "url": "/sight/buenosaires931/1407492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/699/266/534/80df8536c5aa4f189da845fcb5571bd4_C_220_140.jpg",
+        "caddress": "Congregación del Santísimo Sacramento, Buenos Aires"
+      },
+      {
+        "cname": "水务公司大楼",
+        "url": "/sight/buenosaires931/1407480.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/221/975/761/e05ac229dbfe48748f2cf2e7eea6d220_C_220_140.jpg",
+        "caddress": "Riobamba 750 Congreso"
+      },
+      {
+        "cname": "移民博物馆",
+        "url": "/sight/buenosaires931/1407461.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/964/719/181/de92e595b75044e69ef3d57cf79630df_C_220_140.jpg",
+        "caddress": "Av Antartida Argentina 1355 Puerto Madero, Buenos Aires"
+      },
+      {
+        "cname": "米特雷博物馆",
+        "url": "/sight/buenosaires931/1414267.html",
+        "s_img": "",
+        "caddress": "San Martín, Buenos Aires"
+      }
+    ]
+  },
+  {
+    "cname": "乌斯怀亚",
+    "url": "http://you.ctrip.com/sightlist/ushuaia1685.html",
+    "places": [
+      {
+        "cname": "也格来日斯灯塔",
+        "url": "/sight/ushuaia1685/142360.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/307/453/112/ad50a6ce5bc449a9a51599800c9f66ae_C_220_140.jpg",
+        "caddress": "Beagle Channel"
+      },
+      {
+        "cname": "泛美公路起点",
+        "url": "/sight/ushuaia1685/142357.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/578/168/410/bc9e4495d1ba4d6ab26c946b77ed4286_C_220_140.jpg",
+        "caddress": "火地岛公园内"
+      },
+      {
+        "cname": "拉帕塔亚湾",
+        "url": "/sight/ushuaia1685/142358.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/733/500/600/76e45f90ecc341b1947415ee63428b0e_C_220_140.jpg",
+        "caddress": "火地岛公园内"
+      },
+      {
+        "cname": "世界尽头的小邮局",
+        "url": "/sight/ushuaia1685/142356.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/891/885/15d21a93e42b43e6b2cba6896b2a4cc6_C_220_140.jpg",
+        "caddress": "火地岛国家公园内"
+      },
+      {
+        "cname": "火地岛国家公园",
+        "url": "/sight/ushuaia1685/142355.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/766/966/571/af5f5818f157422480d95bdc83c5ffa7_C_220_140.jpg",
+        "caddress": "Ushuaia, Argentina"
+      },
+      {
+        "cname": "比格尔海峡",
+        "url": "/sight/ushuaia1685/142359.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/561/953/693/12b504074dbb4d2f94c05c605801ddf1_C_220_140.jpg",
+        "caddress": "Beagle Channel"
+      },
+      {
+        "cname": "卡斯特罗雪山",
+        "url": "/sight/ushuaia1685/142364.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/568/077/466/0771409cc9484d47baa50f5d88a64368_C_220_140.jpg",
+        "caddress": "Tierra del Fuego, Ushuaia, Argentina"
+      },
+      {
+        "cname": "马丁街",
+        "url": "/sight/ushuaia1685/142365.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/973/706/352/c38de4e71f214506b22ec551d49c7b5e_C_220_140.jpg",
+        "caddress": "Av San Martin"
+      },
+      {
+        "cname": "马舍尔冰川",
+        "url": "/sight/ushuaia1685/142363.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/790/100/187/1f8515102aa8427cb5b8f15d63aeb115_C_220_140.jpg",
+        "caddress": "Tierra del Fuego Province, Ushuaia, Argentina"
+      },
+      {
+        "cname": "世界尽头博物馆",
+        "url": "/sight/ushuaia1685/142361.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/674/025/689/7791f4048cb94ec08731a0cfcb68f8fe_C_220_140.jpg",
+        "caddress": "Avenida Maipu 173, Ushuaia 9410, Argentina"
+      },
+      {
+        "cname": "乌斯怀亚海洋博物馆",
+        "url": "/sight/ushuaia1685/142362.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/990/424/579/8e53c47c301d45429da3c95960dc6b3f_C_220_140.jpg",
+        "caddress": "Yaganes y Gobernador Paz, Ushuaia 9410 , Argentina"
+      }
+    ]
+  },
+  {
+    "cname": "伊瓜苏国家公园",
+    "url": "http://you.ctrip.com/sightlist/iguazunationalpark1717.html",
+    "places": []
+  },
+  {
+    "cname": "圣克鲁斯省",
+    "url": "http://you.ctrip.com/sightlist/santacruz143865.html",
+    "places": [
+      {
+        "cname": "莫雷诺冰川",
+        "url": "/sight/santacruz143865/72965.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/801/559/569/cbff63c53b8542a2a6c13713301aaa80_C_220_140.jpg",
+        "caddress": "Perito Moreno, Santa Cruz"
+      },
+      {
+        "cname": "阿根廷冰川国家公园",
+        "url": "/sight/santacruz143865/1416256.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M00/3D/19/CghzgFTwl4CAAmgdAAFZ3-dLBl4136_C_220_140.jpg",
+        "caddress": "Av. del Libertador 1302, 9405, El Calafate, Santa Cruz"
+      },
+      {
+        "cname": "阿根廷湖",
+        "url": "/sight/santacruz143865/72971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/644/174/908/83f09d65b9924e55bd287db6e1bff862_C_220_140.jpg",
+        "caddress": "Santa Cruz"
+      },
+      {
+        "cname": "洛斯马诺斯岩画",
+        "url": "/sight/santacruz143865/1416211.html",
+        "s_img": "",
+        "caddress": "Av. San Martin y Estrada, 9040, Perito Moreno, Santa Cruz"
+      }
+    ]
+  },
+  {
+    "cname": "马德普拉塔",
+    "url": "http://you.ctrip.com/sightlist/mardelplata1679.html",
+    "places": [
+      {
+        "cname": "马德普拉塔",
+        "url": "/sight/mardelplata1679/72966.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/757/084/174/67c0987f6dda4206a69750f5cb174eac_C_220_140.jpg",
+        "caddress": "Mar del Plata, Buenos Aires"
+      }
+    ]
+  },
+  {
+    "cname": "火地岛省",
+    "url": "http://you.ctrip.com/sightlist/provinceoftierradelfuego13712.html",
+    "places": [
+      {
+        "cname": "也格来日斯灯塔",
+        "url": "/sight/ushuaia1685/142360.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/307/453/112/ad50a6ce5bc449a9a51599800c9f66ae_C_220_140.jpg",
+        "caddress": "Beagle Channel"
+      },
+      {
+        "cname": "泛美公路起点",
+        "url": "/sight/ushuaia1685/142357.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/578/168/410/bc9e4495d1ba4d6ab26c946b77ed4286_C_220_140.jpg",
+        "caddress": "火地岛公园内"
+      },
+      {
+        "cname": "拉帕塔亚湾",
+        "url": "/sight/ushuaia1685/142358.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/733/500/600/76e45f90ecc341b1947415ee63428b0e_C_220_140.jpg",
+        "caddress": "火地岛公园内"
+      },
+      {
+        "cname": "世界尽头的小邮局",
+        "url": "/sight/ushuaia1685/142356.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/891/885/15d21a93e42b43e6b2cba6896b2a4cc6_C_220_140.jpg",
+        "caddress": "火地岛国家公园内"
+      },
+      {
+        "cname": "火地岛国家公园",
+        "url": "/sight/ushuaia1685/142355.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/766/966/571/af5f5818f157422480d95bdc83c5ffa7_C_220_140.jpg",
+        "caddress": "Ushuaia, Argentina"
+      },
+      {
+        "cname": "火地岛",
+        "url": "/sight/provinceoftierradelfuego13712/136512.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/778/479/907/4200aa8c69204250ac98bc7b7d91f38a_C_220_140.jpg",
+        "caddress": "Tierra del Fuego, 阿根廷"
+      },
+      {
+        "cname": "比格尔海峡",
+        "url": "/sight/ushuaia1685/142359.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/561/953/693/12b504074dbb4d2f94c05c605801ddf1_C_220_140.jpg",
+        "caddress": "Beagle Channel"
+      },
+      {
+        "cname": "卡斯特罗雪山",
+        "url": "/sight/ushuaia1685/142364.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/568/077/466/0771409cc9484d47baa50f5d88a64368_C_220_140.jpg",
+        "caddress": "Tierra del Fuego, Ushuaia, Argentina"
+      },
+      {
+        "cname": "马丁街",
+        "url": "/sight/ushuaia1685/142365.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/973/706/352/c38de4e71f214506b22ec551d49c7b5e_C_220_140.jpg",
+        "caddress": "Av San Martin"
+      },
+      {
+        "cname": "马舍尔冰川",
+        "url": "/sight/ushuaia1685/142363.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/790/100/187/1f8515102aa8427cb5b8f15d63aeb115_C_220_140.jpg",
+        "caddress": "Tierra del Fuego Province, Ushuaia, Argentina"
+      },
+      {
+        "cname": "世界尽头博物馆",
+        "url": "/sight/ushuaia1685/142361.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/674/025/689/7791f4048cb94ec08731a0cfcb68f8fe_C_220_140.jpg",
+        "caddress": "Avenida Maipu 173, Ushuaia 9410, Argentina"
+      },
+      {
+        "cname": "乌斯怀亚海洋博物馆",
+        "url": "/sight/ushuaia1685/142362.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/990/424/579/8e53c47c301d45429da3c95960dc6b3f_C_220_140.jpg",
+        "caddress": "Yaganes y Gobernador Paz, Ushuaia 9410 , Argentina"
+      }
+    ]
+  },
+  {
+    "cname": "里奥内格罗省",
+    "url": "http://you.ctrip.com/sightlist/rionegro123869.html",
+    "places": [
+      {
+        "cname": "科尔多瓦耶稣会街区和庄园",
+        "url": "/sight/rionegro123869/1416231.html",
+        "s_img": "",
+        "caddress": "Av. Padre Domingo Viera 41 esq, Paseo de la Estancia, 5186, Alta Gracia, Córdoba"
+      },
+      {
+        "cname": "纳韦尔瓦皮湖国家公园",
+        "url": "/sight/rionegro123869/72964.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/359/614/15661cbab61f4f2b96a5148e02c841b3_C_220_140.jpg",
+        "caddress": "Rio Negro"
+      }
+    ]
+  }
+]

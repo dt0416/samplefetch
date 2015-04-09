@@ -1,0 +1,473 @@
+[
+  {
+    "cname": "科伦坡",
+    "url": "http://you.ctrip.com/sightlist/colombo753.html",
+    "places": [
+      {
+        "cname": "独立广场",
+        "url": "/sight/colombo753/135349.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/340/754/279/942ac84681e24a1db9f40b758a9b149f_C_220_140.jpg",
+        "caddress": "Independence Ave Cinnamon Gardens (Colombo 7)"
+      },
+      {
+        "cname": "国立博物馆",
+        "url": "/sight/colombo753/22975.html",
+        "s_img": "http://p.chanyouji.cn/160161/1409710299484p190skg6af2v181s9bdsia1njo2.jpg?imageView/1/w/220/h/140",
+        "caddress": "854 Sir Marcus Fernando Mawatha, Colombo 00700"
+      },
+      {
+        "cname": "班达拉奈克国际会议大厦",
+        "url": "/sight/colombo753/22968.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/732/562/211/4fd51584505341ac8b576719c3c6548e_C_220_140.jpg",
+        "caddress": "Bauddhaloka Mawatha, Colombo"
+      },
+      {
+        "cname": "甘加拉玛雅寺庙",
+        "url": "/sight/colombo753/135360.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/277/081/270/cc9c5ec11565493f85e67b970b4947e3_C_220_140.jpg",
+        "caddress": "Sri Jinarathana Rd, Colombo"
+      },
+      {
+        "cname": "城堡区",
+        "url": "/sight/colombo753/142387.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/839/831/347/14f45dc5d2fe4327ad8706a7b2edbad0_C_220_140.jpg",
+        "caddress": "Fort, Colombo"
+      },
+      {
+        "cname": "阿输迦拉马雅寺",
+        "url": "/sight/colombo753/135346.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/978/174/609/dcb8bcdb30f54517b325027554f1d7b7_C_220_140.jpg",
+        "caddress": "Thimbirigasyaya Rd, Colombo 00500"
+      },
+      {
+        "cname": "德希乌拉动物园",
+        "url": "/sight/colombo753/135347.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/238/071/420/6210b6c325a748b28006b84813dc818d_C_220_140.jpg",
+        "caddress": "Anagarika Dharmapala Mawatha, Dehiwala 10350"
+      },
+      {
+        "cname": "科伦坡大学",
+        "url": "/sight/colombo753/135354.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/218/656/261/295736c1b909486aa0432f2cef393e3d_C_220_140.jpg",
+        "caddress": "94,Cumaratunga Munidasa Mawatha,Colombo 00300,Western Province"
+      },
+      {
+        "cname": "荷兰殖民时期博物馆",
+        "url": "/sight/colombo753/135359.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/523/354/262/1e92ac5db5f84ca7a2da37c754597635_C_220_140.jpg",
+        "caddress": "Prince Street 96, Pettah, Colombo 11"
+      },
+      {
+        "cname": "加勒菲斯广场",
+        "url": "/sight/colombo753/135362.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/966/509/852/370df561aeb344eb8383ce53645fea98_C_220_140.jpg",
+        "caddress": "Galle Face Centre Road, Colombo"
+      },
+      {
+        "cname": "贝塔区",
+        "url": "/sight/colombo753/22971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/725/189/633/ba2da50bee9a4f73bd38fac647e3a20a_C_220_140.jpg",
+        "caddress": "Pettah,Colombo"
+      },
+      {
+        "cname": "旧市政厅",
+        "url": "/sight/colombo753/135358.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/476/463/684/342f234ed1954bfe829fb8a87e324031_C_220_140.jpg",
+        "caddress": "Bodhiraja Mawatha, Colombo"
+      },
+      {
+        "cname": "开拉尼亚寺",
+        "url": "/sight/colombo753/148103.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/876/035/564/a6fc42f28f9243ac9813dd811751e91b_C_220_140.jpg",
+        "caddress": "Kelaniya, Colombo"
+      },
+      {
+        "cname": "莱昂内尔·温特中心",
+        "url": "/sight/colombo753/135352.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/139/658/168/23805f054d4c47538757cdb58374219f_C_220_140.jpg",
+        "caddress": "18 Guildford Cres Cinnamon Gardens, Col 00700"
+      },
+      {
+        "cname": "Jami-Ul-Alfar清真寺",
+        "url": "/sight/colombo753/148105.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/846/155/302/4ebabc4597c74341bd4ac17f3c9e8204_C_220_140.jpg",
+        "caddress": "No.228，2nd Cross Street，Pettah，Colombo 11"
+      },
+      {
+        "cname": "Children's Park",
+        "url": "/sight/colombo753/148110.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/010/125/303/bdace7cea86f45899a1e360032fdadd6_C_220_140.jpg",
+        "caddress": "Sri James Pieris Mawatha，Colombo 02"
+      },
+      {
+        "cname": "斯里兰卡议会大厦",
+        "url": "/sight/colombo753/1482865.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M01/EB/F8/Cghzf1TImuCAT-2iAAd1ySkQIOE892_C_220_140.jpg",
+        "caddress": "Parliament Approach Rd, Sri Jayawardenepura Kotte"
+      },
+      {
+        "cname": "新旧印度庙",
+        "url": "/sight/colombo753/148104.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/587/983/514/e78d2c6625c84d8aa06fb2c53b2fe11c_C_220_140.jpg",
+        "caddress": "Sea St, Colombo"
+      },
+      {
+        "cname": "圣安东尼教堂",
+        "url": "/sight/colombo753/148111.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/496/906/235/424878fefc1b4c4796a1a95c29efa8e5_C_220_140.jpg",
+        "caddress": "St. Anthony's Mawatha Kotahena，Colombo 13"
+      },
+      {
+        "cname": "辛哈拉加森林保护区",
+        "url": "/sight/colombo753/1646355.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/FE/2C/CghzgFTJ1DqAD9MBAAWPLZVKIIY461_C_220_140.jpg",
+        "caddress": "Southern Province, 斯里兰卡"
+      },
+      {
+        "cname": "贝拉湖",
+        "url": "/sight/colombo753/148107.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/209/427/401/c3c04dfb3e2a484ab7591f74928fe420_C_220_140.jpg",
+        "caddress": "Sri James Pieris Mawatha，Colombo 02"
+      },
+      {
+        "cname": "水中庙",
+        "url": "/sight/colombo753/148109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/453/039/8cec8a343a1640fea045201c68d0dadb_C_220_140.jpg",
+        "caddress": "Sri James Pieris Mawatha，Colombo 02"
+      },
+      {
+        "cname": "达瓦塔噶哈清真寺",
+        "url": "/sight/colombo753/1479681.html",
+        "s_img": "",
+        "caddress": "C W W Kannangara Mawatha, Colombo"
+      },
+      {
+        "cname": "荷兰运河",
+        "url": "/sight/colombo753/1412461.html",
+        "s_img": "",
+        "caddress": "Canal Rd, Colombo"
+      },
+      {
+        "cname": "莲池剧院",
+        "url": "/sight/colombo753/1479701.html",
+        "s_img": "",
+        "caddress": "Nelum Pokuna Mawatha, Colombo 07"
+      },
+      {
+        "cname": "国立艺术馆",
+        "url": "/sight/colombo753/142394.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/317/311/969/c95b503912eb49cab8eb653168762564_C_220_140.jpg",
+        "caddress": "106 Ananda Coomaraswamy Mawatha, Colombo 7"
+      },
+      {
+        "cname": "国立自然历史博物馆",
+        "url": "/sight/colombo753/142392.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/728/733/464/0c685a3e92ef4f7eb960c53ad2ee6522_C_220_140.jpg",
+        "caddress": "Albert Cres, Colombo 7"
+      },
+      {
+        "cname": "狼谷教堂",
+        "url": "/sight/colombo753/142388.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/564/327/627/a150df7bb9f34d39b4c7c53b61a1da54_C_220_140.jpg",
+        "caddress": "Wolfendhal Street, Pettah, Colombo 11"
+      },
+      {
+        "cname": "圣彼得教堂",
+        "url": "/sight/colombo753/135351.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/893/495/e87370375e374915a5457c4b803127ac_C_220_140.jpg",
+        "caddress": "York Street, Colombo"
+      },
+      {
+        "cname": "维哈马哈德维公园",
+        "url": "/sight/colombo753/135363.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/344/632/613/56ce82d3802f4a2b8cc8003b711e91c8_C_220_140.jpg",
+        "caddress": "Cinnamon Gardens, Colombo"
+      },
+      {
+        "cname": "塔朗伽马湿地",
+        "url": "/sight/colombo753/135356.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/905/612/315/c7539b7189fa4413a437dca75899e925_C_220_140.jpg",
+        "caddress": "Lake Road, Colombo"
+      },
+      {
+        "cname": "独立纪念厅",
+        "url": "/sight/colombo753/148106.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/987/512/435/9fb7bfaaef294535a65a895f71c18ce1_C_220_140.jpg",
+        "caddress": "Independence Ave Cinnamon Gardens, Colombo 07"
+      },
+      {
+        "cname": "蒙特拉维尼亚沙滩",
+        "url": "/sight/colombo753/148112.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/267/619/203/899dbfa2fb6a49189a92a08887c8aab6_C_220_140.jpg",
+        "caddress": "Dehiwala，Mt Lavinia"
+      }
+    ]
+  },
+  {
+    "cname": "康提",
+    "url": "http://you.ctrip.com/sightlist/kandy1722.html",
+    "places": [
+      {
+        "cname": "佛牙寺",
+        "url": "/sight/kandy1722/93916.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/620/106/663/6a0a6644520a4dffaac501322850b5e1_C_220_140.jpg",
+        "caddress": "Sri Dalada Veediya, Kandy 20000"
+      },
+      {
+        "cname": "康提皇家植物园",
+        "url": "/sight/kandy1722/139942.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/707/189/098/6a15b8409e104f35ba517d1abefa02fe_C_220_140.jpg",
+        "caddress": "Colombo - Kandy Rd, Peradeniya 20400"
+      }
+    ]
+  },
+  {
+    "cname": "加勒",
+    "url": "http://you.ctrip.com/sightlist/galle14797.html",
+    "places": [
+      {
+        "cname": "加勒",
+        "url": "/sight/galle14797/139937.html",
+        "s_img": "http://p.chanyouji.cn/160870/1409737632494p190tegcao1mik5ee18feoq15p7p.jpg?imageView/1/w/220/h/140",
+        "caddress": "Galle, Sri Lanka"
+      },
+      {
+        "cname": "加勒要塞",
+        "url": "/sight/galle14797/97152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/802/647/091/45bcd7a6400c42a6a76b484528e4f809_C_220_140.jpg",
+        "caddress": "Fort, Galle"
+      },
+      {
+        "cname": "海龟孵化场",
+        "url": "/sight/galle14797/1482851.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/738/594/681/3bca26b4bdac4fa1949c8718c2d515c1_C_220_140.jpg",
+        "caddress": "Matara Rd, Habaraduwa"
+      }
+    ]
+  },
+  {
+    "cname": "锡吉里耶",
+    "url": "http://you.ctrip.com/sightlist/sigiriya21489.html",
+    "places": [
+      {
+        "cname": "狮子岩",
+        "url": "/sight/sigiriya21489/22973.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/483/022/255/b70b062e864f4c189469bc8922e9556a_C_220_140.jpg",
+        "caddress": "位于连接丹布勒与哈伯勒内之间的主干道以东约10公里处"
+      }
+    ]
+  },
+  {
+    "cname": "努沃勒埃利耶",
+    "url": "http://you.ctrip.com/sightlist/nuwaraeliya23067.html",
+    "places": [
+      {
+        "cname": "霍顿平原国家公园",
+        "url": "/sight/nuwaraeliya23067/145834.html",
+        "s_img": "http://p.chanyouji.cn/173717/1413950842890p194r0ik5q15mn4bu1ht2a48iemv.jpg?imageView/1/w/220/h/140",
+        "caddress": "Horton Plains National Park, Ohiya"
+      },
+      {
+        "cname": "努沃勒埃利耶",
+        "url": "/sight/nuwaraeliya23067/139955.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/456/521/019/fde583bd9fd54bb79df400410c392479_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "Mackwoods茶厂",
+        "url": "/sight/nuwaraeliya23067/1489511.html",
+        "s_img": "",
+        "caddress": "Mackwoods Labookellie Tea Centre, Nuwara Eliya（努沃勒埃利耶西北约9公里处）"
+      }
+    ]
+  },
+  {
+    "cname": "尼甘布",
+    "url": "http://you.ctrip.com/sightlist/negombo1727.html",
+    "places": [
+      {
+        "cname": "圣玛丽教堂",
+        "url": "/sight/negombo1727/93921.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/242/667/781/644a7374a0b748c0846d671afe9ae3c6_C_220_140.jpg",
+        "caddress": "Kundanwila, Negombo"
+      },
+      {
+        "cname": "尼甘布中心鱼市场",
+        "url": "/sight/negombo1727/1489377.html",
+        "s_img": "",
+        "caddress": "Esplanade Road, Negombo"
+      },
+      {
+        "cname": "尼甘布泻湖",
+        "url": "/sight/negombo1727/1412458.html",
+        "s_img": "",
+        "caddress": "Chilaw-Colombo Main Rd, Colombo"
+      },
+      {
+        "cname": "荷兰运河",
+        "url": "/sight/negombo1727/1486871.html",
+        "s_img": "",
+        "caddress": "Dutch Canal, Negombo, Western Province"
+      }
+    ]
+  },
+  {
+    "cname": "Pinnawela",
+    "url": "http://you.ctrip.com/sightlist/pinnawela143841.html",
+    "places": [
+      {
+        "cname": "品纳维拉大象孤儿院",
+        "url": "/sight/pinnawela143841/22967.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/040/268/326/3bddaa07080145f4ae20b32bc8e8e096_C_220_140.jpg",
+        "caddress": "Karandupona Rambukkana Road, Pinnawela"
+      }
+    ]
+  },
+  {
+    "cname": "提萨马哈拉马",
+    "url": "http://you.ctrip.com/sightlist/tissamaharama21501.html",
+    "places": []
+  },
+  {
+    "cname": "丹布勒",
+    "url": "http://you.ctrip.com/sightlist/dambulla23053.html",
+    "places": [
+      {
+        "cname": "丹布勒石窟",
+        "url": "/sight/dambulla23053/97151.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/702/348/897/ed1ff5f7eec24142b056292737f491be_C_220_140.jpg",
+        "caddress": "Kandy-Jaffna Highway, Dambulla"
+      }
+    ]
+  },
+  {
+    "cname": "阿努拉德普勒",
+    "url": "http://you.ctrip.com/sightlist/anuradhapura21486.html",
+    "places": [
+      {
+        "cname": "阿努拉德普勒",
+        "url": "/sight/anuradhapura21486/22964.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/648/585/9a50e9f76dfa412abff31ff0def3df25_C_220_140.jpg",
+        "caddress": "斯里兰卡阿努拉德普勒区"
+      },
+      {
+        "cname": "斯里摩珂菩提树",
+        "url": "/sight/anuradhapura21486/97148.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/375/223/126/4289ff307bc44a98833184a925a84157_C_220_140.jpg",
+        "caddress": "Sri Maha Bodhi, Anuradhapura"
+      },
+      {
+        "cname": "艾苏卢姆尼亚石庙",
+        "url": "/sight/anuradhapura21486/97149.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/541/416/737/e3cdb9f2d8404ce6a2dda6940316a955_C_220_140.jpg",
+        "caddress": "Isurumuniya, 阿努拉德普勒区"
+      },
+      {
+        "cname": "图帕拉玛灵塔",
+        "url": "/sight/anuradhapura21486/97150.html",
+        "s_img": "",
+        "caddress": "Thuparama Mawatha, Anuradhapura"
+      }
+    ]
+  },
+  {
+    "cname": "马特勒",
+    "url": "http://you.ctrip.com/sightlist/matara23055.html",
+    "places": [
+      {
+        "cname": "美蕊沙",
+        "url": "/sight/matara23055/145838.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/476/631/723/7f3735f489024bff8b95c53bf54c87be_C_220_140.jpg",
+        "caddress": "Mirissa"
+      }
+    ]
+  },
+  {
+    "cname": "埃勒",
+    "url": "http://you.ctrip.com/sightlist/ella21475.html",
+    "places": [
+      {
+        "cname": "乌达瓦勒韦国家公园",
+        "url": "/sight/ella21475/1407964.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/669/018/683/473f094c24ab40cea2bc16a34ff67270_C_220_140.jpg",
+        "caddress": "7th Mile Post, Sevanagala, Monaragala, Uva Province"
+      }
+    ]
+  },
+  {
+    "cname": "波隆纳鲁沃",
+    "url": "http://you.ctrip.com/sightlist/polonnaruwa21473.html",
+    "places": [
+      {
+        "cname": "波隆纳鲁瓦",
+        "url": "/sight/polonnaruwa21473/139958.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/563/236/231/52438a4d5bca4d348e704f8212f3f2c3_C_220_140.jpg",
+        "caddress": "Polonnaruwa"
+      },
+      {
+        "cname": "米内日亚国家公园",
+        "url": "/sight/polonnaruwa21473/1410682.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/917/121/163/697d854236f34440b31b5e0679831911_C_220_140.jpg",
+        "caddress": "Habarana-Polonnaruwa Road, Habarana, Sri Lanka"
+      },
+      {
+        "cname": "帕拉克拉玛湖",
+        "url": "/sight/polonnaruwa21473/97154.html",
+        "s_img": "",
+        "caddress": "斯里兰卡,波隆纳鲁瓦"
+      },
+      {
+        "cname": "萨特马哈儿普拉萨达",
+        "url": "/sight/polonnaruwa21473/97153.html",
+        "s_img": "",
+        "caddress": "波隆纳鲁瓦的四方院内"
+      }
+    ]
+  },
+  {
+    "cname": "本托塔",
+    "url": "http://you.ctrip.com/sightlist/bentota14793.html",
+    "places": []
+  },
+  {
+    "cname": "雅拉国家公园",
+    "url": "http://you.ctrip.com/sightlist/yalanationalpark23068.html",
+    "places": [
+      {
+        "cname": "雅拉国家公园",
+        "url": "/sight/yalanationalpark23068/139986.html",
+        "s_img": "http://p.chanyouji.cn/1408623041/809FD171-E8CC-4B12-A249-194E4BD4B0E9.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kiranda Tissamaharama,Moneragala,Colombo,Southern Province"
+      }
+    ]
+  },
+  {
+    "cname": "希卡杜瓦",
+    "url": "http://you.ctrip.com/sightlist/hikkaduwa14794.html",
+    "places": [
+      {
+        "cname": "南部海滩",
+        "url": "/sight/hikkaduwa14794/22972.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/284/833/839/03c40444bb08495790c8da018c95bb25_C_220_140.jpg",
+        "caddress": "4F,Mahawatta Road Hikkaduwa - Baddegama Rd"
+      }
+    ]
+  },
+  {
+    "cname": "Dehiwala",
+    "url": "http://you.ctrip.com/sightlist/dehiwala23061.html",
+    "places": [
+      {
+        "cname": "芒特拉维尼海滩",
+        "url": "/sight/dehiwala23061/135365.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/689/780/834/5bde2396701141158e04e73b10ab2946_C_220_140.jpg",
+        "caddress": "Dehiwala-Mount Lavinia, 斯里兰卡"
+      }
+    ]
+  },
+  {
+    "cname": "宾纳瓦拉",
+    "url": "http://you.ctrip.com/sightlist/pinnawala23075.html",
+    "places": []
+  }
+]

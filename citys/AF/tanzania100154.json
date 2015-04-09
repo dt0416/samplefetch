@@ -1,0 +1,65 @@
+[
+  {
+    "cname": "达累斯萨拉姆",
+    "suggest_places": [],
+    "url": "/sightlist/daressalaam939.html"
+  },
+  {
+    "cname": "乞力马扎罗山国家公园",
+    "suggest_places": [
+      {
+        "cname": "乞力马扎罗山",
+        "url": "/sight/kilimanjaronationalpark19931/44702.html"
+      },
+      {
+        "cname": "千里光Giant Groundsel",
+        "url": "/sight/kilimanjaronationalpark19931/134375.html"
+      }
+    ],
+    "url": "/sightlist/kilimanjaronationalpark19931.html"
+  },
+  {
+    "cname": "Arusha",
+    "suggest_places": [
+      {
+        "cname": "阿鲁沙",
+        "url": "/sight/arusha19895/134421.html"
+      }
+    ],
+    "url": "/sightlist/arusha19895.html"
+  },
+  {
+    "cname": "桑给巴尔岛",
+    "suggest_places": [
+      {
+        "cname": "石头城",
+        "url": "/sight/zanzibararchipelago19894/140121.html"
+      },
+      {
+        "cname": "桑给巴尔岛",
+        "url": "/sight/zanzibararchipelago19894/134418.html"
+      }
+    ],
+    "url": "/sightlist/zanzibararchipelago19894.html"
+  },
+  {
+    "cname": "塞伦盖提国家公园",
+    "suggest_places": [
+      {
+        "cname": "塞伦盖提国家公园",
+        "url": "/sight/serengetinationalpark19910/134379.html"
+      }
+    ],
+    "url": "/sightlist/serengetinationalpark19910.html"
+  },
+  {
+    "cname": "恩戈罗戈罗保护区",
+    "suggest_places": [
+      {
+        "cname": "恩戈罗恩戈罗国家公园",
+        "url": "/sight/ngorongoroconservationarea19925/134395.html"
+      }
+    ],
+    "url": "/sightlist/ngorongoroconservationarea19925.html"
+  }
+]

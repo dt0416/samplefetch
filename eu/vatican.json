@@ -1,0 +1,38 @@
+[
+  {
+    "cname": "梵蒂冈",
+    "url": "http://you.ctrip.com/sight/vatican784.html",
+    "places": [
+      {
+        "cname": "梵蒂冈",
+        "url": "/sight/vatican784/138896.html",
+        "s_img": "http://p.chanyouji.cn/1395695564/8B484701-A78D-4C84-AE95-7383203D7FDD.jpg?imageView/1/w/220/h/140",
+        "caddress": "Vatican"
+      },
+      {
+        "cname": "圣彼得大教堂",
+        "url": "/sight/vatican784/23259.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375366761366p180t3tiovv9f1n0fep6i65ael6.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Pietro, 00120 Città del Vaticano"
+      },
+      {
+        "cname": "梵蒂冈博物馆",
+        "url": "/sight/vatican784/23258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/226/044/175b39c2412e477ba3754bad1b068461_C_220_140.jpg",
+        "caddress": "Viale Vaticano, 00165 Roma"
+      },
+      {
+        "cname": "圣彼得广场",
+        "url": "/sight/vatican784/23260.html",
+        "s_img": "http://p.chanyouji.cn/14712/1354002779391p17d0cch9h7ou46tnhj1ujc7qq29.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Pietro, Vatican"
+      },
+      {
+        "cname": "西斯廷教堂",
+        "url": "/sight/vatican784/65257.html",
+        "s_img": "http://p.chanyouji.cn/98204/1391701285546p18g3teglcmso1rh81dghf9pd2s1l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Viale Vaticano, 2, Città del Vaticano"
+      }
+    ]
+  }
+]

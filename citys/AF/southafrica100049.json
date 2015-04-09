@@ -1,0 +1,256 @@
+[
+  {
+    "cname": "开普敦",
+    "suggest_places": [
+      {
+        "cname": "好望角",
+        "url": "/sight/capetown327/25230.html"
+      },
+      {
+        "cname": "桌山",
+        "url": "/sight/capetown327/25235.html"
+      },
+      {
+        "cname": "海豹岛",
+        "url": "/sight/capetown327/60660.html"
+      },
+      {
+        "cname": "南非企鹅生态保护区",
+        "url": "/sight/capetown327/60662.html"
+      },
+      {
+        "cname": "豪特湾",
+        "url": "/sight/capetown327/60724.html"
+      }
+    ],
+    "url": "/sightlist/capetown327.html"
+  },
+  {
+    "cname": "约翰内斯堡",
+    "suggest_places": [
+      {
+        "cname": "约翰内斯堡",
+        "url": "/sight/johannesburg328/136756.html"
+      },
+      {
+        "cname": "音乐喷泉公园",
+        "url": "/sight/johannesburg328/13666.html"
+      },
+      {
+        "cname": "野鸭湖",
+        "url": "/sight/johannesburg328/77151.html"
+      },
+      {
+        "cname": "约翰内斯堡艺廊",
+        "url": "/sight/johannesburg328/13664.html"
+      },
+      {
+        "cname": "金矿博物馆",
+        "url": "/sight/johannesburg328/60819.html"
+      }
+    ],
+    "url": "/sightlist/johannesburg328.html"
+  },
+  {
+    "cname": "太阳城",
+    "suggest_places": [
+      {
+        "cname": "太阳城",
+        "url": "/sight/suncity814/137563.html"
+      },
+      {
+        "cname": "匹林斯堡国家公园",
+        "url": "/sight/suncity814/25187.html"
+      },
+      {
+        "cname": "皇宫酒店",
+        "url": "/sight/suncity814/25186.html"
+      },
+      {
+        "cname": "时光之桥",
+        "url": "/sight/suncity814/25188.html"
+      },
+      {
+        "cname": "波涛谷",
+        "url": "/sight/suncity814/25189.html"
+      }
+    ],
+    "url": "/sightlist/suncity814.html"
+  },
+  {
+    "cname": "比勒陀利亚",
+    "suggest_places": [
+      {
+        "cname": "比勒陀利亚",
+        "url": "/sight/pretoria259/136747.html"
+      },
+      {
+        "cname": "联合大厦",
+        "url": "/sight/pretoria259/60866.html"
+      },
+      {
+        "cname": "教堂广场",
+        "url": "/sight/pretoria259/60885.html"
+      },
+      {
+        "cname": "总统府",
+        "url": "/sight/pretoria259/1409819.html"
+      },
+      {
+        "cname": "先民纪念馆",
+        "url": "/sight/pretoria259/137564.html"
+      }
+    ],
+    "url": "/sightlist/pretoria259.html"
+  },
+  {
+    "cname": "克鲁格国家公园",
+    "suggest_places": [
+      {
+        "cname": "克鲁格国家公园",
+        "url": "/sight/krugernational1355/60727.html"
+      }
+    ],
+    "url": "/sightlist/krugernational1355.html"
+  },
+  {
+    "cname": "伊丽莎白港",
+    "suggest_places": [
+      {
+        "cname": "纳尔逊曼德拉湾球场",
+        "url": "/sight/portelizabeth1485/1410131.html"
+      }
+    ],
+    "url": "/sightlist/portelizabeth1485.html"
+  },
+  {
+    "cname": "奈斯纳",
+    "suggest_places": [
+      {
+        "cname": "花园大道 ",
+        "url": "/sight/knysna2074/60715.html"
+      },
+      {
+        "cname": "珊瑚湖",
+        "url": "/sight/knysna2074/1410001.html"
+      },
+      {
+        "cname": "摩索湾",
+        "url": "/sight/knysna2074/1409996.html"
+      },
+      {
+        "cname": "奈斯纳游船",
+        "url": "/sight/knysna2074/136753.html"
+      }
+    ],
+    "url": "/sightlist/knysna2074.html"
+  },
+  {
+    "cname": "Oudtshoorn",
+    "suggest_places": [
+      {
+        "cname": "奥茨颂",
+        "url": "/sight/oudtshoorn17313/25233.html"
+      },
+      {
+        "cname": "鸵鸟农场",
+        "url": "/sight/oudtshoorn17313/107415.html"
+      },
+      {
+        "cname": "甘果洞",
+        "url": "/sight/oudtshoorn17313/60723.html"
+      }
+    ],
+    "url": "/sightlist/oudtshoorn17313.html"
+  },
+  {
+    "cname": "东开普",
+    "suggest_places": [
+      {
+        "cname": "齐齐卡马国家公园",
+        "url": "/sight/easterncape1440/134139.html"
+      },
+      {
+        "cname": "奈斯纳",
+        "url": "/sight/easterncape1440/78754.html"
+      },
+      {
+        "cname": "摩梭湾",
+        "url": "/sight/easterncape1440/78755.html"
+      },
+      {
+        "cname": "纳尔逊曼德拉湾球场",
+        "url": "/sight/easterncape1440/1410131.html"
+      }
+    ],
+    "url": "/sightlist/easterncape1440.html"
+  },
+  {
+    "cname": "Hermanus",
+    "suggest_places": [
+      {
+        "cname": "赫曼努斯",
+        "url": "/sight/hermanus17324/78758.html"
+      }
+    ],
+    "url": "/sightlist/hermanus17324.html"
+  },
+  {
+    "cname": "莫塞尔贝",
+    "suggest_places": [
+      {
+        "cname": "莫塞尔港邮政树",
+        "url": "/sight/mosselbay17312/137561.html"
+      }
+    ],
+    "url": "/sightlist/mosselbay17312.html"
+  },
+  {
+    "cname": "Tsitsikamma National Park",
+    "suggest_places": [
+      {
+        "cname": "齐齐卡马国家公园",
+        "url": "/sight/tsitsikammanationalpark25168/134139.html"
+      }
+    ],
+    "url": "/sightlist/tsitsikammanationalpark25168.html"
+  },
+  {
+    "cname": "斯坦林布什",
+    "suggest_places": [
+      {
+        "cname": "福尔斯湾",
+        "url": "/sight/stellenbosch30450/1410117.html"
+      },
+      {
+        "cname": "法国小镇Franschhoek",
+        "url": "/sight/stellenbosch30450/134354.html"
+      },
+      {
+        "cname": "Spiers酒庄",
+        "url": "/sight/stellenbosch30450/134352.html"
+      }
+    ],
+    "url": "/sightlist/stellenbosch30450.html"
+  },
+  {
+    "cname": "Cape Agulhas",
+    "suggest_places": [
+      {
+        "cname": "阿古拉斯角",
+        "url": "/sight/capeagulhas17321/48953.html"
+      }
+    ],
+    "url": "/sightlist/capeagulhas17321.html"
+  },
+  {
+    "cname": "Gansbaai",
+    "suggest_places": [
+      {
+        "cname": "甘斯拜",
+        "url": "/sight/gansbaai17331/134140.html"
+      }
+    ],
+    "url": "/sightlist/gansbaai17331.html"
+  }
+]

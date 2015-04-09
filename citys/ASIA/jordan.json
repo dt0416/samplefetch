@@ -1,0 +1,156 @@
+[
+  {
+    "cname": "佩特拉",
+    "suggest_places": [
+      {
+        "cname": "佩特拉古城",
+        "url": "/sight/petra143896/141569.html"
+      },
+      {
+        "cname": "蛇道",
+        "url": "/sight/petra143896/23134.html"
+      },
+      {
+        "cname": "卡兹尼神殿",
+        "url": "/sight/petra143896/23132.html"
+      },
+      {
+        "cname": "罗马露天剧场",
+        "url": "/sight/petra143896/23136.html"
+      },
+      {
+        "cname": "佩特拉祭坛",
+        "url": "/sight/petra143896/23127.html"
+      }
+    ],
+    "url": "/sightlist/petra143896.html"
+  },
+  {
+    "cname": "安曼",
+    "suggest_places": [
+      {
+        "cname": "安曼市区",
+        "url": "/sight/amman761/138588.html"
+      },
+      {
+        "cname": "城堡山",
+        "url": "/sight/amman761/138596.html"
+      },
+      {
+        "cname": "卡拉克",
+        "url": "/sight/amman761/1409827.html"
+      },
+      {
+        "cname": "阿卜杜拉国王清真寺",
+        "url": "/sight/amman761/23005.html"
+      },
+      {
+        "cname": "阿姆拉城堡",
+        "url": "/sight/amman761/138582.html"
+      }
+    ],
+    "url": "/sightlist/amman761.html"
+  },
+  {
+    "cname": "马达巴",
+    "suggest_places": [
+      {
+        "cname": "尼波山",
+        "url": "/sight/madaba24802/22988.html"
+      },
+      {
+        "cname": "圣乔治教堂",
+        "url": "/sight/madaba24802/23007.html"
+      }
+    ],
+    "url": "/sightlist/madaba24802.html"
+  },
+  {
+    "cname": "杰拉什",
+    "suggest_places": [
+      {
+        "cname": "杰拉什罗马古城遗址",
+        "url": "/sight/jerash143897/138589.html"
+      },
+      {
+        "cname": "哈德良凯旋门",
+        "url": "/sight/jerash143897/142767.html"
+      },
+      {
+        "cname": "列柱大街",
+        "url": "/sight/jerash143897/142771.html"
+      },
+      {
+        "cname": "椭圆形广场",
+        "url": "/sight/jerash143897/142768.html"
+      },
+      {
+        "cname": "南露天剧场",
+        "url": "/sight/jerash143897/142769.html"
+      }
+    ],
+    "url": "/sightlist/jerash143897.html"
+  },
+  {
+    "cname": "亚喀巴",
+    "suggest_places": [
+      {
+        "cname": "马木路克城堡",
+        "url": "/sight/aqaba766/23130.html"
+      },
+      {
+        "cname": "皇家墓冢群",
+        "url": "/sight/aqaba766/23138.html"
+      },
+      {
+        "cname": "摩西泉",
+        "url": "/sight/aqaba766/23129.html"
+      },
+      {
+        "cname": "亚喀巴湾",
+        "url": "/sight/aqaba766/23065.html"
+      },
+      {
+        "cname": "珊瑚岛",
+        "url": "/sight/aqaba766/23137.html"
+      }
+    ],
+    "url": "/sightlist/aqaba766.html"
+  },
+  {
+    "cname": "死海",
+    "suggest_places": [
+      {
+        "cname": "死海海滩",
+        "url": "/sight/deadsea143898/22974.html"
+      }
+    ],
+    "url": "/sightlist/deadsea143898.html"
+  },
+  {
+    "cname": "伊尔比德",
+    "suggest_places": [
+      {
+        "cname": "宙斯神庙",
+        "url": "/sight/irbid763/23154.html"
+      },
+      {
+        "cname": "佩拉",
+        "url": "/sight/irbid763/23147.html"
+      },
+      {
+        "cname": "月神殿",
+        "url": "/sight/irbid763/23148.html"
+      },
+      {
+        "cname": "赛马场",
+        "url": "/sight/irbid763/23140.html"
+      },
+      {
+        "cname": "米格多勒神庙",
+        "url": "/sight/irbid763/23155.html"
+      }
+    ],
+    "url": "/sightlist/irbid763.html"
+  }
+]

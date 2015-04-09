@@ -1,0 +1,126 @@
+[
+  {
+    "cname": "耶路撒冷",
+    "suggest_places": [
+      {
+        "cname": "哭墙",
+        "url": "/sight/jerusalem552/18519.html"
+      },
+      {
+        "cname": "橄榄山",
+        "url": "/sight/jerusalem552/18522.html"
+      },
+      {
+        "cname": "圣墓教堂",
+        "url": "/sight/jerusalem552/78733.html"
+      },
+      {
+        "cname": "圣殿山",
+        "url": "/sight/jerusalem552/139509.html"
+      },
+      {
+        "cname": "苦路",
+        "url": "/sight/jerusalem552/78731.html"
+      }
+    ],
+    "url": "/sightlist/jerusalem552.html"
+  },
+  {
+    "cname": "特拉维夫",
+    "suggest_places": [
+      {
+        "cname": "雅法老城",
+        "url": "/sight/telaviv260/18531.html"
+      },
+      {
+        "cname": "白城",
+        "url": "/sight/telaviv260/139485.html"
+      },
+      {
+        "cname": "拉宾广场",
+        "url": "/sight/telaviv260/78851.html"
+      },
+      {
+        "cname": "圣彼得教堂",
+        "url": "/sight/telaviv260/138566.html"
+      },
+      {
+        "cname": "贝尔谢巴",
+        "url": "/sight/telaviv260/78850.html"
+      }
+    ],
+    "url": "/sightlist/telaviv260.html"
+  },
+  {
+    "cname": "加利利湖",
+    "suggest_places": [
+      {
+        "cname": "加利利湖",
+        "url": "/sight/galilee1464/134396.html"
+      },
+      {
+        "cname": "约旦河洗礼处",
+        "url": "/sight/galilee1464/134437.html"
+      },
+      {
+        "cname": "五饼二鱼堂",
+        "url": "/sight/galilee1464/78822.html"
+      },
+      {
+        "cname": "迦百农",
+        "url": "/sight/galilee1464/78824.html"
+      },
+      {
+        "cname": "拿撒勒",
+        "url": "/sight/galilee1464/134429.html"
+      }
+    ],
+    "url": "/sightlist/galilee1464.html"
+  },
+  {
+    "cname": "死海",
+    "suggest_places": [
+      {
+        "cname": "死海",
+        "url": "/sight/deadsea2008/18514.html"
+      }
+    ],
+    "url": "/sightlist/deadsea2008.html"
+  },
+  {
+    "cname": "海法",
+    "suggest_places": [
+      {
+        "cname": "巴哈伊花园 ",
+        "url": "/sight/haifa2009/134433.html"
+      },
+      {
+        "cname": "凯撒利亚",
+        "url": "/sight/haifa2009/138568.html"
+      },
+      {
+        "cname": "凯萨利阿",
+        "url": "/sight/haifa2009/18534.html"
+      },
+      {
+        "cname": "迦密山",
+        "url": "/sight/haifa2009/134434.html"
+      },
+      {
+        "cname": "阿克古城 ",
+        "url": "/sight/haifa2009/134368.html"
+      }
+    ],
+    "url": "/sightlist/haifa2009.html"
+  },
+  {
+    "cname": "埃拉特",
+    "suggest_places": [
+      {
+        "cname": "埃拉特",
+        "url": "/sight/eilat1465/134333.html"
+      }
+    ],
+    "url": "/sightlist/eilat1465.html"
+  }
+]

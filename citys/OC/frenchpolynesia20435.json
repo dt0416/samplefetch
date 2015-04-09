@@ -1,0 +1,42 @@
+[
+  {
+    "cname": "大溪地",
+    "suggest_places": [
+      {
+        "cname": "波拉波拉",
+        "url": "/sight/tahiti1354/71308.html"
+      },
+      {
+        "cname": "茉莉雅岛",
+        "url": "/sight/tahiti1354/71307.html"
+      },
+      {
+        "cname": "帕皮提岛",
+        "url": "/sight/tahiti1354/135547.html"
+      },
+      {
+        "cname": "伦吉拉环礁",
+        "url": "/sight/tahiti1354/135546.html"
+      },
+      {
+        "cname": "土阿莫土群岛",
+        "url": "/sight/tahiti1354/135548.html"
+      }
+    ],
+    "url": "/sightlist/tahiti1354.html"
+  },
+  {
+    "cname": "波拉波拉",
+    "suggest_places": [
+      {
+        "cname": "波拉波拉",
+        "url": "/sight/borabora1760/71308.html"
+      },
+      {
+        "cname": "塔布岛",
+        "url": "/sight/borabora1760/1677842.html"
+      }
+    ],
+    "url": "/sightlist/borabora1760.html"
+  }
+]

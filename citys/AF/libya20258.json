@@ -1,0 +1,24 @@
+[
+  {
+    "cname": "Tripoli",
+    "suggest_places": [
+      {
+        "cname": "阿齐齐亚兵营",
+        "url": "/sight/tripoli22250/141938.html"
+      },
+      {
+        "cname": "的黎波里老城区",
+        "url": "/sight/tripoli22250/141937.html"
+      },
+      {
+        "cname": "莱普提斯",
+        "url": "/sight/tripoli22250/141941.html"
+      },
+      {
+        "cname": "苏伯拉塔",
+        "url": "/sight/tripoli22250/141939.html"
+      }
+    ],
+    "url": "/sightlist/tripoli22250.html"
+  }
+]

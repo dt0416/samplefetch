@@ -1,0 +1,167 @@
+[
+  {
+    "cname": "开罗",
+    "suggest_places": [
+      {
+        "cname": "埃及博物馆",
+        "url": "/sight/cairo326/23261.html"
+      },
+      {
+        "cname": "狮身人面像",
+        "url": "/sight/cairo326/12918.html"
+      },
+      {
+        "cname": "尼罗河",
+        "url": "/sight/cairo326/23266.html"
+      },
+      {
+        "cname": "胡夫金字塔",
+        "url": "/sight/cairo326/140295.html"
+      },
+      {
+        "cname": "吉萨金字塔",
+        "url": "/sight/cairo326/1416840.html"
+      }
+    ],
+    "url": "/sightlist/cairo326.html"
+  },
+  {
+    "cname": "卢克索",
+    "suggest_places": [
+      {
+        "cname": "卡尔纳克神庙",
+        "url": "/sight/luxor410/23269.html"
+      },
+      {
+        "cname": "尼罗河",
+        "url": "/sight/luxor410/62555.html"
+      },
+      {
+        "cname": "卢克索",
+        "url": "/sight/luxor410/136443.html"
+      },
+      {
+        "cname": "帝王谷",
+        "url": "/sight/luxor410/13091.html"
+      },
+      {
+        "cname": "门农巨像",
+        "url": "/sight/luxor410/23270.html"
+      }
+    ],
+    "url": "/sightlist/luxor410.html"
+  },
+  {
+    "cname": "阿斯旺",
+    "suggest_places": [
+      {
+        "cname": "阿布辛贝神庙",
+        "url": "/sight/aswan411/67241.html"
+      },
+      {
+        "cname": "菲莱神庙",
+        "url": "/sight/aswan411/12924.html"
+      },
+      {
+        "cname": "阿斯旺大坝",
+        "url": "/sight/aswan411/12926.html"
+      },
+      {
+        "cname": "未完成的方尖碑",
+        "url": "/sight/aswan411/136925.html"
+      },
+      {
+        "cname": "康翁波神庙",
+        "url": "/sight/aswan411/12932.html"
+      }
+    ],
+    "url": "/sightlist/aswan411.html"
+  },
+  {
+    "cname": "红海和西奈半岛",
+    "suggest_places": [
+      {
+        "cname": "红海潜水",
+        "url": "/sight/redseaandsinai779/23251.html"
+      },
+      {
+        "cname": "赫尔格达",
+        "url": "/sight/redseaandsinai779/134415.html"
+      },
+      {
+        "cname": "苏伊士运河",
+        "url": "/sight/redseaandsinai779/23257.html"
+      },
+      {
+        "cname": "沙姆沙伊赫",
+        "url": "/sight/redseaandsinai779/23254.html"
+      },
+      {
+        "cname": "辛巴达号潜艇",
+        "url": "/sight/redseaandsinai779/67527.html"
+      }
+    ],
+    "url": "/sightlist/redseaandsinai779.html"
+  },
+  {
+    "cname": "亚历山大",
+    "suggest_places": [
+      {
+        "cname": "亚历山大",
+        "url": "/sight/alexandria777/136444.html"
+      },
+      {
+        "cname": "亚历山大图书馆",
+        "url": "/sight/alexandria777/134669.html"
+      },
+      {
+        "cname": "奎贝堡（灯塔遗址）",
+        "url": "/sight/alexandria777/136912.html"
+      },
+      {
+        "cname": "庞贝柱",
+        "url": "/sight/alexandria777/23227.html"
+      },
+      {
+        "cname": "夏宫花园",
+        "url": "/sight/alexandria777/136923.html"
+      }
+    ],
+    "url": "/sightlist/alexandria777.html"
+  },
+  {
+    "cname": "埃德夫",
+    "suggest_places": [
+      {
+        "cname": "荷鲁斯神庙",
+        "url": "/sight/edfu1058/1409822.html"
+      }
+    ],
+    "url": "/sightlist/edfu1058.html"
+  },
+  {
+    "cname": "赫尔格达",
+    "suggest_places": [
+      {
+        "cname": "赫尔格达",
+        "url": "/sight/hurghada1098/134415.html"
+      }
+    ],
+    "url": "/sightlist/hurghada1098.html"
+  },
+  {
+    "cname": "伊斯那",
+    "suggest_places": [],
+    "url": "/sightlist/esna780.html"
+  },
+  {
+    "cname": "沙姆沙伊赫",
+    "suggest_places": [
+      {
+        "cname": "沙姆沙伊赫",
+        "url": "/sight/sharmelsheikh2039/23254.html"
+      }
+    ],
+    "url": "/sightlist/sharmelsheikh2039.html"
+  }
+]

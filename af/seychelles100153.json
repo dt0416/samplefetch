@@ -1,0 +1,98 @@
+[
+  {
+    "cname": "马埃岛",
+    "url": "http://you.ctrip.com/sightlist/maheisland1805.html",
+    "places": [
+      {
+        "cname": "马埃岛 ",
+        "url": "/sight/maheisland1805/134218.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/565/938/375/75645ad0a94c4d3ca720ff6acf0353d8_C_220_140.jpg",
+        "caddress": "Mahe, Seychelles"
+      },
+      {
+        "cname": "博瓦隆",
+        "url": "/sight/maheisland1805/134183.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/596/356/151/8ff5b2695a8a4da9883508d1ec4f84df_C_220_140.jpg",
+        "caddress": "Baie Beau Vallon, Seychelles"
+      },
+      {
+        "cname": "塞舌尔植物园",
+        "url": "/sight/maheisland1805/1413665.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/241/873/587/75c9e229946b48bd87da9b0322eec257_C_220_140.jpg",
+        "caddress": "Botanical Garden，Mahe"
+      },
+      {
+        "cname": "凤凰岭",
+        "url": "/sight/maheisland1805/1413664.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/948/746/732/1a4a4de3e8be44ad894913ac08a99691_C_220_140.jpg",
+        "caddress": "马埃岛森林保护区"
+      },
+      {
+        "cname": "圣安妮海洋公园",
+        "url": "/sight/maheisland1805/1412970.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/752/521/796/49e1f345f02b4fd3bf1c413152b1122c_C_220_140.jpg",
+        "caddress": "距离塞舌尔首都维多利亚5公里处，坐落在印度洋海域内"
+      }
+    ]
+  },
+  {
+    "cname": "普拉兰岛",
+    "url": "http://you.ctrip.com/sightlist/praslinisland22225.html",
+    "places": [
+      {
+        "cname": "五月谷",
+        "url": "/sight/praslinisland22225/134185.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/627/085/265/d1f1a66b553a4037938a38b8769bfb3d_C_220_140.jpg",
+        "caddress": "Grand Anse, Seychelles"
+      },
+      {
+        "cname": "拉齐奥海滩",
+        "url": "/sight/praslinisland22225/147556.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/579/342/568/be2b66354d464d6fa4cd3305abe4c50b_C_220_140.jpg",
+        "caddress": "Lazio beach，Praslin，Seychelles"
+      },
+      {
+        "cname": "普拉兰岛",
+        "url": "/sight/praslinisland22225/134221.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/713/217/373/62f83e3ffa434168b691d6d87b2d8f4a_C_220_140.jpg",
+        "caddress": "Praslin, Seychelles"
+      },
+      {
+        "cname": "乔吉特沙滩",
+        "url": "/sight/praslinisland22225/1413831.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/910/802/328/2b7abc6fbafa44268ab9d3df684c180d_C_220_140.jpg",
+        "caddress": "Anse Georgette，Constance酒店，Praslin Island"
+      },
+      {
+        "cname": "国家植物园",
+        "url": "/sight/praslinisland22225/25313.html",
+        "s_img": "",
+        "caddress": "Botanical Garden, Victoria"
+      }
+    ]
+  },
+  {
+    "cname": "拉迪格岛",
+    "url": "http://you.ctrip.com/sightlist/ladigueisland22226.html",
+    "places": [
+      {
+        "cname": "拉迪格岛",
+        "url": "/sight/ladigueisland22226/134222.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/864/277/824/720949a8676843818673ca230ae734e4_C_220_140.jpg",
+        "caddress": "塞舌尔"
+      },
+      {
+        "cname": "德阿让海滩",
+        "url": "/sight/ladigueisland22226/134190.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/123/354/744/254fb24f0d3b471ba28af474b99fa4fc_C_220_140.jpg",
+        "caddress": "塞舌尔"
+      },
+      {
+        "cname": "联合庄园",
+        "url": "/sight/ladigueisland22226/1413696.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/524/423/015/a6a3f33095f14cab8964152e74679db0_C_220_140.jpg",
+        "caddress": "L’Union Estate，La Digue"
+      }
+    ]
+  }
+]

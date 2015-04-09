@@ -1,0 +1,445 @@
+[
+  {
+    "cname": "琉森",
+    "suggest_places": [
+      {
+        "cname": "卢塞恩",
+        "url": "/sight/lucerne644/138514.html"
+      },
+      {
+        "cname": "琉森湖",
+        "url": "/sight/lucerne644/107498.html"
+      },
+      {
+        "cname": "狮子纪念碑",
+        "url": "/sight/lucerne644/20873.html"
+      },
+      {
+        "cname": "卡贝尔廊桥和八角型水塔",
+        "url": "/sight/lucerne644/138511.html"
+      },
+      {
+        "cname": "琉森老城区",
+        "url": "/sight/lucerne644/134342.html"
+      }
+    ],
+    "url": "/sightlist/lucerne644.html"
+  },
+  {
+    "cname": "因特拉肯",
+    "suggest_places": [
+      {
+        "cname": "因特拉肯",
+        "url": "/sight/interlaken727/138132.html"
+      },
+      {
+        "cname": "瑞士少女峰",
+        "url": "/sight/interlaken727/22509.html"
+      },
+      {
+        "cname": "雪朗峰",
+        "url": "/sight/interlaken727/49945.html"
+      },
+      {
+        "cname": "荷黑马特",
+        "url": "/sight/interlaken727/22507.html"
+      },
+      {
+        "cname": "何维克街",
+        "url": "/sight/interlaken727/22508.html"
+      }
+    ],
+    "url": "/sightlist/interlaken727.html"
+  },
+  {
+    "cname": "苏黎世",
+    "suggest_places": [
+      {
+        "cname": "苏黎世",
+        "url": "/sight/zurich301/138522.html"
+      },
+      {
+        "cname": "班霍夫大街",
+        "url": "/sight/zurich301/13627.html"
+      },
+      {
+        "cname": "苏黎世湖",
+        "url": "/sight/zurich301/122985.html"
+      },
+      {
+        "cname": "圣彼得大教堂",
+        "url": "/sight/zurich301/13717.html"
+      },
+      {
+        "cname": "苏黎世大教堂",
+        "url": "/sight/zurich301/138520.html"
+      }
+    ],
+    "url": "/sightlist/zurich301.html"
+  },
+  {
+    "cname": "日内瓦",
+    "suggest_places": [
+      {
+        "cname": "日内瓦",
+        "url": "/sight/geneva302/138530.html"
+      },
+      {
+        "cname": "日内瓦湖",
+        "url": "/sight/geneva302/49089.html"
+      },
+      {
+        "cname": "大喷泉",
+        "url": "/sight/geneva302/138507.html"
+      },
+      {
+        "cname": "花钟",
+        "url": "/sight/geneva302/13537.html"
+      },
+      {
+        "cname": "蒙特勒",
+        "url": "/sight/geneva302/138527.html"
+      }
+    ],
+    "url": "/sightlist/geneva302.html"
+  },
+  {
+    "cname": "伯尔尼",
+    "suggest_places": [
+      {
+        "cname": "伯尔尼",
+        "url": "/sight/bern443/138496.html"
+      },
+      {
+        "cname": "图恩湖",
+        "url": "/sight/bern443/147063.html"
+      },
+      {
+        "cname": "布里恩茨湖",
+        "url": "/sight/bern443/1413247.html"
+      },
+      {
+        "cname": "施皮茨小镇",
+        "url": "/sight/bern443/1414217.html"
+      },
+      {
+        "cname": "联邦议会大厦",
+        "url": "/sight/bern443/13963.html"
+      }
+    ],
+    "url": "/sightlist/bern443.html"
+  },
+  {
+    "cname": "洛桑",
+    "suggest_places": [
+      {
+        "cname": "洛桑",
+        "url": "/sight/lausanne725/138526.html"
+      },
+      {
+        "cname": "奥林匹克博物馆",
+        "url": "/sight/lausanne725/22497.html"
+      },
+      {
+        "cname": "洛桑圣母大教堂",
+        "url": "/sight/lausanne725/22500.html"
+      },
+      {
+        "cname": "洛桑乌希码头",
+        "url": "/sight/lausanne725/1413454.html"
+      },
+      {
+        "cname": "洛桑历史博物馆",
+        "url": "/sight/lausanne725/22496.html"
+      }
+    ],
+    "url": "/sightlist/lausanne725.html"
+  },
+  {
+    "cname": "蒙特勒",
+    "suggest_places": [
+      {
+        "cname": "西庸城堡",
+        "url": "/sight/montreux745/22561.html"
+      },
+      {
+        "cname": "蒙特勒",
+        "url": "/sight/montreux745/138527.html"
+      },
+      {
+        "cname": "金色山口快车",
+        "url": "/sight/montreux745/1410052.html"
+      },
+      {
+        "cname": "日内瓦湖",
+        "url": "/sight/montreux745/49849.html"
+      },
+      {
+        "cname": "佛列德雕像",
+        "url": "/sight/montreux745/22562.html"
+      }
+    ],
+    "url": "/sightlist/montreux745.html"
+  },
+  {
+    "cname": "英格堡",
+    "suggest_places": [
+      {
+        "cname": "铁力士雪山",
+        "url": "/sight/engelberg1408/20886.html"
+      }
+    ],
+    "url": "/sightlist/engelberg1408.html"
+  },
+  {
+    "cname": "沙芙豪森",
+    "suggest_places": [
+      {
+        "cname": "莱茵瀑布",
+        "url": "/sight/schaffhausen728/22418.html"
+      },
+      {
+        "cname": "大教堂",
+        "url": "/sight/schaffhausen728/22417.html"
+      },
+      {
+        "cname": "米诺城堡",
+        "url": "/sight/schaffhausen728/22419.html"
+      },
+      {
+        "cname": "骑士之馆",
+        "url": "/sight/schaffhausen728/22420.html"
+      }
+    ],
+    "url": "/sightlist/schaffhausen728.html"
+  },
+  {
+    "cname": "采尔马特",
+    "suggest_places": [
+      {
+        "cname": "马特宏峰冰川天堂",
+        "url": "/sight/zermatt726/22518.html"
+      },
+      {
+        "cname": "洛特峰",
+        "url": "/sight/zermatt726/22520.html"
+      },
+      {
+        "cname": "天主教堂",
+        "url": "/sight/zermatt726/22517.html"
+      },
+      {
+        "cname": "杜富尔峰",
+        "url": "/sight/zermatt726/1493227.html"
+      },
+      {
+        "cname": "马特洪峰博物馆",
+        "url": "/sight/zermatt726/1493218.html"
+      }
+    ],
+    "url": "/sightlist/zermatt726.html"
+  },
+  {
+    "cname": "卢加诺",
+    "suggest_places": [
+      {
+        "cname": "卢加诺",
+        "url": "/sight/lugano1409/138125.html"
+      },
+      {
+        "cname": "老城区",
+        "url": "/sight/lugano1409/73356.html"
+      },
+      {
+        "cname": "卢加诺老城区",
+        "url": "/sight/lugano1409/138525.html"
+      },
+      {
+        "cname": "Gandria山村",
+        "url": "/sight/lugano1409/73360.html"
+      },
+      {
+        "cname": "Lido公园",
+        "url": "/sight/lugano1409/73358.html"
+      }
+    ],
+    "url": "/sightlist/lugano1409.html"
+  },
+  {
+    "cname": "巴塞尔",
+    "suggest_places": [
+      {
+        "cname": "巴塞尔大教堂",
+        "url": "/sight/basel1477/80218.html"
+      },
+      {
+        "cname": "马尔克特广场和市政厅",
+        "url": "/sight/basel1477/80220.html"
+      }
+    ],
+    "url": "/sightlist/basel1477.html"
+  },
+  {
+    "cname": "洛伊克巴德",
+    "suggest_places": [
+      {
+        "cname": "洛伊克巴德",
+        "url": "/sight/leukerbad1063/138130.html"
+      },
+      {
+        "cname": "盖米山口",
+        "url": "/sight/leukerbad1063/78481.html"
+      }
+    ],
+    "url": "/sightlist/leukerbad1063.html"
+  },
+  {
+    "cname": "库尔",
+    "suggest_places": [],
+    "url": "/sightlist/chur1444.html"
+  },
+  {
+    "cname": "圣莫里茨",
+    "suggest_places": [
+      {
+        "cname": "圣莫里茨",
+        "url": "/sight/stmoritz1442/50270.html"
+      },
+      {
+        "cname": "圣莫里茨湖",
+        "url": "/sight/stmoritz1442/78472.html"
+      },
+      {
+        "cname": "海蒂小屋",
+        "url": "/sight/stmoritz1442/78474.html"
+      },
+      {
+        "cname": "考尔维利亚",
+        "url": "/sight/stmoritz1442/78473.html"
+      },
+      {
+        "cname": "恩嘎丁博物馆",
+        "url": "/sight/stmoritz1442/1674071.html"
+      }
+    ],
+    "url": "/sightlist/stmoritz1442.html"
+  },
+  {
+    "cname": "沃洲",
+    "suggest_places": [
+      {
+        "cname": "西庸城堡",
+        "url": "/sight/vaud22621/22561.html"
+      },
+      {
+        "cname": "洛桑",
+        "url": "/sight/vaud22621/138526.html"
+      },
+      {
+        "cname": "奥林匹克博物馆",
+        "url": "/sight/vaud22621/22497.html"
+      },
+      {
+        "cname": "金色山口快车",
+        "url": "/sight/vaud22621/1410052.html"
+      },
+      {
+        "cname": "洛桑圣母大教堂",
+        "url": "/sight/vaud22621/22500.html"
+      }
+    ],
+    "url": "/sightlist/vaud22621.html"
+  },
+  {
+    "cname": "达沃斯",
+    "suggest_places": [
+      {
+        "cname": "木偶和玩具博物馆",
+        "url": "/sight/davos1117/78468.html"
+      },
+      {
+        "cname": "蒙施泰因",
+        "url": "/sight/davos1117/78469.html"
+      },
+      {
+        "cname": "达沃斯论坛",
+        "url": "/sight/davos1117/78470.html"
+      }
+    ],
+    "url": "/sightlist/davos1117.html"
+  },
+  {
+    "cname": "瓦莱州",
+    "suggest_places": [
+      {
+        "cname": "马特宏峰冰川天堂",
+        "url": "/sight/valais45095/22518.html"
+      },
+      {
+        "cname": "马特洪峰",
+        "url": "/sight/valais45095/1410667.html"
+      },
+      {
+        "cname": "洛伊克巴德",
+        "url": "/sight/valais45095/138130.html"
+      },
+      {
+        "cname": "洛特峰",
+        "url": "/sight/valais45095/22520.html"
+      },
+      {
+        "cname": "天主教堂",
+        "url": "/sight/valais45095/22517.html"
+      }
+    ],
+    "url": "/sightlist/valais45095.html"
+  },
+  {
+    "cname": "沃韦",
+    "suggest_places": [],
+    "url": "/sightlist/vevey45145.html"
+  },
+  {
+    "cname": "贝林佐纳",
+    "suggest_places": [
+      {
+        "cname": "贝林佐纳",
+        "url": "/sight/bellinzona49808/138112.html"
+      }
+    ],
+    "url": "/sightlist/bellinzona49808.html"
+  },
+  {
+    "cname": "圣加仑",
+    "suggest_places": [
+      {
+        "cname": "大教堂修道院图书馆",
+        "url": "/sight/stgallen1461/78486.html"
+      },
+      {
+        "cname": "纺织品博物馆",
+        "url": "/sight/stgallen1461/78485.html"
+      },
+      {
+        "cname": "博登湖",
+        "url": "/sight/stgallen1461/78487.html"
+      }
+    ],
+    "url": "/sightlist/stgallen1461.html"
+  },
+  {
+    "cname": "米伦",
+    "suggest_places": [],
+    "url": "/sightlist/murren58540.html"
+  },
+  {
+    "cname": "科佩",
+    "suggest_places": [],
+    "url": "/sightlist/coppet45107.html"
+  },
+  {
+    "cname": "洛迦诺",
+    "suggest_places": [],
+    "url": "/sightlist/locarno58553.html"
+  }
+]

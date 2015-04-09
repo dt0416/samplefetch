@@ -1,0 +1,362 @@
+[
+  {
+    "cname": "青海湖",
+    "suggest_places": [
+      {
+        "cname": "青海湖",
+        "url": "/sight/qinghaihu281/11709.html"
+      },
+      {
+        "cname": "茶卡盐湖",
+        "url": "/sight/qinghaihu281/11762.html"
+      },
+      {
+        "cname": "黑马河乡",
+        "url": "/sight/qinghaihu281/45415.html"
+      },
+      {
+        "cname": "鸟岛",
+        "url": "/sight/qinghaihu281/11707.html"
+      },
+      {
+        "cname": "二郎剑景区",
+        "url": "/sight/qinghaihu281/50229.html"
+      }
+    ],
+    "url": "/sightlist/qinghaihu281.html"
+  },
+  {
+    "cname": "西宁",
+    "suggest_places": [
+      {
+        "cname": "塔尔寺",
+        "url": "/sight/xining237/9794.html"
+      },
+      {
+        "cname": "东关清真大寺",
+        "url": "/sight/xining237/9808.html"
+      },
+      {
+        "cname": "马步芳公馆",
+        "url": "/sight/xining237/67787.html"
+      },
+      {
+        "cname": "日月山",
+        "url": "/sight/xining237/9809.html"
+      },
+      {
+        "cname": "青海省博物馆 ",
+        "url": "/sight/xining237/136221.html"
+      }
+    ],
+    "url": "/sightlist/xining237.html"
+  },
+  {
+    "cname": "湟中",
+    "suggest_places": [
+      {
+        "cname": "塔尔寺",
+        "url": "/sight/huangzhong2645/9794.html"
+      },
+      {
+        "cname": "青海藏文化馆",
+        "url": "/sight/huangzhong2645/134225.html"
+      },
+      {
+        "cname": "湟中县博物馆",
+        "url": "/sight/huangzhong2645/10974.html"
+      },
+      {
+        "cname": "莲花山风景区",
+        "url": "/sight/huangzhong2645/121275.html"
+      },
+      {
+        "cname": "鲁沙尔清真寺",
+        "url": "/sight/huangzhong2645/121276.html"
+      }
+    ],
+    "url": "/sightlist/huangzhong2645.html"
+  },
+  {
+    "cname": "海西",
+    "suggest_places": [
+      {
+        "cname": "茶卡盐湖",
+        "url": "/sight/haixi120012/11762.html"
+      },
+      {
+        "cname": "格尔木",
+        "url": "/sight/haixi120012/136210.html"
+      },
+      {
+        "cname": "昆仑山口",
+        "url": "/sight/haixi120012/49151.html"
+      },
+      {
+        "cname": "察尔汗盐湖",
+        "url": "/sight/haixi120012/49134.html"
+      },
+      {
+        "cname": "玉珠峰",
+        "url": "/sight/haixi120012/65481.html"
+      }
+    ],
+    "url": "/sightlist/haixi120012.html"
+  },
+  {
+    "cname": "海北",
+    "suggest_places": [
+      {
+        "cname": "门源油菜花",
+        "url": "/sight/haibei120014/45458.html"
+      },
+      {
+        "cname": "金银滩草原",
+        "url": "/sight/haibei120014/45414.html"
+      },
+      {
+        "cname": "卓尔山",
+        "url": "/sight/haibei120014/147838.html"
+      },
+      {
+        "cname": "原子城景区",
+        "url": "/sight/haibei120014/45417.html"
+      },
+      {
+        "cname": "原子城纪念馆",
+        "url": "/sight/haibei120014/129832.html"
+      }
+    ],
+    "url": "/sightlist/haibei120014.html"
+  },
+  {
+    "cname": "湟源",
+    "suggest_places": [
+      {
+        "cname": "日月山",
+        "url": "/sight/huangyuan2643/9809.html"
+      },
+      {
+        "cname": "丹噶尔古城 ",
+        "url": "/sight/huangyuan2643/110238.html"
+      },
+      {
+        "cname": "赞普林卡",
+        "url": "/sight/huangyuan2643/134898.html"
+      },
+      {
+        "cname": "湟源峡",
+        "url": "/sight/huangyuan2643/50182.html"
+      },
+      {
+        "cname": "扎藏寺",
+        "url": "/sight/huangyuan2643/121247.html"
+      }
+    ],
+    "url": "/sightlist/huangyuan2643.html"
+  },
+  {
+    "cname": "玉树",
+    "suggest_places": [
+      {
+        "cname": "可可西里自然保护区",
+        "url": "/sight/yushu896/133385.html"
+      },
+      {
+        "cname": "索南达杰保护站",
+        "url": "/sight/yushu896/49137.html"
+      },
+      {
+        "cname": "文成公主庙",
+        "url": "/sight/yushu896/50065.html"
+      },
+      {
+        "cname": "结古寺",
+        "url": "/sight/yushu896/50063.html"
+      },
+      {
+        "cname": "当卡寺",
+        "url": "/sight/yushu896/50083.html"
+      }
+    ],
+    "url": "/sightlist/yushu896.html"
+  },
+  {
+    "cname": "贵德",
+    "suggest_places": [
+      {
+        "cname": "贵德国家地质公园",
+        "url": "/sight/guide2636/129857.html"
+      },
+      {
+        "cname": "贵德文庙及玉皇阁",
+        "url": "/sight/guide2636/144765.html"
+      },
+      {
+        "cname": "拉鸡山",
+        "url": "/sight/guide2636/146911.html"
+      },
+      {
+        "cname": "中华福运轮",
+        "url": "/sight/guide2636/70160.html"
+      },
+      {
+        "cname": "黄河奇石苑",
+        "url": "/sight/guide2636/1417607.html"
+      }
+    ],
+    "url": "/sightlist/guide2636.html"
+  },
+  {
+    "cname": "黄南",
+    "suggest_places": [
+      {
+        "cname": "坎布拉国家森林公园",
+        "url": "/sight/huangnan120042/11723.html"
+      },
+      {
+        "cname": "隆务寺",
+        "url": "/sight/huangnan120042/67806.html"
+      },
+      {
+        "cname": "吾屯上寺",
+        "url": "/sight/huangnan120042/70865.html"
+      },
+      {
+        "cname": "黄南热贡艺术乡",
+        "url": "/sight/huangnan120042/133457.html"
+      },
+      {
+        "cname": "吾屯下寺",
+        "url": "/sight/huangnan120042/70860.html"
+      }
+    ],
+    "url": "/sightlist/huangnan120042.html"
+  },
+  {
+    "cname": "果洛",
+    "suggest_places": [
+      {
+        "cname": "年保玉则",
+        "url": "/sight/guoluo120013/133384.html"
+      },
+      {
+        "cname": "阿尼玛卿雪山",
+        "url": "/sight/guoluo120013/70907.html"
+      },
+      {
+        "cname": "拉加寺",
+        "url": "/sight/guoluo120013/70902.html"
+      },
+      {
+        "cname": "牛头碑",
+        "url": "/sight/guoluo120013/133388.html"
+      },
+      {
+        "cname": "鄂陵湖",
+        "url": "/sight/guoluo120013/133386.html"
+      }
+    ],
+    "url": "/sightlist/guoluo120013.html"
+  },
+  {
+    "cname": "互助",
+    "suggest_places": [
+      {
+        "cname": "北山国家森林公园",
+        "url": "/sight/huchu2637/65268.html"
+      },
+      {
+        "cname": "互助土族风情园",
+        "url": "/sight/huchu2637/9820.html"
+      },
+      {
+        "cname": "佑宁寺",
+        "url": "/sight/huchu2637/65269.html"
+      },
+      {
+        "cname": "白马寺",
+        "url": "/sight/huchu2637/11720.html"
+      },
+      {
+        "cname": "汪家庄汉墓",
+        "url": "/sight/huchu2637/10971.html"
+      }
+    ],
+    "url": "/sightlist/huchu2637.html"
+  },
+  {
+    "cname": "海南藏族自治州",
+    "suggest_places": [
+      {
+        "cname": "倒淌河",
+        "url": "/sight/hainantibetanautonomousprefecture120074/45412.html"
+      },
+      {
+        "cname": "贵德玉皇阁古建筑群",
+        "url": "/sight/hainantibetanautonomousprefecture120074/121250.html"
+      }
+    ],
+    "url": "/sightlist/hainantibetanautonomousprefecture120074.html"
+  },
+  {
+    "cname": "海东",
+    "suggest_places": [
+      {
+        "cname": "北山国家森林公园",
+        "url": "/sight/haidong120010/65268.html"
+      },
+      {
+        "cname": "孟达天池",
+        "url": "/sight/haidong120010/10957.html"
+      },
+      {
+        "cname": "互助土族风情园",
+        "url": "/sight/haidong120010/9820.html"
+      },
+      {
+        "cname": "瞿昙寺",
+        "url": "/sight/haidong120010/9821.html"
+      },
+      {
+        "cname": "夏琼寺",
+        "url": "/sight/haidong120010/137811.html"
+      }
+    ],
+    "url": "/sightlist/haidong120010.html"
+  },
+  {
+    "cname": "玛沁",
+    "suggest_places": [
+      {
+        "cname": "阿尼玛卿雪山",
+        "url": "/sight/maqin2640/70907.html"
+      },
+      {
+        "cname": "拉加寺",
+        "url": "/sight/maqin2640/70902.html"
+      }
+    ],
+    "url": "/sightlist/maqin2640.html"
+  },
+  {
+    "cname": "都兰",
+    "suggest_places": [
+      {
+        "cname": "都兰狩猎场",
+        "url": "/sight/doulan2638/49991.html"
+      }
+    ],
+    "url": "/sightlist/doulan2638.html"
+  },
+  {
+    "cname": "囊谦",
+    "suggest_places": [
+      {
+        "cname": "囊谦县然察大峡谷",
+        "url": "/sight/nangqian2642/50074.html"
+      }
+    ],
+    "url": "/sightlist/nangqian2642.html"
+  }
+]

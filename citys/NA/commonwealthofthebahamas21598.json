@@ -1,0 +1,54 @@
+[
+  {
+    "cname": "天堂岛",
+    "suggest_places": [
+      {
+        "cname": "天堂岛",
+        "url": "/sight/paradiseisland1268/133528.html"
+      },
+      {
+        "cname": "新普罗维登斯岛",
+        "url": "/sight/paradiseisland1268/141215.html"
+      },
+      {
+        "cname": "亚特兰蒂斯王国酒店",
+        "url": "/sight/paradiseisland1268/141220.html"
+      },
+      {
+        "cname": "高尔夫锦标赛球场",
+        "url": "/sight/paradiseisland1268/141233.html"
+      },
+      {
+        "cname": "室外水族馆",
+        "url": "/sight/paradiseisland1268/141040.html"
+      }
+    ],
+    "url": "/sightlist/paradiseisland1268.html"
+  },
+  {
+    "cname": "拿骚",
+    "suggest_places": [
+      {
+        "cname": "芬卡斯尔堡",
+        "url": "/sight/nassau1267/1460361.html"
+      },
+      {
+        "cname": "国家历史博物馆",
+        "url": "/sight/nassau1267/1460046.html"
+      },
+      {
+        "cname": "海盗博物馆",
+        "url": "/sight/nassau1267/1460044.html"
+      },
+      {
+        "cname": "拿骚公共图书馆",
+        "url": "/sight/nassau1267/1460354.html"
+      },
+      {
+        "cname": "夏洛特堡",
+        "url": "/sight/nassau1267/1460363.html"
+      }
+    ],
+    "url": "/sightlist/nassau1267.html"
+  }
+]

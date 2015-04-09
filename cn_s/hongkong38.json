@@ -1,0 +1,1040 @@
+[
+  {
+    "cname": "香港",
+    "url": "http://you.ctrip.com/sight/hongkong38.html",
+    "places": [
+      {
+        "cname": "海洋公园",
+        "url": "/sight/hongkong38/3339.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/254/860/269/6c8311da9f5b48eba531067d85875297_C_220_140.jpg",
+        "caddress": "香港香港仔南部黄竹坑"
+      },
+      {
+        "cname": "香港迪士尼乐园",
+        "url": "/sight/hongkong38/22943.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/633/749/298/a974dba9f5cc4e2c9fb1b6a101e8934d_C_220_140.jpg",
+        "caddress": "香港大屿山"
+      },
+      {
+        "cname": "尖沙咀",
+        "url": "/sight/hongkong38/56109.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/735/421/769/4b96e3ee373041b7aae135edad91e157_C_220_140.jpg",
+        "caddress": "香港九龙西油尖旺区"
+      },
+      {
+        "cname": "中环",
+        "url": "/sight/hongkong38/56110.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/227/330/126/aa899736ec81488cbd2ebf3e1a1c4aee_C_220_140.jpg",
+        "caddress": "香港中西区"
+      },
+      {
+        "cname": "太平山顶",
+        "url": "/sight/hongkong38/3307.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/253/932/965/6ab13a28769048e8a0c676cb436eb116_C_220_140.jpg",
+        "caddress": "香港香港仔中西部，卢吉道及夏力道一带。"
+      },
+      {
+        "cname": "星光大道",
+        "url": "/sight/hongkong38/26244.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/415/531/134/b7c1715319ae4b27930d1f233631dcb1_C_220_140.jpg",
+        "caddress": "位于梳士巴利花园南端的一段海滨长廊"
+      },
+      {
+        "cname": "铜锣湾",
+        "url": "/sight/hongkong38/56112.html",
+        "s_img": "http://p.chanyouji.cn/1401785709/D521A7FA-05E4-446C-A67D-860C8D705168.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港湾仔以东，北角以西。"
+      },
+      {
+        "cname": "维多利亚港",
+        "url": "/sight/hongkong38/55194.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/785/609/855/d62356342ace426b813135c6a013c8db_C_220_140.jpg",
+        "caddress": "香港香港岛中西区"
+      },
+      {
+        "cname": "旺角",
+        "url": "/sight/hongkong38/56106.html",
+        "s_img": "http://m.chanyouji.cn/attractions/4255.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港九龙西油尖旺区北部"
+      },
+      {
+        "cname": "大屿山",
+        "url": "/sight/hongkong38/64613.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/625/486/212/c41042bda2bc4e10973fd99ffed9c0ae_C_220_140.jpg",
+        "caddress": "香港离岛大屿山"
+      },
+      {
+        "cname": "杜莎夫人蜡像馆",
+        "url": "/sight/hongkong38/43906.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/423/129/782/571b348d81fb4b43b43e6f29e96974b2_C_220_140.jpg",
+        "caddress": "香港山顶道128号凌霄阁P101号铺"
+      },
+      {
+        "cname": "湾仔",
+        "url": "/sight/hongkong38/56377.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/926/129/337/85445e32f4d5445c811739d47fd81eee_C_220_140.jpg",
+        "caddress": "香港岛北岸的中央位置"
+      },
+      {
+        "cname": "山顶缆车",
+        "url": "/sight/hongkong38/113164.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/956/782/193/3c26feac704e44cabf88062fa9a732a2_C_220_140.jpg",
+        "caddress": "香港中环花园道山顶缆车站"
+      },
+      {
+        "cname": "东涌",
+        "url": "/sight/hongkong38/21594.html",
+        "s_img": "http://p.chanyouji.cn/1370152877/A313D0B6-8EB4-426C-B02D-0E3D542719A4.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港新界西离岛区大屿山北部"
+      },
+      {
+        "cname": "庙街",
+        "url": "/sight/hongkong38/56119.html",
+        "s_img": "http://p.chanyouji.cn/93801/1388114690070p18cp1afu81pbqg6e3rg1luj1rt92.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港九龙油麻地庙街"
+      },
+      {
+        "cname": "浅水湾",
+        "url": "/sight/hongkong38/3310.html",
+        "s_img": "http://p.chanyouji.cn/50041/1372603193018p17uaod5kn4ia1sbvsusgf3lr2.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港南区太平山南面"
+      },
+      {
+        "cname": "上环",
+        "url": "/sight/hongkong38/56111.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/899/520/402d9939838548c38113df1fd026f045_C_220_140.jpg",
+        "caddress": "香港中西区，邻近中环"
+      },
+      {
+        "cname": "金紫荆广场",
+        "url": "/sight/hongkong38/26253.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/998/624/197/81353a87f26f455c90a568eb3fc5af0a_C_220_140.jpg",
+        "caddress": "香港湾仔金紫荆广场（香港会议展览中心旁）"
+      },
+      {
+        "cname": "南丫岛",
+        "url": "/sight/hongkong38/52675.html",
+        "s_img": "http://p.chanyouji.cn/142998/1405321873550p18spqhqqs1cei1qh31p9n18rv1cr83m.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港南丫岛"
+      },
+      {
+        "cname": "东荟城",
+        "url": "/sight/hongkong38/109524.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/305/981/199/aaff9125853e49a2ac68e6ce9af5a080_C_220_140.jpg",
+        "caddress": "香港达东路20号"
+      },
+      {
+        "cname": "油麻地",
+        "url": "/sight/hongkong38/56107.html",
+        "s_img": "http://p.chanyouji.cn/19848/1358175825102p17gspcr4tbnv1kn0pek15uldor2.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港九龙半岛中部"
+      },
+      {
+        "cname": "凌霄阁",
+        "url": "/sight/hongkong38/113372.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/800/819/699/533fffbb09fe42a0a94f57732fd98e2d_C_220_140.jpg",
+        "caddress": "香港山顶山顶道128号"
+      },
+      {
+        "cname": "赤柱",
+        "url": "/sight/hongkong38/3311.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/488/378/634/db592ab38b584c2ba2a9631837096593_C_220_140.jpg",
+        "caddress": "香港岛南区"
+      },
+      {
+        "cname": "荃湾",
+        "url": "/sight/hongkong38/1408057.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/310/668/460/a275501451a549b29b8ecc7b3ca9de40_C_220_140.jpg",
+        "caddress": "荃湾位于香港新界西南，荃湾新市镇及荃湾区的主要部份，位于香港都会区范围之内。"
+      },
+      {
+        "cname": "黄大仙祠",
+        "url": "/sight/hongkong38/3319.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/746/617/861/0557aafa158041dfb1ba76928af9f3f4_C_220_140.jpg",
+        "caddress": "香港九龙黄大仙龙翔道120号新光中心地下"
+      },
+      {
+        "cname": "香港大学",
+        "url": "/sight/hongkong38/48288.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/033/625/077/54903df3142f45d9b18e7d785f6fcd6b_C_220_140.jpg",
+        "caddress": "香港薄扶林道"
+      },
+      {
+        "cname": "大澳",
+        "url": "/sight/hongkong38/3312.html",
+        "s_img": "http://p.chanyouji.cn/1396192826/24EE779B-D53F-41F7-871F-BC36E06FF470.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港大屿山西北面"
+      },
+      {
+        "cname": "西贡",
+        "url": "/sight/hongkong38/11344.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/366/454/696/16e7b7e555984a79a5dff6749daca2d4_C_220_140.jpg",
+        "caddress": "香港新界东西贡区"
+      },
+      {
+        "cname": "通菜街",
+        "url": "/sight/hongkong38/109597.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/189/260/069/b235a4dbe34f4804ac7ec6e992f17901_C_220_140.jpg",
+        "caddress": "香港九龙角通菜街（亚皆老街与登打士街之间）。"
+      },
+      {
+        "cname": "波鞋街",
+        "url": "/sight/hongkong38/56123.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/601/803/108/d0c3de930bde4dbeaaa57fa403f632f5_C_220_140.jpg",
+        "caddress": "九龙旺角花园街，自亚皆老街至奶路臣街路段"
+      },
+      {
+        "cname": "中银大厦",
+        "url": "/sight/hongkong38/132457.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/272/345/573/78c1eb706683492dac1a244edb98bec9_C_220_140.jpg",
+        "caddress": "香港花园道1号"
+      },
+      {
+        "cname": "加连威老道",
+        "url": "/sight/hongkong38/109552.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/673/363/248/85e0d538fbe34ebaa4381d3ee9115686_C_220_140.jpg",
+        "caddress": "香港尖沙咀加连威老道，弥敦道与漆咸道之间。"
+      },
+      {
+        "cname": "花园街",
+        "url": "/sight/hongkong38/56122.html",
+        "s_img": "http://p.chanyouji.cn/45492/1370779730603p17skd3dheqv5ihh18pn1i894g41d.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港旺角花园街（登打士街至太子道之间）。"
+      },
+      {
+        "cname": "香港太空馆",
+        "url": "/sight/hongkong38/3343.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/192/731/b456e6cbce8f4210bc9f60dbc0c3c23e_C_220_140.jpg",
+        "caddress": "香港九龙尖沙咀梳士巴利道10号"
+      },
+      {
+        "cname": "香港会议展览中心",
+        "url": "/sight/hongkong38/3306.html",
+        "s_img": "http://p.chanyouji.cn/61227/1376895748678p182am3ihpneh67c1shk14681nq72.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港湾仔博览道一号"
+      },
+      {
+        "cname": "九龙公园",
+        "url": "/sight/hongkong38/5589.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/589/065/815/9ec44992d3094d91839b76431e8beb73_C_220_140.jpg",
+        "caddress": "香港柯士甸道22号"
+      },
+      {
+        "cname": "长洲",
+        "url": "/sight/hongkong38/26302.html",
+        "s_img": "http://p.chanyouji.cn/66422/1377845237932p1836vivlg1ncu1rr64j1n1l1bsl8.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港岛西南海域长洲岛"
+      },
+      {
+        "cname": "香港天际100观景台",
+        "url": "/sight/hongkong38/107617.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/989/698/108/d27c6a745db3453dbed333a372317faf_C_220_140.jpg",
+        "caddress": "香港九龙柯士甸道西1号环球贸易广场100楼"
+      },
+      {
+        "cname": "香港艺术馆",
+        "url": "/sight/hongkong38/3341.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/658/395/184/df5e9aafd3fe40a697b7816cd316254b_C_220_140.jpg",
+        "caddress": "香港梳士巴利道10号"
+      },
+      {
+        "cname": "维多利亚公园",
+        "url": "/sight/hongkong38/3340.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/676/794/391/747d1307cbde40e59d90d44fd0883acb_C_220_140.jpg",
+        "caddress": "香港铜锣湾兴发街1号"
+      },
+      {
+        "cname": "香港公园",
+        "url": "/sight/hongkong38/113175.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/827/076/388/6032863d565242fea2db5fdfaac70bb0_C_220_140.jpg",
+        "caddress": "香港中环红棉路19号"
+      },
+      {
+        "cname": "香港科学馆",
+        "url": "/sight/hongkong38/3342.html",
+        "s_img": "http://p.chanyouji.cn/45492/1391135740342p18fisre48b5i1vs39uh15ji400v.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港科学馆道2号"
+      },
+      {
+        "cname": "青马大桥",
+        "url": "/sight/hongkong38/3309.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/043/849/367/95e29fc83e3145ff9f5b522817009f18_C_220_140.jpg",
+        "caddress": "香港青衣岛与马湾岛之间"
+      },
+      {
+        "cname": "沙田",
+        "url": "/sight/hongkong38/1408055.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/579/184/341/4ba7666d989f4d6cad3b3979b74e3d85_C_220_140.jpg",
+        "caddress": "香港新界南"
+      },
+      {
+        "cname": "皇后像广场",
+        "url": "/sight/hongkong38/64743.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/305/139/873/c33d724aadbe49a08bcb7cd506fbe3c2_C_220_140.jpg",
+        "caddress": "香港岛德辅道中"
+      },
+      {
+        "cname": "尖沙咀天星码头",
+        "url": "/sight/hongkong38/113165.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/708/054/107/2c06c0eccfea415793fc2f0dfbf073b0_C_220_140.jpg",
+        "caddress": "香港尖沙咀九龙公众码头"
+      },
+      {
+        "cname": "前九广铁路钟楼",
+        "url": "/sight/hongkong38/50650.html",
+        "s_img": "http://p.chanyouji.cn/18925/1357480099328p17g81dotuhrm9i61501kgk1hi316.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港尖沙咀香港文化中心广场（天星小轮码头附近）"
+      },
+      {
+        "cname": "西洋菜街",
+        "url": "/sight/hongkong38/137681.html",
+        "s_img": "http://p.chanyouji.cn/45492/1374719089208p1809ps7ra19qand51lsg1j9h16gkg.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港旺角西洋菜街"
+      },
+      {
+        "cname": "香港历史博物馆",
+        "url": "/sight/hongkong38/3330.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/238/681/286/0f78f27661c448b2a70af72393b7b46e_C_220_140.jpg",
+        "caddress": "香港九龙尖沙咀漆咸道南100号"
+      },
+      {
+        "cname": "香港文化中心",
+        "url": "/sight/hongkong38/50672.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/258/293/908/77ae0fb1753a48f99117000e328230b2_C_220_140.jpg",
+        "caddress": "香港梳士巴利道10号"
+      },
+      {
+        "cname": "美利楼",
+        "url": "/sight/hongkong38/5604.html",
+        "s_img": "http://p.chanyouji.cn/149330/1406564908547p18tusqffi16lb121611181lqcvf52.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港赤柱大街"
+      },
+      {
+        "cname": "圣约翰大教堂",
+        "url": "/sight/hongkong38/64758.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/846/064/026/16231bc6c5c443408ed0b916786c30c8_C_220_140.jpg",
+        "caddress": "香港中环花园道4-8号 ‎"
+      },
+      {
+        "cname": "花墟道",
+        "url": "/sight/hongkong38/64640.html",
+        "s_img": "http://p.chanyouji.cn/45492/1370779963937p17skdk8m111ne196d1dg6hppe154.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港旺角花墟道"
+      },
+      {
+        "cname": "楼梯街",
+        "url": "/sight/hongkong38/64736.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/697/631/375/b51e0d419496412f97d83e9214259e82_C_220_140.jpg",
+        "caddress": "香港香港岛湾仔区荷李活道"
+      },
+      {
+        "cname": "煤气灯街",
+        "url": "/sight/hongkong38/64747.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/862/873/679/4280b26885ba437cb9f86ccd888a81e3_C_220_140.jpg",
+        "caddress": "中环都爹利街，位于皇后大道中与雪厂街之间。"
+      },
+      {
+        "cname": "柏丽购物大道",
+        "url": "/sight/hongkong38/56120.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/671/758/468/3037087297b64eb6bd74ada7cd814245_C_220_140.jpg",
+        "caddress": "香港尖沙咀弥敦道111-181号"
+      },
+      {
+        "cname": "罗素街",
+        "url": "/sight/hongkong38/109583.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/976/388/440/b82a550f0ed2451096639bf851dcbf85_C_220_140.jpg",
+        "caddress": "香港铜锣湾罗素街40号"
+      },
+      {
+        "cname": "宝莲寺",
+        "url": "/sight/hongkong38/3333.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/356/733/5e61bdba1fff4e268d4e6a52816422d7_C_220_140.jpg",
+        "caddress": "香港大屿山昂平昂平路宝莲禅寺"
+      },
+      {
+        "cname": "文武庙",
+        "url": "/sight/hongkong38/3316.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/748/488/876/caa988728a4341e6b8b03bde0aa80c50_C_220_140.jpg",
+        "caddress": "香港上环荷李活道124-126号"
+      },
+      {
+        "cname": "香港湿地公园",
+        "url": "/sight/hongkong38/26276.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/158/932/71d838bdd2c54861b308a8f6aca63288_C_220_140.jpg",
+        "caddress": "香港新界天水围湿地公园路"
+      },
+      {
+        "cname": "梅窝",
+        "url": "/sight/hongkong38/21593.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/646/092/6ca9cc8116b4424485cda677eba7fbc5_C_220_140.jpg",
+        "caddress": "离岛大屿山梅窝东湾头路"
+      },
+      {
+        "cname": "重庆大厦",
+        "url": "/sight/hongkong38/109700.html",
+        "s_img": "http://p.chanyouji.cn/162456/1410343929857p191fgmmpq34l1ch21bmk1pna8hmf.jpg?imageView/1/w/220/h/140",
+        "caddress": "九龙尖沙咀弥敦道36-44号"
+      },
+      {
+        "cname": "铜锣湾避风塘",
+        "url": "/sight/hongkong38/64581.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/958/196/533/d4ee42dfa14044d1a17c5356187a1cfd_C_220_140.jpg",
+        "caddress": "香港特别行政区湾仔区"
+      },
+      {
+        "cname": "深水湾",
+        "url": "/sight/hongkong38/50695.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/195/318/877/cde8480dbe9248198ed858d43d284073_C_220_140.jpg",
+        "caddress": "香港岛深水湾香岛道"
+      },
+      {
+        "cname": "麦理浩径",
+        "url": "/sight/hongkong38/50700.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/589/810/560/0d8677d8cf624d9284503460924ed951_C_220_140.jpg",
+        "caddress": "香港新界东西贡区金山麦理浩径5段"
+      },
+      {
+        "cname": "狮子亭",
+        "url": "/sight/hongkong38/132484.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/182/735/111/c06da17a3fbc47ec9a8b61d430378cf2_C_220_140.jpg",
+        "caddress": "香港沙田区马料水香港中文大学未圆湖"
+      },
+      {
+        "cname": "立法会大楼",
+        "url": "/sight/hongkong38/113182.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/958/304/707/49d25d02acac44d0bd0bfd5a96738bfb_C_220_140.jpg",
+        "caddress": "香港昃臣道8号"
+      },
+      {
+        "cname": "洪圣爷海滩",
+        "url": "/sight/hongkong38/132491.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/692/625/236/bcf478b9c549411f8e9c75342926f6c1_C_220_140.jpg",
+        "caddress": "香港离岛南丫岛榕树湾洪圣爷湾"
+      },
+      {
+        "cname": "艺穗会",
+        "url": "/sight/hongkong38/132463.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/769/504/732/e21ce033cc30422f84988759b99bbbdb_C_220_140.jpg",
+        "caddress": "香港岛中环下亚厘毕道2号"
+      },
+      {
+        "cname": "海味街",
+        "url": "/sight/hongkong38/64812.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/725/920/101/e8c5a054cd604195ab875f2450ccfbfa_C_220_140.jpg",
+        "caddress": "香港岛中西区上环介皇后街及正街的一段德辅道西，以及文咸东街及苏杭街一带。"
+      },
+      {
+        "cname": "石澳",
+        "url": "/sight/hongkong38/48324.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/226/040/758/575d090fd6a0488684960768527ebeb1_C_220_140.jpg",
+        "caddress": "香港岛赤柱半岛以东"
+      },
+      {
+        "cname": "西港城",
+        "url": "/sight/hongkong38/50645.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/090/662/ce5cad9762234f618197cb88e4ae5221_C_220_140.jpg",
+        "caddress": "香港德辅道中323号"
+      },
+      {
+        "cname": "西贡东郊野公园",
+        "url": "/sight/hongkong38/64966.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/778/731/373/8f71a650625242508a91b2ecd3660e05_C_220_140.jpg",
+        "caddress": "香港新界东西贡区西贡半岛"
+      },
+      {
+        "cname": "香港体育馆",
+        "url": "/sight/hongkong38/56310.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/481/802/e2789c6a6ed54fdb865d2af3edf87d42_C_220_140.jpg",
+        "caddress": "香港九龙油尖旺区红磡畅运道9号"
+      },
+      {
+        "cname": "索罟湾码头",
+        "url": "/sight/hongkong38/133025.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/751/113/305/9a1ef8ea76c341f2a703ae045c06e860_C_220_140.jpg",
+        "caddress": "香港南丫岛索罟湾第一街北头"
+      },
+      {
+        "cname": "西贡海鲜街",
+        "url": "/sight/hongkong38/137680.html",
+        "s_img": "http://p.chanyouji.cn/1408780522/972EEA20-D0F3-4D3C-9704-50C3B55B2620.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港西贡市场街"
+      },
+      {
+        "cname": "油麻地警署",
+        "url": "/sight/hongkong38/148029.html",
+        "s_img": "http://m.chanyouji.cn/attractions/155981.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港油麻地油麻地警署"
+      },
+      {
+        "cname": "九龙寨城公园",
+        "url": "/sight/hongkong38/3344.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/733/014/cf7e1b7d1f4f4ec59489e16a29049137_C_220_140.jpg",
+        "caddress": "香港九龙城东正道"
+      },
+      {
+        "cname": "榕树湾大街",
+        "url": "/sight/hongkong38/1411231.html",
+        "s_img": "http://m.chanyouji.cn/29821/1364621400050p17mss9ogt1iaa1iq54c61lopfa5.jpg?imageView/1/w/220/h/140",
+        "caddress": "南丫岛榕树湾"
+      },
+      {
+        "cname": "屏山文物径",
+        "url": "/sight/hongkong38/50654.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/950/929/671/ee24a4064f7d44b487d6fc21b084e5c7_C_220_140.jpg",
+        "caddress": "香港新界元朗区屏山乡"
+      },
+      {
+        "cname": "塔门岛",
+        "url": "/sight/hongkong38/1411241.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/104/965/504/4d2e7cb4a49446d78496cde067a352c9_C_220_140.jpg",
+        "caddress": "西贡北部(赤门海峡之东)"
+      },
+      {
+        "cname": "香港3D奇幻世界",
+        "url": "/sight/hongkong38/1412889.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/466/830/cae82b10fd5c454cb006ca274ae6d52a_C_220_140.jpg",
+        "caddress": "香港九龙尖沙咀加连威老道96号希尔顿广场1楼1及5号铺"
+      },
+      {
+        "cname": "山顶缆车历史珍藏馆",
+        "url": "/sight/hongkong38/132483.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/909/864/580/8d0c5c3ed5c6442091f41cc4be43d536_C_220_140.jpg",
+        "caddress": "香港中环花园道33号"
+      },
+      {
+        "cname": "香港中文大学",
+        "url": "/sight/hongkong38/144807.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/653/485/040/74d6a5eabe25409585e056bab99513aa_C_220_140.jpg",
+        "caddress": "香港新界沙田大埔道"
+      },
+      {
+        "cname": "汇丰总行大厦",
+        "url": "/sight/hongkong38/132458.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/611/634/958/1bb8cb089a5f4de1944f757ff3869849_C_220_140.jpg",
+        "caddress": "中环皇后大道中1号"
+      },
+      {
+        "cname": "香港仔避风塘",
+        "url": "/sight/hongkong38/48305.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/254/906/501/9b5a1883de1848ec9fcf8aed16e8b75d_C_220_140.jpg",
+        "caddress": "香港岛香港仔与鸭脷洲之间海面"
+      },
+      {
+        "cname": "马湾公园",
+        "url": "/sight/hongkong38/109780.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/887/986/42ba08a2ee194e0a9b860b3b457504b1_C_220_140.jpg",
+        "caddress": "香港新界马湾珀欣路33号"
+      },
+      {
+        "cname": "香港文化博物馆",
+        "url": "/sight/hongkong38/50673.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/718/853/857/ef322e88efa6417b9886bde76ca9faa3_C_220_140.jpg",
+        "caddress": "香港沙田文林路1号"
+      },
+      {
+        "cname": "孙中山纪念馆",
+        "url": "/sight/hongkong38/137757.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/763/485/444/e994197e716b4ffb9d12a700bf854d52_C_220_140.jpg",
+        "caddress": "香港岛中环卫城道7号"
+      },
+      {
+        "cname": "黄金海岸",
+        "url": "/sight/hongkong38/50696.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/889/581/476/72162f966a5b43d9ab76b68e84746b48_C_220_140.jpg",
+        "caddress": "香港新界屯门黄金海岸青山公路"
+      },
+      {
+        "cname": "吉庆围",
+        "url": "/sight/hongkong38/3336.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/967/158/188/40210f60929a44f08b3ee66fbceb58b9_C_220_140.jpg",
+        "caddress": "锦田区锦田公路103号"
+      },
+      {
+        "cname": "香港动植物公园",
+        "url": "/sight/hongkong38/64741.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/118/067/972/bd85638dbd614709ad1e12ee6559cd73_C_220_140.jpg",
+        "caddress": "香港扯旗山北坡,公园正门在雅宾利道。"
+      },
+      {
+        "cname": "米埔自然保护区",
+        "url": "/sight/hongkong38/3314.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/902/828/748/773180b5e3744408b10001656e6d45f5_C_220_140.jpg",
+        "caddress": "香港元朗区米埔野生动物保护区"
+      },
+      {
+        "cname": "三栋屋博物馆",
+        "url": "/sight/hongkong38/3334.html",
+        "s_img": "http://p.chanyouji.cn/45510/1370785805251p17skiuifr1c63adesmjlfln6012.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港荃湾古屋里2号"
+      },
+      {
+        "cname": "电影资料馆",
+        "url": "/sight/hongkong38/50675.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/948/719/425/793fcb0c59a744ab94f7bcfe6d58ac70_C_220_140.jpg",
+        "caddress": "香港岛西湾河鲤景道50号"
+      },
+      {
+        "cname": "圣安德烈教堂",
+        "url": "/sight/hongkong38/132486.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/929/233/8b4a74fa46f04ff59c4c7b1fb6630c4d_C_220_140.jpg",
+        "caddress": "香港尖沙咀弥敦道138号"
+      },
+      {
+        "cname": "天水围",
+        "url": "/sight/hongkong38/1408056.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/527/253/570/7b3b4e2b0e104cb79ebd5678b80c7946_C_220_140.jpg",
+        "caddress": "天水围位于香港新界元朗区，周边被属屏山乡事委员会的沙江围、冯家围、辋井村、虾尾新村等村落包围，距离中环市区大约25公里。"
+      },
+      {
+        "cname": "香港赛马博物馆",
+        "url": "/sight/hongkong38/64875.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/001/219/81b17dbbd36a454daa3240d9bc129156_C_220_140.jpg",
+        "caddress": "香港跑马地快活看台2楼"
+      },
+      {
+        "cname": "大夫第",
+        "url": "/sight/hongkong38/3337.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/549/928/990/845c5814b4a94d04937e505ca4fcc79d_C_220_140.jpg",
+        "caddress": "香港新田青山公路新田段"
+      },
+      {
+        "cname": "石板街",
+        "url": "/sight/hongkong38/113168.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/092/248/324/35656cc4fc1e46acab27e767dc890b2d_C_220_140.jpg",
+        "caddress": "香港中环荷里活道交界至干诺道中环段（近兰桂坊）"
+      },
+      {
+        "cname": "观塘鲤鱼门",
+        "url": "/sight/hongkong38/50652.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/938/665/255/ff473704471c4489933099c760355d45_C_220_140.jpg",
+        "caddress": "油塘工业区东南（港岛东区）"
+      },
+      {
+        "cname": "长洲海鲜街",
+        "url": "/sight/hongkong38/110093.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/764/395/491dfec09ef24f029603795e78886beb_C_220_140.jpg",
+        "caddress": "香港长洲渡轮码头附近"
+      },
+      {
+        "cname": "东湾",
+        "url": "/sight/hongkong38/26306.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/875/065/2905609450b24243a512c4889801bdd4_C_220_140.jpg",
+        "caddress": "香港新界长洲东岸"
+      },
+      {
+        "cname": "地铁太古站",
+        "url": "/sight/hongkong38/110028.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/214/179/a66c16012b7a4057aefecf880af58022_C_220_140.jpg",
+        "caddress": "香港鲗鱼涌康山道1号 ‎"
+      },
+      {
+        "cname": "香港礼宾府",
+        "url": "/sight/hongkong38/50670.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/647/794/248/e00c4d0d7b394e5f805308a5326b4ca4_C_220_140.jpg",
+        "caddress": "香港岛半山上亚厘毕道"
+      },
+      {
+        "cname": "怡和洋行午炮",
+        "url": "/sight/hongkong38/64888.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/725/988/724/c3e2950bb5654193be9e5edb33d93b07_C_220_140.jpg",
+        "caddress": "香港岛湾仔区告士打道310号"
+      },
+      {
+        "cname": "旧湾仔邮政局",
+        "url": "/sight/hongkong38/48292.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/444/905/180/83599fb3656f4b8da4aa2ac60824da39_C_220_140.jpg",
+        "caddress": "港岛湾仔皇后大道东221号"
+      },
+      {
+        "cname": "榕树湾渡轮码头",
+        "url": "/sight/hongkong38/133024.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/507/156/3dcf5975be0241b2bb2542badbb07175_C_220_140.jpg",
+        "caddress": "南丫岛榕树湾大街2号"
+      },
+      {
+        "cname": "金山郊野公园",
+        "url": "/sight/hongkong38/50687.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/391/834/196/d7949f09bd474ad1b88760c7a2b17423_C_220_140.jpg",
+        "caddress": "香港新界东沙田区金山路"
+      },
+      {
+        "cname": "张保仔洞",
+        "url": "/sight/hongkong38/110085.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/823/558/636/e7256eec9c4e42efbaf5987e181bd4f5_C_220_140.jpg",
+        "caddress": "香港长洲长洲家乐径"
+      },
+      {
+        "cname": "圆玄学院",
+        "url": "/sight/hongkong38/3323.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/047/184/625/b438c64ac153460c9559567d323bf3c6_C_220_140.jpg",
+        "caddress": "荃湾荃湾老围圆玄学院"
+      },
+      {
+        "cname": "“张保仔”帆船",
+        "url": "/sight/hongkong38/51259.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/682/620/146/a47c6b2cc62d4edd8d10d622ca2fc4c8_C_220_140.jpg",
+        "caddress": "可分别于尖沙嘴四号码头或中环皇后码头上船"
+      },
+      {
+        "cname": "雀鸟花园",
+        "url": "/sight/hongkong38/64647.html",
+        "s_img": "http://p.chanyouji.cn/45492/1370780151667p17skdk8m14gm1hg11e1i1h08rcrl.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港园圃街雀鸟花园"
+      },
+      {
+        "cname": "香港古物古迹办事处",
+        "url": "/sight/hongkong38/132488.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/091/993/923/c16d57bb3ed346a98574c644940dd1c0_C_220_140.jpg",
+        "caddress": "香港九龙尖沙咀弥敦道136号"
+      },
+      {
+        "cname": "观音湾泳滩",
+        "url": "/sight/hongkong38/110092.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/530/433/257/abcfaaf2badf4cbf9c1c75b52e2567e0_C_220_140.jpg",
+        "caddress": "香港离岛长洲东堤路及黑排路"
+      },
+      {
+        "cname": "司徒拔道观景台",
+        "url": "/sight/hongkong38/65723.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/696/974/456/7ab104007fe94f0da63c8ea1e3442504_C_220_140.jpg",
+        "caddress": "香港岛湾仔区境内"
+      },
+      {
+        "cname": "东平洲",
+        "url": "/sight/hongkong38/1411239.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/259/693/847/46bf3984312848ffb625e5e66b728a9a_C_220_140.jpg",
+        "caddress": "香港最东北的岛屿，位于大鹏湾，属大埔区"
+      },
+      {
+        "cname": "坪洲岛",
+        "url": "/sight/hongkong38/50702.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/503/136/390/d92a2fac133b4c61b7142ed5aa8da7f6_C_220_140.jpg",
+        "caddress": "香港新界西离岛区境内"
+      },
+      {
+        "cname": "飞鹅山观景台",
+        "url": "/sight/hongkong38/65725.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/025/947/192/f46a561c569f45beaab81e5936aed5b4_C_220_140.jpg",
+        "caddress": "香港的黄大仙区、观塘区、西贡区和沙田区的交界"
+      },
+      {
+        "cname": "九龙清真寺",
+        "url": "/sight/hongkong38/64637.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/599/545/626/194336f2d5ef4db4b14a61fcba63a185_C_220_140.jpg",
+        "caddress": "香港尖沙咀弥敦道105号"
+      },
+      {
+        "cname": "济公庙",
+        "url": "/sight/hongkong38/110269.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/044/874/251/b9e601fae7344602b5db38240ef50266_C_220_140.jpg",
+        "caddress": "香港上环太平山街40号广福义祠"
+      },
+      {
+        "cname": "警队博物馆",
+        "url": "/sight/hongkong38/3328.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/722/658/928/00ad5b57b62d4f6ab77687b0becc7416_C_220_140.jpg",
+        "caddress": "香港山顶甘道27号"
+      },
+      {
+        "cname": "长洲西堤道",
+        "url": "/sight/hongkong38/110094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/455/705/875/4a2d838cbf7b4bb587f89b6955cf85a0_C_220_140.jpg",
+        "caddress": "香港长洲西堤道"
+      },
+      {
+        "cname": "油麻地天后庙",
+        "url": "/sight/hongkong38/64688.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/564/543/194/88f577ae7ef04d378ab3fec3f91ef6c7_C_220_140.jpg",
+        "caddress": "香港油尖旺区油麻地地庙街"
+      },
+      {
+        "cname": "榕树湾天后古庙",
+        "url": "/sight/hongkong38/132492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/519/414/1b30c495eb3843e599bb7aa7ca9ce85a_C_220_140.jpg",
+        "caddress": "香港南丫岛榕树湾大街99号"
+      },
+      {
+        "cname": "南大屿山郊野公园",
+        "url": "/sight/hongkong38/50689.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/207/955/600/40a110fb70be4843a3fcaa2591396ce5_C_220_140.jpg",
+        "caddress": "香港大屿山凤凰径3段"
+      },
+      {
+        "cname": "惩教博物馆 ",
+        "url": "/sight/hongkong38/50674.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/118/225/160/74a7b1356e4c470887634c8206214e51_C_220_140.jpg",
+        "caddress": "香港东弯头道45号"
+      },
+      {
+        "cname": "香港文物探知馆",
+        "url": "/sight/hongkong38/1416002.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/82/30/Cghzf1UKhaWAd7MPAB2KnCimBXM532_C_220_140.jpg",
+        "caddress": "香港九龙尖沙咀海防道九龙公园"
+      },
+      {
+        "cname": "龙跃头文物径",
+        "url": "/sight/hongkong38/50656.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/536/211/548/32e49ab193974cd4a94b8f557258ae9d_C_220_140.jpg",
+        "caddress": "香港新界粉岭联和墟东北的龙跃头"
+      },
+      {
+        "cname": "滘西洲洪圣古庙",
+        "url": "/sight/hongkong38/50666.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/716/907/275/859939a572734173b6c5e12cfbc42da9_C_220_140.jpg",
+        "caddress": "香港新界滘西洲"
+      },
+      {
+        "cname": "PMQ元创方",
+        "url": "/sight/hongkong38/1412136.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/332/678/712/1df5309917ec49ff8c595274dc2a6785_C_220_140.jpg",
+        "caddress": "香港中环鸭巴甸街35号"
+      },
+      {
+        "cname": "鸭寮街",
+        "url": "/sight/hongkong38/147843.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/787/261/090/5ed0e49f454f42709101f3a83ff64927_C_220_140.jpg",
+        "caddress": "Apliu Street, Sham Shui Po"
+      },
+      {
+        "cname": "青松观",
+        "url": "/sight/hongkong38/50653.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/132/626/079/7a152ec06e89473a8ea4abf663be85eb_C_220_140.jpg",
+        "caddress": "香港屯门青松观路青松径"
+      },
+      {
+        "cname": "“鸭灵号”帆船 ",
+        "url": "/sight/hongkong38/48366.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/904/440/f316de9dbc3a4ed29d41193164c6cc35_C_220_140.jpg",
+        "caddress": "中国香港九龙西油尖旺区维多利亚港"
+      },
+      {
+        "cname": "李郑屋古墓",
+        "url": "/sight/hongkong38/3329.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/7F/DF/CghzfFUKhoKAchYSABob8aA-9o8315_C_220_140.jpg",
+        "caddress": "香港九龙深水埗东京街41号"
+      },
+      {
+        "cname": "珍藏乐",
+        "url": "/sight/hongkong38/132466.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/247/998/717/e5261397099048d4a492ad72a193f769_C_220_140.jpg",
+        "caddress": "香港岛铜锣湾骆克道523号1楼"
+      },
+      {
+        "cname": "挪亚方舟",
+        "url": "/sight/hongkong38/1412152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/634/834/965/2fde1a21af664051905338b36c6f378b_C_220_140.jpg",
+        "caddress": "新界马湾珀欣路33号"
+      },
+      {
+        "cname": "圣母无原罪主教座堂",
+        "url": "/sight/hongkong38/64759.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/438/232/338/2b095616c43e4b78a2f9be145d9f955e_C_220_140.jpg",
+        "caddress": "香港坚道16号"
+      },
+      {
+        "cname": "铜锣湾天后庙",
+        "url": "/sight/hongkong38/1413382.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/280/156/86d79ac24f1248c4a9c6e207afea03d2_C_220_140.jpg",
+        "caddress": "香港特别行政区东区铜锣湾天后庙道10号"
+      },
+      {
+        "cname": "香港高等法院",
+        "url": "/sight/hongkong38/1416021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/143/901/063/bfa68d7bbebb475facafb96126fd4a67_C_220_140.jpg",
+        "caddress": "香港岛金钟金钟道38号"
+      },
+      {
+        "cname": "香港世界地质公园",
+        "url": "/sight/hongkong38/1513353.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/76/0E/CghzfVTB5ySAeILiAAEoUhNKD34294_C_220_140.jpg",
+        "caddress": "香港新界东部及东北部西贡区西贡万宜路"
+      },
+      {
+        "cname": "香港海事博物馆",
+        "url": "/sight/hongkong38/1416097.html",
+        "s_img": "",
+        "caddress": "香港中西区中环8号码头"
+      },
+      {
+        "cname": "北社街及新兴街",
+        "url": "/sight/hongkong38/26308.html",
+        "s_img": "",
+        "caddress": "香港离岛长洲北部"
+      },
+      {
+        "cname": "旧中区警署",
+        "url": "/sight/hongkong38/1416016.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/007/976/0c7432088bfc41b2b194746d23fa36d4_C_220_140.jpg",
+        "caddress": "香港中环荷李活道10号"
+      },
+      {
+        "cname": "海防博物馆",
+        "url": "/sight/hongkong38/48282.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/D8/56/CghzflUCsaWAUmTwAAJD4Q6ew_o095_C_220_140.jpg",
+        "caddress": "香港筲箕湾东喜道175号"
+      },
+      {
+        "cname": "香港摩天轮",
+        "url": "/sight/hongkong38/1673000.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/22/D2/CghzfFTcFc6AbWPyAAD1KvPJMZw589_C_220_140.jpg",
+        "caddress": "中环海滨长廊"
+      },
+      {
+        "cname": "元朗戏院",
+        "url": "/sight/hongkong38/1673011.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M08/22/DF/CghzfFTcFvKAWydqAADYPmeWfo4475_C_220_140.jpg",
+        "caddress": "新界元朗体育路9号"
+      },
+      {
+        "cname": "域多利监狱",
+        "url": "/sight/hongkong38/1416000.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/087/403/579/1692c4884eee4699ae85701f8ff82951_C_220_140.jpg",
+        "caddress": "香港岛中环奥卑利街16号"
+      },
+      {
+        "cname": "添马舰空中花园",
+        "url": "/sight/hongkong38/1483949.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/263/223/298/3847f8614281490aadb200058f2e110b_C_220_140.jpg",
+        "caddress": "香港香港岛金钟"
+      },
+      {
+        "cname": "长洲北社天后庙",
+        "url": "/sight/hongkong38/1676902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M05/CA/C0/CghzgFT9NzuAeBA-AASLuaPHNME687_C_220_140.jpg",
+        "caddress": "香港特别行政区离岛区长洲北社新村长洲家乐径"
+      },
+      {
+        "cname": "华富邨",
+        "url": "/sight/hongkong38/1646987.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/25/21/CghzgFTQgT6AZYfRAAJtrTKqVPM756_C_220_140.jpg",
+        "caddress": "香港岛南区薄扶林"
+      },
+      {
+        "cname": "林村许愿树",
+        "url": "/sight/hongkong38/113174.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/1C/1A/CghzfVTQhDaAOdGRAAS0kfPoIjc443_C_220_140.jpg",
+        "caddress": "香港新界大埔林村"
+      },
+      {
+        "cname": "赛马会创意艺术中心",
+        "url": "/sight/hongkong38/1647072.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M00/23/E8/Cghzf1TQfTiAbWdKAAGkhoDeZrM857_C_220_140.jpg",
+        "caddress": "香港九龙深水埗白田街石硖尾街30号"
+      },
+      {
+        "cname": "香港特丽爱3D美术馆",
+        "url": "/sight/hongkong38/1673457.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/D8/4F/CghzgFTYXP-Aa8KvAAK3jqePUJY512_C_220_140.jpg",
+        "caddress": "香港山顶道118号山顶广场3楼1号铺"
+      },
+      {
+        "cname": "香港铁路博物馆",
+        "url": "/sight/hongkong38/113315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/1C/69/CghzfVTQhVaAUwiLAAN99lUzNmY364_C_220_140.jpg",
+        "caddress": "香港大埔墟崇德街13号"
+      },
+      {
+        "cname": "香港仔",
+        "url": "/sight/hongkong38/1676289.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/A9/11/CghzgVT3_ZGAPlKmAAKrv5sX15g169_C_220_140.jpg",
+        "caddress": "香港香港仔大道236号"
+      },
+      {
+        "cname": "加多利山",
+        "url": "/sight/hongkong38/1413380.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/559/611/0df81f53ad3f4e1d96250d3fd24b0e49_C_220_140.jpg",
+        "caddress": "香港特别行政区油尖旺区太子道西211号"
+      },
+      {
+        "cname": "八仙岭郊野公园",
+        "url": "/sight/hongkong38/50692.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/453/894/699/84a7f4fd03d64badbc605ed2b3c26b3f_C_220_140.jpg",
+        "caddress": "香港新界东区八仙岭"
+      },
+      {
+        "cname": "上长沙泳滩",
+        "url": "/sight/hongkong38/109938.html",
+        "s_img": "",
+        "caddress": "香港大屿山屿南路上长沙"
+      },
+      {
+        "cname": "小长城",
+        "url": "/sight/hongkong38/110091.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/384/192/545/134827718ee04ab9a393568a49646266_C_220_140.jpg",
+        "caddress": "香港长洲观音湾泳滩后"
+      },
+      {
+        "cname": "关公忠义亭",
+        "url": "/sight/hongkong38/110088.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/395/344/110/9e26658288124ae1a863bdc40d8afe95_C_220_140.jpg",
+        "caddress": "香港长洲观音湾路28号"
+      },
+      {
+        "cname": "蒲台岛",
+        "url": "/sight/hongkong38/50697.html",
+        "s_img": "",
+        "caddress": "香港岛南区"
+      },
+      {
+        "cname": "中华基督教会长洲堂",
+        "url": "/sight/hongkong38/110090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/610/071/624/b8a04d037f544ddda21fc6360af493c7_C_220_140.jpg",
+        "caddress": "香港长洲学校路14号"
+      },
+      {
+        "cname": "湾仔洪圣古庙",
+        "url": "/sight/hongkong38/64831.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/678/196/042/c1f96b21ceb14ecd99091f56be8d37d9_C_220_140.jpg",
+        "caddress": "香港岛中西区皇后大道东129号"
+      },
+      {
+        "cname": "五行石景区",
+        "url": "/sight/hongkong38/110087.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/638/363/326/ef93cf9ce8d740608460215344ad9788_C_220_140.jpg",
+        "caddress": "香港长洲西端鯆鱼湾海岸"
+      },
+      {
+        "cname": "沙田曾大屋",
+        "url": "/sight/hongkong38/113240.html",
+        "s_img": "http://m.chanyouji.cn/attractions/4531.jpg?imageView/1/w/220/h/140",
+        "caddress": "沙田狮子山公园脚下"
+      },
+      {
+        "cname": "长洲洪圣庙",
+        "url": "/sight/hongkong38/110089.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/306/796/082/022aa01f07f649a687ad534b7d3330ef_C_220_140.jpg",
+        "caddress": "香港长洲中兴街1号A大新街口"
+      },
+      {
+        "cname": "妙法寺",
+        "url": "/sight/hongkong38/1676471.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/29/A9/CghzflTxq12AIsqMAAJ9Adxj0MA938_C_220_140.jpg",
+        "caddress": "香港新界屯门篮地青山公路18号"
+      },
+      {
+        "cname": "龙翔道观景台",
+        "url": "/sight/hongkong38/65728.html",
+        "s_img": "",
+        "caddress": "香港九龙北区大埔道"
+      },
+      {
+        "cname": "大围",
+        "url": "/sight/hongkong38/148028.html",
+        "s_img": "http://m.chanyouji.cn/attractions/155976.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港大围"
+      },
+      {
+        "cname": "修顿球场",
+        "url": "/sight/hongkong38/148026.html",
+        "s_img": "http://m.chanyouji.cn/attractions/155967.jpg?imageView/1/w/220/h/140",
+        "caddress": "香港湾仔庄士敦道111號修顿球场"
+      },
+      {
+        "cname": "卖仔勿摸头",
+        "url": "/sight/hongkong38/142454.html",
+        "s_img": "",
+        "caddress": "香港石硖尾白田街30号赛马会创意艺术中心1楼05室Café Golden内"
+      }
+    ]
+  }
+]

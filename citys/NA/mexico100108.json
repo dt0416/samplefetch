@@ -1,0 +1,134 @@
+[
+  {
+    "cname": "墨西哥城",
+    "suggest_places": [
+      {
+        "cname": "墨西哥城",
+        "url": "/sight/mexicocity352/139950.html"
+      },
+      {
+        "cname": "宪法广场",
+        "url": "/sight/mexicocity352/68038.html"
+      },
+      {
+        "cname": "太阳金字塔",
+        "url": "/sight/mexicocity352/139973.html"
+      },
+      {
+        "cname": "墨西哥城大教堂",
+        "url": "/sight/mexicocity352/68112.html"
+      },
+      {
+        "cname": "瓜达卢佩圣母大教堂",
+        "url": "/sight/mexicocity352/70714.html"
+      }
+    ],
+    "url": "/sightlist/mexicocity352.html"
+  },
+  {
+    "cname": "坎昆",
+    "suggest_places": [
+      {
+        "cname": "坎昆",
+        "url": "/sight/cancun1412/139941.html"
+      },
+      {
+        "cname": "图伦遗址",
+        "url": "/sight/cancun1412/71079.html"
+      },
+      {
+        "cname": "科苏梅尔岛",
+        "url": "/sight/cancun1412/71076.html"
+      },
+      {
+        "cname": "卡门海滩",
+        "url": "/sight/cancun1412/139940.html"
+      },
+      {
+        "cname": "女子岛",
+        "url": "/sight/cancun1412/71078.html"
+      }
+    ],
+    "url": "/sightlist/cancun1412.html"
+  },
+  {
+    "cname": "奇琴伊察",
+    "suggest_places": [
+      {
+        "cname": "奇琴伊察古城遗址",
+        "url": "/sight/chichenitza17845/71075.html"
+      },
+      {
+        "cname": "卡斯蒂略金字塔",
+        "url": "/sight/chichenitza17845/71138.html"
+      }
+    ],
+    "url": "/sightlist/chichenitza17845.html"
+  },
+  {
+    "cname": "尤卡坦州",
+    "suggest_places": [
+      {
+        "cname": "奇琴伊察古城遗址",
+        "url": "/sight/yucatan32014/71075.html"
+      },
+      {
+        "cname": "伊萨玛尔殖民小城",
+        "url": "/sight/yucatan32014/1409781.html"
+      },
+      {
+        "cname": "梅里达",
+        "url": "/sight/yucatan32014/139949.html"
+      },
+      {
+        "cname": "卡斯蒂略金字塔",
+        "url": "/sight/yucatan32014/71138.html"
+      },
+      {
+        "cname": "Plaza Grande大广场",
+        "url": "/sight/yucatan32014/142463.html"
+      }
+    ],
+    "url": "/sightlist/yucatan32014.html"
+  },
+  {
+    "cname": "特奥蒂瓦坎",
+    "suggest_places": [
+      {
+        "cname": "太阳金字塔",
+        "url": "/sight/sanjuanteotihuacan17891/139973.html"
+      },
+      {
+        "cname": "月亮金字塔",
+        "url": "/sight/sanjuanteotihuacan17891/68036.html"
+      }
+    ],
+    "url": "/sightlist/sanjuanteotihuacan17891.html"
+  },
+  {
+    "cname": "梅里达",
+    "suggest_places": [
+      {
+        "cname": "伊萨玛尔殖民小城",
+        "url": "/sight/municipalityofmerida17832/1409781.html"
+      },
+      {
+        "cname": "Plaza Grande大广场",
+        "url": "/sight/municipalityofmerida17832/142463.html"
+      },
+      {
+        "cname": "龙舌兰庄园 ",
+        "url": "/sight/municipalityofmerida17832/1409773.html"
+      },
+      {
+        "cname": "梅里达大教堂",
+        "url": "/sight/municipalityofmerida17832/142462.html"
+      },
+      {
+        "cname": "梅里达总督府",
+        "url": "/sight/municipalityofmerida17832/142464.html"
+      }
+    ],
+    "url": "/sightlist/municipalityofmerida17832.html"
+  }
+]

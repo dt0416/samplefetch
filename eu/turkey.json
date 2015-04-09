@@ -1,0 +1,1680 @@
+[
+  {
+    "cname": "伊斯坦布尔",
+    "url": "http://you.ctrip.com/sightlist/istanbul258.html",
+    "places": [
+      {
+        "cname": "蓝色清真寺",
+        "url": "/sight/istanbul258/18562.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/340/918/591/745c4465f8464a1e809f582249756f66_C_220_140.jpg",
+        "caddress": "Sultanahmet Cami, 34122 Sultanahmet, Fatih, İstanbul"
+      },
+      {
+        "cname": "圣索菲亚大教堂",
+        "url": "/sight/istanbul258/18563.html",
+        "s_img": "http://p.chanyouji.cn/69848/1381772105194p186rvof6l12m2cmjmsj4j136m22.jpg?imageView/1/w/220/h/140",
+        "caddress": "Ayasofya Meydanı, Sultanahmet Fatih"
+      },
+      {
+        "cname": "大巴扎",
+        "url": "/sight/istanbul258/110120.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/397/859/795/6f13a4c3573d4ae782ad64d0b49b2a77_C_220_140.jpg",
+        "caddress": "Beyazit/İstanbul"
+      },
+      {
+        "cname": "托普卡普皇宫",
+        "url": "/sight/istanbul258/18561.html",
+        "s_img": "http://p.chanyouji.cn/12835/1352204664828p17baqo72e13q2hqr3q8jc01fmk.jpg?imageView/1/w/220/h/140",
+        "caddress": "Gulhane Park, near Sultanahmet Square, Istanbul"
+      },
+      {
+        "cname": "博斯普鲁斯海峡",
+        "url": "/sight/istanbul258/132801.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/670/480/787/305234acf75f40d0838004e982c9ea50_C_220_140.jpg",
+        "caddress": "Bosporus，Istanbul"
+      },
+      {
+        "cname": "地下水宫",
+        "url": "/sight/istanbul258/110096.html",
+        "s_img": "http://p.chanyouji.cn/47565/1371681992831p17tf9s8if1ec21seplueep210qb3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Alemdar Mh, Şeftali Sk No:6, Fatih"
+      },
+      {
+        "cname": "多尔玛巴赫切宫",
+        "url": "/sight/istanbul258/137021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/117/584/983/863ec0b0f4eb4705b98916d6710ac381_C_220_140.jpg",
+        "caddress": "Vişnezade Mh., 34357 Beşiktaş/İstanbul"
+      },
+      {
+        "cname": "塔克西姆广场",
+        "url": "/sight/istanbul258/132040.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/277/177/464/ee5e15d1fc52493da7e4393c4550e6c4_C_220_140.jpg",
+        "caddress": "Gümüşsuyu Mh.34437 Beyoğlu/İstanbul"
+      },
+      {
+        "cname": "香料市场",
+        "url": "/sight/istanbul258/1410139.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/356/387/e71e8b90fbc34f9380f499f5f3718446_C_220_140.jpg",
+        "caddress": "Kariye Camii Sokak, Edirnekapi"
+      },
+      {
+        "cname": "加拉太塔 ",
+        "url": "/sight/istanbul258/18568.html",
+        "s_img": "http://p.chanyouji.cn/9677/1350486528190p179nk4njdeulrf11jaooqv83k.jpg?imageView/1/w/220/h/140",
+        "caddress": "Bereketzade Mh., Galata Kulesi, Beyoğlu"
+      },
+      {
+        "cname": "苏莱曼清真寺",
+        "url": "/sight/istanbul258/110335.html",
+        "s_img": "http://p.chanyouji.cn/87956/1384151849370p1892ttril195dat51dh4ufmk972e.jpg?imageView/1/w/220/h/140",
+        "caddress": "Süleymaniye Mh., 34116 Fatih/İstanbul"
+      },
+      {
+        "cname": "伊斯坦布尔考古博物馆",
+        "url": "/sight/istanbul258/110356.html",
+        "s_img": "http://p.chanyouji.cn/1618697/A7C26E6A-FF43-4274-8A90-566C4D6BFAA2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Cankurtaran Mh., Alemdar Cad, 34122 Fatih/İstanbul"
+      },
+      {
+        "cname": "金角湾",
+        "url": "/sight/istanbul258/18570.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/778/861/290/1fd7a23c591342519aae50512a6cb717_C_220_140.jpg",
+        "caddress": "博斯普鲁斯海峡南口的西岸"
+      },
+      {
+        "cname": "加拉达桥",
+        "url": "/sight/istanbul258/110382.html",
+        "s_img": "http://p.chanyouji.cn/1714351/A52D1579-740B-49AE-8A8E-83475E2E718D.jpg?imageView/1/w/220/h/140",
+        "caddress": "Hobyar Eminönü Mh., Hoca Kasım Köprüsü Sk, Fatih"
+      },
+      {
+        "cname": "土耳其独立大街",
+        "url": "/sight/istanbul258/107509.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/938/939/615/00967972cb9d4487ae08343adc781ec6_C_220_140.jpg",
+        "caddress": "34400 Beyoğlu,İstanbul"
+      },
+      {
+        "cname": "伊斯坦布尔旧城区",
+        "url": "/sight/istanbul258/137039.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/250/103/200/02c2b2b33e1e48ddbec74cbbde7eef88_C_220_140.jpg",
+        "caddress": "Yerebatan Cd Cankurtaran Mh., 34200 Fatih/İstanbul"
+      },
+      {
+        "cname": "马尔马拉海",
+        "url": "/sight/istanbul258/132805.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/884/797/879b8cfea71e43e484e063c4c24e7660_C_220_140.jpg",
+        "caddress": "伊斯坦布尔南侧，海峡西南入海口"
+      },
+      {
+        "cname": "阿合麦特广场",
+        "url": "/sight/istanbul258/18564.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/854/268/157/815da0107aff435eb89c68954907448d_C_220_140.jpg",
+        "caddress": "34200 Fatih/İstanbul"
+      },
+      {
+        "cname": "赛马场",
+        "url": "/sight/istanbul258/110114.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/509/401/855/19c7cf4c9fdc4c7495c94b49f37bc342_C_220_140.jpg",
+        "caddress": "Binbirdirek Mh.34122 Fatih/İstanbul"
+      },
+      {
+        "cname": "伊斯坦布尔城墙",
+        "url": "/sight/istanbul258/18567.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/963/610/294/2d0b2d23457344e2b907233da1e78580_C_220_140.jpg",
+        "caddress": "The Theodosian Walls, Istanbul, 土耳其 ‎"
+      },
+      {
+        "cname": "少女塔",
+        "url": "/sight/istanbul258/18566.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/732/499/873/171c40cd5f4241aeb60be5ad605f9f76_C_220_140.jpg",
+        "caddress": "üsküdar Salacak Mevkii 34668 üsküdar, Istanbul"
+      },
+      {
+        "cname": "王子岛",
+        "url": "/sight/istanbul258/110349.html",
+        "s_img": "http://p.chanyouji.cn/57050/1377672209243p1831qi5rbkdh1c7215vmrde1j97f.jpg?imageView/1/w/220/h/140",
+        "caddress": "Adalar，Heybeliada Mh., Heybeliada/Istanbul"
+      },
+      {
+        "cname": "埃及方尖碑",
+        "url": "/sight/istanbul258/1410137.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/421/237/0dd90d85622f40beb8325e52e6426971_C_220_140.jpg",
+        "caddress": "Binbirdirek Mh., 34122 Fatih/İstanbul"
+      },
+      {
+        "cname": "如梅利堡垒",
+        "url": "/sight/istanbul258/18565.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/685/517/026/f457c7f98bb14ee6af4e1075ff8398c5_C_220_140.jpg",
+        "caddress": "Rumeli Hisarı Mh., 34470 İstanbul"
+      },
+      {
+        "cname": "Balat区",
+        "url": "/sight/istanbul258/1411775.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/777/341/802/da68f19e247a424c84105a4a3524c19f_C_220_140.jpg",
+        "caddress": "09320 Balat/Aydın"
+      },
+      {
+        "cname": "卡里耶博物馆",
+        "url": "/sight/istanbul258/110348.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/947/310/a6f7f80f28cc454b89e6b5468f90c829_C_220_140.jpg",
+        "caddress": "Chora Church, Eyüp, Kariye Cami Sk No:26, İstanbul - Avrupa"
+      },
+      {
+        "cname": "纯真博物馆",
+        "url": "/sight/istanbul258/1412240.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/529/145/273/c0ba12e320524cbd88e54f4ad4927e8a_C_220_140.jpg",
+        "caddress": "Firuzağa Mh., Dalgıç Sk No:2, Beyoğlu"
+      },
+      {
+        "cname": "伊斯坦布尔现代艺术馆",
+        "url": "/sight/istanbul258/110341.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/368/493/902/af612228c2cb4a8091a7799944aa63b5_C_220_140.jpg",
+        "caddress": "Liman İşletmeleri Sahası Antrepo D:4, 34433 Istanbul"
+      },
+      {
+        "cname": "恰米利卡山",
+        "url": "/sight/istanbul258/110372.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/407/935/987/cd1dd666b7d04b0ca1c6ea263f8d764d_C_220_140.jpg",
+        "caddress": "Turistik Çamlıca Cd, 34692 Istanbul"
+      },
+      {
+        "cname": "格雷特宫镶嵌画博物馆",
+        "url": "/sight/istanbul258/132043.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/485/902/910/d5f595bfe6494c21ad6ee8a7cda61662_C_220_140.jpg",
+        "caddress": "Hacımimi Mh., Lüleciler Arastası Sk, 80200 Istanbul"
+      },
+      {
+        "cname": "伊斯坦布尔军事博物馆",
+        "url": "/sight/istanbul258/110339.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/010/780/290/e820a7f8003d458a8769f23e65136fab_C_220_140.jpg",
+        "caddress": "Valikonagi Caddesi, Harbiye, 34298 Istanbul Istanbul"
+      },
+      {
+        "cname": "君士坦丁堡，新罗马大主教和普世...",
+        "url": "/sight/istanbul258/1417304.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/186/062/724/59291c41f80547fabf9e64095061a2d2_C_220_140.jpg",
+        "caddress": "Yavuz Sultan Selim Mh., 34083 Fatih/İstanbul"
+      },
+      {
+        "cname": "巴耶塞特二世清真寺",
+        "url": "/sight/istanbul258/110424.html",
+        "s_img": "http://p.chanyouji.cn/42488/1369836066444p17ro9dn76ftcn22uec1m581sogd.jpg?imageView/1/w/220/h/140",
+        "caddress": "Beyazıt Mh., 34126 Fatih/İstanbul"
+      },
+      {
+        "cname": "土耳其微观主题公园",
+        "url": "/sight/istanbul258/1409533.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/708/522/059/6934add41b0d4f3aad5d13902cecebab_C_220_140.jpg",
+        "caddress": "Sütlüce Mahallesi, İmrahor Caddesi, 34445 Sütlüce - Beyoğlu / İstanbul"
+      },
+      {
+        "cname": "吕斯泰姆帕夏清真寺",
+        "url": "/sight/istanbul258/110381.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/395/207/640/edf74ba4595a4ae1bd07c2d1eddb8ee4_C_220_140.jpg",
+        "caddress": "Rüstem Paşa Mh., 34116 Fatih/İstanbul"
+      },
+      {
+        "cname": "苏丹阿赫迈特广场",
+        "url": "/sight/istanbul258/1417314.html",
+        "s_img": "",
+        "caddress": "Latitude 37.87410 / Longitude 32.50137， Istanbul/Aegean Coast。"
+      },
+      {
+        "cname": "托普卡比故宫博物馆",
+        "url": "/sight/istanbul258/1417351.html",
+        "s_img": "",
+        "caddress": "Cankurtaran Mh., 34200 Fatih/İstanbul"
+      },
+      {
+        "cname": "奴鲁奥斯玛尼耶清真寺",
+        "url": "/sight/istanbul258/110432.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/485/659/561/2e704d1841b54c20b770df56c2d63256_C_220_140.jpg",
+        "caddress": "Mollafenari Mh., 34120 Fatih/İstanbul"
+      },
+      {
+        "cname": "新清真寺",
+        "url": "/sight/istanbul258/1417323.html",
+        "s_img": "",
+        "caddress": "Rüstem Paşa Mh., 34116 Fatih/İstanbul"
+      },
+      {
+        "cname": "许雷姆女士浴室",
+        "url": "/sight/istanbul258/110352.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/526/551/476/e0ba26fa73c54cb19591b6ba2d3d6242_C_220_140.jpg",
+        "caddress": "Cankurtaran Mh., 34122 Fatih/Istanbul"
+      },
+      {
+        "cname": "Fethiye博物馆",
+        "url": "/sight/istanbul258/1417285.html",
+        "s_img": "",
+        "caddress": "Fethiye Cad, Draman, Istambul"
+      },
+      {
+        "cname": "santralistanbul艺术博物馆",
+        "url": "/sight/istanbul258/1417254.html",
+        "s_img": "",
+        "caddress": "Emniyettepe Mh., Kazım Karabekir Cd No:2, İstanbul"
+      },
+      {
+        "cname": "坦丁堡普世大牧首府",
+        "url": "/sight/istanbul258/1417322.html",
+        "s_img": "",
+        "caddress": "Ayasofya Meydanı, Sultanahmet Fatih"
+      },
+      {
+        "cname": "瓦伦斯水道桥",
+        "url": "/sight/istanbul258/1417338.html",
+        "s_img": "",
+        "caddress": "Zeyrek Mh., 34200 Fatih/İstanbul"
+      },
+      {
+        "cname": "小阿亚索菲亚清真寺",
+        "url": "/sight/istanbul258/1417328.html",
+        "s_img": "",
+        "caddress": "Küçük Ayasofya Mh., 34122 Fatih/İstanbul"
+      },
+      {
+        "cname": "埃米诺努广场",
+        "url": "/sight/istanbul258/1417329.html",
+        "s_img": "",
+        "caddress": "Rüstem Paşa Mh., 34200 Fatih/İstanbul"
+      },
+      {
+        "cname": "君士坦丁广场",
+        "url": "/sight/istanbul258/1417197.html",
+        "s_img": "",
+        "caddress": "Atmeydanı Cd 40-44，Binbirdirek Mh., 34122 Fatih/Istanbul"
+      },
+      {
+        "cname": "塔拉比亚区",
+        "url": "/sight/istanbul258/1417284.html",
+        "s_img": "",
+        "caddress": "Gülveren Sk 9-25，Tarabya Mh., 34457 Istanbul"
+      },
+      {
+        "cname": "新皇太后清真寺",
+        "url": "/sight/istanbul258/1417327.html",
+        "s_img": "",
+        "caddress": "Mimarsinan Mh., 34664 Üsküdar/İstanbul"
+      },
+      {
+        "cname": "伊斯坦布尔伊斯兰科技史博物馆",
+        "url": "/sight/istanbul258/1417286.html",
+        "s_img": "",
+        "caddress": "Gülhane Parkı İçi Has Ahırlar Binası, Sirkeci-fatih / İstanbul, 34112 Fatih/istanbul"
+      },
+      {
+        "cname": "贝勒贝伊宫",
+        "url": "/sight/istanbul258/110336.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/749/206/7e60750481924ed4834520ed8842b8b7_C_220_140.jpg",
+        "caddress": "Beylerbeyi Mh., 34676 Üsküdar/İstanbul"
+      },
+      {
+        "cname": "艾郁普苏丹清真寺",
+        "url": "/sight/istanbul258/1417258.html",
+        "s_img": "",
+        "caddress": "İslambey Mh., 34050 İstanbul"
+      },
+      {
+        "cname": "索科卢穆罕默德帕夏清真寺",
+        "url": "/sight/istanbul258/1417251.html",
+        "s_img": "",
+        "caddress": "Küçük Ayasofya Mh., 34122 Fatih/İstanbul"
+      },
+      {
+        "cname": "泽扎德清真寺",
+        "url": "/sight/istanbul258/1417325.html",
+        "s_img": "",
+        "caddress": "Kalenderhane Mh., 34134 Fatih/İstanbul"
+      },
+      {
+        "cname": "Ahrida犹太会堂",
+        "url": "/sight/istanbul258/1417257.html",
+        "s_img": "",
+        "caddress": "Ayvansaray Mh., 34087 Fatih/İstanbul"
+      },
+      {
+        "cname": "阿塔图尔克奥林匹克体育场",
+        "url": "/sight/istanbul258/1417244.html",
+        "s_img": "",
+        "caddress": "Ziyagökalp Mh., 34306 İstanbul"
+      },
+      {
+        "cname": "沙姆斯帕夏清真寺",
+        "url": "/sight/istanbul258/1417302.html",
+        "s_img": "",
+        "caddress": "Çağlayan Girişi-K7 (İstanbul Çevre Yolu), İstanbul"
+      },
+      {
+        "cname": "佛洛伦丝.南丁格尔博物馆",
+        "url": "/sight/istanbul258/110366.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/996/627/222/55d4824b5d354558864181713904856b_C_220_140.jpg",
+        "caddress": "Selimiye Kışlası, Üsküdar Merkez/Istanbul - Asia"
+      },
+      {
+        "cname": "圣彼得圣保罗教堂",
+        "url": "/sight/istanbul258/110434.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/627/444/480/ecdf473269574038b1903c0cdc7e2275_C_220_140.jpg",
+        "caddress": "Galata Kulesi Sok. (also written as Kuledibi) 44, Istanbul"
+      },
+      {
+        "cname": "征服者清真寺（法齐赫清真寺）",
+        "url": "/sight/istanbul258/110362.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/436/043/425/2bac7f9d9bc24b73b95dca5953365025_C_220_140.jpg",
+        "caddress": "Ali Kuşcu Mh., 34083 Fatih/İstanbul"
+      },
+      {
+        "cname": "于斯屈达尔",
+        "url": "/sight/istanbul258/110368.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/339/420/292/f789c20e33b34a18802d8a6a57dbcb63_C_220_140.jpg",
+        "caddress": "Uskudar,Istanbul"
+      },
+      {
+        "cname": "Sariyer小镇",
+        "url": "/sight/istanbul258/110422.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/620/696/142/3e1db1ef3239401f94a74c6cc456d36c_C_220_140.jpg",
+        "caddress": "34450 İstanbul"
+      },
+      {
+        "cname": "阿塔图尔克大桥",
+        "url": "/sight/istanbul258/110579.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/713/083/828/0221955770154f49bb88b70f0c403425_C_220_140.jpg",
+        "caddress": "34200 İstanbu"
+      },
+      {
+        "cname": "蒙古圣玛利亚教堂",
+        "url": "/sight/istanbul258/110430.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/705/965/605/f7953fb65dfe4f2d9c741f6526abfd4b_C_220_140.jpg",
+        "caddress": "Balat Mh. 34087 Fatih/İstanbul"
+      },
+      {
+        "cname": "锡凯尔火车站",
+        "url": "/sight/istanbul258/110345.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/427/402/465/3abd96f042df4b5284ad47d834801ade_C_220_140.jpg",
+        "caddress": "Sirkeci Meydanı, Sirkeci/Istanbul"
+      },
+      {
+        "cname": "奥塔科伊清真寺",
+        "url": "/sight/istanbul258/110406.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/640/429/771/6e1ea06672604e48b2d44369c5820c11_C_220_140.jpg",
+        "caddress": "Mecidiye Mh., 34347 Beşiktaş/İstanbul"
+      },
+      {
+        "cname": "居尔哈内公园",
+        "url": "/sight/istanbul258/110363.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/627/841/152/af598d89807c403781b7591f9c330931_C_220_140.jpg",
+        "caddress": "Cankurtaran Mh., 34400 Fatih/İstanbul"
+      },
+      {
+        "cname": "冷泉大街",
+        "url": "/sight/istanbul258/110371.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/379/676/802/f1d395e47f4a4aa6954861569ef65b41_C_220_140.jpg",
+        "caddress": "Cankurtaran Mah., Soğukçeşme Sk, Sultanahmet/Istanbul"
+      },
+      {
+        "cname": "Küçüksu宫",
+        "url": "/sight/istanbul258/1417276.html",
+        "s_img": "",
+        "caddress": "Göksu Mh., 34815 İstanbul"
+      },
+      {
+        "cname": "塞拉宫",
+        "url": "/sight/istanbul258/110437.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/718/442/922/b2401054e0ef4f5dbe0bc66edc9f780f_C_220_140.jpg",
+        "caddress": "Çırağan Caddesi, Beşiktaş, İstanbul"
+      },
+      {
+        "cname": "瓦林斯水渠",
+        "url": "/sight/istanbul258/110357.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/494/633/4786605a92d44f4d87d5d01d7be95e60_C_220_140.jpg",
+        "caddress": "Valens Aqueduct Istanbul"
+      },
+      {
+        "cname": "查姆勒札丘",
+        "url": "/sight/istanbul258/110350.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/523/937/069/419cc8409ffd4ca7973ebfbd9d569d60_C_220_140.jpg",
+        "caddress": "Kısıklı Mh., 34398 Üsküdar/İstanbul"
+      },
+      {
+        "cname": "居尔清真寺",
+        "url": "/sight/istanbul258/110433.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/611/876/626/dd702456027f40008bf282af4cd063dc_C_220_140.jpg",
+        "caddress": "Yavuz Sultan Selim Mh., 34083 Fatih/İstanbul"
+      },
+      {
+        "cname": "米赫里马赫苏丹清真寺",
+        "url": "/sight/istanbul258/110429.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/971/938/2f107efa079740928953b6e88314c9cc_C_220_140.jpg",
+        "caddress": "Sultantepe Mh., 34664 üsküdar/İstanbul"
+      },
+      {
+        "cname": "神圣和平教堂",
+        "url": "/sight/istanbul258/110428.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/037/667/ca29919f595940ff8a24e67afb14fbb7_C_220_140.jpg",
+        "caddress": "Cankurtaran Mh., 34122 Fatih/İstanbul"
+      },
+      {
+        "cname": "小索菲亚教堂",
+        "url": "/sight/istanbul258/110436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/900/217/799/f17e9c4d8dad4400ada802acfbc3c5d0_C_220_140.jpg",
+        "caddress": "Küçük Ayasofya Mh., 34122 Fatih/İstanbul"
+      },
+      {
+        "cname": "老皇太后清真寺",
+        "url": "/sight/istanbul258/110425.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/384/244/601/262286640eae4abab516ebae68875084_C_220_140.jpg",
+        "caddress": "Valide-i Atik Mh., 34664 üsküdar/İstanbul"
+      },
+      {
+        "cname": "艾米冈公园",
+        "url": "/sight/istanbul258/1409481.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/133/421/060/8e45a1098e5e473c8432e0f6009d4c19_C_220_140.jpg",
+        "caddress": "Emirgan Mh., 34467 İstanbul"
+      },
+      {
+        "cname": "耶尔德兹公园",
+        "url": "/sight/istanbul258/110581.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/504/099/496/a8d6686687c84c628b058cfcdb7af6fb_C_220_140.jpg",
+        "caddress": "Yıldız Mh., 34349 Beşiktaş/İstanbul"
+      }
+    ]
+  },
+  {
+    "cname": "卡帕多奇亚",
+    "url": "http://you.ctrip.com/sightlist/cappadocia1133.html",
+    "places": [
+      {
+        "cname": "格雷梅露天博物馆",
+        "url": "/sight/cappadocia1133/78814.html",
+        "s_img": "http://p.chanyouji.cn/87941/1384139923238p1892ig9mt1g7v169m1fa5so51dp22l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Goreme Valley, Goreme, Turkey"
+      },
+      {
+        "cname": "卡帕多奇亚",
+        "url": "/sight/cappadocia1133/137087.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/605/455/671/82364ebfafd84dc9b5066866b0079a44_C_220_140.jpg",
+        "caddress": "Cappadocia, 50200 Cappadocia"
+      },
+      {
+        "cname": "乌奇萨要塞",
+        "url": "/sight/cappadocia1133/137042.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/315/355/858/65252d8aace349c4921349b1ec408e4c_C_220_140.jpg",
+        "caddress": "50240 Uçhisar/Nevşehir"
+      },
+      {
+        "cname": "卡伊马克勒地下城",
+        "url": "/sight/cappadocia1133/78815.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/748/139/156/bfd67ba45c4d41e4b589436164738402_C_220_140.jpg",
+        "caddress": "内夫谢希尔以南20公里处"
+      },
+      {
+        "cname": "梅夫拉那博物馆",
+        "url": "/sight/cappadocia1133/137115.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/794/174/578/ffe1aa73a3a84288a703ea7958451699_C_220_140.jpg",
+        "caddress": "Mevlana Mah., Konya"
+      },
+      {
+        "cname": "鸽子谷",
+        "url": "/sight/cappadocia1133/132058.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/493/519/797/8758e4f860f44c3e8a11e02a0fa03e4b_C_220_140.jpg",
+        "caddress": "50240 Uçhisar/Nevşehir,"
+      },
+      {
+        "cname": "孔亚苏丹大旅馆",
+        "url": "/sight/cappadocia1133/98205.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/854/250/890/bb8b899b60e4435db8df9ab10060c02b_C_220_140.jpg",
+        "caddress": "Sultanhanı Aksaray Province"
+      },
+      {
+        "cname": "大鸽房教堂",
+        "url": "/sight/cappadocia1133/110567.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/485/226/141/e55978075a664c1f91ebd9bb47f008f1_C_220_140.jpg",
+        "caddress": "Avanos Çavuşin Köyü, Nevşehir, Türkiye"
+      },
+      {
+        "cname": "阿瓦诺斯小镇",
+        "url": "/sight/cappadocia1133/1409956.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/728/148/652/f214c4708260419f82c889410db3a8b5_C_220_140.jpg",
+        "caddress": "Avanos, Türkiye"
+      },
+      {
+        "cname": "代林库尤地下城",
+        "url": "/sight/cappadocia1133/110566.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/711/268/926/dbb7175de77d4162acc0fbd6dbadf600_C_220_140.jpg",
+        "caddress": "Derinkuyu Yolu Derinkuyu/Nevsehir, 土耳其"
+      },
+      {
+        "cname": "济尔维露天博物馆",
+        "url": "/sight/cappadocia1133/110568.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/767/558/748/3d035aa71ed54229a565e46c04f5e237_C_220_140.jpg",
+        "caddress": "Merkez, Göreme/Nevşehir"
+      },
+      {
+        "cname": "厄赫拉热峡谷",
+        "url": "/sight/cappadocia1133/110479.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/024/537/057/62208198e20545b9b8dee6f89e8853f9_C_220_140.jpg",
+        "caddress": "Ihlara/Aksaray, 土耳其"
+      },
+      {
+        "cname": "土耳其和伊斯兰艺术博物馆",
+        "url": "/sight/cappadocia1133/1409912.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/443/445/154/a42de4cc1b2c4b8b8185af3f19bb327a_C_220_140.jpg",
+        "caddress": "Süleymaniye Mh., İstanbul Ünv. No:46, 80200"
+      },
+      {
+        "cname": "素丹商栈",
+        "url": "/sight/cappadocia1133/1484946.html",
+        "s_img": "",
+        "caddress": "Sultanhanı Bucağı Yolu"
+      },
+      {
+        "cname": "修道院山谷",
+        "url": "/sight/cappadocia1133/1484929.html",
+        "s_img": "",
+        "caddress": "Güzelyurt, Cevizli Sok., Aksaray, Turkey"
+      },
+      {
+        "cname": "格雷梅罗马城堡",
+        "url": "/sight/cappadocia1133/110564.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/A1/6C/CghzfVUL22SAF9cCAARiC0yhKT8961_C_220_140.jpg",
+        "caddress": "50180 Goreme/Nevsehir Turkiye"
+      },
+      {
+        "cname": "凶眼教堂",
+        "url": "/sight/cappadocia1133/110563.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/271/229/248/7454b81a34404929bacb30375573d1b0_C_220_140.jpg",
+        "caddress": "Nevsehir Merkez, 50180 Nevsehir Province, 土耳其"
+      },
+      {
+        "cname": "尼代博物馆",
+        "url": "/sight/cappadocia1133/110482.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/167/496/707/e2f08d7a21f647b69dfa2a20728d3bfd_C_220_140.jpg",
+        "caddress": "51000 Nigde/Nigde Province, 土耳其"
+      },
+      {
+        "cname": "格雷梅国家公园",
+        "url": "/sight/goreme45912/110565.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/280/195/add76d852e0d40c29b8ef86ed81b8fdf_C_220_140.jpg",
+        "caddress": "50500 Nevsehir Turkiye"
+      },
+      {
+        "cname": "奥兹库纳克地下城",
+        "url": "/sight/cappadocia1133/1485182.html",
+        "s_img": "",
+        "caddress": "50530 Özkonak/Nevşehir Province, Turkey"
+      },
+      {
+        "cname": "AK神学院",
+        "url": "/sight/cappadocia1133/132852.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/358/927/781/dfb9b293e4d84a5cbe002d59a440237b_C_220_140.jpg",
+        "caddress": "Saruhan Mh., 51310 Nigde, 土耳其"
+      },
+      {
+        "cname": "Sungurbey清真寺",
+        "url": "/sight/cappadocia1133/110574.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/746/929/053/5311bf037d304fbfa5d3b9ff95d728a8_C_220_140.jpg",
+        "caddress": "Songur Mh. 51100 Nigde, Turkiye"
+      },
+      {
+        "cname": "阿拉山脉国家公园",
+        "url": "/sight/cappadocia1133/110480.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/932/433/746/d08dafe80dfa447594aada4b4a61e851_C_220_140.jpg",
+        "caddress": "土耳其尼代省"
+      },
+      {
+        "cname": "Alaeddin清真寺",
+        "url": "/sight/cappadocia1133/132851.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/703/758/042/85e1e00813a64f2691e6a18b9e5cb69e_C_220_140.jpg",
+        "caddress": "Kale Mh. 51100 Nigde, Turkiye"
+      },
+      {
+        "cname": "埃斯基修道院",
+        "url": "/sight/cappadocia1133/110487.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/106/373/402/88dddec1f21746dda78107ab8fa029c6_C_220_140.jpg",
+        "caddress": "51310 Gümüşler/Niğde"
+      },
+      {
+        "cname": "内夫谢希尔博物馆",
+        "url": "/sight/cappadocia1133/110576.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/879/775/074/ecae7df906df43b8bb60222c53d76754_C_220_140.jpg",
+        "caddress": "350 Evler Mh., 50300 Nevsehir/Nevsehir Province, 土耳其"
+      },
+      {
+        "cname": "哥兹勒尤特古镇",
+        "url": "/sight/cappadocia1133/110575.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/633/148/899/ca1f3727d2e8404d8cecb6a9132f25c8_C_220_140.jpg",
+        "caddress": "Guzelyurt 阿克萨赖省土耳其"
+      },
+      {
+        "cname": "开赛利考古博物馆",
+        "url": "/sight/cappadocia1133/110561.html",
+        "s_img": "",
+        "caddress": "Seyitgazi Mh. 38030 Kayseri, Turkiye"
+      },
+      {
+        "cname": "旋转陵墓",
+        "url": "/sight/cappadocia1133/110562.html",
+        "s_img": "",
+        "caddress": "Seyitgazi Mh. 38030 Kayseri, Turkiye"
+      },
+      {
+        "cname": "乌鲁清真寺",
+        "url": "/sight/cappadocia1133/110560.html",
+        "s_img": "",
+        "caddress": "Ulu Cami Caddesi, Kayseri, Turkiye"
+      },
+      {
+        "cname": "索安勒河山谷",
+        "url": "/sight/cappadocia1133/110570.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/125/006/643/d7e182136dd04722b46f713073967eb8_C_220_140.jpg",
+        "caddress": "Soganli/Kayseri, 土耳其"
+      }
+    ]
+  },
+  {
+    "cname": "安塔利亚",
+    "url": "http://you.ctrip.com/sightlist/antalya549.html",
+    "places": [
+      {
+        "cname": "安塔利亚",
+        "url": "/sight/antalya549/136944.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/483/061/017/94f56f2388024c17acfa911fffc9fed2_C_220_140.jpg",
+        "caddress": "土耳其安塔利亚省安塔利亚"
+      },
+      {
+        "cname": "Aspandos古剧场",
+        "url": "/sight/antalya549/18587.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/796/961/105/fe4e16c329d84290a0dbc257ebb7c55c_C_220_140.jpg",
+        "caddress": "Serik, 07500 Antalya Province"
+      },
+      {
+        "cname": "安塔利亚考古博物馆",
+        "url": "/sight/antalya549/18581.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/734/967/345/11c4f9131d2541b3862344d53a53fcf1_C_220_140.jpg",
+        "caddress": "Bahcelievler Mh.07050 Muratpasa/Antalya, Turkiye"
+      },
+      {
+        "cname": "地中海沿岸",
+        "url": "/sight/antalya549/110127.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/970/389/844/746ebbfada7c44f9ae11255d6d8c9aa4_C_220_140.jpg",
+        "caddress": "安塔利亚城区西侧"
+      },
+      {
+        "cname": "卡雷奇海边城堡步行街",
+        "url": "/sight/antalya549/137071.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/241/872/307/0888fb32de8548bcaf91f621187a1cc1_C_220_140.jpg",
+        "caddress": "Barbaros Mh., 07980 Muratpaşa/Antalya"
+      },
+      {
+        "cname": "罗马海港",
+        "url": "/sight/antalya549/132688.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/147/946/145/3e686450dee84770a92e5654c75db648_C_220_140.jpg",
+        "caddress": "Tuzkapisi Sk Selcuk Mh., 07980 Muratpasa/Antalya, 土耳其"
+      },
+      {
+        "cname": "卡雷奇海边城堡",
+        "url": "/sight/antalya549/137069.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/676/060/061/a7571f7027e440e792b4ba83bb1e96f0_C_220_140.jpg",
+        "caddress": "Selçuk Mh., 07100 Muratpaşa/Antalya"
+      },
+      {
+        "cname": "特摩索斯",
+        "url": "/sight/antalya549/137080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/244/953/691/9db9e3c746bb48c8bbb2cc1af9000da8_C_220_140.jpg",
+        "caddress": "Korkuteli, 07800 Antalya, 土耳其 ‎"
+      },
+      {
+        "cname": "佩尔盖古城",
+        "url": "/sight/antalya549/132695.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/995/522/111/48463b8b5b354552bde20335cddaae62_C_220_140.jpg",
+        "caddress": "Kırcami Mh., 07200 Muratpaşa/Antalya"
+      },
+      {
+        "cname": "卡雷奇历史街区",
+        "url": "/sight/antalya549/18594.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/063/423/316f3a430b264fb6938094cf9b8d3bda_C_220_140.jpg",
+        "caddress": "土耳其安塔利亚卡雷奇区"
+      },
+      {
+        "cname": "哈德良门",
+        "url": "/sight/antalya549/18595.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/166/131/580/a50ac2b8d22847b1880118b574093785_C_220_140.jpg",
+        "caddress": "Barbaros Mh.07100 Muratpasa/Antalya, Turkiye"
+      },
+      {
+        "cname": "Termessos古城",
+        "url": "/sight/antalya549/132691.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/751/311/207/a4624227c40141f0a0ceb3dea96f005f_C_220_140.jpg",
+        "caddress": "07800 Antalya,Turkiye"
+      },
+      {
+        "cname": "尤利·米纳雷利钟塔",
+        "url": "/sight/antalya549/18582.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/465/566/408/50ea7f058c944bdaa0aac1e93dbba149_C_220_140.jpg",
+        "caddress": "Selcuk Mh.07100 Muratpasa/Antalya, Turkiye"
+      },
+      {
+        "cname": "安塔利亚水族馆",
+        "url": "/sight/antalya549/136946.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/625/732/391/2cb491d609054e11a3824f2cef35d4a1_C_220_140.jpg",
+        "caddress": "Dumlu Pınar Bulvarı Arapsuyu Mahallesi No :502 Konyaaltı, 07200 Antalya, 土耳其"
+      },
+      {
+        "cname": "安塔利亚钟塔",
+        "url": "/sight/antalya549/136949.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/031/605/041/2a244297267e45d2bdcd0939c61378f7_C_220_140.jpg",
+        "caddress": "Tuzcular Mh., 07100 Muratpaşa/Antalya, 土耳其"
+      },
+      {
+        "cname": "阿塔图尔克海滨公园",
+        "url": "/sight/antalya549/132666.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/788/688/811/28ba19b2d40342759072638ea1cb306b_C_220_140.jpg",
+        "caddress": "Bahcelievler Mh., 07100 Muratpasa/Antalya, 土耳其"
+      },
+      {
+        "cname": "以弗里唤拜楼",
+        "url": "/sight/antalya549/137054.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/808/084/383/0c8c16a0ce3f42b9b2443f891631ff66_C_220_140.jpg",
+        "caddress": "Selçuk Mh., 07100 Muratpaşa/Antalya, 土耳其 ‎"
+      },
+      {
+        "cname": "西戴",
+        "url": "/sight/antalya549/137044.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/953/772/aabf3481caa5487a824767fa8c86a63e_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "卡拉阿里奥鲁公园",
+        "url": "/sight/antalya549/18583.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/879/055/782/2201651da6b743b6bd452836dcc5b933_C_220_140.jpg",
+        "caddress": "Antalya Park Sokak, 07100 Antalya, Turkiye"
+      },
+      {
+        "cname": "凯锡克塔楼",
+        "url": "/sight/antalya549/132685.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/195/237/121/172d78f06aa4481a9cb48c67f4bc72a8_C_220_140.jpg",
+        "caddress": "Tahilpazari Mh.07040 Muratpasa/Antalya, Turkiye"
+      },
+      {
+        "cname": "朱汀瀑布",
+        "url": "/sight/antalya549/132670.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/981/075/708/f16df3fe747f45218ed4d823ff19ffb0_C_220_140.jpg",
+        "caddress": "Caglayan Mh., 07100 Muratpasa/Antalya, 土耳其"
+      },
+      {
+        "cname": "孔亚阿鲁提海滩",
+        "url": "/sight/antalya549/18590.html",
+        "s_img": "",
+        "caddress": "Konyaalti,07100 安塔利亚/安塔利亚省土耳其"
+      },
+      {
+        "cname": "Silyon遗迹",
+        "url": "/sight/antalya549/132696.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/269/488/193/b9d74998f0d3491fa6ca71e1c8636d56_C_220_140.jpg",
+        "caddress": "07500 Antalya,Turkiye"
+      },
+      {
+        "cname": "阿斯班德斯宝石中心",
+        "url": "/sight/antalya549/18586.html",
+        "s_img": "",
+        "caddress": "安塔利亚"
+      },
+      {
+        "cname": "Korkut清真寺",
+        "url": "/sight/antalya549/132686.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/129/150/455/28c31bfed541472e976e74c0704f291f_C_220_140.jpg",
+        "caddress": "Kilincarslan Mh.Cami Sk, 07100 Antalya, Turkiye"
+      },
+      {
+        "cname": "居吕克山国家公园",
+        "url": "/sight/antalya549/132692.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/659/530/580/54cb32fa07c540aaa4f189755336c568_C_220_140.jpg",
+        "caddress": "Gulluk Dagi Termessos Milli Parki, Korkuteli/Antalya, Turkiye"
+      },
+      {
+        "cname": "凯麦尔游览城",
+        "url": "/sight/antalya549/18589.html",
+        "s_img": "",
+        "caddress": "安塔利亚西南方向42公里"
+      },
+      {
+        "cname": "拉拉海滩",
+        "url": "/sight/antalya549/18584.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/553/264/379/b67fdea502914d11a0ebc927e76152b7_C_220_140.jpg",
+        "caddress": "安塔利亚东部18公里"
+      },
+      {
+        "cname": "苏娜·基拉克卡雷奇博物馆",
+        "url": "/sight/antalya549/132687.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/462/807/554/3872588b25f34bd0828a9bc13a9070ee_C_220_140.jpg",
+        "caddress": "Kilincarslan Mh.Kocatepe Sk 25, Antalya, Turkiye"
+      },
+      {
+        "cname": "桥谷国家公园",
+        "url": "/sight/antalya549/132698.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/371/795/608/4dd8fcb1771e4a8b9971a3eb04a315d4_C_220_140.jpg",
+        "caddress": "07550 Antalya,Turkiye"
+      },
+      {
+        "cname": "库茹修鲁瀑布",
+        "url": "/sight/antalya549/132683.html",
+        "s_img": "",
+        "caddress": "Kursunlu Belediyesi Yolu 07000 Aksu Antalya Turkiye"
+      },
+      {
+        "cname": "锡德古城",
+        "url": "/sight/antalya549/18588.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/712/341/573/57b1f4bf49834165989e37f2fb04c91b_C_220_140.jpg",
+        "caddress": "安塔利亚以东约150公里沿海处"
+      },
+      {
+        "cname": "姆拉特帕夏清真寺",
+        "url": "/sight/antalya549/132891.html",
+        "s_img": "",
+        "caddress": "Kizilsaray Mh. 07040 Muratpaşa/Antalya, Turkiye"
+      },
+      {
+        "cname": "卡林洞",
+        "url": "/sight/antalya549/132694.html",
+        "s_img": "",
+        "caddress": "Yagca Koyu Antalya Merkez/Antalya, Turkiye"
+      }
+    ]
+  },
+  {
+    "cname": "帕姆卡莱",
+    "url": "http://you.ctrip.com/sightlist/pamukkale1132.html",
+    "places": [
+      {
+        "cname": "棉花堡",
+        "url": "/sight/pamukkale1132/87641.html",
+        "s_img": "http://p.chanyouji.cn/93743/1388043191574p18cmt4h7scvt21q14091oi21gp2.jpg?imageView/1/w/220/h/140",
+        "caddress": "土耳其代尼兹利以北19公里处"
+      },
+      {
+        "cname": "希拉波利斯",
+        "url": "/sight/pamukkale1132/87697.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/952/791/129/012acbbc7e1944b9bba9af06e11019cd_C_220_140.jpg",
+        "caddress": "Denizli Merkez, 20280 Denizli"
+      },
+      {
+        "cname": "棉花堡温泉酒店",
+        "url": "/sight/pamukkale1132/137125.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/432/954/53e5cef51b8d4616bd15963416408603_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "希拉波里斯考古博物馆",
+        "url": "/sight/pamukkale1132/132379.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/302/715/170/d218625adbae4996b75c0f2527aae119_C_220_140.jpg",
+        "caddress": "20280 Denizli Turkiye"
+      },
+      {
+        "cname": "神圣池",
+        "url": "/sight/pamukkale1132/132382.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/29/1E/CghzflTxjwWAdiNnAAO66aYB_hk602_C_220_140.jpg",
+        "caddress": "棉花堡里"
+      },
+      {
+        "cname": "卡拉哈耶特村",
+        "url": "/sight/pamukkale1132/132381.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/089/049/997/6439edced12746a28d1872f14ace9144_C_220_140.jpg",
+        "caddress": "代尼兹利省卡拉哈耶特,土耳其"
+      },
+      {
+        "cname": "特梅尔温泉",
+        "url": "/sight/pamukkale1132/132380.html",
+        "s_img": "",
+        "caddress": "20280 Denizli Turkiye"
+      }
+    ]
+  },
+  {
+    "cname": "塞尔切克",
+    "url": "http://you.ctrip.com/sightlist/selcuk50052.html",
+    "places": [
+      {
+        "cname": "以弗所古城",
+        "url": "/sight/selcuk50052/78818.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/492/412/379/887ccde7bb394c3787c02427e63c349f_C_220_140.jpg",
+        "caddress": "Ephesus, Turkey"
+      },
+      {
+        "cname": "圣约翰教堂",
+        "url": "/sight/selcuk50052/132823.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/346/824/468/097a32f324014a34af3b7ef78677f400_C_220_140.jpg",
+        "caddress": "St. Jean Sok.Selcuk Merkez/Izmir, Turkiye"
+      },
+      {
+        "cname": "圣母玛利亚故居",
+        "url": "/sight/selcuk50052/1417113.html",
+        "s_img": "",
+        "caddress": "Selçuk 35920 Izmir Province"
+      },
+      {
+        "cname": "伊萨贝清真寺",
+        "url": "/sight/selcuk50052/132825.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/233/450/d9f574e85d8143e7b85562392c8aaddf_C_220_140.jpg",
+        "caddress": "Selcuk 35920 Selcuk, Turkiye"
+      },
+      {
+        "cname": "阿耳特弥斯神庙",
+        "url": "/sight/selcuk50052/132826.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/700/286/163/cd69eee3d4034f1bbcc7787ca5d57bd0_C_220_140.jpg",
+        "caddress": "Ataturk Mh., 35920 Selcuk/Izmir, 土耳其"
+      },
+      {
+        "cname": "拜占庭水渠",
+        "url": "/sight/selcuk50052/132830.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/349/212/504/13008cb459c94a3eaba6500644aa3b79_C_220_140.jpg",
+        "caddress": "塞尔切克Namik Kemal Caddesi大街和Lnonu Caddesi大街旁"
+      },
+      {
+        "cname": "义弗所博物馆",
+        "url": "/sight/selcuk50052/132822.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/306/859/232/ad6ad0f030f049a3919d183a1745b5cb_C_220_140.jpg",
+        "caddress": "Agora Carsisi, Selcuk, Turkey"
+      }
+    ]
+  },
+  {
+    "cname": "伊兹密尔",
+    "url": "http://you.ctrip.com/sightlist/izmir548.html",
+    "places": [
+      {
+        "cname": "伊兹密尔",
+        "url": "/sight/izmir548/137161.html",
+        "s_img": "http://p.chanyouji.cn/110652/1396979091127p18l16q96el4g4rg1bn1gc4ahv14.jpg?imageView/1/w/220/h/140",
+        "caddress": "土耳其伊兹密尔省伊兹密尔"
+      },
+      {
+        "cname": "爱琴海海岸",
+        "url": "/sight/izmir548/18580.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/792/301/528/8e28abfb231742838536d5a2e3851667_C_220_140.jpg",
+        "caddress": "伊兹密尔西部，靠近Birinci Kordon"
+      },
+      {
+        "cname": "科纳克广场",
+        "url": "/sight/izmir548/132272.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/797/118/311/6b9389665f28429294cdf162ced14b50_C_220_140.jpg",
+        "caddress": "Akdeniz Mh., 35210 Konak/Izmir Province, 土耳其"
+      },
+      {
+        "cname": "伊兹密尔考古博物馆",
+        "url": "/sight/izmir548/18572.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/795/523/482/f89e0998d95f428b8f54e84118d76d45_C_220_140.jpg",
+        "caddress": "Sumer Mh.Halil Rifat Pasa Caddesi 3, 35250 Smirne,Turkiye"
+      },
+      {
+        "cname": "伊兹密尔人种学博物馆",
+        "url": "/sight/izmir548/132267.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/944/834/659/7e279b491289449d94aa397608828f01_C_220_140.jpg",
+        "caddress": "Sumer Mh.Halil Rifat Pasa Caddesi 3, 35250 Smirne,Turkiye"
+      },
+      {
+        "cname": "阿塔图尔克博物馆",
+        "url": "/sight/izmir548/132279.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/497/137/641/be842c258e614c4995a8291c08f16e7e_C_220_140.jpg",
+        "caddress": "Alsancak Mh.35220 Konak/Izmir, Turkiye"
+      },
+      {
+        "cname": "卡迪菲卡雷城堡",
+        "url": "/sight/izmir548/18573.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/532/490/678/9cafb62ae5e24cc888fe1f6bf82d6dac_C_220_140.jpg",
+        "caddress": "35370 伊兹密尔/伊兹密尔省土耳其"
+      },
+      {
+        "cname": "哈瓦拉大街",
+        "url": "/sight/izmir548/18578.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/621/805/873/4a49e98d30894021a15fac8b8dc71674_C_220_140.jpg",
+        "caddress": "Konak Mh. 35250 Konak/Izmir, Türkiye"
+      },
+      {
+        "cname": "沙阿特·库勒斯钟塔",
+        "url": "/sight/izmir548/18576.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/372/778/417/5b61794cea834a8d95859a48abaa2771_C_220_140.jpg",
+        "caddress": "Konak Mh., 35250 Konak/Izmir Province, 土耳其"
+      },
+      {
+        "cname": "古代市场",
+        "url": "/sight/izmir548/18574.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/306/760/493/295333595ad549a5b82d186847f44f52_C_220_140.jpg",
+        "caddress": "Guzelyurt Mh., 35210 Konak/Izmir, 土耳其"
+      },
+      {
+        "cname": "Sirince村",
+        "url": "/sight/izmir548/136979.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/05/CC/CghzflSsmGiAa2fQAAK2jjceKcE678_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "巴尔乔瓦温泉",
+        "url": "/sight/izmir548/132291.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/184/596/1fb80b4451c940048198b253684b24ed_C_220_140.jpg",
+        "caddress": "9797. Sk 20 Ali Fuat Erden Mh., 35160 Izmir, 土耳其"
+      },
+      {
+        "cname": "爱之小径",
+        "url": "/sight/izmir548/132323.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/415/467/845/0cb0f9f16c4c4b26ab266dffabcd4a64_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "阿尔桑贾克街",
+        "url": "/sight/izmir548/132276.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/194/289/903/1d60366f09c04818a72f6fb5cba95389_C_220_140.jpg",
+        "caddress": "1456. Sk 20 Alsancak Mh., 35030 Konak/Izmir, 土耳其"
+      },
+      {
+        "cname": "共和国广场",
+        "url": "/sight/izmir548/132278.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/294/031/371/e419a70f55f8497b8c419e6e010289dd_C_220_140.jpg",
+        "caddress": "Ataturk Cd 192 Kultur Mh., 35220 Konak/Izmir, 土耳其"
+      },
+      {
+        "cname": "Sifali Luks公共浴室",
+        "url": "/sight/izmir548/132305.html",
+        "s_img": "",
+        "caddress": "Kurtulus Mh.35240 Konak/Izmir, Turkiye"
+      },
+      {
+        "cname": "圣坡利卡教堂",
+        "url": "/sight/izmir548/18575.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/941/999/708/750bddf3c5284493bf19919a1187304d_C_220_140.jpg",
+        "caddress": "Akdeniz Mh., 35210 Konak/Izmir Province, 土耳其"
+      },
+      {
+        "cname": "希萨尔清真寺",
+        "url": "/sight/izmir548/18579.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/678/634/579/bcd2dc5aedf44ecd97ca13471e51dd63_C_220_140.jpg",
+        "caddress": "Konak Mh.35250 Konak/Izmir, Turkiye"
+      },
+      {
+        "cname": "罗马排水工程",
+        "url": "/sight/izmir548/132277.html",
+        "s_img": "",
+        "caddress": "Şirinyer, İzmir, Türkiye"
+      },
+      {
+        "cname": "雅曼拉尔松林",
+        "url": "/sight/izmir548/132293.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/287/718/900/7e72d9393f7049618d09fbdc121a677c_C_220_140.jpg",
+        "caddress": "Kır Mh., 35670 İzmir"
+      },
+      {
+        "cname": "贝尔克赫维",
+        "url": "/sight/izmir548/132294.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/740/093/133/70af67b7fee44faa9caffe27970c7b3d_C_220_140.jpg",
+        "caddress": "Kavaklidere Koyu, 35050 Kavaklidere/Izmir Province, 土耳其"
+      },
+      {
+        "cname": "伊兹密尔禽鸟天堂",
+        "url": "/sight/izmir548/132292.html",
+        "s_img": "",
+        "caddress": "卡尔舍雅卡以西15公里恰姆阿尔特"
+      }
+    ]
+  },
+  {
+    "cname": "安卡拉",
+    "url": "http://you.ctrip.com/sightlist/ankara329.html",
+    "places": [
+      {
+        "cname": "安卡拉",
+        "url": "/sight/ankara329/136933.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/940/066/677/e5d08aabd43a448f8f054d4be122ad4f_C_220_140.jpg",
+        "caddress": "土耳其安卡拉省安卡拉"
+      },
+      {
+        "cname": "罗马剧场",
+        "url": "/sight/ankara329/18546.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/348/087/122/0ddb6b2941634a3b9befe56add0f9066_C_220_140.jpg",
+        "caddress": "Necatibey Mh., 06250 Ankara, Turkiye‎"
+      },
+      {
+        "cname": "民俗博物馆",
+        "url": "/sight/ankara329/137132.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/444/029/607/8a8c6408af524b8da374ce4445660f40_C_220_140.jpg",
+        "caddress": "Hacettepe Mh.06230 Ankara, Turkiye"
+      },
+      {
+        "cname": "凯末尔-阿塔图尔克陵园",
+        "url": "/sight/ankara329/132063.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/976/996/368/b98677dd6df54511b423307af739ef9b_C_220_140.jpg",
+        "caddress": "Sehit Cengiz Karaca Mh.06460 Ankara, Turkiye"
+      },
+      {
+        "cname": "古罗马浴场遗迹",
+        "url": "/sight/ankara329/18549.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/291/782/8e5e1fa56baf403c980af5814eafcb24_C_220_140.jpg",
+        "caddress": "Turkish the Urus areas Chang grams of Day Street"
+      },
+      {
+        "cname": "安卡拉城堡",
+        "url": "/sight/ankara329/18545.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/131/166/67ae9239dd4143e686910357990280b0_C_220_140.jpg",
+        "caddress": "Korkutreis Mh., Necatibey Caddesi 28, 06420 Ankara"
+      },
+      {
+        "cname": "安卡拉城",
+        "url": "/sight/ankara329/1410730.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/195/060/148/0af4344fe1f34818bc4a7f8687706a67_C_220_140.jpg",
+        "caddress": "Ankara, Turkey"
+      },
+      {
+        "cname": "阿塔图尔克独立战争博物馆",
+        "url": "/sight/ankara329/18544.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/769/149/048/6894e7842d034230add029e328a176c4_C_220_140.jpg",
+        "caddress": "Doganbey Mh.06030 Ankara, Turkiye"
+      },
+      {
+        "cname": "安塔托利亚考古学博物馆",
+        "url": "/sight/ankara329/18543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/626/830/996/3ac5a03ba1d64e13b727bd6d423ae6a5_C_220_140.jpg",
+        "caddress": "Necatibey Mh., 06240 Ankara/Ankara Province, 土耳其"
+      },
+      {
+        "cname": "安那托利亚文明博物馆",
+        "url": "/sight/ankara329/132067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/311/816/346/b5d902c2581049b5b73a01caf9cf5b26_C_220_140.jpg",
+        "caddress": "Necatibey Mh., 06240 Ankara/Ankara Province, 土耳其"
+      },
+      {
+        "cname": "共和国博物馆",
+        "url": "/sight/ankara329/132856.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/245/333/083/8b75353c693348cc9b993487118fc576_C_220_140.jpg",
+        "caddress": "Doganbey Mh., 06030 Ankara/Ankara Province, 土耳其"
+      },
+      {
+        "cname": "绘画雕刻美术馆",
+        "url": "/sight/ankara329/132082.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/122/728/457/c945f34760174716bdf5084e45347545_C_220_140.jpg",
+        "caddress": "Hacettepe Mh.06230 Ankara, Turkiye"
+      },
+      {
+        "cname": "奥古斯都神殿遗址",
+        "url": "/sight/ankara329/18548.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/904/920/139/dbeb8ea22b6a4411a4ac577a8b9c4c59_C_220_140.jpg",
+        "caddress": "Yıldırım Beyazıt Mh., 06080 Ankara"
+      },
+      {
+        "cname": "朱利安之柱",
+        "url": "/sight/ankara329/18550.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/045/197/130/e4f70e950bd6460580a99a307108d263_C_220_140.jpg",
+        "caddress": "Haci Bayram Mh., 06080 Ankara, 土耳其"
+      },
+      {
+        "cname": "Kocatepe清真寺",
+        "url": "/sight/ankara329/132079.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/394/636/17c66a0306554618a2a112f4e1bccdbe_C_220_140.jpg",
+        "caddress": "Kultur Mh.06420 Ankara, Turkiye"
+      },
+      {
+        "cname": "安卡拉民间文物博物馆",
+        "url": "/sight/ankara329/132139.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/193/316/185/a7f58c8cdb7a4811947be69085cc7d75_C_220_140.jpg",
+        "caddress": "Anafartalar Mh.06050 Ankara, Turkiye"
+      },
+      {
+        "cname": "年轻人公园",
+        "url": "/sight/ankara329/132080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/339/600/799/402b25fc9fcc4a1aa3756204debf637d_C_220_140.jpg",
+        "caddress": "Genclik Parki, Doganbey Mh., Ulus Dolmuslari, 06060 Ankara, 土耳其"
+      },
+      {
+        "cname": "阿塔图尔克骑马雕像",
+        "url": "/sight/ankara329/132136.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/835/296/198/961f2a50ea0043199e4e05c5d8bfe291_C_220_140.jpg",
+        "caddress": "Anafartalar Mh.06050 Ankara, Turkiye"
+      },
+      {
+        "cname": "哈图萨遗址",
+        "url": "/sight/ankara329/132106.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/300/058/604/1fbec762bc0f498e8a8d2b79f19f784d_C_220_140.jpg",
+        "caddress": "Sehit Osman Avci Ankara, Turkiye"
+      },
+      {
+        "cname": "Atakule塔",
+        "url": "/sight/ankara329/132072.html",
+        "s_img": "",
+        "caddress": "Cankaya Mh. Cinnah Cd. Pk:06680 Cankaya/ankara Turkiye"
+      },
+      {
+        "cname": "阿塔图尔克美术馆　",
+        "url": "/sight/ankara329/132083.html",
+        "s_img": "",
+        "caddress": "Karatas Mh., Ankara, 土耳其"
+      },
+      {
+        "cname": "水上公园俱乐部",
+        "url": "/sight/ankara329/132081.html",
+        "s_img": "",
+        "caddress": "Haymanayolu 6 km., Golbasi 06830 Ankara Province, Turkey"
+      },
+      {
+        "cname": "阿塔图尔克广场",
+        "url": "/sight/ankara329/136921.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/153/144/972/c5e32004d6b947858b15288b1599f6aa_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "共和国纪念碑",
+        "url": "/sight/ankara329/18547.html",
+        "s_img": "",
+        "caddress": "Visnezade Mh., 34357 Besiktas/Istanbul Province"
+      },
+      {
+        "cname": "哈梯纪念碑",
+        "url": "/sight/ankara329/18551.html",
+        "s_img": "",
+        "caddress": "Sehit Osman Avci Ankara, Turkiye"
+      },
+      {
+        "cname": "土耳其航空协会博物馆",
+        "url": "/sight/ankara329/132071.html",
+        "s_img": "",
+        "caddress": "Gokkusagi Mh.06460 Ankara, Turkiye"
+      },
+      {
+        "cname": "哈吉-贝拉姆清真寺",
+        "url": "/sight/ankara329/132074.html",
+        "s_img": "",
+        "caddress": "Haci Bayram Mh., 06030 Ankara, 土耳其"
+      },
+      {
+        "cname": "卡尔姆购物中心",
+        "url": "/sight/ankara329/132219.html",
+        "s_img": "",
+        "caddress": "Iran Cad. 21 Kavaklıdere/Ankara, Turkiye"
+      },
+      {
+        "cname": "天鹅公园",
+        "url": "/sight/ankara329/132221.html",
+        "s_img": "",
+        "caddress": "Iran Cad. 21 Kavaklıdere/Ankara, Turkiye"
+      }
+    ]
+  },
+  {
+    "cname": "费特希耶",
+    "url": "http://you.ctrip.com/sightlist/fethiye1912.html",
+    "places": [
+      {
+        "cname": "费特希耶",
+        "url": "/sight/fethiye1912/137011.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/181/915/685/6063a6eba30847e786b6ca175ccda6c9_C_220_140.jpg",
+        "caddress": "土耳其费特希耶"
+      },
+      {
+        "cname": "土耳其死海",
+        "url": "/sight/fethiye1912/137141.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/377/890/6c8d9997a9cb4e0a9b53c7ba8c471cd0_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "马尔马里斯",
+        "url": "/sight/fethiye1912/137097.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/339/215/506/1b1f785328bf4a18830c26771468eb01_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "恰纳卡莱",
+    "url": "http://you.ctrip.com/sightlist/cannakkale1443.html",
+    "places": [
+      {
+        "cname": "特洛伊考古遗址",
+        "url": "/sight/cannakkale1443/87671.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/633/948/782/d390a0eebe5c4e2eab0e7fd0e4e574c7_C_220_140.jpg",
+        "caddress": "Tevfikiye Köyü, İntepe/Çanakkale"
+      },
+      {
+        "cname": "特洛伊木马",
+        "url": "/sight/cannakkale1443/137137.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/34/59/CghzgVTwKhyATpAWAAWRuhMIOHQ786_C_220_140.jpg",
+        "caddress": "Troy horse"
+      },
+      {
+        "cname": "达达尼尔海峡",
+        "url": "/sight/cannakkale1443/110123.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/706/394/932/3bbe6b1594714f309ca74e558d8e9773_C_220_140.jpg",
+        "caddress": "连接马尔马拉海和爱琴海之间的海峡"
+      },
+      {
+        "cname": "钟楼",
+        "url": "/sight/cannakkale1443/133129.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/096/125/357/72f57b13202146babbd068a04ec96e11_C_220_140.jpg",
+        "caddress": "Kemalpasa Mh. 17100 Canakkale, Turkiye"
+      },
+      {
+        "cname": "恰纳卡莱军事博物馆",
+        "url": "/sight/cannakkale1443/133125.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/304/040/880/28e8ccf0faf8499c8eacc51f706b5ce2_C_220_140.jpg",
+        "caddress": "Fevzipasa Mh. 17100 Canakkale, Turkiye"
+      },
+      {
+        "cname": "奇梅里克城",
+        "url": "/sight/cannakkale1443/133141.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/817/273/470/e9cf8949cfd342dbb8b225bd1468d4df_C_220_140.jpg",
+        "caddress": "Fevzipasa Mh. 17100 Canakkale, Turkiye"
+      },
+      {
+        "cname": "恰纳卡莱考古博物馆",
+        "url": "/sight/cannakkale1443/133126.html",
+        "s_img": "",
+        "caddress": "Barbaros Mh. 17020 Canakkale, Turkiye"
+      },
+      {
+        "cname": "Guzelyali海港",
+        "url": "/sight/cannakkale1443/133138.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/051/120/871/9438fe4c2bf2461c82024b0d5ac3ecbf_C_220_140.jpg",
+        "caddress": "Guzelyali, Turkiye"
+      },
+      {
+        "cname": "阿索斯",
+        "url": "/sight/cannakkale1443/133136.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/682/644/530/f5c49b07464440fdbc8902514f2d5bf3_C_220_140.jpg",
+        "caddress": "17860 Behram/Canakkale, 土耳其"
+      }
+    ]
+  },
+  {
+    "cname": "萨夫兰博卢（番红花城）",
+    "url": "http://you.ctrip.com/sightlist/safranbolu22496.html",
+    "places": [
+      {
+        "cname": "番红花城",
+        "url": "/sight/safranbolu22496/137001.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/335/230/357/6e7e7acca7754a0bae5792f9f5d74dd8_C_220_140.jpg",
+        "caddress": "土耳其卡拉比克省番红花城"
+      },
+      {
+        "cname": "吉仁-哈玛公共浴室",
+        "url": "/sight/safranbolu22496/132365.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/123/564/726/46b8e335e96a471ba7755b6db11d36e2_C_220_140.jpg",
+        "caddress": "78600 Safranbolu/Karabuk,Turkiye"
+      },
+      {
+        "cname": "钟塔",
+        "url": "/sight/safranbolu22496/132358.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/029/278/583/20befac9622245cc84acd10be858f214_C_220_140.jpg",
+        "caddress": "Çepni Mh., 19040 Çorum, 土耳其 ‎"
+      },
+      {
+        "cname": "奥斯曼房屋",
+        "url": "/sight/safranbolu22496/132239.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/708/178/175/f422a280e1e541588fe05e5da695fbc2_C_220_140.jpg",
+        "caddress": "萨夫兰博卢（番红花城）。"
+      },
+      {
+        "cname": "Izzet帕夏清真寺",
+        "url": "/sight/safranbolu22496/132367.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/669/272/592/b37b200e7c524eac865f3fde29909ca4_C_220_140.jpg",
+        "caddress": "78600 Safranbolu/Karabuk,Turkiye"
+      },
+      {
+        "cname": "夫杜而克山丘",
+        "url": "/sight/safranbolu22496/132364.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/171/085/792/dbb5a386666547c4bae12b0ec670af15_C_220_140.jpg",
+        "caddress": "78600 Safranbolu/Karabuk Turkiye"
+      },
+      {
+        "cname": "约留克村庄",
+        "url": "/sight/safranbolu22496/132242.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/215/154/443/edc484540bfc4860a2237f07f6dea15f_C_220_140.jpg",
+        "caddress": "约留克，卡拉比克省土耳其"
+      },
+      {
+        "cname": "旧官舍遗址",
+        "url": "/sight/safranbolu22496/132362.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/773/295/243/a99faa8dd934423fa180b2a08cfb6d76_C_220_140.jpg",
+        "caddress": "Kalealti Sokak 78600 Safranbolu, Turkey"
+      },
+      {
+        "cname": "老政府大楼",
+        "url": "/sight/safranbolu22496/132369.html",
+        "s_img": "",
+        "caddress": "Kalealti Sokak 78600 Safranbolu, Turkey"
+      },
+      {
+        "cname": "中校的寓所",
+        "url": "/sight/safranbolu22496/132359.html",
+        "s_img": "",
+        "caddress": "musalla mah. hıdırlık sok no:6, 78600 safranbolu/karabük, 土耳其"
+      }
+    ]
+  },
+  {
+    "cname": "格雷梅",
+    "url": "http://you.ctrip.com/sightlist/goreme45912.html",
+    "places": [
+      {
+        "cname": "迪夫里特峡谷",
+        "url": "/sight/goreme45912/1485190.html",
+        "s_img": "",
+        "caddress": "Kapadokya Yürüyüş Yolu"
+      },
+      {
+        "cname": "帕夏贝",
+        "url": "/sight/goreme45912/1485221.html",
+        "s_img": "",
+        "caddress": "50500 Avanos/Nevşehir"
+      },
+      {
+        "cname": "玫瑰谷",
+        "url": "/sight/goreme45912/1485229.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M00/E7/FA/CghzfFT_50uAfeedAA9x4rLqAbs878_C_220_140.jpg",
+        "caddress": "50500 Nevşehir"
+      },
+      {
+        "cname": "格雷梅村",
+        "url": "/sight/goreme45912/1485224.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M09/A2/F0/CghzgFULuvWAdtWZAAYwj2hZiZo022_C_220_140.jpg",
+        "caddress": "50500 Göreme/Nevşehir"
+      },
+      {
+        "cname": "格雷梅国家公园",
+        "url": "/sight/goreme45912/110565.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/280/195/add76d852e0d40c29b8ef86ed81b8fdf_C_220_140.jpg",
+        "caddress": "50500 Nevsehir Turkiye"
+      }
+    ]
+  },
+  {
+    "cname": "库萨达斯",
+    "url": "http://you.ctrip.com/sightlist/kusadasi1131.html",
+    "places": [
+      {
+        "cname": "阿特密斯神殿",
+        "url": "/sight/kusadasi1131/1409965.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/996/879/824/0f36b6777aca4558a420c9cc541dd13a_C_220_140.jpg",
+        "caddress": "Atatürk Mh., 35920 Selçuk/İzmir"
+      },
+      {
+        "cname": "白加孟古城",
+        "url": "/sight/kusadasi1131/78819.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/104/336/482/8570fcb3823a46d8926127586fa7349d_C_220_140.jpg",
+        "caddress": "Kemal Arıkan Sk, 09400 Kuşadası, 土耳其"
+      }
+    ]
+  },
+  {
+    "cname": "孔亚",
+    "url": "http://you.ctrip.com/sightlist/konya22499.html",
+    "places": []
+  },
+  {
+    "cname": "Sirince",
+    "url": "http://you.ctrip.com/sightlist/sirince50060.html",
+    "places": [
+      {
+        "cname": "希林杰",
+        "url": "/sight/sirince50060/132843.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/230/087/874/c2181a1728514895ae56d25d70071e89_C_220_140.jpg",
+        "caddress": "Sirince, Turkey"
+      }
+    ]
+  },
+  {
+    "cname": "博德鲁姆",
+    "url": "http://you.ctrip.com/sightlist/bodrum143858.html",
+    "places": [
+      {
+        "cname": "博德鲁姆",
+        "url": "/sight/bodrum143858/136983.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/677/840/432/63c76514177040eb943fc9fa97972f71_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "博德鲁姆城堡",
+        "url": "/sight/bodrum143858/1409887.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/507/557/524/bbb78f3dd5774c6f9f97cf90fef5d441_C_220_140.jpg",
+        "caddress": "Çarşı Mh.48400 Bodrum/Muğla, Türkiye"
+      }
+    ]
+  },
+  {
+    "cname": "代尼兹利",
+    "url": "http://you.ctrip.com/sightlist/denizli3201.html",
+    "places": [
+      {
+        "cname": "阿芙洛迪西亚斯",
+        "url": "/sight/denizli3201/87684.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/596/166/777/4efbf2ffc5f34da9b7dd8f9a94f6823d_C_220_140.jpg",
+        "caddress": "Karacasu-Ilecsi, Geyre, 土耳其"
+      }
+    ]
+  },
+  {
+    "cname": "Avanos",
+    "url": "http://you.ctrip.com/sightlist/avanos45915.html",
+    "places": []
+  },
+  {
+    "cname": "西戴",
+    "url": "http://you.ctrip.com/sightlist/side45954.html",
+    "places": [
+      {
+        "cname": "西戴",
+        "url": "/sight/antalya549/137044.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/953/772/aabf3481caa5487a824767fa8c86a63e_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "阿波罗和雅典娜神殿",
+        "url": "/sight/side45954/134876.html",
+        "s_img": "",
+        "caddress": "Merkez, 07600 Side/Antalya, 土耳其 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "Bolu Province",
+    "url": "http://you.ctrip.com/sightlist/boluprovince45904.html",
+    "places": [
+      {
+        "cname": "阿邦特湖自然公园",
+        "url": "/sight/boluprovince45904/1409531.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/183/385/278/ea28eb1c1be847f08e0d113cad0a06d9_C_220_140.jpg",
+        "caddress": "距Bolu33公里"
+      }
+    ]
+  },
+  {
+    "cname": "加利波利半岛",
+    "url": "http://you.ctrip.com/sightlist/gallipoli50043.html",
+    "places": [
+      {
+        "cname": "KILIA BAY资料中心",
+        "url": "/sight/gallipoli50043/133201.html",
+        "s_img": "",
+        "caddress": "Eceabat, 17900 Çanakkale Province, 土耳其 ‎"
+      },
+      {
+        "cname": "新西兰纪念馆",
+        "url": "/sight/gallipoli50043/133209.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/738/570/9b6ed6883e974e0b82ca9b3fd1edec16_C_220_140.jpg",
+        "caddress": "Eceabat, 17900 Canakkale Province, 土耳其"
+      },
+      {
+        "cname": "澳新军团海湾",
+        "url": "/sight/gallipoli50043/133205.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/905/431/588/c22099bd475144149cf26335c215608d_C_220_140.jpg",
+        "caddress": "17900 Canakkale Turkiye"
+      },
+      {
+        "cname": "第57团墓地",
+        "url": "/sight/gallipoli50043/133238.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/279/682/801/a1aa5ab5890d49458fdcdf99322295d9_C_220_140.jpg",
+        "caddress": "Eceabat, 17900 Çanakkale Province"
+      },
+      {
+        "cname": "独松",
+        "url": "/sight/gallipoli50043/133207.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/806/945/379/df47c25c1f2042b3b81ba9d2831d5e2e_C_220_140.jpg",
+        "caddress": "17900 Canakkale Turkiye"
+      },
+      {
+        "cname": "卡巴特区资料中心和博物馆",
+        "url": "/sight/gallipoli50043/133203.html",
+        "s_img": "",
+        "caddress": "Eceabat, 17900 Çanakkale Province, 土耳其"
+      },
+      {
+        "cname": "加利波利国家历史公园",
+        "url": "/sight/gallipoli50043/133200.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/937/262/863/14ce7cd499544486ba31ef908f8a5a70_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "格克切岛",
+    "url": "http://you.ctrip.com/sightlist/gokceada50047.html",
+    "places": [
+      {
+        "cname": "泰佩柯伊村",
+        "url": "/sight/gokceada50047/133195.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/678/472/567/9dfd567c9b2b40ec9c3cd5c70d96b851_C_220_140.jpg",
+        "caddress": "土耳其恰纳卡莱省泰佩柯伊"
+      },
+      {
+        "cname": "海军国家公园",
+        "url": "/sight/gokceada50047/133192.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/716/992/084/d654ce448e8141738cbe75ec0f518e8a_C_220_140.jpg",
+        "caddress": "格克切岛北部"
+      },
+      {
+        "cname": "卡莱克伊村",
+        "url": "/sight/gokceada50047/133194.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "贝尔加马",
+    "url": "http://you.ctrip.com/sightlist/bergama50061.html",
+    "places": [
+      {
+        "cname": "卫城",
+        "url": "/sight/bergama50061/134877.html",
+        "s_img": "",
+        "caddress": "贝尔加马"
+      },
+      {
+        "cname": "阿斯克勒庇俄斯神庙",
+        "url": "/sight/bergama50061/134874.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "皮加蒙古城遗迹",
+        "url": "/sight/bergama50061/134875.html",
+        "s_img": "",
+        "caddress": "Pergamon, Bergama, Türkiye"
+      }
+    ]
+  }
+]

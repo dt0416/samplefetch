@@ -1,0 +1,54 @@
+[
+  {
+    "cname": "基多",
+    "suggest_places": [
+      {
+        "cname": "基多大教堂",
+        "url": "/sight/quito1856/1417857.html"
+      },
+      {
+        "cname": "独立广场",
+        "url": "/sight/quito1856/1417881.html"
+      },
+      {
+        "cname": "孔帕尼亚耶稣大教堂",
+        "url": "/sight/quito1856/1674018.html"
+      },
+      {
+        "cname": "圣弗朗西斯科修道院",
+        "url": "/sight/quito1856/1674017.html"
+      },
+      {
+        "cname": "赤道纪念碑",
+        "url": "/sight/quito1856/1417887.html"
+      }
+    ],
+    "url": "/sightlist/quito1856.html"
+  },
+  {
+    "cname": "加拉帕戈斯群岛",
+    "suggest_places": [
+      {
+        "cname": "Lobos岛",
+        "url": "/sight/galapagosislands20856/1414844.html"
+      },
+      {
+        "cname": "Los Gemelos双坑",
+        "url": "/sight/galapagosislands20856/1414845.html"
+      },
+      {
+        "cname": "阿苏尔峰",
+        "url": "/sight/galapagosislands20856/1414818.html"
+      },
+      {
+        "cname": "阿约拉港",
+        "url": "/sight/galapagosislands20856/1414791.html"
+      },
+      {
+        "cname": "巴尔特拉岛",
+        "url": "/sight/galapagosislands20856/1414821.html"
+      }
+    ],
+    "url": "/sightlist/galapagosislands20856.html"
+  }
+]

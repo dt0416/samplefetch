@@ -1,0 +1,24 @@
+[
+  {
+    "cname": "马累",
+    "suggest_places": [
+      {
+        "cname": "马累",
+        "url": "/sight/male57616/65442.html"
+      },
+      {
+        "cname": "马尔代夫国家博物馆",
+        "url": "/sight/male57616/18430.html"
+      },
+      {
+        "cname": "独立广场",
+        "url": "/sight/male57616/133214.html"
+      },
+      {
+        "cname": "马累古清真寺",
+        "url": "/sight/male57616/50140.html"
+      }
+    ],
+    "url": "/sightlist/male57616.html"
+  }
+]

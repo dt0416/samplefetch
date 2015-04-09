@@ -1,0 +1,150 @@
+[
+  {
+    "cname": "马赛马拉国家公园",
+    "suggest_places": [
+      {
+        "cname": "马拉河",
+        "url": "/sight/maasaimara797/24803.html"
+      },
+      {
+        "cname": "马赛马拉国家保护区",
+        "url": "/sight/maasaimara797/55318.html"
+      },
+      {
+        "cname": "肯尼亚马赛村落",
+        "url": "/sight/maasaimara797/67773.html"
+      },
+      {
+        "cname": "塔雷克河",
+        "url": "/sight/maasaimara797/1418684.html"
+      },
+      {
+        "cname": "罗伊塔",
+        "url": "/sight/maasaimara797/24804.html"
+      }
+    ],
+    "url": "/sightlist/maasaimara797.html"
+  },
+  {
+    "cname": "内罗毕",
+    "suggest_places": [
+      {
+        "cname": "阿伯德尔国家森林公园",
+        "url": "/sight/nairobi795/136603.html"
+      },
+      {
+        "cname": "内罗毕乡村集市",
+        "url": "/sight/nairobi795/1409582.html"
+      },
+      {
+        "cname": "独立公园",
+        "url": "/sight/nairobi795/24771.html"
+      },
+      {
+        "cname": "卡伦故居",
+        "url": "/sight/nairobi795/24772.html"
+      },
+      {
+        "cname": "纳瓦沙湖",
+        "url": "/sight/nairobi795/24774.html"
+      }
+    ],
+    "url": "/sightlist/nairobi795.html"
+  },
+  {
+    "cname": "安波塞利",
+    "suggest_places": [
+      {
+        "cname": "安波塞利国家公园",
+        "url": "/sight/amboseli1085/55615.html"
+      },
+      {
+        "cname": "东非大裂谷",
+        "url": "/sight/amboseli1085/62823.html"
+      },
+      {
+        "cname": "乞力马扎罗山",
+        "url": "/sight/amboseli1085/44702.html"
+      },
+      {
+        "cname": "乞立马扎罗山",
+        "url": "/sight/amboseli1085/139771.html"
+      }
+    ],
+    "url": "/sightlist/amboseli1085.html"
+  },
+  {
+    "cname": "纳库鲁",
+    "suggest_places": [
+      {
+        "cname": "纳库鲁湖",
+        "url": "/sight/nakuru1073/43846.html"
+      },
+      {
+        "cname": "奈瓦沙湖",
+        "url": "/sight/nakuru1073/79036.html"
+      },
+      {
+        "cname": "纳库鲁国家野生动物园",
+        "url": "/sight/nakuru1073/67749.html"
+      },
+      {
+        "cname": "奈瓦沙游船",
+        "url": "/sight/nakuru1073/136608.html"
+      }
+    ],
+    "url": "/sightlist/nakuru1073.html"
+  },
+  {
+    "cname": "阿伯德尔国家森林公园",
+    "suggest_places": [
+      {
+        "cname": "阿伯德尔国家森林公园",
+        "url": "/sight/aberdare1074/136603.html"
+      },
+      {
+        "cname": "树顶旅馆",
+        "url": "/sight/aberdare1074/43861.html"
+      }
+    ],
+    "url": "/sightlist/aberdare1074.html"
+  },
+  {
+    "cname": "肯尼亚山国家公园",
+    "suggest_places": [
+      {
+        "cname": "肯尼亚山",
+        "url": "/sight/mountkenyanationalpark1086/1409534.html"
+      }
+    ],
+    "url": "/sightlist/mountkenyanationalpark1086.html"
+  },
+  {
+    "cname": "奈瓦沙",
+    "suggest_places": [
+      {
+        "cname": "地狱之门国家公园",
+        "url": "/sight/naivasha1457/1410006.html"
+      }
+    ],
+    "url": "/sightlist/naivasha1457.html"
+  },
+  {
+    "cname": "蒙巴萨",
+    "suggest_places": [
+      {
+        "cname": "拉姆岛",
+        "url": "/sight/mombasa796/24789.html"
+      },
+      {
+        "cname": "察沃国家公园",
+        "url": "/sight/mombasa796/24788.html"
+      },
+      {
+        "cname": "耶稣堡",
+        "url": "/sight/mombasa796/24787.html"
+      }
+    ],
+    "url": "/sightlist/mombasa796.html"
+  }
+]

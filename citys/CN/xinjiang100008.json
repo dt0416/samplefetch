@@ -1,0 +1,936 @@
+[
+  {
+    "cname": "乌鲁木齐",
+    "suggest_places": [
+      {
+        "cname": "天山天池",
+        "url": "/sight/wulumuqi117/4649.html"
+      },
+      {
+        "cname": "新疆国际大巴扎",
+        "url": "/sight/wulumuqi117/133968.html"
+      },
+      {
+        "cname": "红山公园",
+        "url": "/sight/wulumuqi117/4444.html"
+      },
+      {
+        "cname": "新疆维吾尔自治区博物馆",
+        "url": "/sight/wulumuqi117/12428.html"
+      },
+      {
+        "cname": "水磨沟公园",
+        "url": "/sight/wulumuqi117/4496.html"
+      }
+    ],
+    "url": "/sightlist/wulumuqi117.html"
+  },
+  {
+    "cname": "伊犁",
+    "suggest_places": [
+      {
+        "cname": "赛里木湖",
+        "url": "/sight/yili115/5500.html"
+      },
+      {
+        "cname": "那拉提草原",
+        "url": "/sight/yili115/4783.html"
+      },
+      {
+        "cname": "喀拉峻草原",
+        "url": "/sight/yili115/109985.html"
+      },
+      {
+        "cname": "伊犁河",
+        "url": "/sight/yili115/15695.html"
+      },
+      {
+        "cname": "果子沟",
+        "url": "/sight/yili115/4779.html"
+      }
+    ],
+    "url": "/sightlist/yili115.html"
+  },
+  {
+    "cname": "吐鲁番",
+    "suggest_places": [
+      {
+        "cname": "火焰山",
+        "url": "/sight/tulufan35/4665.html"
+      },
+      {
+        "cname": "葡萄沟",
+        "url": "/sight/tulufan35/4674.html"
+      },
+      {
+        "cname": "交河故城",
+        "url": "/sight/tulufan35/4667.html"
+      },
+      {
+        "cname": "坎儿井民俗园",
+        "url": "/sight/tulufan35/4666.html"
+      },
+      {
+        "cname": "库木塔格沙漠",
+        "url": "/sight/tulufan35/44305.html"
+      }
+    ],
+    "url": "/sightlist/tulufan35.html"
+  },
+  {
+    "cname": "喀什",
+    "suggest_places": [
+      {
+        "cname": "艾提尕尔清真寺",
+        "url": "/sight/kashi124/4697.html"
+      },
+      {
+        "cname": "香妃墓",
+        "url": "/sight/kashi124/4704.html"
+      },
+      {
+        "cname": "帕米尔高原",
+        "url": "/sight/kashi124/43961.html"
+      },
+      {
+        "cname": "高台民居",
+        "url": "/sight/kashi124/129663.html"
+      },
+      {
+        "cname": "喀什老城",
+        "url": "/sight/kashi124/129662.html"
+      }
+    ],
+    "url": "/sightlist/kashi124.html"
+  },
+  {
+    "cname": "北疆",
+    "suggest_places": [
+      {
+        "cname": "五彩滩",
+        "url": "/sight/beijiang120469/25331.html"
+      },
+      {
+        "cname": "卧龙湾",
+        "url": "/sight/beijiang120469/25347.html"
+      },
+      {
+        "cname": "神仙湾",
+        "url": "/sight/beijiang120469/49784.html"
+      },
+      {
+        "cname": "禾木风景区",
+        "url": "/sight/beijiang120469/49777.html"
+      },
+      {
+        "cname": "喀纳斯湖景区",
+        "url": "/sight/beijiang120469/25288.html"
+      }
+    ],
+    "url": "/sightlist/beijiang120469.html"
+  },
+  {
+    "cname": "克拉玛依",
+    "suggest_places": [
+      {
+        "cname": "乌尔禾魔鬼城",
+        "url": "/sight/kelamayi428/60742.html"
+      },
+      {
+        "cname": "黑油山",
+        "url": "/sight/kelamayi428/60688.html"
+      },
+      {
+        "cname": "克拉玛依油田",
+        "url": "/sight/kelamayi428/144748.html"
+      },
+      {
+        "cname": "九龙潭",
+        "url": "/sight/kelamayi428/60693.html"
+      },
+      {
+        "cname": "白杨河大峡谷",
+        "url": "/sight/kelamayi428/60694.html"
+      }
+    ],
+    "url": "/sightlist/kelamayi428.html"
+  },
+  {
+    "cname": "库尔勒",
+    "suggest_places": [
+      {
+        "cname": "铁门关",
+        "url": "/sight/kuerle429/18284.html"
+      },
+      {
+        "cname": "孔雀河",
+        "url": "/sight/kuerle429/133418.html"
+      },
+      {
+        "cname": "库尔勒莲花湖",
+        "url": "/sight/kuerle429/133419.html"
+      },
+      {
+        "cname": "加曼大清真寺",
+        "url": "/sight/kuerle429/134442.html"
+      },
+      {
+        "cname": "沙伊东香梨园",
+        "url": "/sight/kuerle429/16099.html"
+      }
+    ],
+    "url": "/sightlist/kuerle429.html"
+  },
+  {
+    "cname": "南疆",
+    "suggest_places": [],
+    "url": "/sightlist/nanjiang120471.html"
+  },
+  {
+    "cname": "阜康",
+    "suggest_places": [
+      {
+        "cname": "天山天池",
+        "url": "/sight/fukang2506/4649.html"
+      },
+      {
+        "cname": "天山",
+        "url": "/sight/fukang2506/110169.html"
+      },
+      {
+        "cname": "西小天池",
+        "url": "/sight/fukang2506/56627.html"
+      },
+      {
+        "cname": "西王母祖庙",
+        "url": "/sight/fukang2506/56901.html"
+      },
+      {
+        "cname": "定海神针",
+        "url": "/sight/fukang2506/4654.html"
+      }
+    ],
+    "url": "/sightlist/fukang2506.html"
+  },
+  {
+    "cname": "博尔塔拉",
+    "suggest_places": [
+      {
+        "cname": "赛里木湖",
+        "url": "/sight/boerdala2513/5500.html"
+      },
+      {
+        "cname": "怪石峪风景区",
+        "url": "/sight/boerdala2513/129767.html"
+      },
+      {
+        "cname": "阿拉山口口岸",
+        "url": "/sight/boerdala2513/134340.html"
+      },
+      {
+        "cname": "艾比湖",
+        "url": "/sight/boerdala2513/129769.html"
+      }
+    ],
+    "url": "/sightlist/boerdala2513.html"
+  },
+  {
+    "cname": "和田",
+    "suggest_places": [
+      {
+        "cname": "丝绸之路",
+        "url": "/sight/hetian557/1411606.html"
+      },
+      {
+        "cname": "尼雅遗址",
+        "url": "/sight/hetian557/18658.html"
+      },
+      {
+        "cname": "葡萄长廊",
+        "url": "/sight/hetian557/48241.html"
+      },
+      {
+        "cname": "玉龙喀什河",
+        "url": "/sight/hetian557/129766.html"
+      },
+      {
+        "cname": "亚门草场",
+        "url": "/sight/hetian557/48281.html"
+      }
+    ],
+    "url": "/sightlist/hetian557.html"
+  },
+  {
+    "cname": "巴音郭楞",
+    "suggest_places": [
+      {
+        "cname": "巴音布鲁克草原",
+        "url": "/sight/bayinguo2512/56618.html"
+      },
+      {
+        "cname": "博斯腾湖",
+        "url": "/sight/bayinguo2512/15633.html"
+      },
+      {
+        "cname": "罗布人村寨",
+        "url": "/sight/bayinguo2512/134450.html"
+      },
+      {
+        "cname": "巴音布鲁克天鹅湖",
+        "url": "/sight/bayinguo2512/15563.html"
+      },
+      {
+        "cname": "塔克拉玛干沙漠",
+        "url": "/sight/bayinguo2512/43966.html"
+      }
+    ],
+    "url": "/sightlist/bayinguo2512.html"
+  },
+  {
+    "cname": "哈密",
+    "suggest_places": [
+      {
+        "cname": "哈密回王陵",
+        "url": "/sight/hami567/18857.html"
+      },
+      {
+        "cname": "回王府",
+        "url": "/sight/hami567/47909.html"
+      },
+      {
+        "cname": "鸣沙山",
+        "url": "/sight/hami567/47890.html"
+      },
+      {
+        "cname": "丝绸之路",
+        "url": "/sight/hami567/1411606.html"
+      },
+      {
+        "cname": "哈密魔鬼城",
+        "url": "/sight/hami567/47898.html"
+      }
+    ],
+    "url": "/sightlist/hami567.html"
+  },
+  {
+    "cname": "伊宁",
+    "suggest_places": [
+      {
+        "cname": "汉人街",
+        "url": "/sight/yining2058/134100.html"
+      },
+      {
+        "cname": "可克达拉草原之夜风情园",
+        "url": "/sight/yining2058/70423.html"
+      }
+    ],
+    "url": "/sightlist/yining2058.html"
+  },
+  {
+    "cname": "阿克苏",
+    "suggest_places": [
+      {
+        "cname": "天山神秘大峡谷",
+        "url": "/sight/akesu920/60998.html"
+      },
+      {
+        "cname": "克孜尔千佛洞",
+        "url": "/sight/akesu920/61000.html"
+      },
+      {
+        "cname": "塔里木河",
+        "url": "/sight/akesu920/48082.html"
+      },
+      {
+        "cname": "神木园",
+        "url": "/sight/akesu920/48149.html"
+      },
+      {
+        "cname": "库车大寺",
+        "url": "/sight/akesu920/60996.html"
+      }
+    ],
+    "url": "/sightlist/akesu920.html"
+  },
+  {
+    "cname": "库车",
+    "suggest_places": [
+      {
+        "cname": "库车王府",
+        "url": "/sight/kuche1345/140392.html"
+      },
+      {
+        "cname": "天山神秘大峡谷",
+        "url": "/sight/kuche1345/60998.html"
+      },
+      {
+        "cname": "丝绸之路",
+        "url": "/sight/kuche1345/1411606.html"
+      },
+      {
+        "cname": "库车大寺",
+        "url": "/sight/kuche1345/60996.html"
+      },
+      {
+        "cname": "大龙池",
+        "url": "/sight/kuche1345/61005.html"
+      }
+    ],
+    "url": "/sightlist/kuche1345.html"
+  },
+  {
+    "cname": "昌吉",
+    "suggest_places": [
+      {
+        "cname": "天山天池",
+        "url": "/sight/changji923/4649.html"
+      },
+      {
+        "cname": "五彩湾古海温泉",
+        "url": "/sight/changji923/129702.html"
+      },
+      {
+        "cname": "五彩湾",
+        "url": "/sight/changji923/133975.html"
+      },
+      {
+        "cname": "五彩城",
+        "url": "/sight/changji923/133982.html"
+      },
+      {
+        "cname": "江布拉克",
+        "url": "/sight/changji923/129707.html"
+      }
+    ],
+    "url": "/sightlist/changji923.html"
+  },
+  {
+    "cname": "鄯善",
+    "suggest_places": [
+      {
+        "cname": "库木塔格沙漠",
+        "url": "/sight/shanshan2502/44305.html"
+      },
+      {
+        "cname": "吐峪沟麻扎村",
+        "url": "/sight/shanshan2502/44307.html"
+      },
+      {
+        "cname": "吐峪沟大峡谷",
+        "url": "/sight/shanshan2502/134360.html"
+      },
+      {
+        "cname": "吐峪沟千佛洞",
+        "url": "/sight/shanshan2502/134361.html"
+      },
+      {
+        "cname": "鲁克沁镇",
+        "url": "/sight/shanshan2502/134366.html"
+      }
+    ],
+    "url": "/sightlist/shanshan2502.html"
+  },
+  {
+    "cname": "昭苏",
+    "suggest_places": [
+      {
+        "cname": "夏塔旅游区",
+        "url": "/sight/zhaosu2508/4785.html"
+      },
+      {
+        "cname": "昭苏草原",
+        "url": "/sight/zhaosu2508/134098.html"
+      },
+      {
+        "cname": "草原石人",
+        "url": "/sight/zhaosu2508/129586.html"
+      },
+      {
+        "cname": "格登山石碑",
+        "url": "/sight/zhaosu2508/4794.html"
+      },
+      {
+        "cname": "夏特大峡谷",
+        "url": "/sight/zhaosu2508/20296.html"
+      }
+    ],
+    "url": "/sightlist/zhaosu2508.html"
+  },
+  {
+    "cname": "博乐",
+    "suggest_places": [
+      {
+        "cname": "怪石峪风景区",
+        "url": "/sight/bole922/129767.html"
+      },
+      {
+        "cname": "阿拉山口口岸",
+        "url": "/sight/bole922/134340.html"
+      }
+    ],
+    "url": "/sightlist/bole922.html"
+  },
+  {
+    "cname": "塔城",
+    "suggest_places": [
+      {
+        "cname": "沙湾温泉旅游区",
+        "url": "/sight/tacheng924/61066.html"
+      },
+      {
+        "cname": "红楼",
+        "url": "/sight/tacheng924/61060.html"
+      },
+      {
+        "cname": "巴尔鲁克旅游风景区",
+        "url": "/sight/tacheng924/1512883.html"
+      },
+      {
+        "cname": "九莲泉",
+        "url": "/sight/tacheng924/61098.html"
+      },
+      {
+        "cname": "玛依塔斯",
+        "url": "/sight/tacheng924/61093.html"
+      }
+    ],
+    "url": "/sightlist/tacheng924.html"
+  },
+  {
+    "cname": "石河子",
+    "suggest_places": [
+      {
+        "cname": "新疆兵团军垦博物馆",
+        "url": "/sight/shihezi1168/48365.html"
+      },
+      {
+        "cname": "桃源风景旅游区",
+        "url": "/sight/shihezi1168/1417851.html"
+      },
+      {
+        "cname": "驼铃梦坡沙漠生态旅游景区",
+        "url": "/sight/shihezi1168/129632.html"
+      },
+      {
+        "cname": "音乐文化广场",
+        "url": "/sight/shihezi1168/48353.html"
+      },
+      {
+        "cname": "西部民俗风情园",
+        "url": "/sight/shihezi1168/1477712.html"
+      }
+    ],
+    "url": "/sightlist/shihezi1168.html"
+  },
+  {
+    "cname": "吉木萨尔",
+    "suggest_places": [
+      {
+        "cname": "五彩湾古海温泉",
+        "url": "/sight/jimusaer2498/129702.html"
+      },
+      {
+        "cname": "五彩湾",
+        "url": "/sight/jimusaer2498/133975.html"
+      },
+      {
+        "cname": "火烧山",
+        "url": "/sight/jimusaer2498/133987.html"
+      },
+      {
+        "cname": "古尔班通古特沙漠 ",
+        "url": "/sight/jimusaer2498/134439.html"
+      },
+      {
+        "cname": "吉木萨尔千佛洞",
+        "url": "/sight/jimusaer2498/144754.html"
+      }
+    ],
+    "url": "/sightlist/jimusaer2498.html"
+  },
+  {
+    "cname": "阿拉尔",
+    "suggest_places": [
+      {
+        "cname": "印象蓝泊湾生态观光园",
+        "url": "/sight/alaer120078/1410536.html"
+      }
+    ],
+    "url": "/sightlist/alaer120078.html"
+  },
+  {
+    "cname": "奎屯",
+    "suggest_places": [],
+    "url": "/sightlist/kuitun1169.html"
+  },
+  {
+    "cname": "克孜勒苏柯尔克孜",
+    "suggest_places": [
+      {
+        "cname": "慕士塔格峰",
+        "url": "/sight/kezilesukeerkez2511/5405.html"
+      },
+      {
+        "cname": "喀拉库勒湖",
+        "url": "/sight/kezilesukeerkez2511/129672.html"
+      },
+      {
+        "cname": "奥依塔克森林公园",
+        "url": "/sight/kezilesukeerkez2511/129673.html"
+      },
+      {
+        "cname": "阿图什天门景区",
+        "url": "/sight/kezilesukeerkez2511/1409053.html"
+      },
+      {
+        "cname": "天山昆仑山交汇",
+        "url": "/sight/kezilesukeerkez2511/129671.html"
+      }
+    ],
+    "url": "/sightlist/kezilesukeerkez2511.html"
+  },
+  {
+    "cname": "轮台",
+    "suggest_places": [
+      {
+        "cname": "塔里木胡杨林公园",
+        "url": "/sight/luntai1569/110316.html"
+      },
+      {
+        "cname": "草湖水乡",
+        "url": "/sight/luntai1569/134445.html"
+      }
+    ],
+    "url": "/sightlist/luntai1569.html"
+  },
+  {
+    "cname": "乌鲁木齐县",
+    "suggest_places": [
+      {
+        "cname": "乌鲁木齐天山大峡谷",
+        "url": "/sight/wulumujixian2489/146986.html"
+      },
+      {
+        "cname": "丝绸之路国际度假区",
+        "url": "/sight/wulumujixian2489/1513001.html"
+      }
+    ],
+    "url": "/sightlist/wulumujixian2489.html"
+  },
+  {
+    "cname": "塔什库尔干塔吉克",
+    "suggest_places": [
+      {
+        "cname": "帕米尔高原",
+        "url": "/sight/tashikuergantajike2481/43961.html"
+      },
+      {
+        "cname": "红其拉甫口岸",
+        "url": "/sight/tashikuergantajike2481/15746.html"
+      },
+      {
+        "cname": "乔戈里峰",
+        "url": "/sight/tashikuergantajike2481/43964.html"
+      },
+      {
+        "cname": "喀什古石头城",
+        "url": "/sight/tashikuergantajike2481/4720.html"
+      }
+    ],
+    "url": "/sightlist/tashikuergantajike2481.html"
+  },
+  {
+    "cname": "和静",
+    "suggest_places": [
+      {
+        "cname": "巩乃斯林场",
+        "url": "/sight/hejing2485/15715.html"
+      },
+      {
+        "cname": "巴仑台黄庙",
+        "url": "/sight/hejing2485/134444.html"
+      },
+      {
+        "cname": "艾尔宾库热庙",
+        "url": "/sight/hejing2485/1410729.html"
+      }
+    ],
+    "url": "/sightlist/hejing2485.html"
+  },
+  {
+    "cname": "若羌",
+    "suggest_places": [
+      {
+        "cname": "罗布泊",
+        "url": "/sight/ruoqiang120547/15564.html"
+      },
+      {
+        "cname": "楼兰古城",
+        "url": "/sight/ruoqiang120547/15609.html"
+      },
+      {
+        "cname": "罗布泊南古城",
+        "url": "/sight/ruoqiang120547/144750.html"
+      },
+      {
+        "cname": "阿尔金山自然保护区",
+        "url": "/sight/ruoqiang120547/15635.html"
+      },
+      {
+        "cname": "米兰故城",
+        "url": "/sight/ruoqiang120547/134551.html"
+      }
+    ],
+    "url": "/sightlist/ruoqiang120547.html"
+  },
+  {
+    "cname": "吐鲁番市",
+    "suggest_places": [
+      {
+        "cname": "吐鲁番博物馆",
+        "url": "/sight/tulufan2484/44304.html"
+      },
+      {
+        "cname": "阿萨吾勒开裴麻扎",
+        "url": "/sight/tulufan2484/137646.html"
+      }
+    ],
+    "url": "/sightlist/tulufan2484.html"
+  },
+  {
+    "cname": "叶城",
+    "suggest_places": [
+      {
+        "cname": "加满清真寺",
+        "url": "/sight/yecheng120489/133475.html"
+      },
+      {
+        "cname": "棋盘千佛洞",
+        "url": "/sight/yecheng120489/133476.html"
+      }
+    ],
+    "url": "/sightlist/yecheng120489.html"
+  },
+  {
+    "cname": "尉犁",
+    "suggest_places": [
+      {
+        "cname": "罗布人村寨",
+        "url": "/sight/weili120546/134450.html"
+      },
+      {
+        "cname": "塔里木河与塔克拉玛干游览区",
+        "url": "/sight/weili120546/15591.html"
+      }
+    ],
+    "url": "/sightlist/weili120546.html"
+  },
+  {
+    "cname": "北屯",
+    "suggest_places": [],
+    "url": "/sightlist/beitun120077.html"
+  },
+  {
+    "cname": "且末",
+    "suggest_places": [
+      {
+        "cname": "胡杨林民族风情园",
+        "url": "/sight/qiemo1348/61232.html"
+      },
+      {
+        "cname": "且末古城",
+        "url": "/sight/qiemo1348/61224.html"
+      },
+      {
+        "cname": "莫勒切河谷岩画",
+        "url": "/sight/qiemo1348/61287.html"
+      },
+      {
+        "cname": "且末猎场",
+        "url": "/sight/qiemo1348/61225.html"
+      },
+      {
+        "cname": "中昆仑野生动物园",
+        "url": "/sight/qiemo1348/61231.html"
+      }
+    ],
+    "url": "/sightlist/qiemo1348.html"
+  },
+  {
+    "cname": "拜城",
+    "suggest_places": [
+      {
+        "cname": "克孜尔千佛洞",
+        "url": "/sight/baicheng2490/61000.html"
+      },
+      {
+        "cname": "克孜尔魔鬼城",
+        "url": "/sight/baicheng2490/61003.html"
+      },
+      {
+        "cname": "克孜尔水库",
+        "url": "/sight/baicheng2490/48148.html"
+      },
+      {
+        "cname": "拜城县国际狩猎场",
+        "url": "/sight/baicheng2490/48102.html"
+      }
+    ],
+    "url": "/sightlist/baicheng2490.html"
+  },
+  {
+    "cname": "新源",
+    "suggest_places": [
+      {
+        "cname": "西域酒文化博物馆",
+        "url": "/sight/xinyuan2500/1410087.html"
+      }
+    ],
+    "url": "/sightlist/xinyuan2500.html"
+  },
+  {
+    "cname": "精河",
+    "suggest_places": [
+      {
+        "cname": "艾比湖",
+        "url": "/sight/jinghe2501/129769.html"
+      }
+    ],
+    "url": "/sightlist/jinghe2501.html"
+  },
+  {
+    "cname": "阿图什",
+    "suggest_places": [
+      {
+        "cname": "阿图什天门景区",
+        "url": "/sight/atushi921/1409053.html"
+      }
+    ],
+    "url": "/sightlist/atushi921.html"
+  },
+  {
+    "cname": "巴里坤县",
+    "suggest_places": [
+      {
+        "cname": "鸣沙山",
+        "url": "/sight/balikunhasake2494/47890.html"
+      },
+      {
+        "cname": "巴里坤古民宅",
+        "url": "/sight/balikunhasake2494/47907.html"
+      },
+      {
+        "cname": "巴里坤古城",
+        "url": "/sight/balikunhasake2494/1512201.html"
+      },
+      {
+        "cname": "巴里坤草原",
+        "url": "/sight/balikunhasake2494/18855.html"
+      },
+      {
+        "cname": "大河唐城",
+        "url": "/sight/balikunhasake2494/47902.html"
+      }
+    ],
+    "url": "/sightlist/balikunhasake2494.html"
+  },
+  {
+    "cname": "民丰",
+    "suggest_places": [
+      {
+        "cname": "尼雅遗址",
+        "url": "/sight/minfeng2488/18658.html"
+      }
+    ],
+    "url": "/sightlist/minfeng2488.html"
+  },
+  {
+    "cname": "伊吾",
+    "suggest_places": [
+      {
+        "cname": "伊吾胡杨林",
+        "url": "/sight/yiwu2505/47911.html"
+      },
+      {
+        "cname": "拉甫却克古城",
+        "url": "/sight/yiwu2505/47903.html"
+      },
+      {
+        "cname": "喀尔里克冰川",
+        "url": "/sight/yiwu2505/47901.html"
+      },
+      {
+        "cname": "伊吾烈士陵园",
+        "url": "/sight/yiwu2505/47908.html"
+      },
+      {
+        "cname": "伊吾焕彩湖",
+        "url": "/sight/yiwu2505/47915.html"
+      }
+    ],
+    "url": "/sightlist/yiwu2505.html"
+  },
+  {
+    "cname": "焉耆",
+    "suggest_places": [
+      {
+        "cname": "相思湖景区",
+        "url": "/sight/yanqi120548/1416632.html"
+      },
+      {
+        "cname": "焉耆七个星千佛洞",
+        "url": "/sight/yanqi120548/134443.html"
+      }
+    ],
+    "url": "/sightlist/yanqi120548.html"
+  },
+  {
+    "cname": "五家渠",
+    "suggest_places": [
+      {
+        "cname": "青湖御园生态旅游度假区",
+        "url": "/sight/wujiaju2493/129776.html"
+      }
+    ],
+    "url": "/sightlist/wujiaju2493.html"
+  },
+  {
+    "cname": "哈密市",
+    "suggest_places": [
+      {
+        "cname": "猴娃山",
+        "url": "/sight/hami2483/134857.html"
+      }
+    ],
+    "url": "/sightlist/hami2483.html"
+  },
+  {
+    "cname": "莎车",
+    "suggest_places": [
+      {
+        "cname": "加米清真寺",
+        "url": "/sight/shache2499/129687.html"
+      }
+    ],
+    "url": "/sightlist/shache2499.html"
+  },
+  {
+    "cname": "呼图壁",
+    "suggest_places": [
+      {
+        "cname": "世纪园",
+        "url": "/sight/hetubi2495/1416646.html"
+      },
+      {
+        "cname": "康家石门子岩画",
+        "url": "/sight/hetubi2495/134012.html"
+      }
+    ],
+    "url": "/sightlist/hetubi2495.html"
+  },
+  {
+    "cname": "图木舒克",
+    "suggest_places": [],
+    "url": "/sightlist/tumushuke120079.html"
+  }
+]

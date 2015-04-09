@@ -1,0 +1,380 @@
+[
+  {
+    "cname": "布达佩斯",
+    "url": "http://you.ctrip.com/sightlist/budapest1109.html",
+    "places": [
+      {
+        "cname": "链子桥",
+        "url": "/sight/budapest1109/52512.html",
+        "s_img": "http://p.chanyouji.cn/184867/1414666880159p195gb6p70i6s1856h4n2o21j7128.jpg?imageView/1/w/220/h/140",
+        "caddress": "Széchenyi Lánchíd, Budapest"
+      },
+      {
+        "cname": "渔人堡",
+        "url": "/sight/budapest1109/52511.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/758/355/651/c0a336181bc94208a341de720fb37e07_C_220_140.jpg",
+        "caddress": "Budapest, Szentháromság tér 5, 1014"
+      },
+      {
+        "cname": "英雄广场",
+        "url": "/sight/budapest1109/52520.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/694/165/500/5183ea9cedbe4f07aa3e8389bcddcf0e_C_220_140.jpg",
+        "caddress": "Budapest, Hősök tere, 1146"
+      },
+      {
+        "cname": "马加什教堂",
+        "url": "/sight/budapest1109/52510.html",
+        "s_img": "http://p.chanyouji.cn/168973/1412504123645p193fsrbf91c17d94sd61v541mal8.jpg?imageView/1/w/220/h/140",
+        "caddress": "2. Szentháromság tér, Budapest - 1014"
+      },
+      {
+        "cname": "匈牙利国会大厦",
+        "url": "/sight/budapest1109/52508.html",
+        "s_img": "http://p.chanyouji.cn/133744/1403192497647p18qqckldo1e8p122i1mn1och15sv2.jpg?imageView/1/w/220/h/140",
+        "caddress": "1055 Budapest, Kossuth Lajos tér 1-3"
+      },
+      {
+        "cname": "布达皇宫",
+        "url": "/sight/budapest1109/52517.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/895/846/002/9bd744f3a8de43f0936ebb66fbf72906_C_220_140.jpg",
+        "caddress": "Szent György tér 2, Magyarország 1014 Budapest"
+      },
+      {
+        "cname": "圣伊什特万圣殿",
+        "url": "/sight/budapest1109/52521.html",
+        "s_img": "http://p.chanyouji.cn/133744/1403189554070p18qq9oqsu1ulsrp71bae88mh79b.jpg?imageView/1/w/220/h/140",
+        "caddress": "1051 Budapest, Szent István tér 1"
+      },
+      {
+        "cname": "城市公园",
+        "url": "/sight/budapest1109/52523.html",
+        "s_img": "http://p.chanyouji.cn/74257/1381571002542p186m02gs41amo2naefr5h5ft73d.jpg?imageView/1/w/220/h/140",
+        "caddress": "1146 Budapest, Kós Károly sétány"
+      },
+      {
+        "cname": "安德拉什大街",
+        "url": "/sight/budapest1109/52522.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/100/635/682/be02cd31bec946c88515d0177c48160b_C_220_140.jpg",
+        "caddress": "Andrássy út，1062 Budapest"
+      },
+      {
+        "cname": "国家歌剧院",
+        "url": "/sight/budapest1109/134973.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/067/898/898/963452e1a1d3465192a12e63793b15f4_C_220_140.jpg",
+        "caddress": "Andrassy ut 22, Budapest VI, Hungary"
+      },
+      {
+        "cname": "城堡山",
+        "url": "/sight/budapest1109/1483261.html",
+        "s_img": "",
+        "caddress": "Budapest, 1014"
+      },
+      {
+        "cname": "伊丽莎白桥",
+        "url": "/sight/budapest1109/134976.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/881/803/204/3d24329ddab243bd8f5fb4ae7849722c_C_220_140.jpg",
+        "caddress": "Erzsébet híd, budai hídfő, Budapest"
+      },
+      {
+        "cname": "拉萨尔马术公园",
+        "url": "/sight/budapest1109/81649.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/015/104/780/f965dcbf4f15459c9f1a7223fa64f1a3_C_220_140.jpg",
+        "caddress": "H-2182 Domonyvölgy, Fenyő utca 47."
+      },
+      {
+        "cname": "中央大市场",
+        "url": "/sight/budapest1109/81901.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/878/488/6e45788f91344ed0ba6c26a11753f682_C_220_140.jpg",
+        "caddress": "1093 Budapest, Vámház körút 1-3"
+      },
+      {
+        "cname": "国家画廊",
+        "url": "/sight/budapest1109/134968.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/460/925/644/e45bdc6bebae4bc599c6a20387546819_C_220_140.jpg",
+        "caddress": "Szent Gyorgy ter , Buda Castle , Wing C | Disz ter 17, Budapest, Hungary"
+      },
+      {
+        "cname": "国立博物馆",
+        "url": "/sight/budapest1109/137417.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/450/115/763/750077f222c64ba59135b31343f9a97f_C_220_140.jpg",
+        "caddress": "1088 Budapest, Múzeum körút 14-16"
+      },
+      {
+        "cname": "多瑙河畔鞋",
+        "url": "/sight/budapest1109/1483084.html",
+        "s_img": "",
+        "caddress": "Budapest, Idősebb Antall József rakpart, 1054"
+      },
+      {
+        "cname": "布达佩斯自由广场",
+        "url": "/sight/budapest1109/1483112.html",
+        "s_img": "",
+        "caddress": "Budapest Magyarország"
+      },
+      {
+        "cname": "恶魔俱乐部",
+        "url": "/sight/budapest1109/139542.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/978/325/800/6105acd8bac145179f425fc5dea01ab7_C_220_140.jpg",
+        "caddress": "1075 Budapest, Nyár utca 1"
+      },
+      {
+        "cname": "自由山",
+        "url": "/sight/budapest1109/134975.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/677/574/05debb6b52af416eabb9f7a65b4437af_C_220_140.jpg",
+        "caddress": "Gellért Hill"
+      },
+      {
+        "cname": "弗洛斯马提广场",
+        "url": "/sight/budapest1109/134971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/217/164/813/e77a176eb73d4868806136edffb23fc0_C_220_140.jpg",
+        "caddress": "Budapest, 1051"
+      },
+      {
+        "cname": "格德勒宫",
+        "url": "/sight/budapest1109/1483016.html",
+        "s_img": "",
+        "caddress": "Gödöllő, Grassalkovich-kastély, HRSZ: 5852, 2100"
+      },
+      {
+        "cname": "三位一体广场",
+        "url": "/sight/budapest1109/134970.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/469/241/967/779bff3bcb614be68acd8b276f0b889b_C_220_140.jpg",
+        "caddress": "1014 Budapest"
+      },
+      {
+        "cname": "布达佩斯动植物园",
+        "url": "/sight/budapest1109/1483049.html",
+        "s_img": "",
+        "caddress": "Budapest, Állatkerti körút 6-12, 1146"
+      },
+      {
+        "cname": "布达佩斯要塞",
+        "url": "/sight/budapest1109/1483113.html",
+        "s_img": "",
+        "caddress": "Budapest"
+      },
+      {
+        "cname": "克拉克·亚当广场",
+        "url": "/sight/budapest1109/1482839.html",
+        "s_img": "",
+        "caddress": "Budapest, 1013"
+      },
+      {
+        "cname": "克拉佩西公墓",
+        "url": "/sight/budapest1109/1482868.html",
+        "s_img": "",
+        "caddress": "Budapest, Fiumei út 16, 1086"
+      },
+      {
+        "cname": "拉乌尔 瓦伦贝格纪念公园",
+        "url": "/sight/budapest1109/1482869.html",
+        "s_img": "",
+        "caddress": "Újlipótváros XIII Szent István"
+      },
+      {
+        "cname": "玛格丽特岛",
+        "url": "/sight/budapest1109/1483107.html",
+        "s_img": "",
+        "caddress": "Budapest, 1138"
+      },
+      {
+        "cname": "玛格丽特桥",
+        "url": "/sight/budapest1109/1483141.html",
+        "s_img": "",
+        "caddress": "Budapest, 1055"
+      },
+      {
+        "cname": "千年纪念碑",
+        "url": "/sight/budapest1109/1483129.html",
+        "s_img": "",
+        "caddress": "Budapest Hősök tere, 1146 Magyarország"
+      },
+      {
+        "cname": "人类博物馆",
+        "url": "/sight/budapest1109/1482870.html",
+        "s_img": "",
+        "caddress": "Budapest, Kossuth Lajos tér 12, 1055"
+      },
+      {
+        "cname": "塞切尼国家图书馆",
+        "url": "/sight/budapest1109/1482835.html",
+        "s_img": "",
+        "caddress": "Budapest, Szent György tér 2., 1014"
+      },
+      {
+        "cname": "时间轮",
+        "url": "/sight/budapest1109/1482988.html",
+        "s_img": "",
+        "caddress": "XIV Felvonulási tér"
+      },
+      {
+        "cname": "水城",
+        "url": "/sight/budapest1109/1482888.html",
+        "s_img": "",
+        "caddress": "Budapest, 1011"
+      },
+      {
+        "cname": "新艺术宫",
+        "url": "/sight/budapest1109/1482853.html",
+        "s_img": "",
+        "caddress": "Budapest Dózsa György út 37, 1146 Magyarország"
+      },
+      {
+        "cname": "匈牙利农业博物馆",
+        "url": "/sight/budapest1109/1483081.html",
+        "s_img": "",
+        "caddress": "Budapest, Vajdahunyad vár, 1146"
+      },
+      {
+        "cname": "匈牙利铁路博物馆",
+        "url": "/sight/budapest1109/1482825.html",
+        "s_img": "",
+        "caddress": "Budapest, Tatai utca 95"
+      },
+      {
+        "cname": "匈牙利自由女神像",
+        "url": "/sight/budapest1109/1483136.html",
+        "s_img": "",
+        "caddress": "Budapest, 1016"
+      },
+      {
+        "cname": "自由桥",
+        "url": "/sight/budapest1109/1483151.html",
+        "s_img": "",
+        "caddress": "Budapest"
+      },
+      {
+        "cname": "布达佩斯历史博物馆",
+        "url": "/sight/budapest1109/134969.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/677/064/863/a725c43bd9cf40ea9c35118d14007bc8_C_220_140.jpg",
+        "caddress": "Castle Hill Royal Palace, Wing E"
+      },
+      {
+        "cname": "烟草街犹太教堂",
+        "url": "/sight/budapest1109/52710.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/511/475/918/18084ffc577a4c7b8c065263c08a4c5b_C_220_140.jpg",
+        "caddress": "1074 Budapest, Dohány utca 2"
+      },
+      {
+        "cname": "布达佩斯交通博物馆",
+        "url": "/sight/budapest1109/1483006.html",
+        "s_img": "",
+        "caddress": "Budapest, Városligeti körút 11, 1146"
+      },
+      {
+        "cname": "布达佩斯喜剧剧院",
+        "url": "/sight/budapest1109/1482993.html",
+        "s_img": "",
+        "caddress": "Budapest, Szent István körút 14, 1137"
+      },
+      {
+        "cname": "布达佩斯艺术品博物馆",
+        "url": "/sight/budapest1109/1483082.html",
+        "s_img": "",
+        "caddress": "Budapest, Szentlélek tér 6, 1033"
+      },
+      {
+        "cname": "布达佩斯应用艺术博物馆",
+        "url": "/sight/budapest1109/1483045.html",
+        "s_img": "",
+        "caddress": "Budapest, Üllői út 33-37, 1091"
+      },
+      {
+        "cname": "东亚艺术博物馆",
+        "url": "/sight/budapest1109/1482872.html",
+        "s_img": "",
+        "caddress": "Budapest, Andrássy út 103, 1062"
+      },
+      {
+        "cname": "李斯特纪念博物馆",
+        "url": "/sight/budapest1109/1483014.html",
+        "s_img": "",
+        "caddress": "Budapest, Vörösmarty utca 35, 1064"
+      },
+      {
+        "cname": "匈牙利国家美术馆",
+        "url": "/sight/budapest1109/1483094.html",
+        "s_img": "",
+        "caddress": "1014 Budapest, Szent György tér 2"
+      },
+      {
+        "cname": "匈牙利军事历史博物馆",
+        "url": "/sight/budapest1109/1482856.html",
+        "s_img": "",
+        "caddress": "Budapest, Kapisztrán tér 2-4, 1014"
+      },
+      {
+        "cname": "匈牙利自然历史博物馆",
+        "url": "/sight/budapest1109/1483036.html",
+        "s_img": "",
+        "caddress": "Budapest, Ludovika tér 2-6, 1083"
+      },
+      {
+        "cname": "欧布达犹太教堂",
+        "url": "/sight/budapest1109/1482987.html",
+        "s_img": "",
+        "caddress": "Budapest, Lajos utca 163, 1036"
+      },
+      {
+        "cname": "匈牙利国家歌剧院",
+        "url": "/sight/budapest1109/1483137.html",
+        "s_img": "",
+        "caddress": "Budapest, Andrássy út 22, 1061"
+      }
+    ]
+  },
+  {
+    "cname": "湖区",
+    "url": "http://you.ctrip.com/sightlist/lakedistrict2103.html",
+    "places": [
+      {
+        "cname": "巴拉顿湖区",
+        "url": "/sight/lakedistrict2103/139540.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/165/392/563/56a12aedeabd47aeb16e5383e83d5c9b_C_220_140.jpg",
+        "caddress": "匈牙利巴拉顿湖"
+      },
+      {
+        "cname": "黑维兹温泉疗养湖",
+        "url": "/sight/lakedistrict2103/84915.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/322/893/492/c84a0ee2e0c149de9c088231f5844668_C_220_140.jpg",
+        "caddress": "Heviz, Hungary"
+      },
+      {
+        "cname": "蒂豪尼半岛",
+        "url": "/sight/lakedistrict2103/84912.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/688/990/98fc9c23b286477b88c6285dbc3138e2_C_220_140.jpg",
+        "caddress": "Tihany, Magyarország"
+      },
+      {
+        "cname": "班尼帝克汀修道院",
+        "url": "/sight/lakedistrict2103/84913.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/04/05/CghzfVTa882AF056AADKRzUphN0627_C_220_140.jpg",
+        "caddress": "8237 Tihany, I. András tér 1匈牙利 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "Visegrad",
+    "url": "http://you.ctrip.com/sightlist/visegrad20634.html",
+    "places": [
+      {
+        "cname": "彩云古堡",
+        "url": "/sight/visegrad20634/81898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/543/634/669/3a0688b906124cef98649b3888f397e9_C_220_140.jpg",
+        "caddress": "2025 Visegrád, Várhegy"
+      }
+    ]
+  },
+  {
+    "cname": "Godollo",
+    "url": "http://you.ctrip.com/sightlist/godollo20639.html",
+    "places": [
+      {
+        "cname": "格德勒皇宫",
+        "url": "/sight/godollo20639/81904.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/278/059/935/84d0e3f9dbf24940b6a4d5717c8a27dd_C_220_140.jpg",
+        "caddress": "2100 Gödöllő, Grassalkovich-kastély HRSZ: 5852"
+      }
+    ]
+  }
+]

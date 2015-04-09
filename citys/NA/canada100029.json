@@ -1,0 +1,684 @@
+[
+  {
+    "cname": "温哥华",
+    "suggest_places": [
+      {
+        "cname": "斯坦利公园",
+        "url": "/sight/vancouver354/21161.html"
+      },
+      {
+        "cname": "温哥华",
+        "url": "/sight/vancouver354/138856.html"
+      },
+      {
+        "cname": "煤气镇",
+        "url": "/sight/vancouver354/56083.html"
+      },
+      {
+        "cname": "英吉利湾",
+        "url": "/sight/vancouver354/67830.html"
+      },
+      {
+        "cname": "加拿大广场",
+        "url": "/sight/vancouver354/67825.html"
+      }
+    ],
+    "url": "/sightlist/vancouver354.html"
+  },
+  {
+    "cname": "多伦多",
+    "suggest_places": [
+      {
+        "cname": "多伦多大学",
+        "url": "/sight/toronto355/78440.html"
+      },
+      {
+        "cname": "加拿大国家电视塔",
+        "url": "/sight/toronto355/21157.html"
+      },
+      {
+        "cname": "卡萨罗玛城堡",
+        "url": "/sight/toronto355/56418.html"
+      },
+      {
+        "cname": "安大略美术馆",
+        "url": "/sight/toronto355/57392.html"
+      },
+      {
+        "cname": "多伦多岛",
+        "url": "/sight/toronto355/70797.html"
+      }
+    ],
+    "url": "/sightlist/toronto355.html"
+  },
+  {
+    "cname": "尼亚加拉地区",
+    "suggest_places": [
+      {
+        "cname": "尼亚加拉大瀑布",
+        "url": "/sight/niagararegion2044/21158.html"
+      },
+      {
+        "cname": "尼亚加拉-尼亚加拉湖滨镇",
+        "url": "/sight/niagararegion2044/78545.html"
+      },
+      {
+        "cname": "尼亚加拉古要塞",
+        "url": "/sight/niagararegion2044/1408574.html"
+      },
+      {
+        "cname": "加拿大千岛湖",
+        "url": "/sight/niagararegion2044/1408375.html"
+      },
+      {
+        "cname": "彩虹桥",
+        "url": "/sight/niagararegion2044/1408373.html"
+      }
+    ],
+    "url": "/sightlist/niagararegion2044.html"
+  },
+  {
+    "cname": "蒙特利尔",
+    "suggest_places": [
+      {
+        "cname": "诺特丹圣母大教堂",
+        "url": "/sight/montreal661/21201.html"
+      },
+      {
+        "cname": "圣约瑟夫教堂",
+        "url": "/sight/montreal661/56714.html"
+      },
+      {
+        "cname": "蒙特利尔旧城区",
+        "url": "/sight/montreal661/21199.html"
+      },
+      {
+        "cname": "皇家山公园",
+        "url": "/sight/montreal661/66951.html"
+      },
+      {
+        "cname": "市政厅",
+        "url": "/sight/montreal661/66930.html"
+      }
+    ],
+    "url": "/sightlist/montreal661.html"
+  },
+  {
+    "cname": "维多利亚",
+    "suggest_places": [
+      {
+        "cname": "布查特花园",
+        "url": "/sight/victoria357/21254.html"
+      },
+      {
+        "cname": "维多利亚",
+        "url": "/sight/victoria357/139567.html"
+      },
+      {
+        "cname": "帝后饭店",
+        "url": "/sight/victoria357/21255.html"
+      },
+      {
+        "cname": "小人国",
+        "url": "/sight/victoria357/21243.html"
+      },
+      {
+        "cname": "省议会大楼",
+        "url": "/sight/victoria357/21253.html"
+      }
+    ],
+    "url": "/sightlist/victoria357.html"
+  },
+  {
+    "cname": "班夫国家公园",
+    "suggest_places": [
+      {
+        "cname": "班夫国家公园",
+        "url": "/sight/banffnationalpark2045/55833.html"
+      },
+      {
+        "cname": "哥伦比亚冰原",
+        "url": "/sight/banffnationalpark2045/1408876.html"
+      },
+      {
+        "cname": "冰原大道",
+        "url": "/sight/banffnationalpark2045/1408890.html"
+      },
+      {
+        "cname": "班夫镇",
+        "url": "/sight/banffnationalpark2045/1408885.html"
+      },
+      {
+        "cname": "露易丝湖",
+        "url": "/sight/banffnationalpark2045/139611.html"
+      }
+    ],
+    "url": "/sightlist/banffnationalpark2045.html"
+  },
+  {
+    "cname": "卡尔加里",
+    "suggest_places": [
+      {
+        "cname": "卡尔加里塔",
+        "url": "/sight/calgary1430/74034.html"
+      },
+      {
+        "cname": "加拿大冬季奥运会公园",
+        "url": "/sight/calgary1430/74012.html"
+      },
+      {
+        "cname": "文化民俗公园",
+        "url": "/sight/calgary1430/74036.html"
+      },
+      {
+        "cname": "王子岛公园",
+        "url": "/sight/calgary1430/135324.html"
+      },
+      {
+        "cname": "鱼溪公园",
+        "url": "/sight/calgary1430/135319.html"
+      }
+    ],
+    "url": "/sightlist/calgary1430.html"
+  },
+  {
+    "cname": "渥太华",
+    "suggest_places": [
+      {
+        "cname": "加拿大国会",
+        "url": "/sight/ottawa356/21162.html"
+      },
+      {
+        "cname": "加拿大国家美术博物馆",
+        "url": "/sight/ottawa356/21205.html"
+      },
+      {
+        "cname": "丽都运河",
+        "url": "/sight/ottawa356/21164.html"
+      },
+      {
+        "cname": "加拿大文明博物馆广场",
+        "url": "/sight/ottawa356/57038.html"
+      },
+      {
+        "cname": "加拿大总督府",
+        "url": "/sight/ottawa356/57035.html"
+      }
+    ],
+    "url": "/sightlist/ottawa356.html"
+  },
+  {
+    "cname": "贾斯珀",
+    "suggest_places": [
+      {
+        "cname": "贾斯珀国家公园",
+        "url": "/sight/jasper1557/71081.html"
+      },
+      {
+        "cname": "Maligne Lake",
+        "url": "/sight/jasper1557/123147.html"
+      },
+      {
+        "cname": "阿萨巴斯卡瀑布",
+        "url": "/sight/jasper1557/1413201.html"
+      },
+      {
+        "cname": "伊迪丝·卡韦尔山",
+        "url": "/sight/jasper1557/1412994.html"
+      },
+      {
+        "cname": "金字塔湖",
+        "url": "/sight/jasper1557/1413202.html"
+      }
+    ],
+    "url": "/sightlist/jasper1557.html"
+  },
+  {
+    "cname": "滨湖尼亚加拉",
+    "suggest_places": [
+      {
+        "cname": "尼亚加拉-尼亚加拉湖滨镇",
+        "url": "/sight/niagaraonthelake23442/78545.html"
+      },
+      {
+        "cname": "维多利亚大瀑布",
+        "url": "/sight/niagaraonthelake23442/139978.html"
+      }
+    ],
+    "url": "/sightlist/niagaraonthelake23442.html"
+  },
+  {
+    "cname": "魁北克市",
+    "suggest_places": [
+      {
+        "cname": "魁北克古城区 ",
+        "url": "/sight/quebeccity1405/78430.html"
+      },
+      {
+        "cname": "小香普兰街",
+        "url": "/sight/quebeccity1405/139630.html"
+      },
+      {
+        "cname": "芳提娜克古堡大酒店",
+        "url": "/sight/quebeccity1405/67103.html"
+      },
+      {
+        "cname": "星形城堡要塞",
+        "url": "/sight/quebeccity1405/78431.html"
+      },
+      {
+        "cname": "蒙特伦西瀑布",
+        "url": "/sight/quebeccity1405/78539.html"
+      }
+    ],
+    "url": "/sightlist/quebeccity1405.html"
+  },
+  {
+    "cname": "惠斯勒",
+    "suggest_places": [
+      {
+        "cname": "安德森湖",
+        "url": "/sight/whistler1539/1410411.html"
+      },
+      {
+        "cname": "惠斯勒黑梳山",
+        "url": "/sight/whistler1539/1460455.html"
+      },
+      {
+        "cname": "迷失湖",
+        "url": "/sight/whistler1539/1460457.html"
+      },
+      {
+        "cname": "白兰地瀑布省立公园",
+        "url": "/sight/whistler1539/1460458.html"
+      },
+      {
+        "cname": "惠斯勒滑雪场",
+        "url": "/sight/whistler1539/122853.html"
+      }
+    ],
+    "url": "/sightlist/whistler1539.html"
+  },
+  {
+    "cname": "不列颠哥伦比亚",
+    "suggest_places": [
+      {
+        "cname": "斯坦利公园",
+        "url": "/sight/britishcolumbia21567/21161.html"
+      },
+      {
+        "cname": "布查特花园",
+        "url": "/sight/britishcolumbia21567/21254.html"
+      },
+      {
+        "cname": "煤气镇",
+        "url": "/sight/britishcolumbia21567/56083.html"
+      },
+      {
+        "cname": "英吉利湾",
+        "url": "/sight/britishcolumbia21567/67830.html"
+      },
+      {
+        "cname": "加拿大广场",
+        "url": "/sight/britishcolumbia21567/67825.html"
+      }
+    ],
+    "url": "/sightlist/britishcolumbia21567.html"
+  },
+  {
+    "cname": "Field",
+    "suggest_places": [
+      {
+        "cname": "优鹤国家公园",
+        "url": "/sight/field30932/132890.html"
+      },
+      {
+        "cname": "翡翠湖",
+        "url": "/sight/field30932/132889.html"
+      }
+    ],
+    "url": "/sightlist/field30932.html"
+  },
+  {
+    "cname": "温哥华岛",
+    "suggest_places": [
+      {
+        "cname": "布查特花园",
+        "url": "/sight/vancouverisland30894/21254.html"
+      },
+      {
+        "cname": "维多利亚",
+        "url": "/sight/vancouverisland30894/139567.html"
+      },
+      {
+        "cname": "帝后饭店",
+        "url": "/sight/vancouverisland30894/21255.html"
+      },
+      {
+        "cname": "托菲诺",
+        "url": "/sight/vancouverisland30894/1409232.html"
+      },
+      {
+        "cname": "小人国",
+        "url": "/sight/vancouverisland30894/21243.html"
+      }
+    ],
+    "url": "/sightlist/vancouverisland30894.html"
+  },
+  {
+    "cname": "埃德蒙顿",
+    "suggest_places": [],
+    "url": "/sightlist/edmonton1816.html"
+  },
+  {
+    "cname": "黄刀",
+    "suggest_places": [
+      {
+        "cname": "大奴湖  ",
+        "url": "/sight/yellowknife30840/140971.html"
+      },
+      {
+        "cname": "原住民旧区",
+        "url": "/sight/yellowknife30840/141039.html"
+      },
+      {
+        "cname": "黄刀市 ",
+        "url": "/sight/yellowknife30840/140968.html"
+      },
+      {
+        "cname": "极光村 ",
+        "url": "/sight/yellowknife30840/140969.html"
+      },
+      {
+        "cname": "威尔士亲王博物馆",
+        "url": "/sight/yellowknife30840/141038.html"
+      }
+    ],
+    "url": "/sightlist/yellowknife30840.html"
+  },
+  {
+    "cname": "魁北克省",
+    "suggest_places": [
+      {
+        "cname": "诺特丹圣母大教堂",
+        "url": "/sight/quebec1561/21201.html"
+      },
+      {
+        "cname": "圣约瑟夫教堂",
+        "url": "/sight/quebec1561/56714.html"
+      },
+      {
+        "cname": "魁北克古城区 ",
+        "url": "/sight/quebec1561/78430.html"
+      },
+      {
+        "cname": "蒙特利尔旧城区",
+        "url": "/sight/quebec1561/21199.html"
+      },
+      {
+        "cname": "皇家山公园",
+        "url": "/sight/quebec1561/66951.html"
+      }
+    ],
+    "url": "/sightlist/quebec1561.html"
+  },
+  {
+    "cname": "白马市",
+    "suggest_places": [
+      {
+        "cname": "s.s 克朗代克号",
+        "url": "/sight/whitehorse31589/140102.html"
+      },
+      {
+        "cname": "长毛象博物馆",
+        "url": "/sight/whitehorse31589/140104.html"
+      },
+      {
+        "cname": "白马市 ",
+        "url": "/sight/whitehorse31589/140966.html"
+      }
+    ],
+    "url": "/sightlist/whitehorse31589.html"
+  },
+  {
+    "cname": "万锦",
+    "suggest_places": [
+      {
+        "cname": "于人村",
+        "url": "/sight/markham31576/70798.html"
+      }
+    ],
+    "url": "/sightlist/markham31576.html"
+  },
+  {
+    "cname": "落基山脉地区",
+    "suggest_places": [
+      {
+        "cname": "班夫国家公园",
+        "url": "/sight/canadianrockies30735/55833.html"
+      },
+      {
+        "cname": "哥伦比亚冰原",
+        "url": "/sight/canadianrockies30735/1408876.html"
+      },
+      {
+        "cname": "贾斯珀国家公园",
+        "url": "/sight/canadianrockies30735/71081.html"
+      },
+      {
+        "cname": "冰原大道",
+        "url": "/sight/canadianrockies30735/1408890.html"
+      },
+      {
+        "cname": "班夫镇",
+        "url": "/sight/canadianrockies30735/1408885.html"
+      }
+    ],
+    "url": "/sightlist/canadianrockies30735.html"
+  },
+  {
+    "cname": "金斯顿",
+    "suggest_places": [
+      {
+        "cname": "金斯顿监狱",
+        "url": "/sight/kingston31488/1479446.html"
+      }
+    ],
+    "url": "/sightlist/kingston31488.html"
+  },
+  {
+    "cname": "基洛纳",
+    "suggest_places": [
+      {
+        "cname": "夏丘金字塔酒庄",
+        "url": "/sight/kelowna2120/1411331.html"
+      }
+    ],
+    "url": "/sightlist/kelowna2120.html"
+  },
+  {
+    "cname": "Sydney",
+    "suggest_places": [
+      {
+        "cname": "Seven Mile Beach",
+        "url": "/sight/sydney17530/122916.html"
+      }
+    ],
+    "url": "/sightlist/sydney17530.html"
+  },
+  {
+    "cname": "艾伯塔省",
+    "suggest_places": [],
+    "url": "/sightlist/alberta21564.html"
+  },
+  {
+    "cname": "育空地区",
+    "suggest_places": [
+      {
+        "cname": "s.s 克朗代克号",
+        "url": "/sight/yukonterritory21575/140102.html"
+      },
+      {
+        "cname": "长毛象博物馆",
+        "url": "/sight/yukonterritory21575/140104.html"
+      },
+      {
+        "cname": "白马市 ",
+        "url": "/sight/yukonterritory21575/140966.html"
+      }
+    ],
+    "url": "/sightlist/yukonterritory21575.html"
+  },
+  {
+    "cname": "本那比",
+    "suggest_places": [
+      {
+        "cname": "本那比美术馆",
+        "url": "/sight/burnaby30959/1413956.html"
+      },
+      {
+        "cname": "本那比乡村博物馆 ",
+        "url": "/sight/burnaby30959/134610.html"
+      }
+    ],
+    "url": "/sightlist/burnaby30959.html"
+  },
+  {
+    "cname": "Terrace",
+    "suggest_places": [
+      {
+        "cname": "Khutzeymateen Grizzly Bear Sanctuary",
+        "url": "/sight/terrace30986/30018.html"
+      }
+    ],
+    "url": "/sightlist/terrace30986.html"
+  },
+  {
+    "cname": "坎卢普斯",
+    "suggest_places": [
+      {
+        "cname": "汤普森河",
+        "url": "/sight/kamloops2047/1413208.html"
+      }
+    ],
+    "url": "/sightlist/kamloops2047.html"
+  },
+  {
+    "cname": "托菲诺",
+    "suggest_places": [
+      {
+        "cname": "托菲诺",
+        "url": "/sight/tofino17497/1409232.html"
+      }
+    ],
+    "url": "/sightlist/tofino17497.html"
+  },
+  {
+    "cname": "纳奈莫",
+    "suggest_places": [
+      {
+        "cname": "纳奈莫",
+        "url": "/sight/nanaimo17507/1409226.html"
+      },
+      {
+        "cname": "教堂园林公园",
+        "url": "/sight/nanaimo17507/1409236.html"
+      }
+    ],
+    "url": "/sightlist/nanaimo17507.html"
+  },
+  {
+    "cname": "道森镇",
+    "suggest_places": [
+      {
+        "cname": "育空河",
+        "url": "/sight/dawson30896/140115.html"
+      },
+      {
+        "cname": "金矿",
+        "url": "/sight/dawson30896/140112.html"
+      },
+      {
+        "cname": "KENO渡轮 ",
+        "url": "/sight/dawson30896/140114.html"
+      },
+      {
+        "cname": "道森赌场",
+        "url": "/sight/dawson30896/140113.html"
+      }
+    ],
+    "url": "/sightlist/dawson30896.html"
+  },
+  {
+    "cname": "图克托亚图克",
+    "suggest_places": [
+      {
+        "cname": "北极冰丘",
+        "url": "/sight/tuktoyaktuk30843/140111.html"
+      }
+    ],
+    "url": "/sightlist/tuktoyaktuk30843.html"
+  },
+  {
+    "cname": "西温哥华",
+    "suggest_places": [
+      {
+        "cname": "灯塔公园",
+        "url": "/sight/westvancouver31022/134596.html"
+      },
+      {
+        "cname": "赛普里斯山",
+        "url": "/sight/westvancouver31022/134604.html"
+      }
+    ],
+    "url": "/sightlist/westvancouver31022.html"
+  },
+  {
+    "cname": "邓肯镇",
+    "suggest_places": [
+      {
+        "cname": "邓肯镇",
+        "url": "/sight/duncan17479/1409219.html"
+      }
+    ],
+    "url": "/sightlist/duncan17479.html"
+  },
+  {
+    "cname": "艾伯尼港",
+    "suggest_places": [
+      {
+        "cname": "艾伯尼港",
+        "url": "/sight/portalberni17488/1409231.html"
+      }
+    ],
+    "url": "/sightlist/portalberni17488.html"
+  },
+  {
+    "cname": "密西沙加",
+    "suggest_places": [
+      {
+        "cname": "Port Credit",
+        "url": "/sight/mississauga23386/70816.html"
+      }
+    ],
+    "url": "/sightlist/mississauga23386.html"
+  },
+  {
+    "cname": "因纽维克市",
+    "suggest_places": [
+      {
+        "cname": "冰屋教堂",
+        "url": "/sight/inuvik30842/140108.html"
+      },
+      {
+        "cname": "因纽维克旅游博物馆",
+        "url": "/sight/inuvik30842/140107.html"
+      },
+      {
+        "cname": "因纽维克市政厅",
+        "url": "/sight/inuvik30842/140109.html"
+      }
+    ],
+    "url": "/sightlist/inuvik30842.html"
+  }
+]

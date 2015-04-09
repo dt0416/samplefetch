@@ -1,0 +1,412 @@
+[
+  {
+    "cname": "新德里",
+    "suggest_places": [
+      {
+        "cname": "德里红堡",
+        "url": "/sight/newdelhi579/19327.html"
+      },
+      {
+        "cname": "印度门",
+        "url": "/sight/newdelhi579/132738.html"
+      },
+      {
+        "cname": "胡马雍陵",
+        "url": "/sight/newdelhi579/20625.html"
+      },
+      {
+        "cname": "莲花寺",
+        "url": "/sight/newdelhi579/19311.html"
+      },
+      {
+        "cname": "顾特卜塔",
+        "url": "/sight/newdelhi579/45943.html"
+      }
+    ],
+    "url": "/sightlist/newdelhi579.html"
+  },
+  {
+    "cname": "阿格拉",
+    "suggest_places": [
+      {
+        "cname": "泰姬陵",
+        "url": "/sight/agra1026/25956.html"
+      },
+      {
+        "cname": "阿格拉",
+        "url": "/sight/agra1026/137781.html"
+      },
+      {
+        "cname": "阿格拉堡",
+        "url": "/sight/agra1026/25957.html"
+      },
+      {
+        "cname": "法塔赫布尔西格里",
+        "url": "/sight/agra1026/141875.html"
+      },
+      {
+        "cname": "贾玛清真寺",
+        "url": "/sight/agra1026/136593.html"
+      }
+    ],
+    "url": "/sightlist/agra1026.html"
+  },
+  {
+    "cname": "斋普尔",
+    "suggest_places": [
+      {
+        "cname": "琥珀堡",
+        "url": "/sight/jaipur1027/25967.html"
+      },
+      {
+        "cname": "风之宫",
+        "url": "/sight/jaipur1027/25970.html"
+      },
+      {
+        "cname": "城市宫殿",
+        "url": "/sight/jaipur1027/25969.html"
+      },
+      {
+        "cname": "简塔·曼塔天文台",
+        "url": "/sight/jaipur1027/25971.html"
+      },
+      {
+        "cname": "阿尔伯特大厅",
+        "url": "/sight/jaipur1027/139241.html"
+      }
+    ],
+    "url": "/sightlist/jaipur1027.html"
+  },
+  {
+    "cname": "孟买",
+    "suggest_places": [
+      {
+        "cname": "印度门",
+        "url": "/sight/bombay584/19403.html"
+      },
+      {
+        "cname": "孟买",
+        "url": "/sight/bombay584/139328.html"
+      },
+      {
+        "cname": "千人洗衣场",
+        "url": "/sight/bombay584/139352.html"
+      },
+      {
+        "cname": "维多利亚火车站",
+        "url": "/sight/bombay584/19410.html"
+      },
+      {
+        "cname": "象岛",
+        "url": "/sight/bombay584/19409.html"
+      }
+    ],
+    "url": "/sightlist/bombay584.html"
+  },
+  {
+    "cname": "瓦拉纳西",
+    "suggest_places": [
+      {
+        "cname": "恒河",
+        "url": "/sight/varanasi15573/138272.html"
+      },
+      {
+        "cname": "鹿野苑",
+        "url": "/sight/varanasi15573/134840.html"
+      },
+      {
+        "cname": "达萨瓦梅朵河坛",
+        "url": "/sight/varanasi15573/141674.html"
+      },
+      {
+        "cname": "答枚克佛塔",
+        "url": "/sight/varanasi15573/139268.html"
+      },
+      {
+        "cname": "湿婆神庙",
+        "url": "/sight/varanasi15573/134845.html"
+      }
+    ],
+    "url": "/sightlist/varanasi15573.html"
+  },
+  {
+    "cname": "克久拉霍",
+    "suggest_places": [
+      {
+        "cname": "欧查古堡",
+        "url": "/sight/khajuraho1032/139362.html"
+      },
+      {
+        "cname": "克久拉霍性庙群",
+        "url": "/sight/khajuraho1032/138215.html"
+      },
+      {
+        "cname": "西庙群",
+        "url": "/sight/khajuraho1032/26058.html"
+      },
+      {
+        "cname": "南庙群",
+        "url": "/sight/khajuraho1032/138223.html"
+      },
+      {
+        "cname": "马坦盖什瓦拉庙",
+        "url": "/sight/khajuraho1032/139325.html"
+      }
+    ],
+    "url": "/sightlist/khajuraho1032.html"
+  },
+  {
+    "cname": "加尔各答",
+    "suggest_places": [
+      {
+        "cname": "印度博物馆",
+        "url": "/sight/kolkata1331/72108.html"
+      },
+      {
+        "cname": "艾登花园",
+        "url": "/sight/kolkata1331/1508457.html"
+      },
+      {
+        "cname": "加尔各答圣保罗大教堂",
+        "url": "/sight/kolkata1331/1508539.html"
+      },
+      {
+        "cname": "泰戈尔故居",
+        "url": "/sight/kolkata1331/72109.html"
+      },
+      {
+        "cname": "达克希涅斯瓦寺",
+        "url": "/sight/kolkata1331/1508641.html"
+      }
+    ],
+    "url": "/sightlist/kolkata1331.html"
+  },
+  {
+    "cname": "贾沙梅尔",
+    "suggest_places": [
+      {
+        "cname": "耆那教寺庙",
+        "url": "/sight/jaisalmer2014/138043.html"
+      },
+      {
+        "cname": "塔尔沙漠",
+        "url": "/sight/jaisalmer2014/139409.html"
+      },
+      {
+        "cname": "贾沙梅尔堡",
+        "url": "/sight/jaisalmer2014/139297.html"
+      },
+      {
+        "cname": "Kuldhara村",
+        "url": "/sight/jaisalmer2014/138023.html"
+      },
+      {
+        "cname": "纳特马尔府邸",
+        "url": "/sight/jaisalmer2014/139359.html"
+      }
+    ],
+    "url": "/sightlist/jaisalmer2014.html"
+  },
+  {
+    "cname": "焦特普尔",
+    "suggest_places": [
+      {
+        "cname": "梅兰加尔堡",
+        "url": "/sight/jodhpur15217/138237.html"
+      },
+      {
+        "cname": "钟楼",
+        "url": "/sight/jodhpur15217/139418.html"
+      },
+      {
+        "cname": "焦特普尔",
+        "url": "/sight/jodhpur15217/139306.html"
+      },
+      {
+        "cname": "Sadar市场",
+        "url": "/sight/jodhpur15217/138233.html"
+      },
+      {
+        "cname": "贾斯旺特纪念堂",
+        "url": "/sight/jodhpur15217/139304.html"
+      }
+    ],
+    "url": "/sightlist/jodhpur15217.html"
+  },
+  {
+    "cname": "乌代布尔",
+    "suggest_places": [
+      {
+        "cname": "城市宫殿",
+        "url": "/sight/udaipur2016/138289.html"
+      },
+      {
+        "cname": "水晶长廊",
+        "url": "/sight/udaipur2016/138295.html"
+      },
+      {
+        "cname": "贾格迪什神庙",
+        "url": "/sight/udaipur2016/138293.html"
+      },
+      {
+        "cname": "皮丘拉湖",
+        "url": "/sight/udaipur2016/139368.html"
+      },
+      {
+        "cname": "阿哈尔纪念堂",
+        "url": "/sight/udaipur2016/139243.html"
+      }
+    ],
+    "url": "/sightlist/udaipur2016.html"
+  },
+  {
+    "cname": "德里",
+    "suggest_places": [
+      {
+        "cname": "德里红堡",
+        "url": "/sight/delhi24685/19327.html"
+      },
+      {
+        "cname": "印度门",
+        "url": "/sight/delhi24685/132738.html"
+      },
+      {
+        "cname": "胡马雍陵",
+        "url": "/sight/delhi24685/20625.html"
+      },
+      {
+        "cname": "莲花寺",
+        "url": "/sight/delhi24685/19311.html"
+      },
+      {
+        "cname": "顾特卜塔",
+        "url": "/sight/delhi24685/45943.html"
+      }
+    ],
+    "url": "/sightlist/delhi24685.html"
+  },
+  {
+    "cname": "阿姆利则",
+    "suggest_places": [
+      {
+        "cname": "阿姆利则金庙",
+        "url": "/sight/amritsar15105/1509365.html"
+      },
+      {
+        "cname": "阿姆利则玛塔寺",
+        "url": "/sight/amritsar15105/1509287.html"
+      },
+      {
+        "cname": "罗摩蒂阿塔",
+        "url": "/sight/amritsar15105/1509360.html"
+      },
+      {
+        "cname": "夏利玛公园",
+        "url": "/sight/amritsar15105/1509373.html"
+      }
+    ],
+    "url": "/sightlist/amritsar15105.html"
+  },
+  {
+    "cname": "果阿",
+    "suggest_places": [],
+    "url": "/sightlist/goa2013.html"
+  },
+  {
+    "cname": "班加罗尔",
+    "suggest_places": [],
+    "url": "/sightlist/bangalore1752.html"
+  },
+  {
+    "cname": "大吉岭",
+    "suggest_places": [
+      {
+        "cname": "大吉岭喜马拉雅火车",
+        "url": "/sight/darjeeling15612/141974.html"
+      },
+      {
+        "cname": "老虎岭",
+        "url": "/sight/darjeeling15612/141978.html"
+      },
+      {
+        "cname": "日本庙",
+        "url": "/sight/darjeeling15612/141980.html"
+      },
+      {
+        "cname": "Chowrasta广场",
+        "url": "/sight/darjeeling15612/141975.html"
+      },
+      {
+        "cname": "罗伊德植物园",
+        "url": "/sight/darjeeling15612/141981.html"
+      }
+    ],
+    "url": "/sightlist/darjeeling15612.html"
+  },
+  {
+    "cname": "瓜里尔",
+    "suggest_places": [
+      {
+        "cname": "瓜里尔城堡",
+        "url": "/sight/gwalior1052/26594.html"
+      },
+      {
+        "cname": "瓜里尔皇宫",
+        "url": "/sight/gwalior1052/26596.html"
+      },
+      {
+        "cname": "太阳寺庙",
+        "url": "/sight/gwalior1052/26600.html"
+      },
+      {
+        "cname": "谭星坟墓",
+        "url": "/sight/gwalior1052/26598.html"
+      },
+      {
+        "cname": "希沃布里",
+        "url": "/sight/gwalior1052/26597.html"
+      }
+    ],
+    "url": "/sightlist/gwalior1052.html"
+  },
+  {
+    "cname": "马杜赖",
+    "suggest_places": [],
+    "url": "/sightlist/madurai15328.html"
+  },
+  {
+    "cname": "阿旃陀",
+    "suggest_places": [
+      {
+        "cname": "阿旃陀石窟",
+        "url": "/sight/ajanta15347/19408.html"
+      }
+    ],
+    "url": "/sightlist/ajanta15347.html"
+  },
+  {
+    "cname": "本地治里",
+    "suggest_places": [],
+    "url": "/sightlist/pondicherry15413.html"
+  },
+  {
+    "cname": "奥兰伽巴德",
+    "suggest_places": [
+      {
+        "cname": "埃洛拉石窟",
+        "url": "/sight/aurangabad15363/139258.html"
+      }
+    ],
+    "url": "/sightlist/aurangabad15363.html"
+  },
+  {
+    "cname": "法塔赫布尔西格里",
+    "suggest_places": [
+      {
+        "cname": "法地布尔·西格里古城",
+        "url": "/sight/fatehpursikri15559/25958.html"
+      }
+    ],
+    "url": "/sightlist/fatehpursikri15559.html"
+  }
+]

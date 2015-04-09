@@ -1,0 +1,206 @@
+[
+  {
+    "cname": "哈瓦那",
+    "suggest_places": [
+      {
+        "cname": "哈瓦那旧城",
+        "url": "/sight/havana353/146734.html"
+      },
+      {
+        "cname": "武器广场",
+        "url": "/sight/havana353/75167.html"
+      },
+      {
+        "cname": "革命广场",
+        "url": "/sight/havana353/142473.html"
+      },
+      {
+        "cname": "教堂广场",
+        "url": "/sight/havana353/142468.html"
+      },
+      {
+        "cname": "圣弗朗西斯科广场",
+        "url": "/sight/havana353/142469.html"
+      }
+    ],
+    "url": "/sightlist/havana353.html"
+  },
+  {
+    "cname": "古巴",
+    "suggest_places": [
+      {
+        "cname": "哈瓦那旧城",
+        "url": "/sight/cuba100113/146734.html"
+      },
+      {
+        "cname": "武器广场",
+        "url": "/sight/cuba100113/75167.html"
+      },
+      {
+        "cname": "巴拉德罗海滩",
+        "url": "/sight/cuba100113/75171.html"
+      },
+      {
+        "cname": "革命广场",
+        "url": "/sight/cuba100113/142473.html"
+      },
+      {
+        "cname": "教堂广场",
+        "url": "/sight/cuba100113/142468.html"
+      }
+    ],
+    "url": "/sightlist/cuba100113.html"
+  },
+  {
+    "cname": "波多黎各",
+    "suggest_places": [],
+    "url": "/sightlist/puertorico21617.html"
+  },
+  {
+    "cname": "巴哈马",
+    "suggest_places": [
+      {
+        "cname": "大巴哈马",
+        "url": "/sight/commonwealthofthebahamas21598/76252.html"
+      },
+      {
+        "cname": "粉色沙滩",
+        "url": "/sight/commonwealthofthebahamas21598/1460353.html"
+      },
+      {
+        "cname": "半月湾",
+        "url": "/sight/commonwealthofthebahamas21598/1460368.html"
+      },
+      {
+        "cname": "猪岛",
+        "url": "/sight/commonwealthofthebahamas21598/1460364.html"
+      }
+    ],
+    "url": "/sightlist/commonwealthofthebahamas21598.html"
+  },
+  {
+    "cname": "多米尼加",
+    "suggest_places": [],
+    "url": "/sightlist/dominicanrepublic100145.html"
+  },
+  {
+    "cname": "巴拉德罗",
+    "suggest_places": [
+      {
+        "cname": "巴拉德罗海滩",
+        "url": "/sight/varadero31947/75171.html"
+      },
+      {
+        "cname": "Ambrosio Cave",
+        "url": "/sight/varadero31947/142508.html"
+      }
+    ],
+    "url": "/sightlist/varadero31947.html"
+  },
+  {
+    "cname": "天堂岛",
+    "suggest_places": [
+      {
+        "cname": "天堂岛",
+        "url": "/sight/paradiseisland1268/133528.html"
+      },
+      {
+        "cname": "新普罗维登斯岛",
+        "url": "/sight/paradiseisland1268/141215.html"
+      },
+      {
+        "cname": "亚特兰蒂斯王国酒店",
+        "url": "/sight/paradiseisland1268/141220.html"
+      },
+      {
+        "cname": "高尔夫锦标赛球场",
+        "url": "/sight/paradiseisland1268/141233.html"
+      },
+      {
+        "cname": "室外水族馆",
+        "url": "/sight/paradiseisland1268/141040.html"
+      }
+    ],
+    "url": "/sightlist/paradiseisland1268.html"
+  },
+  {
+    "cname": "拿骚",
+    "suggest_places": [
+      {
+        "cname": "芬卡斯尔堡",
+        "url": "/sight/nassau1267/1460361.html"
+      },
+      {
+        "cname": "国家历史博物馆",
+        "url": "/sight/nassau1267/1460046.html"
+      },
+      {
+        "cname": "海盗博物馆",
+        "url": "/sight/nassau1267/1460044.html"
+      },
+      {
+        "cname": "拿骚公共图书馆",
+        "url": "/sight/nassau1267/1460354.html"
+      },
+      {
+        "cname": "夏洛特堡",
+        "url": "/sight/nassau1267/1460363.html"
+      }
+    ],
+    "url": "/sightlist/nassau1267.html"
+  },
+  {
+    "cname": "海地角",
+    "suggest_places": [
+      {
+        "cname": "Labadee",
+        "url": "/sight/caphaitien31824/122849.html"
+      }
+    ],
+    "url": "/sightlist/caphaitien31824.html"
+  },
+  {
+    "cname": "古巴圣地亚哥",
+    "suggest_places": [
+      {
+        "cname": "塞斯佩蒂斯广场",
+        "url": "/sight/santiagodecuba31939/142509.html"
+      },
+      {
+        "cname": "726历史纪念馆",
+        "url": "/sight/santiagodecuba31939/142511.html"
+      },
+      {
+        "cname": "莫罗要塞",
+        "url": "/sight/santiagodecuba31939/142512.html"
+      },
+      {
+        "cname": "圣伊菲赫尼亚公墓",
+        "url": "/sight/santiagodecuba31939/142510.html"
+      }
+    ],
+    "url": "/sightlist/santiagodecuba31939.html"
+  },
+  {
+    "cname": "特立尼达",
+    "suggest_places": [
+      {
+        "cname": "Ancon Beach",
+        "url": "/sight/trinidad31943/142504.html"
+      },
+      {
+        "cname": "Plaza Mayor",
+        "url": "/sight/trinidad31943/142502.html"
+      },
+      {
+        "cname": "特立尼达老城",
+        "url": "/sight/trinidad31943/142501.html"
+      },
+      {
+        "cname": "Omance Museum",
+        "url": "/sight/trinidad31943/142503.html"
+      }
+    ],
+    "url": "/sightlist/trinidad31943.html"
+  }
+]

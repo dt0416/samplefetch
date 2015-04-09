@@ -1,0 +1,292 @@
+[
+  {
+    "cname": "雅典",
+    "suggest_places": [
+      {
+        "cname": "雅典卫城",
+        "url": "/sight/athens382/12550.html"
+      },
+      {
+        "cname": "宪法广场",
+        "url": "/sight/athens382/72657.html"
+      },
+      {
+        "cname": "帕特农神庙",
+        "url": "/sight/athens382/123032.html"
+      },
+      {
+        "cname": "奥林匹亚宙斯神殿",
+        "url": "/sight/athens382/72659.html"
+      },
+      {
+        "cname": "普拉卡",
+        "url": "/sight/athens382/12570.html"
+      }
+    ],
+    "url": "/sightlist/athens382.html"
+  },
+  {
+    "cname": "爱琴海诸岛",
+    "suggest_places": [
+      {
+        "cname": "圣托里尼岛",
+        "url": "/sight/aegean1031/137207.html"
+      },
+      {
+        "cname": "帕罗斯岛",
+        "url": "/sight/aegean1031/67927.html"
+      },
+      {
+        "cname": "纳克索斯岛",
+        "url": "/sight/aegean1031/137639.html"
+      },
+      {
+        "cname": "德罗斯岛",
+        "url": "/sight/aegean1031/137614.html"
+      },
+      {
+        "cname": "科斯岛",
+        "url": "/sight/aegean1031/137623.html"
+      }
+    ],
+    "url": "/sightlist/aegean1031.html"
+  },
+  {
+    "cname": "圣托里尼",
+    "suggest_places": [
+      {
+        "cname": "伊亚小镇",
+        "url": "/sight/santorini1998/133495.html"
+      },
+      {
+        "cname": "费拉小镇",
+        "url": "/sight/santorini1998/133517.html"
+      },
+      {
+        "cname": "红沙滩",
+        "url": "/sight/santorini1998/133518.html"
+      },
+      {
+        "cname": "卡马利黑沙滩",
+        "url": "/sight/santorini1998/133519.html"
+      },
+      {
+        "cname": "蓝顶教堂",
+        "url": "/sight/santorini1998/1410711.html"
+      }
+    ],
+    "url": "/sightlist/santorini1998.html"
+  },
+  {
+    "cname": "米克诺斯镇",
+    "suggest_places": [
+      {
+        "cname": "天堂海滩",
+        "url": "/sight/mykonostown1996/137700.html"
+      },
+      {
+        "cname": "欧诺斯海滩",
+        "url": "/sight/mykonostown1996/1676887.html"
+      },
+      {
+        "cname": "Platis Gialos海滩",
+        "url": "/sight/mykonostown1996/1676896.html"
+      }
+    ],
+    "url": "/sightlist/mykonostown1996.html"
+  },
+  {
+    "cname": "米科诺斯岛",
+    "suggest_places": [
+      {
+        "cname": "小威尼斯",
+        "url": "/sight/mykonos29044/134765.html"
+      },
+      {
+        "cname": "天堂海滩",
+        "url": "/sight/mykonos29044/137700.html"
+      },
+      {
+        "cname": "超级天堂滩",
+        "url": "/sight/mykonos29044/26050.html"
+      },
+      {
+        "cname": "海港风车",
+        "url": "/sight/mykonos29044/26052.html"
+      },
+      {
+        "cname": "提洛岛",
+        "url": "/sight/mykonos29044/134766.html"
+      }
+    ],
+    "url": "/sightlist/mykonos29044.html"
+  },
+  {
+    "cname": "普兰提斯",
+    "suggest_places": [],
+    "url": "/sightlist/platysgialos1030.html"
+  },
+  {
+    "cname": "伯罗奔尼撒",
+    "suggest_places": [
+      {
+        "cname": "宙斯神庙",
+        "url": "/sight/peloponnese383/12624.html"
+      },
+      {
+        "cname": "奥林匹亚",
+        "url": "/sight/peloponnese383/67403.html"
+      },
+      {
+        "cname": "西海岸",
+        "url": "/sight/peloponnese383/12626.html"
+      },
+      {
+        "cname": "那普良小镇",
+        "url": "/sight/peloponnese383/72658.html"
+      },
+      {
+        "cname": "奥林匹亚博物馆",
+        "url": "/sight/peloponnese383/12621.html"
+      }
+    ],
+    "url": "/sightlist/peloponnese383.html"
+  },
+  {
+    "cname": "德尔菲",
+    "suggest_places": [
+      {
+        "cname": "阿波罗神庙",
+        "url": "/sight/delphi1056/134717.html"
+      },
+      {
+        "cname": "德尔菲古迹",
+        "url": "/sight/delphi1056/67849.html"
+      },
+      {
+        "cname": "德尔菲博物馆",
+        "url": "/sight/delphi1056/72655.html"
+      },
+      {
+        "cname": "玛玛雅圆庙遗址",
+        "url": "/sight/delphi1056/134718.html"
+      }
+    ],
+    "url": "/sightlist/delphi1056.html"
+  },
+  {
+    "cname": "梅黛奥拉",
+    "suggest_places": [
+      {
+        "cname": "梅黛奥拉修道院",
+        "url": "/sight/meteora1220/67852.html"
+      }
+    ],
+    "url": "/sightlist/meteora1220.html"
+  },
+  {
+    "cname": "Bali",
+    "suggest_places": [],
+    "url": "/sightlist/bali46934.html"
+  },
+  {
+    "cname": "Nafplion",
+    "suggest_places": [
+      {
+        "cname": "那普良小镇",
+        "url": "/sight/nafplion28927/72658.html"
+      },
+      {
+        "cname": "帕拉米蒂城堡",
+        "url": "/sight/nafplion28927/134741.html"
+      }
+    ],
+    "url": "/sightlist/nafplion28927.html"
+  },
+  {
+    "cname": "克里特岛",
+    "suggest_places": [
+      {
+        "cname": "伊拉克利翁",
+        "url": "/sight/crete20504/140129.html"
+      },
+      {
+        "cname": "米诺斯迷宫",
+        "url": "/sight/crete20504/140130.html"
+      },
+      {
+        "cname": "科瑞塔水族馆",
+        "url": "/sight/crete20504/140133.html"
+      },
+      {
+        "cname": "考古博物馆",
+        "url": "/sight/crete20504/140132.html"
+      },
+      {
+        "cname": "诺索斯王宫",
+        "url": "/sight/crete20504/140131.html"
+      }
+    ],
+    "url": "/sightlist/crete20504.html"
+  },
+  {
+    "cname": "希腊中部",
+    "suggest_places": [
+      {
+        "cname": "阿波罗神庙",
+        "url": "/sight/centralgreece20501/134717.html"
+      },
+      {
+        "cname": "德尔菲古迹",
+        "url": "/sight/centralgreece20501/67849.html"
+      },
+      {
+        "cname": "德尔菲博物馆",
+        "url": "/sight/centralgreece20501/72655.html"
+      },
+      {
+        "cname": "玛玛雅圆庙遗址",
+        "url": "/sight/centralgreece20501/134718.html"
+      }
+    ],
+    "url": "/sightlist/centralgreece20501.html"
+  },
+  {
+    "cname": "罗得岛",
+    "suggest_places": [
+      {
+        "cname": "lindos卫城",
+        "url": "/sight/rhodes1995/122960.html"
+      },
+      {
+        "cname": "大教长宫",
+        "url": "/sight/rhodes1995/122958.html"
+      },
+      {
+        "cname": "Rodos Old Port",
+        "url": "/sight/rhodes1995/122959.html"
+      }
+    ],
+    "url": "/sightlist/rhodes1995.html"
+  },
+  {
+    "cname": "莱斯博斯岛",
+    "suggest_places": [],
+    "url": "/sightlist/lesbos29157.html"
+  },
+  {
+    "cname": "Mycenae",
+    "suggest_places": [
+      {
+        "cname": "迈锡尼",
+        "url": "/sight/mycenae28915/134740.html"
+      }
+    ],
+    "url": "/sightlist/mycenae28915.html"
+  },
+  {
+    "cname": "萨摩斯岛",
+    "suggest_places": [],
+    "url": "/sightlist/samos29160.html"
+  }
+]

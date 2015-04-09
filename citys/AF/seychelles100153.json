@@ -1,0 +1,72 @@
+[
+  {
+    "cname": "马埃岛",
+    "suggest_places": [
+      {
+        "cname": "马埃岛 ",
+        "url": "/sight/maheisland1805/134218.html"
+      },
+      {
+        "cname": "博瓦隆",
+        "url": "/sight/maheisland1805/134183.html"
+      },
+      {
+        "cname": "塞舌尔植物园",
+        "url": "/sight/maheisland1805/1413665.html"
+      },
+      {
+        "cname": "凤凰岭",
+        "url": "/sight/maheisland1805/1413664.html"
+      },
+      {
+        "cname": "圣安妮海洋公园",
+        "url": "/sight/maheisland1805/1412970.html"
+      }
+    ],
+    "url": "/sightlist/maheisland1805.html"
+  },
+  {
+    "cname": "普拉兰岛",
+    "suggest_places": [
+      {
+        "cname": "五月谷",
+        "url": "/sight/praslinisland22225/134185.html"
+      },
+      {
+        "cname": "拉齐奥海滩",
+        "url": "/sight/praslinisland22225/147556.html"
+      },
+      {
+        "cname": "普拉兰岛",
+        "url": "/sight/praslinisland22225/134221.html"
+      },
+      {
+        "cname": "乔吉特沙滩",
+        "url": "/sight/praslinisland22225/1413831.html"
+      },
+      {
+        "cname": "国家植物园",
+        "url": "/sight/praslinisland22225/25313.html"
+      }
+    ],
+    "url": "/sightlist/praslinisland22225.html"
+  },
+  {
+    "cname": "拉迪格岛",
+    "suggest_places": [
+      {
+        "cname": "拉迪格岛",
+        "url": "/sight/ladigueisland22226/134222.html"
+      },
+      {
+        "cname": "德阿让海滩",
+        "url": "/sight/ladigueisland22226/134190.html"
+      },
+      {
+        "cname": "联合庄园",
+        "url": "/sight/ladigueisland22226/1413696.html"
+      }
+    ],
+    "url": "/sightlist/ladigueisland22226.html"
+  }
+]

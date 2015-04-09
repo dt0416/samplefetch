@@ -1,0 +1,79 @@
+[
+  {
+    "cname": "达累斯萨拉姆",
+    "url": "http://you.ctrip.com/sightlist/daressalaam939.html",
+    "places": []
+  },
+  {
+    "cname": "乞力马扎罗山国家公园",
+    "url": "http://you.ctrip.com/sightlist/kilimanjaronationalpark19931.html",
+    "places": [
+      {
+        "cname": "乞力马扎罗山",
+        "url": "/sight/kilimanjaronationalpark19931/44702.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/539/902/564/05248c0f80ae4ce0a31314c03a2fe01e_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "千里光Giant Groundsel",
+        "url": "/sight/kilimanjaronationalpark19931/134375.html",
+        "s_img": "",
+        "caddress": "乞力马扎罗山国家公园,Hai, 坦桑尼亚"
+      }
+    ]
+  },
+  {
+    "cname": "Arusha",
+    "url": "http://you.ctrip.com/sightlist/arusha19895.html",
+    "places": [
+      {
+        "cname": "阿鲁沙",
+        "url": "/sight/arusha19895/134421.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/591/947/adc7047d21ad40b99723ce0dfe615957_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "桑给巴尔岛",
+    "url": "http://you.ctrip.com/sightlist/zanzibararchipelago19894.html",
+    "places": [
+      {
+        "cname": "石头城",
+        "url": "/sight/zanzibararchipelago19894/140121.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/508/493/362/8ad7384f6e274c718244744ff1460b7a_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "桑给巴尔岛",
+        "url": "/sight/zanzibararchipelago19894/134418.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/648/560/871/0950e8d807214082b4aab394b37d4d1a_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "塞伦盖提国家公园",
+    "url": "http://you.ctrip.com/sightlist/serengetinationalpark19910.html",
+    "places": [
+      {
+        "cname": "塞伦盖提国家公园",
+        "url": "/sight/serengetinationalpark19910/134379.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "恩戈罗戈罗保护区",
+    "url": "http://you.ctrip.com/sightlist/ngorongoroconservationarea19925.html",
+    "places": [
+      {
+        "cname": "恩戈罗恩戈罗国家公园",
+        "url": "/sight/ngorongoroconservationarea19925/134395.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  }
+]

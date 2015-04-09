@@ -1,0 +1,424 @@
+[
+  {
+    "cname": "伊斯坦布尔",
+    "suggest_places": [
+      {
+        "cname": "蓝色清真寺",
+        "url": "/sight/istanbul258/18562.html"
+      },
+      {
+        "cname": "圣索菲亚大教堂",
+        "url": "/sight/istanbul258/18563.html"
+      },
+      {
+        "cname": "大巴扎",
+        "url": "/sight/istanbul258/110120.html"
+      },
+      {
+        "cname": "托普卡普皇宫",
+        "url": "/sight/istanbul258/18561.html"
+      },
+      {
+        "cname": "博斯普鲁斯海峡",
+        "url": "/sight/istanbul258/132801.html"
+      }
+    ],
+    "url": "/sightlist/istanbul258.html"
+  },
+  {
+    "cname": "卡帕多奇亚",
+    "suggest_places": [
+      {
+        "cname": "格雷梅露天博物馆",
+        "url": "/sight/cappadocia1133/78814.html"
+      },
+      {
+        "cname": "卡帕多奇亚",
+        "url": "/sight/cappadocia1133/137087.html"
+      },
+      {
+        "cname": "乌奇萨要塞",
+        "url": "/sight/cappadocia1133/137042.html"
+      },
+      {
+        "cname": "卡伊马克勒地下城",
+        "url": "/sight/cappadocia1133/78815.html"
+      },
+      {
+        "cname": "梅夫拉那博物馆",
+        "url": "/sight/cappadocia1133/137115.html"
+      }
+    ],
+    "url": "/sightlist/cappadocia1133.html"
+  },
+  {
+    "cname": "安塔利亚",
+    "suggest_places": [
+      {
+        "cname": "安塔利亚",
+        "url": "/sight/antalya549/136944.html"
+      },
+      {
+        "cname": "Aspandos古剧场",
+        "url": "/sight/antalya549/18587.html"
+      },
+      {
+        "cname": "安塔利亚考古博物馆",
+        "url": "/sight/antalya549/18581.html"
+      },
+      {
+        "cname": "地中海沿岸",
+        "url": "/sight/antalya549/110127.html"
+      },
+      {
+        "cname": "卡雷奇海边城堡步行街",
+        "url": "/sight/antalya549/137071.html"
+      }
+    ],
+    "url": "/sightlist/antalya549.html"
+  },
+  {
+    "cname": "帕姆卡莱",
+    "suggest_places": [
+      {
+        "cname": "棉花堡",
+        "url": "/sight/pamukkale1132/87641.html"
+      },
+      {
+        "cname": "希拉波利斯",
+        "url": "/sight/pamukkale1132/87697.html"
+      },
+      {
+        "cname": "棉花堡温泉酒店",
+        "url": "/sight/pamukkale1132/137125.html"
+      },
+      {
+        "cname": "希拉波里斯考古博物馆",
+        "url": "/sight/pamukkale1132/132379.html"
+      },
+      {
+        "cname": "神圣池",
+        "url": "/sight/pamukkale1132/132382.html"
+      }
+    ],
+    "url": "/sightlist/pamukkale1132.html"
+  },
+  {
+    "cname": "塞尔切克",
+    "suggest_places": [
+      {
+        "cname": "以弗所古城",
+        "url": "/sight/selcuk50052/78818.html"
+      },
+      {
+        "cname": "圣约翰教堂",
+        "url": "/sight/selcuk50052/132823.html"
+      },
+      {
+        "cname": "圣母玛利亚故居",
+        "url": "/sight/selcuk50052/1417113.html"
+      },
+      {
+        "cname": "伊萨贝清真寺",
+        "url": "/sight/selcuk50052/132825.html"
+      },
+      {
+        "cname": "阿耳特弥斯神庙",
+        "url": "/sight/selcuk50052/132826.html"
+      }
+    ],
+    "url": "/sightlist/selcuk50052.html"
+  },
+  {
+    "cname": "伊兹密尔",
+    "suggest_places": [
+      {
+        "cname": "伊兹密尔",
+        "url": "/sight/izmir548/137161.html"
+      },
+      {
+        "cname": "爱琴海海岸",
+        "url": "/sight/izmir548/18580.html"
+      },
+      {
+        "cname": "科纳克广场",
+        "url": "/sight/izmir548/132272.html"
+      },
+      {
+        "cname": "伊兹密尔考古博物馆",
+        "url": "/sight/izmir548/18572.html"
+      },
+      {
+        "cname": "伊兹密尔人种学博物馆",
+        "url": "/sight/izmir548/132267.html"
+      }
+    ],
+    "url": "/sightlist/izmir548.html"
+  },
+  {
+    "cname": "安卡拉",
+    "suggest_places": [
+      {
+        "cname": "安卡拉",
+        "url": "/sight/ankara329/136933.html"
+      },
+      {
+        "cname": "罗马剧场",
+        "url": "/sight/ankara329/18546.html"
+      },
+      {
+        "cname": "民俗博物馆",
+        "url": "/sight/ankara329/137132.html"
+      },
+      {
+        "cname": "凯末尔-阿塔图尔克陵园",
+        "url": "/sight/ankara329/132063.html"
+      },
+      {
+        "cname": "古罗马浴场遗迹",
+        "url": "/sight/ankara329/18549.html"
+      }
+    ],
+    "url": "/sightlist/ankara329.html"
+  },
+  {
+    "cname": "费特希耶",
+    "suggest_places": [
+      {
+        "cname": "费特希耶",
+        "url": "/sight/fethiye1912/137011.html"
+      },
+      {
+        "cname": "土耳其死海",
+        "url": "/sight/fethiye1912/137141.html"
+      },
+      {
+        "cname": "马尔马里斯",
+        "url": "/sight/fethiye1912/137097.html"
+      }
+    ],
+    "url": "/sightlist/fethiye1912.html"
+  },
+  {
+    "cname": "恰纳卡莱",
+    "suggest_places": [
+      {
+        "cname": "特洛伊考古遗址",
+        "url": "/sight/cannakkale1443/87671.html"
+      },
+      {
+        "cname": "特洛伊木马",
+        "url": "/sight/cannakkale1443/137137.html"
+      },
+      {
+        "cname": "达达尼尔海峡",
+        "url": "/sight/cannakkale1443/110123.html"
+      },
+      {
+        "cname": "钟楼",
+        "url": "/sight/cannakkale1443/133129.html"
+      },
+      {
+        "cname": "恰纳卡莱军事博物馆",
+        "url": "/sight/cannakkale1443/133125.html"
+      }
+    ],
+    "url": "/sightlist/cannakkale1443.html"
+  },
+  {
+    "cname": "萨夫兰博卢（番红花城）",
+    "suggest_places": [
+      {
+        "cname": "番红花城",
+        "url": "/sight/safranbolu22496/137001.html"
+      },
+      {
+        "cname": "吉仁-哈玛公共浴室",
+        "url": "/sight/safranbolu22496/132365.html"
+      },
+      {
+        "cname": "钟塔",
+        "url": "/sight/safranbolu22496/132358.html"
+      },
+      {
+        "cname": "奥斯曼房屋",
+        "url": "/sight/safranbolu22496/132239.html"
+      },
+      {
+        "cname": "Izzet帕夏清真寺",
+        "url": "/sight/safranbolu22496/132367.html"
+      }
+    ],
+    "url": "/sightlist/safranbolu22496.html"
+  },
+  {
+    "cname": "格雷梅",
+    "suggest_places": [
+      {
+        "cname": "迪夫里特峡谷",
+        "url": "/sight/goreme45912/1485190.html"
+      },
+      {
+        "cname": "帕夏贝",
+        "url": "/sight/goreme45912/1485221.html"
+      },
+      {
+        "cname": "玫瑰谷",
+        "url": "/sight/goreme45912/1485229.html"
+      },
+      {
+        "cname": "格雷梅村",
+        "url": "/sight/goreme45912/1485224.html"
+      },
+      {
+        "cname": "格雷梅国家公园",
+        "url": "/sight/goreme45912/110565.html"
+      }
+    ],
+    "url": "/sightlist/goreme45912.html"
+  },
+  {
+    "cname": "库萨达斯",
+    "suggest_places": [
+      {
+        "cname": "阿特密斯神殿",
+        "url": "/sight/kusadasi1131/1409965.html"
+      },
+      {
+        "cname": "白加孟古城",
+        "url": "/sight/kusadasi1131/78819.html"
+      }
+    ],
+    "url": "/sightlist/kusadasi1131.html"
+  },
+  {
+    "cname": "孔亚",
+    "suggest_places": [],
+    "url": "/sightlist/konya22499.html"
+  },
+  {
+    "cname": "Sirince",
+    "suggest_places": [
+      {
+        "cname": "希林杰",
+        "url": "/sight/sirince50060/132843.html"
+      }
+    ],
+    "url": "/sightlist/sirince50060.html"
+  },
+  {
+    "cname": "博德鲁姆",
+    "suggest_places": [
+      {
+        "cname": "博德鲁姆",
+        "url": "/sight/bodrum143858/136983.html"
+      },
+      {
+        "cname": "博德鲁姆城堡",
+        "url": "/sight/bodrum143858/1409887.html"
+      }
+    ],
+    "url": "/sightlist/bodrum143858.html"
+  },
+  {
+    "cname": "代尼兹利",
+    "suggest_places": [
+      {
+        "cname": "阿芙洛迪西亚斯",
+        "url": "/sight/denizli3201/87684.html"
+      }
+    ],
+    "url": "/sightlist/denizli3201.html"
+  },
+  {
+    "cname": "Avanos",
+    "suggest_places": [],
+    "url": "/sightlist/avanos45915.html"
+  },
+  {
+    "cname": "西戴",
+    "suggest_places": [
+      {
+        "cname": "西戴",
+        "url": "/sight/side45954/137044.html"
+      },
+      {
+        "cname": "阿波罗和雅典娜神殿",
+        "url": "/sight/side45954/134876.html"
+      }
+    ],
+    "url": "/sightlist/side45954.html"
+  },
+  {
+    "cname": "Bolu Province",
+    "suggest_places": [
+      {
+        "cname": "阿邦特湖自然公园",
+        "url": "/sight/boluprovince45904/1409531.html"
+      }
+    ],
+    "url": "/sightlist/boluprovince45904.html"
+  },
+  {
+    "cname": "加利波利半岛",
+    "suggest_places": [
+      {
+        "cname": "KILIA BAY资料中心",
+        "url": "/sight/gallipoli50043/133201.html"
+      },
+      {
+        "cname": "新西兰纪念馆",
+        "url": "/sight/gallipoli50043/133209.html"
+      },
+      {
+        "cname": "澳新军团海湾",
+        "url": "/sight/gallipoli50043/133205.html"
+      },
+      {
+        "cname": "第57团墓地",
+        "url": "/sight/gallipoli50043/133238.html"
+      },
+      {
+        "cname": "独松",
+        "url": "/sight/gallipoli50043/133207.html"
+      }
+    ],
+    "url": "/sightlist/gallipoli50043.html"
+  },
+  {
+    "cname": "格克切岛",
+    "suggest_places": [
+      {
+        "cname": "泰佩柯伊村",
+        "url": "/sight/gokceada50047/133195.html"
+      },
+      {
+        "cname": "海军国家公园",
+        "url": "/sight/gokceada50047/133192.html"
+      },
+      {
+        "cname": "卡莱克伊村",
+        "url": "/sight/gokceada50047/133194.html"
+      }
+    ],
+    "url": "/sightlist/gokceada50047.html"
+  },
+  {
+    "cname": "贝尔加马",
+    "suggest_places": [
+      {
+        "cname": "卫城",
+        "url": "/sight/bergama50061/134877.html"
+      },
+      {
+        "cname": "阿斯克勒庇俄斯神庙",
+        "url": "/sight/bergama50061/134874.html"
+      },
+      {
+        "cname": "皮加蒙古城遗迹",
+        "url": "/sight/bergama50061/134875.html"
+      }
+    ],
+    "url": "/sightlist/bergama50061.html"
+  }
+]

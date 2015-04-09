@@ -1,0 +1,3406 @@
+[
+  {
+    "cname": "罗马",
+    "url": "http://you.ctrip.com/sightlist/rome303.html",
+    "places": [
+      {
+        "cname": "斗兽场",
+        "url": "/sight/rome303/139434.html",
+        "s_img": "http://p.chanyouji.cn/160573/1409663494998p190r7n77ccgh1fln1f1antohqt21.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza del Colosseo, 1, 00184 Roma"
+      },
+      {
+        "cname": "梵蒂冈",
+        "url": "/sight/vatican784/138896.html",
+        "s_img": "http://p.chanyouji.cn/1395695564/8B484701-A78D-4C84-AE95-7383203D7FDD.jpg?imageView/1/w/220/h/140",
+        "caddress": "Vatican"
+      },
+      {
+        "cname": "圣彼得大教堂",
+        "url": "/sight/vatican784/23259.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375366761366p180t3tiovv9f1n0fep6i65ael6.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Pietro, 00120 Città del Vaticano"
+      },
+      {
+        "cname": "西班牙广场",
+        "url": "/sight/rome303/11974.html",
+        "s_img": "http://m.chanyouji.cn/59104/1375366972346p180t44i7k48m1aut90a1v8s1g0v4.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza di Spagna, 1, 00187 Roma"
+      },
+      {
+        "cname": "威尼斯广场",
+        "url": "/sight/rome303/11980.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/825/424/298/3d0fa49e603142f9a0e0109d0a0f4254_C_220_140.jpg",
+        "caddress": "Piazza Venezia, Roma"
+      },
+      {
+        "cname": "梵蒂冈博物馆",
+        "url": "/sight/vatican784/23258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/226/044/175b39c2412e477ba3754bad1b068461_C_220_140.jpg",
+        "caddress": "Viale Vaticano, 00165 Roma"
+      },
+      {
+        "cname": "特莱维喷泉",
+        "url": "/sight/rome303/46059.html",
+        "s_img": "http://p.chanyouji.cn/95260/1392467517091p18gqocneidha1dvl13p91kvb11tud.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza di Trevi, 00187 Rome"
+      },
+      {
+        "cname": "圣彼得广场",
+        "url": "/sight/vatican784/23260.html",
+        "s_img": "http://p.chanyouji.cn/14712/1354002779391p17d0cch9h7ou46tnhj1ujc7qq29.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Pietro, Vatican"
+      },
+      {
+        "cname": "万神殿",
+        "url": "/sight/rome303/11973.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/C1/88/Cghzf1S2IXaAG9GDADOA9dYEE4M836_C_220_140.jpg",
+        "caddress": "Piazza della Rotonda, 00186 Roma"
+      },
+      {
+        "cname": "君士坦丁凯旋门",
+        "url": "/sight/rome303/46060.html",
+        "s_img": "http://p.chanyouji.cn/59684/1375589287131p1813o42lg182t15bjh121jqjftbf.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via di San Gregorio, Roma"
+      },
+      {
+        "cname": "纳沃纳广场",
+        "url": "/sight/rome303/22691.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/650/118/862/48a5535a2731408981de6fdc71873234_C_220_140.jpg",
+        "caddress": "Piazza Navona, 00186 Roma"
+      },
+      {
+        "cname": "古罗马广场",
+        "url": "/sight/rome303/11970.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/C1/B5/CghzgFS2H0uAHOI6ADFtVQv652E508_C_220_140.jpg",
+        "caddress": "Via della Salaria Vecchia, 5/6, Roma"
+      },
+      {
+        "cname": "圣天使城堡",
+        "url": "/sight/rome303/46064.html",
+        "s_img": "http://p.chanyouji.cn/28132/1363289790624p17ll66jt71sur1l4scrb1pn8qsvv.jpg?imageView/1/w/220/h/140",
+        "caddress": "Lungotevere Castello, 50, 00186 Roma"
+      },
+      {
+        "cname": "真理之口",
+        "url": "/sight/rome303/46062.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/466/520/889/4668a11d1c574bdcad5cbc225e670e18_C_220_140.jpg",
+        "caddress": "Via della Greca, 4, Roma"
+      },
+      {
+        "cname": "圣天使桥",
+        "url": "/sight/rome303/110571.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/402/859/967/59bc5922c7834af9936042ea864d86c6_C_220_140.jpg",
+        "caddress": "Ponte Sant'Angelo, 00186 Roma"
+      },
+      {
+        "cname": "西斯廷教堂",
+        "url": "/sight/vatican784/65257.html",
+        "s_img": "http://p.chanyouji.cn/98204/1391701285546p18g3teglcmso1rh81dghf9pd2s1l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Viale Vaticano, 2, Città del Vaticano"
+      },
+      {
+        "cname": "人民广场",
+        "url": "/sight/rome303/65074.html",
+        "s_img": "http://p.chanyouji.cn/5633/1348407992252p177pm24o8j5nnhf1jgv1mc3tem3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza del Popolo, Roma"
+      },
+      {
+        "cname": "波格赛美术馆",
+        "url": "/sight/rome303/11976.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/208/957/0707766f5ee2421294c043b44f2aeeb5_C_220_140.jpg",
+        "caddress": "Piazzale del Museo Borghese, 5, 00197 Roma"
+      },
+      {
+        "cname": "台伯河",
+        "url": "/sight/rome303/139469.html",
+        "s_img": "http://p.chanyouji.cn/64983/1377278550097p182m2ih6l1sc1t51p4kpvu1daa2c.jpg?imageView/1/w/220/h/140",
+        "caddress": "01030 Calcata Vecchia VT"
+      },
+      {
+        "cname": "帕拉蒂尼山",
+        "url": "/sight/rome303/139464.html",
+        "s_img": "http://p.chanyouji.cn/14712/1354003008455p17d0cch9h2vionra6ggjb9g22l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via di San Gregorio, 30, 00100 Roma"
+      },
+      {
+        "cname": "皇家广场",
+        "url": "/sight/rome303/11972.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375366872872p180t41p0vr9t1mp11phf16hp10ev3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via dei Fori Imperiali | Via IV Novembre 6, Rome"
+      },
+      {
+        "cname": "塞维鲁凯旋门",
+        "url": "/sight/rome303/110573.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/625/285/092/413c272496794e11b1b1faaffb59a955_C_220_140.jpg",
+        "caddress": "Via dell'Arco di Settimio, Roma"
+      },
+      {
+        "cname": "甘多尔福堡",
+        "url": "/sight/rome303/80925.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/662/872/615/efd028021ff54e96807c38db69796510_C_220_140.jpg",
+        "caddress": "Castel Gandolfo, Roma"
+      },
+      {
+        "cname": "共和国广场",
+        "url": "/sight/rome303/1413975.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/616/798/306/13af935d2bfe4010a9cc8ccf52c078c9_C_220_140.jpg",
+        "caddress": "Piazza della Repubblica, Roma"
+      },
+      {
+        "cname": "弗拉斯卡蒂",
+        "url": "/sight/rome303/80930.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/668/453/115/b53e692b40fc4eaa8f53b8c1cccfc31d_C_220_140.jpg",
+        "caddress": "Frascati，Roma"
+      },
+      {
+        "cname": "鲍格才别墅",
+        "url": "/sight/rome303/65076.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/473/881/271/1b0581f2fcbd4bf5af314dfbf26ac49d_C_220_140.jpg",
+        "caddress": "Piazzale Napoleone, Roma"
+      },
+      {
+        "cname": "卡比托利欧广场",
+        "url": "/sight/rome303/11968.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/556/352/779/d70b1ed97d0a4d1cb65e934797b0f4e1_C_220_140.jpg",
+        "caddress": "Piazza Venezia Capitoline Hill"
+      },
+      {
+        "cname": "维托里安诺纪念堂",
+        "url": "/sight/rome303/1407315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/199/871/01ff8013ad704ff5a3361e9d4c7e83ad_C_220_140.jpg",
+        "caddress": "Piazza Venezia, 00186 Roma"
+      },
+      {
+        "cname": "鲜花广场",
+        "url": "/sight/rome303/108145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/817/525/265/4c5ef0319e3c42d9895d363d848c736d_C_220_140.jpg",
+        "caddress": "Piazza Campo Dè Fiori, 00186 Roma"
+      },
+      {
+        "cname": "拉特朗圣若望大殿",
+        "url": "/sight/rome303/65274.html",
+        "s_img": "http://p.chanyouji.cn/98000/1391607215609p18g13tv7mb66do3ams160ls189.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza di Porta San Giovanni, 4, Roma"
+      },
+      {
+        "cname": "破船喷泉",
+        "url": "/sight/rome303/1413986.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/493/034/007/70931b6cbb844c3bb4531b66e841afad_C_220_140.jpg",
+        "caddress": "Piazza di Spagna, Roma"
+      },
+      {
+        "cname": "罗马国家博物馆",
+        "url": "/sight/rome303/11959.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/546/109/824/b332c63c4ed54cf9a6bc45e8763961d2_C_220_140.jpg",
+        "caddress": "Largo di Villa Peretti, 1, 00185 Roma"
+      },
+      {
+        "cname": "蒂沃利",
+        "url": "/sight/rome303/72359.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/651/771/421/4a78d2e954b34e6ebda5b5f1bd68f7a2_C_220_140.jpg",
+        "caddress": "Tivoli Roma"
+      },
+      {
+        "cname": "罗马尼城堡区",
+        "url": "/sight/rome303/80932.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/656/768/869/5ef29198fd66409eab3d7bb3ff6bf621_C_220_140.jpg",
+        "caddress": "Castelli Romani Rome"
+      },
+      {
+        "cname": "马杰奥尔圣母大教堂",
+        "url": "/sight/rome303/11963.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/815/040/684/7acc1fe1e03142d4ba35a14bec1cd004_C_220_140.jpg",
+        "caddress": "Piazza di S. Maria Maggiore, 42, 00100 Roma"
+      },
+      {
+        "cname": "哈德良别墅",
+        "url": "/sight/rome303/72360.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/486/499/913/f006453f9d974c25b1ffbed74311f038_C_220_140.jpg",
+        "caddress": "Largo Marguerite Yourcenar, 1, 00010 Tivoli Roma"
+      },
+      {
+        "cname": "圣伯多禄锁链堂",
+        "url": "/sight/rome303/46063.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/237/545/466/ab92ca7ca2e048b093c881a975963031_C_220_140.jpg",
+        "caddress": "Piazza di San Pietro in Vincoli, 4/a, 00184 Roma"
+      },
+      {
+        "cname": "马切罗剧场",
+        "url": "/sight/rome303/65073.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/326/061/902/1854cc77ab2149ecb0542aad46e5b736_C_220_140.jpg",
+        "caddress": "Via del Teatro di Marcello, 00186 Roma"
+      },
+      {
+        "cname": "保守宫",
+        "url": "/sight/rome303/65050.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/752/443/135/cdd19711bdf44fd68c8fa4d2939aa2c1_C_220_140.jpg",
+        "caddress": "Piazza del Campidoglio 1 - 00186 Roma"
+      },
+      {
+        "cname": "天使与殉教者圣母大殿",
+        "url": "/sight/rome303/1414001.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/653/136/965/26856a01a25d4093ba83b7b18b95cfa4_C_220_140.jpg",
+        "caddress": "Piazza della Repubblica, Roma"
+      },
+      {
+        "cname": "罗马国立绘画馆",
+        "url": "/sight/rome303/11977.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/763/818/202/5e752e3a75ca4ffab276d035ea45696b_C_220_140.jpg",
+        "caddress": "Via delle Quattro Fontane, 13, 00186 Roma"
+      },
+      {
+        "cname": "圣卡里斯托地下墓穴",
+        "url": "/sight/rome303/65271.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/971/912/179/e4dd380357dd44ffb740cb62c1ad1f6b_C_220_140.jpg",
+        "caddress": "Via Appia Antica, 110/126, 00179 Roma"
+      },
+      {
+        "cname": "贾尼科罗山丘",
+        "url": "/sight/rome303/65097.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/394/135/658/47ad1ad760c04adb87877446aa669e40_C_220_140.jpg",
+        "caddress": "Passeggiata del Gianicolo, 10, 00165 Roma"
+      },
+      {
+        "cname": "罗马圣马可教堂",
+        "url": "/sight/rome303/1413988.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/821/366/177/4e8280f6e0ee42ea89b4f208da3c027e_C_220_140.jpg",
+        "caddress": "Piazza di San Marco, 52, 00186 Roma"
+      },
+      {
+        "cname": "亚壁古道",
+        "url": "/sight/rome303/65266.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/273/526/576/07e7ba7f2d914930bb58f31f3d7a76dd_C_220_140.jpg",
+        "caddress": "Via Appia Antica, 58, 00179 Roma"
+      },
+      {
+        "cname": "越台伯河的圣母大殿",
+        "url": "/sight/rome303/65096.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/489/674/240/e874f409dbde4c2e89f82c9c994c6cb1_C_220_140.jpg",
+        "caddress": "Piazza di Santa Maria in Trastevere, 00153 Roma"
+      },
+      {
+        "cname": "多米内·库奥·巴蒂斯教堂",
+        "url": "/sight/rome303/65272.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/943/382/961/fce9c5ce4a5b4499b239336abda4ab07_C_220_140.jpg",
+        "caddress": "Via Appia Antica 51, 00179 Roma"
+      },
+      {
+        "cname": "法尔内吉纳山庄",
+        "url": "/sight/rome303/65094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/545/996/219/3ee3fadb6fcc4cf4be5c9027a42de4c2_C_220_140.jpg",
+        "caddress": "Via della Lungara, 230, 00165 Roma"
+      },
+      {
+        "cname": "四河喷泉",
+        "url": "/sight/rome303/1413984.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/081/530/121/ea36846746874685bcdde95be16d6c58_C_220_140.jpg",
+        "caddress": "Piazza Navona, Roma"
+      },
+      {
+        "cname": "图拉真柱",
+        "url": "/sight/rome303/1413982.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/232/416/322/0e6a059e29ad489d82a222f113f3d227_C_220_140.jpg",
+        "caddress": "Via dei Fori Imperiali, Roma"
+      },
+      {
+        "cname": "奥斯提亚古城",
+        "url": "/sight/rome303/1414029.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/746/502/490/ccbd5610665041df81a283c2b5093093_C_220_140.jpg",
+        "caddress": "Ostia Antica, RM"
+      },
+      {
+        "cname": "城外圣保禄大殿",
+        "url": "/sight/rome303/1413977.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/724/899/871/70957a7943b9418f9792c7244f19b440_C_220_140.jpg",
+        "caddress": "Piazzale San Paolo, 1, 00146 Roma"
+      },
+      {
+        "cname": "罗马MAXXI博物馆",
+        "url": "/sight/rome303/1414047.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/473/226/340/f9e823700a514bf59ebd92b7010ed396_C_220_140.jpg",
+        "caddress": "Via Guido Reni, 4A, Roma"
+      },
+      {
+        "cname": "罗马国家现代美术馆",
+        "url": "/sight/rome303/1414031.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/226/674/610/06ab04d0ff6e4887ab60daa1fae7c833_C_220_140.jpg",
+        "caddress": "Viale delle Belle Arti, 131, 00196 Roma"
+      },
+      {
+        "cname": "四排喷泉",
+        "url": "/sight/rome303/1414127.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/104/501/094/19c535b5636046d5b7ed1d984676a61e_C_220_140.jpg",
+        "caddress": "Via del Quirinale, 23, 00187 Roma"
+      },
+      {
+        "cname": "四泉圣嘉禄堂",
+        "url": "/sight/rome303/1414011.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/171/147/123/9646ba475ddc47c49ec2867a5dbfcfcb_C_220_140.jpg",
+        "caddress": "Via del Quirinale, 23, 00187 Roma"
+      },
+      {
+        "cname": "威尼托大街",
+        "url": "/sight/rome303/1414093.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/321/473/366/642d3a36c70449daa056afbd923dd238_C_220_140.jpg",
+        "caddress": "Via Vittorio Veneto, Roma, RM"
+      },
+      {
+        "cname": "银塔广场",
+        "url": "/sight/rome303/1414026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/867/535/537/55ce128e3d09438e9bdc0762a1982d7c_C_220_140.jpg",
+        "caddress": "Largo di Torre Argentina, Roma"
+      },
+      {
+        "cname": "朱利亚公园博物馆",
+        "url": "/sight/rome303/11975.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/377/787/171/dbb3255f2d674aa0bf60f5519a396481_C_220_140.jpg",
+        "caddress": "Piazzale di Villa Giulia, 9, 00197 Roma"
+      },
+      {
+        "cname": "卡拉卡拉浴场",
+        "url": "/sight/rome303/138919.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/250/562/728/abad8b3e245148df8f00dfbf09ccb40a_C_220_140.jpg",
+        "caddress": "Viale delle Terme di Caracalla, Roma"
+      },
+      {
+        "cname": "庇亚门",
+        "url": "/sight/rome303/1414057.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/646/854/873/b19e15ccabec4e5da7dd4e20f1c74bab_C_220_140.jpg",
+        "caddress": "Piazzale Porta Pia, 00198 Roma"
+      },
+      {
+        "cname": "斯帕达宫",
+        "url": "/sight/rome303/1414219.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/733/129/529/295a21d1290c41b2ab20d4165a5eda61_C_220_140.jpg",
+        "caddress": "Piazza Capo di Ferro, 13, 00186 Roma"
+      },
+      {
+        "cname": "乌龟喷泉",
+        "url": "/sight/rome303/1414022.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/840/773/877/2a9eec804356432cae5cfe3b84e5e730_C_220_140.jpg",
+        "caddress": "Piazza Mattei, 00186 Roma"
+      },
+      {
+        "cname": "展览宫",
+        "url": "/sight/rome303/1414048.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/030/924/348/34eb0670d12145cfa7521f1a51a503a9_C_220_140.jpg",
+        "caddress": "Via Nazionale, 194, 00184 Roma"
+      },
+      {
+        "cname": "奥克塔维亚门廊",
+        "url": "/sight/rome303/1414105.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/739/907/443/20936a021fbb41c5b5ef5602c93aa85d_C_220_140.jpg",
+        "caddress": "Via del Portico D'Ottavia, 29, 00186 Roma"
+      },
+      {
+        "cname": "和平祭坛博物馆 ",
+        "url": "/sight/rome303/1413998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/835/537/284/7d0512c61092431aaf762c28438a9372_C_220_140.jpg",
+        "caddress": "Piazza Augusto Imperatore, Roma"
+      },
+      {
+        "cname": "山上天主圣三教堂",
+        "url": "/sight/rome303/1414019.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/AF/58/CghzgVToEiSAJgOaACU0Q-5YWJw437_C_220_140.jpg",
+        "caddress": "Piazza della Trinità dei Monti, 3, Roma"
+      },
+      {
+        "cname": "新宫",
+        "url": "/sight/rome303/139476.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/365/466/254/363cc551f5b04a75a53525ffd886ee44_C_220_140.jpg",
+        "caddress": "Piazza del Campidoglio, 1, 00186 Roma"
+      },
+      {
+        "cname": "毕欧帕可野生动物园",
+        "url": "/sight/rome303/1414208.html",
+        "s_img": "",
+        "caddress": "Viale del Giardino Zoologico, 1, 00197 Roma"
+      },
+      {
+        "cname": "祖国祭坛",
+        "url": "/sight/rome303/110270.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/B2/E0/CghzgFToJDmADMgUAB_ExS2stzo634_C_220_140.jpg",
+        "caddress": "罗马市威尼斯广场"
+      },
+      {
+        "cname": "台伯岛",
+        "url": "/sight/rome303/65090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/915/284/833cfbb969304f4da5311cbe24320ea7_C_220_140.jpg",
+        "caddress": "Ponte Cestio, Roma"
+      },
+      {
+        "cname": "城内圣保罗教堂",
+        "url": "/sight/rome303/1414017.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/331/674/590/c3ff45c605b049ff8bafa03229496356_C_220_140.jpg",
+        "caddress": "Via Napoli, 58, 00184 Roma"
+      },
+      {
+        "cname": "威尼斯王宫博物馆",
+        "url": "/sight/rome303/1407314.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/745/941/42920bcbe1cc40fd945a466f64150289_C_220_140.jpg",
+        "caddress": "Via del Plebiscito, 118, 00186 Roma"
+      },
+      {
+        "cname": "千禧教堂",
+        "url": "/sight/rome303/65516.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/945/574/360/58d687f9ee2d44a1bcac2d3d4a357bcd_C_220_140.jpg",
+        "caddress": "Largo Terzo millennio, 8, 00155 Roma"
+      },
+      {
+        "cname": "巴贝里尼广场",
+        "url": "/sight/rome303/1413999.html",
+        "s_img": "",
+        "caddress": "Piazza Barberini, 00187 Roma"
+      },
+      {
+        "cname": "拉特朗宫",
+        "url": "/sight/rome303/1414053.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/191/813/751/1aedaeef8a6a480da6c994a673aa0a60_C_220_140.jpg",
+        "caddress": "Piazza San Giovanni in Laterano, 00184 Roma"
+      },
+      {
+        "cname": "千泉宫（埃斯特别墅）",
+        "url": "/sight/rome303/139467.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/634/300/754/8a91bc42d95b40509faef5b3bdf025d7_C_220_140.jpg",
+        "caddress": "Piazza Trento, 5, Tivoli, Rome"
+      },
+      {
+        "cname": "海神喷泉",
+        "url": "/sight/rome303/1413991.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/443/465/485/dfece6342c354b8c8cd650253bacc6ee_C_220_140.jpg",
+        "caddress": "Piazza Navona, 00186 Roma"
+      },
+      {
+        "cname": "马梅尔定监狱",
+        "url": "/sight/rome303/139457.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/006/196/249/3623123eb2c3457bb24cce2234bece21_C_220_140.jpg",
+        "caddress": "Via Clivo Argentario, 1, Rome"
+      },
+      {
+        "cname": "卡比托纳博物馆",
+        "url": "/sight/rome303/138917.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/264/935/928/d1635a34531d49108b614b74443d0c10_C_220_140.jpg",
+        "caddress": "Piazza del Campidoglio, 1, Rome"
+      },
+      {
+        "cname": "帕斯奎诺雕像",
+        "url": "/sight/rome303/1414095.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/207/531/436/003a61c1ec384843984e067c9647bbd1_C_220_140.jpg",
+        "caddress": "Piazza di Sant'Egidio, 9, 00153 Roma"
+      },
+      {
+        "cname": "神庙遗址圣母堂",
+        "url": "/sight/rome303/1414007.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/165/730/094/53591ac8a3b647afa2e8356ad7bea3e3_C_220_140.jpg",
+        "caddress": "Piazza della Minerva, 42, 00186 Roma"
+      },
+      {
+        "cname": "耶稣教堂",
+        "url": "/sight/rome303/1414006.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/878/549/298/ec78120ca62243b3b745c79976ef1f91_C_220_140.jpg",
+        "caddress": "Via degli Astalli, 16, 00186 Roma"
+      },
+      {
+        "cname": "Parco Centrale del Lago公园",
+        "url": "/sight/rome303/1414166.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/938/045/f7e43566ae12417dbd94925618366d96_C_220_140.jpg",
+        "caddress": "Passeggiata del Giappone, Roma"
+      },
+      {
+        "cname": "济慈-雪莱纪念馆",
+        "url": "/sight/rome303/1407320.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/711/764/469/e7f591b422064f44915496e52c026c53_C_220_140.jpg",
+        "caddress": "Piazza di Spagna, 26, 00187 Roma"
+      },
+      {
+        "cname": "天坛圣母堂",
+        "url": "/sight/rome303/1414037.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/895/137/350bef99eba64e2792531e2812633654_C_220_140.jpg",
+        "caddress": "Scala dell'Arcicapitolina, 12, 00186 Roma"
+      },
+      {
+        "cname": "拉特朗圣格肋孟圣殿",
+        "url": "/sight/rome303/1414167.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/331/218/009/c7122628c1e049fe8a7777a32f8f065b_C_220_140.jpg",
+        "caddress": "Via Labicana, 95, 00184 Roma"
+      },
+      {
+        "cname": "美第奇别墅",
+        "url": "/sight/rome303/1414028.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/115/001/390/833ce0d471ec46fda8f64eb0a5fd6d3e_C_220_140.jpg",
+        "caddress": "Viale della Trinità dei Monti, 1, 00187 Roma"
+      },
+      {
+        "cname": "摩尔人喷泉",
+        "url": "/sight/rome303/1413996.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/081/552/460/d28a772a7d4c4685b7679b7b55fdb9a9_C_220_140.jpg",
+        "caddress": "Piazza Navona, 00186 Roma"
+      },
+      {
+        "cname": "人民圣母教堂",
+        "url": "/sight/rome303/1414020.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/181/224/081/7426237fe2d347e9a4a7cc0343e17b22_C_220_140.jpg",
+        "caddress": "Piazza del Popolo, 12, 00187 Roma"
+      },
+      {
+        "cname": "圣阶和圣中圣礼拜堂",
+        "url": "/sight/rome303/1414052.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/535/469/69609649213c48c6acfe24e554057fda_C_220_140.jpg",
+        "caddress": "Piazza San giovanni In Laterano, 14, Roma"
+      },
+      {
+        "cname": "圣王路易堂",
+        "url": "/sight/rome303/1414038.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/956/352/919/7ddbd27c706b44c798308790d8ab6dfb_C_220_140.jpg",
+        "caddress": "Piazza di San Luigi de' Francesi, 00186 Roma"
+      },
+      {
+        "cname": "朱利亚路",
+        "url": "/sight/rome303/1414051.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/764/795/251/b6ce99be362842208aeb6cf659f7a778_C_220_140.jpg",
+        "caddress": "Via Giulia, Roma, RM"
+      },
+      {
+        "cname": "布拉斯奇宫",
+        "url": "/sight/rome303/1414118.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/835/405/fb645200d1ed4e708bf3b47b2772eb7a_C_220_140.jpg",
+        "caddress": "Piazza di San Pantaleo, 10, Roma"
+      },
+      {
+        "cname": "圣则济利亚圣殿",
+        "url": "/sight/rome303/65091.html",
+        "s_img": "",
+        "caddress": "Piazza di Santa Cecilia, 22, 00153 Roma"
+      },
+      {
+        "cname": "时光穿梭机",
+        "url": "/sight/rome303/1414119.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/049/277/946/e6a8ad0fa9454611b2bf09a25f6f0faf_C_220_140.jpg",
+        "caddress": "Via dei Santi Apostoli, 20, 00187 Roma"
+      },
+      {
+        "cname": "阿文提诺山",
+        "url": "/sight/rome303/1414158.html",
+        "s_img": "",
+        "caddress": "Monte Aventino, Roma, RM"
+      },
+      {
+        "cname": "多里亚·潘菲利别墅",
+        "url": "/sight/rome303/1414159.html",
+        "s_img": "",
+        "caddress": "Via di San Pancrazio, 00164 Roma"
+      },
+      {
+        "cname": "吉安诺拱门",
+        "url": "/sight/rome303/1414094.html",
+        "s_img": "",
+        "caddress": "Arco di Giano, Via del Velabro, Roma, RM"
+      },
+      {
+        "cname": "罗马解放博物馆",
+        "url": "/sight/rome303/1414062.html",
+        "s_img": "",
+        "caddress": "Via Tasso, 145, 00185 Roma"
+      },
+      {
+        "cname": "罗马犹太博物馆",
+        "url": "/sight/rome303/1414106.html",
+        "s_img": "",
+        "caddress": "Lungotevere Dè Cenci, 00186 Roma"
+      },
+      {
+        "cname": "马格塔街",
+        "url": "/sight/rome303/1414156.html",
+        "s_img": "",
+        "caddress": "Via Margutta, Roma, RM"
+      },
+      {
+        "cname": "蜜蜂喷泉",
+        "url": "/sight/rome303/1414008.html",
+        "s_img": "",
+        "caddress": "Fontana delle Api, Roma"
+      },
+      {
+        "cname": "切契利亚·梅特拉之墓",
+        "url": "/sight/rome303/65270.html",
+        "s_img": "",
+        "caddress": "Via Appia Antica, 161, 00178 Roma"
+      },
+      {
+        "cname": "圣塞巴斯弟盎门‎",
+        "url": "/sight/rome303/1414209.html",
+        "s_img": "",
+        "caddress": "Via di Porta San Sebastiano, 18, 00179 Roma"
+      },
+      {
+        "cname": "探索-儿童博物馆",
+        "url": "/sight/rome303/1414107.html",
+        "s_img": "",
+        "caddress": "Via Flaminia, 80/86, 00100 Roma"
+      },
+      {
+        "cname": "大象雕像",
+        "url": "/sight/rome303/139425.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/869/905/135/6604fd92f75843949b41f5ac485ea10b_C_220_140.jpg",
+        "caddress": "Piazza della Minerva, 42, Rome"
+      },
+      {
+        "cname": "品奇欧花园",
+        "url": "/sight/rome303/139466.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/384/640/390/1aaee820092f4aba9a67932d0543baed_C_220_140.jpg",
+        "caddress": "00187 Roma"
+      },
+      {
+        "cname": "特莱亚诺广场",
+        "url": "/sight/rome303/65063.html",
+        "s_img": "",
+        "caddress": "Via dei Fori Imperiali, 00186 Roma"
+      },
+      {
+        "cname": "卡比托利欧山",
+        "url": "/sight/rome303/139454.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/491/362/3ba47dc80ea348c6a933834ea0119b00_C_220_140.jpg",
+        "caddress": "Piazza del Campidoglio, Roma"
+      },
+      {
+        "cname": "圣安德肋圣殿",
+        "url": "/sight/rome303/1414027.html",
+        "s_img": "",
+        "caddress": "Corso Vittorio Emanuele II, 00186 Roma"
+      },
+      {
+        "cname": "圣巴尔多禄茂圣殿",
+        "url": "/sight/rome303/1414126.html",
+        "s_img": "",
+        "caddress": "Piazza di San Bartolomeo all'Isola, 22, 00186 Roma"
+      },
+      {
+        "cname": "陶片山",
+        "url": "/sight/rome303/139472.html",
+        "s_img": "",
+        "caddress": "Via di Monte Testaccio, Rome"
+      },
+      {
+        "cname": "奎琳岗圣安德肋堂",
+        "url": "/sight/rome303/1414092.html",
+        "s_img": "",
+        "caddress": "Via del Quirinale, 29, 00184 Roma"
+      },
+      {
+        "cname": "蒙特奇特利欧宮",
+        "url": "/sight/rome303/1414036.html",
+        "s_img": "",
+        "caddress": "Piazza di Montecitorio, 00186 Roma"
+      },
+      {
+        "cname": "圣奥古斯都教堂",
+        "url": "/sight/rome303/1414101.html",
+        "s_img": "",
+        "caddress": "Piazza di Sant'Agostino, Roma"
+      },
+      {
+        "cname": "圣依华堂",
+        "url": "/sight/rome303/1414049.html",
+        "s_img": "",
+        "caddress": "Corso Rinascimento, 40, 00186 Roma"
+      }
+    ]
+  },
+  {
+    "cname": "威尼斯",
+    "url": "http://you.ctrip.com/sightlist/venice340.html",
+    "places": [
+      {
+        "cname": "圣马可广场",
+        "url": "/sight/venice340/12074.html",
+        "s_img": "http://p.chanyouji.cn/1391024848/A8AC4832-134A-4423-A1CF-F9C0A830FD4E.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Marco, Venezia"
+      },
+      {
+        "cname": "叹息桥",
+        "url": "/sight/venice340/22928.html",
+        "s_img": "http://p.chanyouji.cn/1376106884/1375976922000p181f9oc2e1v4h1al764n15h1qo8j.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Marco, 1, Venezia"
+      },
+      {
+        "cname": "大运河",
+        "url": "/sight/venice340/65956.html",
+        "s_img": "http://m.chanyouji.cn/96681/1390465642562p18ev3aplgeh118if1u9312471tuce.jpg?imageView/1/w/220/h/140",
+        "caddress": "Ponte della Guerra, 31024 Venice"
+      },
+      {
+        "cname": "圣马可大教堂",
+        "url": "/sight/venice340/12075.html",
+        "s_img": "http://p.chanyouji.cn/61340/1376144574668p181k9mrdv1djto12m1p501qj55.jpg?imageView/1/w/220/h/140",
+        "caddress": "San Marco, 328, Venezia"
+      },
+      {
+        "cname": "布拉诺岛",
+        "url": "/sight/venice340/140286.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/677/897/490/85c3cf4c620e40eaad2485e50432f35b_C_220_140.jpg",
+        "caddress": "位于威尼斯东北方，约30分钟船程。"
+      },
+      {
+        "cname": "穆拉诺岛",
+        "url": "/sight/venice340/66008.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/599/860/831/769da44233be4db5986614ab10c1b90a_C_220_140.jpg",
+        "caddress": "Murano, Venezia"
+      },
+      {
+        "cname": "圣马可钟楼",
+        "url": "/sight/venice340/65968.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/650/663/675/b90e1d58bf02408895a7bd3164862f21_C_220_140.jpg",
+        "caddress": "Piazza San Marco, 30124 Venezia"
+      },
+      {
+        "cname": "里亚托桥",
+        "url": "/sight/venice340/22927.html",
+        "s_img": "http://p.chanyouji.cn/16778/1355378171980p17e9bqdtd18fm1s77b8t1p1pka2a.jpg?imageView/1/w/220/h/140",
+        "caddress": "Sestiere San Polo, 30125 Venezia"
+      },
+      {
+        "cname": "总督宫",
+        "url": "/sight/venice340/22916.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/212/474/135/f3b28ce3f53d48578bb6bedb175898d8_C_220_140.jpg",
+        "caddress": "San Marco, 1, 30124 Venezia"
+      },
+      {
+        "cname": "利多岛",
+        "url": "/sight/venice340/66011.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/357/672/b0c5b7e8f4d2416dab66871ff3612163_C_220_140.jpg",
+        "caddress": "Lido di Venezia"
+      },
+      {
+        "cname": "安康圣母教堂",
+        "url": "/sight/venice340/22921.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/564/399/042/f9c007b7fa454d3984479fd8a1cab5ab_C_220_140.jpg",
+        "caddress": "Fondamenta Salute, 30123 Venezia"
+      },
+      {
+        "cname": "法兰盖提美术馆",
+        "url": "/sight/venice340/12076.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/644/720/991/01a9562a34c64e568ba9db173ef34324_C_220_140.jpg",
+        "caddress": "Cannaregio, 3932, 30121 Venezia"
+      },
+      {
+        "cname": "科雷尔博物馆",
+        "url": "/sight/venice340/22915.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/990/964/700/706f02f27f214541b0f85431af4df890_C_220_140.jpg",
+        "caddress": "Piazza San Marco, 52, 30124 Venezia"
+      },
+      {
+        "cname": "学院桥",
+        "url": "/sight/venice340/132874.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/309/516/825/cd33643f929c49b0bb9d19d3d0ed114d_C_220_140.jpg",
+        "caddress": "Ponte dell'Accademia, 30123 Venezia"
+      },
+      {
+        "cname": "雷登托雷教堂",
+        "url": "/sight/venice340/22923.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/875/870/842/0d55ffa0e54a43a8aa65885525ad55b1_C_220_140.jpg",
+        "caddress": "Redentore, Sestiere Giudecca, 30133 Venezia"
+      },
+      {
+        "cname": "佩姬·古根汉美术馆",
+        "url": "/sight/venice340/22926.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/447/247/550/09e68b9f9fdf4b9ab0bf1bfa3cc0bed0_C_220_140.jpg",
+        "caddress": "Dorsoduro, 701-704, 30123 Venezia"
+      },
+      {
+        "cname": "凤凰歌剧院",
+        "url": "/sight/venice340/110475.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/441/139/788/81ff68c1cfed4b83adebc56ac5a62601_C_220_140.jpg",
+        "caddress": "Campo San Fantin, 1965, 30124 Venezia"
+      },
+      {
+        "cname": "圣方济会荣耀圣母教堂",
+        "url": "/sight/venice340/22929.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/177/362/060/441fb11f9bea47db86e6e67ffff0a881_C_220_140.jpg",
+        "caddress": "San Polo, 3072, 30125 Venezia"
+      },
+      {
+        "cname": "威尼斯TRISTAR水晶玻璃工厂",
+        "url": "/sight/venice340/107410.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/352/803/12f43fc1acfc420fa673e173ce4ece7c_C_220_140.jpg",
+        "caddress": "Riva degli Schlavoni，4147"
+      },
+      {
+        "cname": "托尔切洛岛",
+        "url": "/sight/venice340/66010.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/730/738/910/25f4121a908b41a6965969649a73444d_C_220_140.jpg",
+        "caddress": "30142 Venezia"
+      },
+      {
+        "cname": "朱代卡岛",
+        "url": "/sight/venice340/110388.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/584/688/006/54932fd3440d4d7fa14a50b1d3b3f3f8_C_220_140.jpg",
+        "caddress": "威尼斯朱代卡岛"
+      },
+      {
+        "cname": "圣乔治马乔雷教堂",
+        "url": "/sight/venice340/22922.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/511/998/291/912dd81ad2784c7b9984b80b235109c5_C_220_140.jpg",
+        "caddress": "Isola di S.Giorgio Maggiore, 30133 Venezia"
+      },
+      {
+        "cname": "古格利桥",
+        "url": "/sight/venice340/110459.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/917/276/647/c8b0205c6884443ea2f05f4bda3ea80a_C_220_140.jpg",
+        "caddress": "30121 Venezia"
+      },
+      {
+        "cname": "佩萨罗宫",
+        "url": "/sight/venice340/22930.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/375/820/420/76de0a2119204a9babd2fdcdaf99a8cf_C_220_140.jpg",
+        "caddress": "Santa Croce, 2076, 30135 Venezia"
+      },
+      {
+        "cname": "造币厂",
+        "url": "/sight/venice340/65965.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/418/480/484/cd4f836892e24b328ea9ea95c605582b_C_220_140.jpg",
+        "caddress": "Piazza San Marco，Venezia"
+      },
+      {
+        "cname": "雷佐尼可宫（威尼斯18世纪博物馆...",
+        "url": "/sight/venice340/22924.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/366/161/529/99399bb41b044a7a81f14b859b812def_C_220_140.jpg",
+        "caddress": "Dorsoduro, 3136, 30123 Venezia"
+      },
+      {
+        "cname": "圣洛可大会堂",
+        "url": "/sight/venice340/22914.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/864/237/fc2a1895857240049753b6bcf57bcc90_C_220_140.jpg",
+        "caddress": "Campo San Rocco, 3052, 30125 San Polo, Venezia VE"
+      },
+      {
+        "cname": "圣乔凡尼保罗大教堂",
+        "url": "/sight/venice340/22918.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/776/662/426/1e776fcdd992424899c467ab741a408d_C_220_140.jpg",
+        "caddress": "Castello, 6363, 30122 Venezia"
+      },
+      {
+        "cname": "圣乔治信众会会堂",
+        "url": "/sight/venice340/22919.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/919/704/605/72dd29a4358d4445bbe08323fe59a53f_C_220_140.jpg",
+        "caddress": "Castello, 30122 Venezia"
+      },
+      {
+        "cname": "海洋历史博物馆",
+        "url": "/sight/venice340/22920.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/625/518/052/c04ff1c863e6402fa3b5eceedd8c8cd5_C_220_140.jpg",
+        "caddress": "Riva S. Biasio Castello, 2148 - 30122 Venezia"
+      },
+      {
+        "cname": "菜园圣母院",
+        "url": "/sight/venice340/22913.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/759/592/314/df9772801efb420e9b31735c3a366814_C_220_140.jpg",
+        "caddress": "Cannareggio, 3512, 30121 Venezia"
+      },
+      {
+        "cname": "卡米尼信众会",
+        "url": "/sight/venice340/22925.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/124/625/094/bd790c3f259c471fabd279d72ffe0c83_C_220_140.jpg",
+        "caddress": "Dorsoduro, 2617, Venezia"
+      },
+      {
+        "cname": "葛拉西宫",
+        "url": "/sight/venice340/110483.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/648/444/403/b1602ff0f1324083930810a015b48460_C_220_140.jpg",
+        "caddress": "Campo San Samuele, 3231, 30124 Venezia"
+      },
+      {
+        "cname": "圣扎卡里亚教堂",
+        "url": "/sight/venice340/22917.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/976/027/696/ee7ec85b692b450ea8a3855ac57cc6ef_C_220_140.jpg",
+        "caddress": "Campo San Zaccaria, 4693, 30122 Venezia"
+      },
+      {
+        "cname": "圣保罗教堂",
+        "url": "/sight/venice340/22931.html",
+        "s_img": "",
+        "caddress": "Campo San Polo, 30125 Venezia,"
+      },
+      {
+        "cname": "圣马可小广场（圣马可圆柱）",
+        "url": "/sight/venice340/138932.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/757/405/989/50f231d5974d4fe5bbabc2127f5ec419_C_220_140.jpg",
+        "caddress": "30124 Venezia（位于圣马可广场东部，总督宫西侧）"
+      },
+      {
+        "cname": "圣阿维斯教堂",
+        "url": "/sight/venice340/110460.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/371/157/280/5d8913b55dca4a8c9f59b36d5aa9f8ca_C_220_140.jpg",
+        "caddress": "Sant'Alvise（意大利北部）"
+      },
+      {
+        "cname": "西尔米奥奈",
+        "url": "/sight/venice340/138936.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/604/796/346/110d7aa68ad64dc59d3b607180f754e9_C_220_140.jpg",
+        "caddress": "Sirmione Brescia"
+      },
+      {
+        "cname": "格苏提教堂",
+        "url": "/sight/venice340/110462.html",
+        "s_img": "",
+        "caddress": "Venice（威尼斯境内）"
+      },
+      {
+        "cname": "圣玛利亚福莫萨教堂 ",
+        "url": "/sight/venice340/110463.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/113/616/047/28708192a6a146f58bb570676afc9321_C_220_140.jpg",
+        "caddress": "Campo Santa Maria Formosa, Venice 30122"
+      },
+      {
+        "cname": "米拉科利教堂",
+        "url": "/sight/venice340/65973.html",
+        "s_img": "",
+        "caddress": "30121 Venezia"
+      },
+      {
+        "cname": "公共花园",
+        "url": "/sight/venice340/138900.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/911/242/339/82c584a82818442a92655eb89c6fb815_C_220_140.jpg",
+        "caddress": "Viale Giardini Pubblici, 30122 威尼斯"
+      },
+      {
+        "cname": "里亚托市场",
+        "url": "/sight/venice340/110478.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/723/579/80889c3e586b40f0b1c4a1fe25c37012_C_220_140.jpg",
+        "caddress": "Sestiere San Polo, 222 30125 Venezia"
+      },
+      {
+        "cname": "犹太广场",
+        "url": "/sight/venice340/22912.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/629/954/556/750bce47ee5b403e92adc34d90a5da02_C_220_140.jpg",
+        "caddress": "Cannareggio, 1146,30121 Venezia"
+      },
+      {
+        "cname": "穆拉诺岛CAM玻璃博物馆",
+        "url": "/sight/venice340/138928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/311/210/931/fef5bc95d08a49b6b28b7920633ddda5_C_220_140.jpg",
+        "caddress": "Piazzale Colonna, 1/B , 30141 Murano, Venezia"
+      },
+      {
+        "cname": "圣尼科洛乞丐教堂",
+        "url": "/sight/venice340/110485.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/183/020/431/17a59b047ca147f0b46d0f17d85893e2_C_220_140.jpg",
+        "caddress": "San Nicolò dei Mendicoli, Campo San Nicolò, 1907 Dorsoduro, 30123 Venezia"
+      },
+      {
+        "cname": "罗达宫水晶玻璃艺术博物馆",
+        "url": "/sight/venice340/1407970.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/408/132/877/caa4c7d678974b0dac3e1a97f3517e1f_C_220_140.jpg",
+        "caddress": "Palazzo Rota Vetri d'Arte  San Marco 83"
+      },
+      {
+        "cname": "圣塞巴斯蒂亚诺教堂 ",
+        "url": "/sight/venice340/110477.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/094/775/445/1230c6b012cd46b4a0cc6e1ccec23667_C_220_140.jpg",
+        "caddress": "Castello,Campo S. Pietro,30122 Castello Venezia"
+      }
+    ]
+  },
+  {
+    "cname": "佛罗伦萨",
+    "url": "http://you.ctrip.com/sightlist/florence341.html",
+    "places": [
+      {
+        "cname": "乌菲兹美术馆",
+        "url": "/sight/florence341/12023.html",
+        "s_img": "http://p.chanyouji.cn/148040/1406307606781p18tn7av2sq5h1vst1igd1e4i1r89p.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazzale degli Uffizi, 6, 50122 Firenze"
+      },
+      {
+        "cname": "圣母百花大教堂",
+        "url": "/sight/florence341/12018.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375367231920p180t4cuccuu05e616gl1a9dtcd2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via della Canonica, 1, Piazza del Duomo, 50122 Firenze"
+      },
+      {
+        "cname": "佛罗伦萨",
+        "url": "/sight/florence341/139439.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/498/418/071/bdf4366b1e6e4c4d8180bb249417c9c5_C_220_140.jpg",
+        "caddress": "佛罗伦萨"
+      },
+      {
+        "cname": "市政厅广场",
+        "url": "/sight/florence341/85090.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375367862732p180t506dh19l1pnr1j296r53jr2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza della Signoria, Firenze"
+      },
+      {
+        "cname": "老桥",
+        "url": "/sight/florence341/134731.html",
+        "s_img": "http://p.chanyouji.cn/1374760442/324812AB-EC2F-4C17-AFDD-34AF34F5412A.jpg?imageView/1/w/220/h/140",
+        "caddress": "Ponte Vecchio, Firenze"
+      },
+      {
+        "cname": "米开朗琪罗广场",
+        "url": "/sight/florence341/12030.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/353/499/962/15e96f3baf004a4b9ea6e47840980cb1_C_220_140.jpg",
+        "caddress": "Piazzale Michelangelo, 50125 Firenze"
+      },
+      {
+        "cname": "佛罗伦萨学院美术馆",
+        "url": "/sight/florence341/138945.html",
+        "s_img": "http://p.chanyouji.cn/93579/1387887035842p18ci86p8vo281flbm3tt8l1ga08.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via Bettino Ricasoli, 60, 50122 Firenze"
+      },
+      {
+        "cname": "锡耶纳老城区",
+        "url": "/sight/florence341/76639.html",
+        "s_img": "http://p.chanyouji.cn/156469/1408415538328p18vm1kcvk1u561qvv1gfpndl1pj1o.jpg?imageView/1/w/220/h/140",
+        "caddress": "意大利锡耶纳"
+      },
+      {
+        "cname": "圣十字大教堂",
+        "url": "/sight/florence341/12031.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/574/662/768/5b23637339824d5e8f1617d41828a17c_C_220_140.jpg",
+        "caddress": "Piazza Santa Croce, 16, 50122, Firenze"
+      },
+      {
+        "cname": "皮蒂宫",
+        "url": "/sight/florence341/12024.html",
+        "s_img": "http://p.chanyouji.cn/162520/1410363657475p191g3egf1138s1gs01g961nngq441q.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza de Pitti, 1, Firenze"
+      },
+      {
+        "cname": "乔托钟楼",
+        "url": "/sight/florence341/12020.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/212/098/809/42dad64473d6485683514fc83d1b7bbf_C_220_140.jpg",
+        "caddress": "Piazza Duomo, 50122 Firenze"
+      },
+      {
+        "cname": "但丁故居",
+        "url": "/sight/florence341/138943.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/E8/F8/CghzgVTZbCCATGkTABso0-4uxdM198_C_220_140.jpg",
+        "caddress": "Via S. Margherita, 1, Firenze"
+      },
+      {
+        "cname": "美第奇-里卡尔第宫",
+        "url": "/sight/florence341/12028.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/739/518/589/9fee12acd0c041c6bb1ee4d0836e49db_C_220_140.jpg",
+        "caddress": "Via Camillo Cavour, 3, 50129 Firenze"
+      },
+      {
+        "cname": "圣洛伦佐教堂",
+        "url": "/sight/florence341/12026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/929/228/162/7c9eae3b254e4469a5942fc43b0e063e_C_220_140.jpg",
+        "caddress": "Piazza di San Lorenzo, 9, 50123 Firenze"
+      },
+      {
+        "cname": "波波里花园",
+        "url": "/sight/florence341/12025.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/480/109/060/ea977e31c3544c0d9439732b9e31bbb6_C_220_140.jpg",
+        "caddress": "Piazza Pitti, 1, 50125 Firenze"
+      },
+      {
+        "cname": "巴杰罗美术馆",
+        "url": "/sight/florence341/12019.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/402/859/762/8408c20d64d04af884a2ceff81b6d763_C_220_140.jpg",
+        "caddress": "Via del Proconsolo, 4, 50122 Firenze"
+      },
+      {
+        "cname": "维奇奥宫（旧宫）",
+        "url": "/sight/florence341/12022.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/916/255/954/44e55664a196443cafd5cb7032203eea_C_220_140.jpg",
+        "caddress": "Piazza della Signoria, Firenze"
+      },
+      {
+        "cname": "法拉利博物馆",
+        "url": "/sight/florence341/75411.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/310/345/084/811243c34eb549b2b4f8a2f00e52e2b1_C_220_140.jpg",
+        "caddress": "Via Dino Ferrari, 43, 41053 Maranello Modena,"
+      },
+      {
+        "cname": "圣母百花大教堂博物馆",
+        "url": "/sight/florence341/12021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/427/894/468/11e4c047c8034b519a6b0f4d15975814_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, 9 50122 Firenze"
+      },
+      {
+        "cname": "圣若望洗礼堂",
+        "url": "/sight/florence341/141888.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/080/872/339ffe74c4e343779ec745acf0bc17ab_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "阿诺河",
+        "url": "/sight/florence341/1415235.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/8E/3A/Cghzf1TkwpSAJsVsAB42438iRbI664_C_220_140.jpg",
+        "caddress": "Fiume Arno, Firenze"
+      },
+      {
+        "cname": "共和广场",
+        "url": "/sight/florence341/1415253.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/54/5C/CghzgVS_fNyAaJTCAAFFllYpMRg499_C_220_140.jpg",
+        "caddress": "Piazza della Repubblica, 50123 Firenze"
+      },
+      {
+        "cname": "美第奇家族礼拜堂",
+        "url": "/sight/florence341/49737.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/078/339/816/f1a490c6276946799a69740c5a1b56ab_C_220_140.jpg",
+        "caddress": "Piazza di Madonna degli Aldobrandini, 6, 50123 Firenze"
+      },
+      {
+        "cname": "天堂之门",
+        "url": "/sight/florence341/1415233.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/71/16/CghzflTlNnmAL4IFAB0XHKAtj_c227_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "圣马可广场",
+        "url": "/sight/florence341/1484390.html",
+        "s_img": "",
+        "caddress": "Piazza San Marco, Venezia"
+      },
+      {
+        "cname": "恩宠桥",
+        "url": "/sight/florence341/1415246.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/595/699/203/9109ad910e7c4da78da222a508f89395_C_220_140.jpg",
+        "caddress": "Ponte alle Grazie, Firenze"
+      },
+      {
+        "cname": "圣米尼亚托教堂",
+        "url": "/sight/florence341/49743.html",
+        "s_img": "",
+        "caddress": "Via delle Porte Sante, 34, 50125 Firenze"
+      },
+      {
+        "cname": "圣三一教堂",
+        "url": "/sight/florence341/1415259.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/257/660/715/cf98a129993648f594e46fbdc6b8f21d_C_220_140.jpg",
+        "caddress": "Via del Parione, 3, 50123 Firenze"
+      },
+      {
+        "cname": "圣三一桥",
+        "url": "/sight/florence341/1415250.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/208/971/000/5ebdf5d6503b4847a0995e5212ea3746_C_220_140.jpg",
+        "caddress": "Ponte Santa Trinita, 50100 Firenze"
+      },
+      {
+        "cname": "新市场拱廊",
+        "url": "/sight/florence341/1415262.html",
+        "s_img": "",
+        "caddress": "Piazza del Mercato Nuovo, 50123 Firenze"
+      },
+      {
+        "cname": "主教座堂广场",
+        "url": "/sight/florence341/1415225.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/466/122/830/9a7e5849fac04bdd9d8cbc1324396452_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "新圣母教堂香料药房",
+        "url": "/sight/florence341/1415281.html",
+        "s_img": "",
+        "caddress": "Via della Scala, 16, 50123 Firenze"
+      },
+      {
+        "cname": "碧加洛凉廊",
+        "url": "/sight/florence341/1415249.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/334/626/650/473fa9ac43494a07937a921c11e57723_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "瓷器博物馆",
+        "url": "/sight/florence341/1415318.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/691/326/218/2f2a23fa08ef411bb88c5981378c85df_C_220_140.jpg",
+        "caddress": "Piazza de Pitti, Firenze"
+      },
+      {
+        "cname": "国家考古博物馆",
+        "url": "/sight/florence341/49739.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/265/399/258/b48a7e180be44912b4bb6478e82fb272_C_220_140.jpg",
+        "caddress": "Piazza della Santissima Annunziata, 9, Firenze"
+      },
+      {
+        "cname": "卡尔特修道院",
+        "url": "/sight/florence341/1415293.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/633/559/663/d07525e2679e4e2fbfa26b56748caa79_C_220_140.jpg",
+        "caddress": "Via della Certosa, 1, 50124 Firenze"
+      },
+      {
+        "cname": "鲁切拉宫",
+        "url": "/sight/florence341/1415328.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/535/399/687/2deb975f85cb4cd29063cb4fbb891d5e_C_220_140.jpg",
+        "caddress": "Via della Vigna Nuova, 18, Firenze"
+      },
+      {
+        "cname": "圣灵大教堂",
+        "url": "/sight/florence341/1415256.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/390/786/713/a2062b026c544ad0aefc19b9d5302946_C_220_140.jpg",
+        "caddress": "Piazza Santo Spirito, 30, 50125 Firenze"
+      },
+      {
+        "cname": "圣马可博物馆",
+        "url": "/sight/florence341/1415258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/316/149/059/319f17a62e1349c9bd6885e88db30dc1_C_220_140.jpg",
+        "caddress": "Piazza San Marco, 3, 50121 Firenze"
+      },
+      {
+        "cname": "圣母领报大教堂",
+        "url": "/sight/florence341/1415261.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/670/196/676/6c15a588085240d090f7c074a9427380_C_220_140.jpg",
+        "caddress": "Piazza SS Annunziata, 50122 Firenze"
+      },
+      {
+        "cname": "圣十字广场",
+        "url": "/sight/florence341/1415237.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/737/818/541/433fd385d4944f9f8a9846556d6fd63b_C_220_140.jpg",
+        "caddress": "Piazza Santa Croce, Firenze"
+      },
+      {
+        "cname": "新圣母大殿",
+        "url": "/sight/florence341/1415224.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/045/682/005/b9fb3372852346069f143c3f01eb2a53_C_220_140.jpg",
+        "caddress": "Piazza di Santa Maria Novella, 18, 50123 Firenze"
+      },
+      {
+        "cname": "育婴堂",
+        "url": "/sight/florence341/1415265.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/869/997/aed41791621740e3aa6451b49d5ea1b7_C_220_140.jpg",
+        "caddress": "Piazza della Santissima Annunziata, 12, 50121 Firenze"
+      },
+      {
+        "cname": "安东尼宫",
+        "url": "/sight/florence341/1415292.html",
+        "s_img": "",
+        "caddress": "Piazza degli Antinori, 3, Firenze"
+      },
+      {
+        "cname": "伽利略博物馆",
+        "url": "/sight/florence341/1415313.html",
+        "s_img": "",
+        "caddress": "Piazza dei Giudici, 1, 50122 Firenze"
+      },
+      {
+        "cname": "巴尔迪尼花园",
+        "url": "/sight/florence341/1415285.html",
+        "s_img": "",
+        "caddress": "Costa San Giorgio, 2, 50125 Firenze"
+      },
+      {
+        "cname": "菲耶索莱",
+        "url": "/sight/florence341/1415296.html",
+        "s_img": "",
+        "caddress": "Fiesole, Florence"
+      },
+      {
+        "cname": "芬奇",
+        "url": "/sight/florence341/1415330.html",
+        "s_img": "",
+        "caddress": "Vinci, FI"
+      },
+      {
+        "cname": "佛罗伦萨大学",
+        "url": "/sight/florence341/1415333.html",
+        "s_img": "",
+        "caddress": "Piazza di San Marco, 4, 50121 Firenze"
+      },
+      {
+        "cname": "弗兰基球场",
+        "url": "/sight/florence341/1415302.html",
+        "s_img": "",
+        "caddress": "Viale Manfredo Fanti, 4, 50137 Firenze"
+      },
+      {
+        "cname": "罗都佛·西维罗楼",
+        "url": "/sight/florence341/1415323.html",
+        "s_img": "",
+        "caddress": "Lungarno Serristori, 1, 50100 Firenze"
+      },
+      {
+        "cname": "统一广场",
+        "url": "/sight/florence341/1415251.html",
+        "s_img": "",
+        "caddress": "Piazza dell'Unità Italiana, 50123 Firenze"
+      },
+      {
+        "cname": "托纳波尼路",
+        "url": "/sight/florence341/1415304.html",
+        "s_img": "",
+        "caddress": "Via dè Tornabuoni, 50123 Firenze"
+      },
+      {
+        "cname": "犹太教大会堂",
+        "url": "/sight/florence341/1415273.html",
+        "s_img": "",
+        "caddress": "Via Luigi Carlo Farini, 6, 50121 Firenze"
+      },
+      {
+        "cname": "诸圣教堂",
+        "url": "/sight/florence341/1415316.html",
+        "s_img": "",
+        "caddress": "Borgo Ognissanti, 42, 50123 Firenze"
+      },
+      {
+        "cname": "卡尔米内圣母教堂",
+        "url": "/sight/florence341/1415322.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/357/151/758/dfb625b548894a58b3807d459ed29b79_C_220_140.jpg",
+        "caddress": "Piazza del Carmine, 50124 Firenze"
+      },
+      {
+        "cname": "布兰卡契小堂",
+        "url": "/sight/florence341/1415294.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/901/259/c5cc6b88cf1e4ea2b2ed9e1f99982114_C_220_140.jpg",
+        "caddress": "Piazza del Carmine, 50124 Firenze"
+      },
+      {
+        "cname": "玫瑰花园",
+        "url": "/sight/florence341/1415264.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/387/475/901/d6a50b1270804ac4926f7c449fa64a8f_C_220_140.jpg",
+        "caddress": "Viale Giuseppe Poggi, 2, 50125 Firenze"
+      },
+      {
+        "cname": "圣弥额尔教堂",
+        "url": "/sight/florence341/1415291.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/613/406/210/f2e6f507cf1b4007a335214886707649_C_220_140.jpg",
+        "caddress": "Via dell'Arte della Lana, 50123 Firenze"
+      },
+      {
+        "cname": "圣富临教堂",
+        "url": "/sight/florence341/1415283.html",
+        "s_img": "",
+        "caddress": "Piazza di Santa Felicita, 3, 50125 Firenze"
+      },
+      {
+        "cname": "圣玛格丽塔教堂",
+        "url": "/sight/florence341/1484265.html",
+        "s_img": "",
+        "caddress": "Via Santa Margherita, ., Firenze FI"
+      },
+      {
+        "cname": "美景堡",
+        "url": "/sight/florence341/1415282.html",
+        "s_img": "",
+        "caddress": "Via di San Leonardo, 1, 50100 Firenze"
+      },
+      {
+        "cname": "简洁花园",
+        "url": "/sight/florence341/1415327.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/517/910/4d1c8823861840bfae3ddc980f4252e0_C_220_140.jpg",
+        "caddress": "Via Pier Antonio Micheli, 3, 50121 Firenze"
+      },
+      {
+        "cname": "巴迪亚·佛伦提亚",
+        "url": "/sight/florence341/1484406.html",
+        "s_img": "",
+        "caddress": "Via del Proconsolo, 11, Firenze FI"
+      },
+      {
+        "cname": "斯特罗齐宫",
+        "url": "/sight/florence341/1484641.html",
+        "s_img": "",
+        "caddress": "Piazza degli Strozzi, 50123 Firenze"
+      }
+    ]
+  },
+  {
+    "cname": "梵蒂冈",
+    "url": "http://you.ctrip.com/sightlist/vatican784.html",
+    "places": [
+      {
+        "cname": "梵蒂冈",
+        "url": "/sight/vatican784/138896.html",
+        "s_img": "http://p.chanyouji.cn/1395695564/8B484701-A78D-4C84-AE95-7383203D7FDD.jpg?imageView/1/w/220/h/140",
+        "caddress": "Vatican"
+      },
+      {
+        "cname": "圣彼得大教堂",
+        "url": "/sight/vatican784/23259.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375366761366p180t3tiovv9f1n0fep6i65ael6.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Pietro, 00120 Città del Vaticano"
+      },
+      {
+        "cname": "梵蒂冈博物馆",
+        "url": "/sight/vatican784/23258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/226/044/175b39c2412e477ba3754bad1b068461_C_220_140.jpg",
+        "caddress": "Viale Vaticano, 00165 Roma"
+      },
+      {
+        "cname": "圣彼得广场",
+        "url": "/sight/vatican784/23260.html",
+        "s_img": "http://p.chanyouji.cn/14712/1354002779391p17d0cch9h7ou46tnhj1ujc7qq29.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza San Pietro, Vatican"
+      },
+      {
+        "cname": "西斯廷教堂",
+        "url": "/sight/vatican784/65257.html",
+        "s_img": "http://p.chanyouji.cn/98204/1391701285546p18g3teglcmso1rh81dghf9pd2s1l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Viale Vaticano, 2, Città del Vaticano"
+      }
+    ]
+  },
+  {
+    "cname": "米兰",
+    "url": "http://you.ctrip.com/sightlist/milan304.html",
+    "places": [
+      {
+        "cname": "米兰大教堂",
+        "url": "/sight/milan304/12070.html",
+        "s_img": "http://p.chanyouji.cn/1405529857/3A33D6E7-A4F9-4014-95F0-AC0673140F43.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via Arcivescovado 1-20122 Milano"
+      },
+      {
+        "cname": "米兰",
+        "url": "/sight/milan304/139461.html",
+        "s_img": "http://p.chanyouji.cn/1401071948/E2192654-9C9D-44B4-9EAB-6D50921B7CB3.jpg?imageView/1/w/220/h/140",
+        "caddress": "米兰"
+      },
+      {
+        "cname": "埃马努埃莱二世长廊",
+        "url": "/sight/milan304/12081.html",
+        "s_img": "http://p.chanyouji.cn/95260/1392463893581p18gql16ch9v7155jtgt1jbnjev4.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza Duomo, 20123 Milano"
+      },
+      {
+        "cname": "斯卡拉歌剧院",
+        "url": "/sight/milan304/138907.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/710/335/630/be7dffc55430415d92cb82dd83aa1af5_C_220_140.jpg",
+        "caddress": "Largo Ghiringhelli 1，Piazza Scala，20121 Milano"
+      },
+      {
+        "cname": "斯福尔采斯科城堡",
+        "url": "/sight/milan304/12077.html",
+        "s_img": "http://p.chanyouji.cn/3274/1347457092393p176tak0sejc31af11j0t38ggm0q.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza Castello, 27029 Milano"
+      },
+      {
+        "cname": "科莫湖",
+        "url": "/sight/milan304/66556.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/969/283/984/a194ff4e8a5b44f7bec661ce6dc17b76_C_220_140.jpg",
+        "caddress": "Lake Como, Como"
+      },
+      {
+        "cname": "大教堂广场",
+        "url": "/sight/milan304/72647.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/031/213/622/c8f6bd0c4f0e45d3b2acf6126c19e6ed_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, Milano"
+      },
+      {
+        "cname": "感恩圣母堂",
+        "url": "/sight/milan304/12079.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/169/881/025/f62d81c6f7b147bca103ded45d2bf1de_C_220_140.jpg",
+        "caddress": "Via Giuseppe Antonio Sassi, 3, 20123 Milano"
+      },
+      {
+        "cname": "科莫",
+        "url": "/sight/milan304/72636.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375369109483p180t65sn5187ttc4ist1e8918dt3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Corso Como, 10, 20154 Milano"
+      },
+      {
+        "cname": "布雷拉宫美术馆",
+        "url": "/sight/milan304/12083.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/784/717/260/93a68124c55b4265ba2f1ec6146c2323_C_220_140.jpg",
+        "caddress": "Via Brera, 28, 20121 Milano"
+      },
+      {
+        "cname": "蒙特拿破仑大街",
+        "url": "/sight/milan304/147749.html",
+        "s_img": "http://m.chanyouji.cn/tips/ViaMontenapoleone.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via Montenapoleone, 20121 Milano"
+      },
+      {
+        "cname": "圣西罗足球场",
+        "url": "/sight/milan304/1412365.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/31/2F/CghzflUJS0-AGFQbAAE6MqmG2sc519_C_220_140.jpg",
+        "caddress": "Piazzale Angelo Moratti, 20151 Milano"
+      },
+      {
+        "cname": "波尔迪·佩佐利美术馆",
+        "url": "/sight/milan304/12085.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/482/804/697/657a1d432ebe4c149997e3e4f0520bd7_C_220_140.jpg",
+        "caddress": "Via Alessandro Manzoni, 12, Milano"
+      },
+      {
+        "cname": "安布洛其亚图书馆",
+        "url": "/sight/milan304/12072.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/085/535/639/38d5f07d07a94692870480413b6bba69_C_220_140.jpg",
+        "caddress": "Piazza Pio XI, 2, 20123 Milano"
+      },
+      {
+        "cname": "达·芬奇科技博物馆",
+        "url": "/sight/milan304/12080.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/073/807/2adc0acfa9f5402e90cae77d0c5b97cb_C_220_140.jpg",
+        "caddress": "Via San Vittore, 21, 20123 Milano"
+      },
+      {
+        "cname": "圣伯纳迪诺骨教堂",
+        "url": "/sight/milan304/1416213.html",
+        "s_img": "http://m.chanyouji.cn/1396641952/38D30A3A-A56E-40EB-9DC0-99C3CAC6A2BF.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via Verziere, 2, 20122 Milano"
+      },
+      {
+        "cname": "威尼斯街",
+        "url": "/sight/milan304/1415069.html",
+        "s_img": "",
+        "caddress": "Corso Venezia, Milano, MI"
+      },
+      {
+        "cname": "斯卡拉大剧院",
+        "url": "/sight/milan304/1415082.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/34/A9/CghzfFTc15KAYXgHAAf-66zCt9U945_C_220_140.jpg",
+        "caddress": "Via Bernardino Ghiringhelli, 1, 20121 Milano"
+      },
+      {
+        "cname": "蒙扎国家赛车场",
+        "url": "/sight/milan304/1415197.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M00/B1/3A/CghzfVTVxieAegehAAJAE5nwBxc035_C_220_140.jpg",
+        "caddress": "Via Vedano, 5, 20900 Monza Monza e della Brianza"
+      },
+      {
+        "cname": "马焦雷湖",
+        "url": "/sight/milan304/1415130.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/596/007/897/44675391b0fa4daaa750da048f796dca_C_220_140.jpg",
+        "caddress": "Lago Maggiore,MI"
+      },
+      {
+        "cname": "米兰纪念公墓",
+        "url": "/sight/milan304/1415089.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/958/270/324/e3b16b0c9a2c44d08180334832c82cea_C_220_140.jpg",
+        "caddress": "Piazzale Cimitero Monumentale, 20154 Milano"
+      },
+      {
+        "cname": "森皮奥内公园",
+        "url": "/sight/milan304/1415063.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/971/374/209/8c00098614a644febc98cb92a704f9b8_C_220_140.jpg",
+        "caddress": "Piazza Sempione, 20154 Milano"
+      },
+      {
+        "cname": "Certosa di Garegnano教堂",
+        "url": "/sight/milan304/1415178.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/488/365/318/fa19dd2d4e3e4c29960716784a1cf608_C_220_140.jpg",
+        "caddress": "Via Garegnano, 28, 20156 Milano"
+      },
+      {
+        "cname": "安布罗画廊",
+        "url": "/sight/milan304/1415201.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/559/976/f0d4b4d02ad94ec28938dfb49030d224_C_220_140.jpg",
+        "caddress": "Piazza Pio XI, 2, 20123 Milano"
+      },
+      {
+        "cname": "巴加蒂·瓦尔塞基博物馆",
+        "url": "/sight/milan304/1415192.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/689/797/724/d0b8cc432f3741168bdf6db6792cb0fb_C_220_140.jpg",
+        "caddress": "Via Gesù, 5, 20121 Milano"
+      },
+      {
+        "cname": "布兰卡塔",
+        "url": "/sight/milan304/1415161.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/701/596/969/ac95d67977dc4f1e94314370f7e3b885_C_220_140.jpg",
+        "caddress": "Viale Milton, Milano"
+      },
+      {
+        "cname": "大教堂公园",
+        "url": "/sight/milan304/1415138.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/383/644/532/16fb0c821f6f4ab7920b60d0bf706522_C_220_140.jpg",
+        "caddress": "Parco delle Basiliche, Milano, MI"
+      },
+      {
+        "cname": "当代艺术美术馆",
+        "url": "/sight/milan304/1415222.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/181/366/495/a97312d2e82447e6a76d6acaf0f7c15c_C_220_140.jpg",
+        "caddress": "Via Palestro, 16, 20121 Milano"
+      },
+      {
+        "cname": "国内考古博物馆",
+        "url": "/sight/milan304/1415075.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/534/726/551/e26bab6803044cd0a2f3b1dcc9cb015b_C_220_140.jpg",
+        "caddress": "Corso Magenta, 15, 20123 Milano"
+      },
+      {
+        "cname": "和平门",
+        "url": "/sight/milan304/1415067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/678/654/329/3b9b27f8b81c40ec91c326b0f6bcacfd_C_220_140.jpg",
+        "caddress": "Piazza Sempione, 20154 Milano"
+      },
+      {
+        "cname": "曼佐尼街",
+        "url": "/sight/milan304/1415061.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/796/283/332/1d3c4ee200a5428f9a7878df4bc7c111_C_220_140.jpg",
+        "caddress": "Via Manzoni, 20080 Zibido San Giacomo MI"
+      },
+      {
+        "cname": "米兰大学",
+        "url": "/sight/milan304/1415081.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/475/077/334/f8965c7c89554bfb9936e66f82a791a0_C_220_140.jpg",
+        "caddress": "Via Festa del Perdono, 7, 20122 Milano"
+      },
+      {
+        "cname": "米兰三年",
+        "url": "/sight/milan304/1415077.html",
+        "s_img": "",
+        "caddress": "Viale Emilio Alemagna, 6, 20121 Milano"
+      },
+      {
+        "cname": "米兰王宫",
+        "url": "/sight/milan304/1415071.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/062/513/199/50756644d06a4640b3e05bbd154003ce_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, 12, Milano"
+      },
+      {
+        "cname": "圣安布雷佐教堂",
+        "url": "/sight/milan304/1410641.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/982/421/942/181a801002764527acb9e12e2bb51774_C_220_140.jpg",
+        "caddress": "Piazza Sant'Ambrogio, 15, 20123 Milano"
+      },
+      {
+        "cname": "圣老楞佐圣殿 ",
+        "url": "/sight/milan304/1415141.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/489/625/211/70d4e71e40ce4c2e9e64f0e77ce62b16_C_220_140.jpg",
+        "caddress": "Corso di Porta Ticinese, 35, 20100 Milano"
+      },
+      {
+        "cname": "圣毛里佐奥教堂",
+        "url": "/sight/milan304/1415186.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/287/070/053/43743548562a4960a8f15ca66cac61fb_C_220_140.jpg",
+        "caddress": "Corso Magenta, 15, Milano"
+      },
+      {
+        "cname": "圣母领报红教堂",
+        "url": "/sight/milan304/1415204.html",
+        "s_img": "",
+        "caddress": "Via Neera, 15, 20141 Milano"
+      },
+      {
+        "cname": "圣欧斯托焦圣殿",
+        "url": "/sight/milan304/1415152.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/108/341/69a2db032d844de4bff1ac9076dca321_C_220_140.jpg",
+        "caddress": "Piazza Sant'Eustorgio, 1, 20123 Milano"
+      },
+      {
+        "cname": "水族馆",
+        "url": "/sight/milan304/1415151.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/197/473/913/88fc2364c6194822983014dafe7aee12_C_220_140.jpg",
+        "caddress": "Viale G. B. Gadio, 2, 20121 Milano"
+      },
+      {
+        "cname": "维拉斯加塔楼",
+        "url": "/sight/milan304/1415139.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/732/581/234/f0c5d9d80e2441ae842e07ca2b770aad_C_220_140.jpg",
+        "caddress": "Piazza Velasca, 5, Milano"
+      },
+      {
+        "cname": "法理宫",
+        "url": "/sight/milan304/1415076.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/973/583/332/fe1d2b1a02b94506a3deebe53a59093e_C_220_140.jpg",
+        "caddress": "Piazza dei Mercanti, Milano"
+      },
+      {
+        "cname": "圣沙弟乐圣母堂",
+        "url": "/sight/milan304/1415188.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/919/127/473/4ef7e1e665864446bfef337befdf0fb5_C_220_140.jpg",
+        "caddress": "Via Torino, 17-19, 20123 Milano"
+      },
+      {
+        "cname": "奥托植物园",
+        "url": "/sight/milan304/1415179.html",
+        "s_img": "",
+        "caddress": "Via Brera, 28, 20100 Milano"
+      },
+      {
+        "cname": "丰塔纳·席维斯特瑞之楼",
+        "url": "/sight/milan304/1415183.html",
+        "s_img": "",
+        "caddress": "Corso Venezia, Milano"
+      },
+      {
+        "cname": "米兰比可卡大学",
+        "url": "/sight/milan304/1415129.html",
+        "s_img": "",
+        "caddress": "Piazza della Scienza, 3, 20126 Milano"
+      },
+      {
+        "cname": "米兰之家",
+        "url": "/sight/milan304/1415203.html",
+        "s_img": "",
+        "caddress": "Via Aldo Rossi, 8, 20149 Milano"
+      },
+      {
+        "cname": "退休音乐家之家",
+        "url": "/sight/milan304/1415202.html",
+        "s_img": "",
+        "caddress": "Piazza Michelangelo Buonarroti, 29, 20149 Milano"
+      },
+      {
+        "cname": "马力诺宫",
+        "url": "/sight/milan304/1415088.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/755/754/743/4b1ca95c4dfc4fe1914e9458b25cdfca_C_220_140.jpg",
+        "caddress": "Piazza della Scala, 2, 20121 Milano"
+      },
+      {
+        "cname": "圣马尔谷教堂",
+        "url": "/sight/milan304/1415154.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/041/409/703/5571ee20a29045f58180f4cb1aae5d19_C_220_140.jpg",
+        "caddress": "Piazza San Marco, 2, 20121 Milano"
+      },
+      {
+        "cname": "尤立科·赫依颇利天文馆",
+        "url": "/sight/milan304/1415194.html",
+        "s_img": "",
+        "caddress": "Corso Venezia, 57, 20121 Milano"
+      },
+      {
+        "cname": "二十世纪博物馆",
+        "url": "/sight/milan304/1415128.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/012/794/802/e729211da3c94591984505a21c4bc4f9_C_220_140.jpg",
+        "caddress": "Via Marconi, 1, 20100 Milano"
+      },
+      {
+        "cname": "米兰皇家别墅",
+        "url": "/sight/milan304/1415180.html",
+        "s_img": "",
+        "caddress": "Via Palestro, 20121 Milano"
+      }
+    ]
+  },
+  {
+    "cname": "比萨",
+    "url": "http://you.ctrip.com/sightlist/pisa1761.html",
+    "places": [
+      {
+        "cname": "比萨斜塔",
+        "url": "/sight/pisa1761/67634.html",
+        "s_img": "http://p.chanyouji.cn/5307/1348249964979p177kv96chqkp1kpa1upbl188orh.jpg?imageView/1/w/220/h/140",
+        "caddress": "CPiazza del Duomo, 56126 Pisa"
+      },
+      {
+        "cname": "奇迹广场",
+        "url": "/sight/pisa1761/1416224.html",
+        "s_img": "http://m.chanyouji.cn/59104/1375367399481p180t4i20pq2112jkulp1mb6dds2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza del Duomo, 56010 Pisa"
+      },
+      {
+        "cname": "比萨军火库",
+        "url": "/sight/pisa1761/1487965.html",
+        "s_img": "",
+        "caddress": "Lungarno Ranieri Simonelli, 56126 Pisa PI"
+      },
+      {
+        "cname": "比萨墓园",
+        "url": "/sight/pisa1761/1484512.html",
+        "s_img": "",
+        "caddress": "41031 Camposanto MO"
+      },
+      {
+        "cname": "计算工具博物馆",
+        "url": "/sight/pisa1761/1487981.html",
+        "s_img": "",
+        "caddress": "Via Bonanno Pisano, 2, 56126 Pisa PI"
+      },
+      {
+        "cname": "骑士广场",
+        "url": "/sight/pisa1761/1484648.html",
+        "s_img": "",
+        "caddress": "Piazza dei Cavalieri, 56126 Pisa PI"
+      },
+      {
+        "cname": "圣安妮教堂",
+        "url": "/sight/pisa1761/1487947.html",
+        "s_img": "",
+        "caddress": "Piazza Monteoliveto, 4, 80134 Napoli"
+      },
+      {
+        "cname": "圣马泰奥国立博物馆",
+        "url": "/sight/pisa1761/146673.html",
+        "s_img": "",
+        "caddress": "Piazza San Matteo in Soarta, Pisa PI"
+      },
+      {
+        "cname": "沃尔特拉",
+        "url": "/sight/pisa1761/1487996.html",
+        "s_img": "",
+        "caddress": "56048 Volterra PI"
+      },
+      {
+        "cname": "比萨主教座堂",
+        "url": "/sight/pisa1761/1488008.html",
+        "s_img": "",
+        "caddress": "Piazza del Duomo, 56126 Pisa PI"
+      },
+      {
+        "cname": "比萨洗礼堂",
+        "url": "/sight/pisa1761/1487955.html",
+        "s_img": "",
+        "caddress": "Piazza del Duomo, Pisa PI"
+      },
+      {
+        "cname": "比萨智慧宫",
+        "url": "/sight/pisa1761/1484256.html",
+        "s_img": "",
+        "caddress": "Via Curtatone e Montanara, Pisa PI"
+      },
+      {
+        "cname": "多莫斯伽利略图书馆",
+        "url": "/sight/pisa1761/1487953.html",
+        "s_img": "",
+        "caddress": "Via Santa Maria, 26, Pisa PI"
+      },
+      {
+        "cname": "斯诺皮耶美术馆",
+        "url": "/sight/pisa1761/1487815.html",
+        "s_img": "",
+        "caddress": "Piazza del Duomo, 17, 56126 Pisa PI"
+      },
+      {
+        "cname": "比萨古船博物馆",
+        "url": "/sight/pisa1761/1487961.html",
+        "s_img": "",
+        "caddress": "Lungarno Simonelli"
+      },
+      {
+        "cname": "比萨教堂博物馆",
+        "url": "/sight/pisa1761/1487997.html",
+        "s_img": "",
+        "caddress": "Piazza Duomo, 49, 59100 Prato PO"
+      },
+      {
+        "cname": "蓝色邸宅",
+        "url": "/sight/pisa1761/1484232.html",
+        "s_img": "",
+        "caddress": "Via Pietro Toselli, 29, 56125 Pisa PI"
+      },
+      {
+        "cname": "圣母玛利亚斯皮那教堂",
+        "url": "/sight/pisa1761/1484462.html",
+        "s_img": "",
+        "caddress": "Lungarno Gambacorti, Pisa PI"
+      }
+    ]
+  },
+  {
+    "cname": "维罗纳",
+    "url": "http://you.ctrip.com/sightlist/verona720.html",
+    "places": [
+      {
+        "cname": "朱丽叶故居",
+        "url": "/sight/verona720/22678.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/988/170/514/779ea24b76dc453b8972cdebe0260825_C_220_140.jpg",
+        "caddress": "Via Cappello, 23，37121 Verona"
+      },
+      {
+        "cname": "维罗纳",
+        "url": "/sight/verona720/139474.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M09/E9/F3/CghzfFTZZe-AMwyKABWSScOqGRs324_C_220_140.jpg",
+        "caddress": "意大利威尼托维罗纳省维罗纳"
+      },
+      {
+        "cname": "圆形竞技场",
+        "url": "/sight/verona720/22673.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/661/316/142/6f134c853d6f40b08228e739206aeaef_C_220_140.jpg",
+        "caddress": "Piazza Brà, 1, 37121 Verona"
+      },
+      {
+        "cname": "大教堂",
+        "url": "/sight/verona720/141845.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/F0/35/CghzfVTsyuuAVckVAAIZVUR-oM0276_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "加尔达湖",
+        "url": "/sight/verona720/139446.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/526/436/161/5d5711bdc1e74cb38ce265186b7037f6_C_220_140.jpg",
+        "caddress": "意大利布雷西亚省 Manerba del Garda, 加尔达湖"
+      },
+      {
+        "cname": "圣安娜斯塔西亚教堂",
+        "url": "/sight/verona720/22681.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/211/721/135/b2e6f5a9f51b485298b6362316ba2e11_C_220_140.jpg",
+        "caddress": "Piazza S. Anastasia, Verona"
+      },
+      {
+        "cname": "圣泽诺大教堂",
+        "url": "/sight/verona720/22682.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/235/384/181/54bca816349348a99d4738e2f0103a79_C_220_140.jpg",
+        "caddress": "Piazza San Zeno, 2, 37123 Verona"
+      },
+      {
+        "cname": "绅士广场",
+        "url": "/sight/verona720/22675.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/742/116/056/40bf5d52ed2941d08b6466d5a88da03a_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "罗密欧故居",
+        "url": "/sight/verona720/22679.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/847/827/997/c019e305e9094346b2acd05abc702033_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "Erbe广场",
+        "url": "/sight/verona720/22674.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0B/85/B4/CghzfFTkJueASGneACet8rUiqbk625_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "朱丽叶墓穴",
+        "url": "/sight/verona720/22683.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/727/047/375/f29f8a7a1a7d4f7bba3f60e1b2de1c7d_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "古堡美术馆",
+        "url": "/sight/verona720/22680.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "斯卡拉家族城堡",
+        "url": "/sight/verona720/138910.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/108/336/956/6db0489403a746e5964ff514fddedb46_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "罗马剧场",
+        "url": "/sight/verona720/141848.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/532/781/814/bd3e024cb1f74cc8b03dceca0faa2a66_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "Via Mazzini",
+        "url": "/sight/verona720/141851.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "San Fermo教堂",
+        "url": "/sight/verona720/141846.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "Castelvecchio博物馆",
+        "url": "/sight/verona720/141844.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "Lamberti塔",
+        "url": "/sight/verona720/141843.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "那不勒斯",
+    "url": "http://you.ctrip.com/sightlist/napoli747.html",
+    "places": [
+      {
+        "cname": "卡普里岛",
+        "url": "/sight/napoli747/76287.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/700/880/661/3b4a4c7657f1413c915e7e28f6d277b4_C_220_140.jpg",
+        "caddress": "Capri, Island of Capri, Italy"
+      },
+      {
+        "cname": "索伦托",
+        "url": "/sight/napoli747/76643.html",
+        "s_img": "http://p.chanyouji.cn/1406512360/0C451C37-B828-46E6-82C7-9AACCFD7AC55.jpg?imageView/1/w/220/h/140",
+        "caddress": "意大利南部城镇"
+      },
+      {
+        "cname": "新城",
+        "url": "/sight/napoli747/22720.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/588/918/288/0962cf2e0efc4d8db373f81c72fc909a_C_220_140.jpg",
+        "caddress": "Piazza Castello, Napoli"
+      },
+      {
+        "cname": "维苏威火山",
+        "url": "/sight/napoli747/146663.html",
+        "s_img": "http://m.chanyouji.cn/9650/1350480461850p179ne58i91amg29c1kd2hdm1j4j1p.jpg?imageView/1/w/220/h/140",
+        "caddress": "Mount Vesuvius, Naples"
+      },
+      {
+        "cname": "那不勒斯王宫",
+        "url": "/sight/napoli747/22722.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/707/948/173/73fdc327c2204153b47b82b023e03f07_C_220_140.jpg",
+        "caddress": "Piazza del Plebiscito, 1, 80132 Napoli"
+      },
+      {
+        "cname": "圣卡罗歌剧院",
+        "url": "/sight/napoli747/1416322.html",
+        "s_img": "http://m.chanyouji.cn/attractions/164712.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via San Carlo, 98, 80132 Napoli"
+      },
+      {
+        "cname": "普雷比席特广场",
+        "url": "/sight/napoli747/22721.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/253/308/529/773e9068c41448e7b9bc0ba5f976214f_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "保罗圣方济教堂",
+        "url": "/sight/napoli747/1508656.html",
+        "s_img": "",
+        "caddress": "Piazza del Plebiscito, Napoli"
+      },
+      {
+        "cname": "蛋堡",
+        "url": "/sight/napoli747/1508572.html",
+        "s_img": "",
+        "caddress": "Via Eldorado, 3, 80132 Napoli"
+      },
+      {
+        "cname": "赫库兰尼姆古城",
+        "url": "/sight/napoli747/1416234.html",
+        "s_img": "http://m.chanyouji.cn/117325/1399561273070p18ne4qcig1gof1mho1frl1p8b1sik6c.jpg?imageView/1/w/220/h/140",
+        "caddress": "Corso Resina, 187,Ercolano Napoli, Italia"
+      },
+      {
+        "cname": "卡萨特皇宫",
+        "url": "/sight/napoli747/1508663.html",
+        "s_img": "",
+        "caddress": "Viale Douhet, 2/a, 81100 Caserta CE"
+      },
+      {
+        "cname": "那不勒斯音乐学院 ",
+        "url": "/sight/napoli747/1508716.html",
+        "s_img": "",
+        "caddress": "Via San Pietro a Majella, 35, 80138 Napoli"
+      },
+      {
+        "cname": "圣埃尔默城堡 ",
+        "url": "/sight/napoli747/1508654.html",
+        "s_img": "",
+        "caddress": "Via Tito Angelini, 22, 80129 Napoli"
+      },
+      {
+        "cname": "圣玛帝诺修道院",
+        "url": "/sight/napoli747/1508644.html",
+        "s_img": "",
+        "caddress": "Largo S. Martino, 5, 80129 Napoli"
+      },
+      {
+        "cname": "维吉尔公园",
+        "url": "/sight/napoli747/1508711.html",
+        "s_img": "",
+        "caddress": "Viale Virgilio, 80123 Napoli NA"
+      },
+      {
+        "cname": "翁贝托长廊",
+        "url": "/sight/napoli747/1494066.html",
+        "s_img": "",
+        "caddress": "Galleria Umberto I, Napoli, NA"
+      },
+      {
+        "cname": "新堡",
+        "url": "/sight/napoli747/1508642.html",
+        "s_img": "",
+        "caddress": "Via Vittorio Emanuele III, 80133 Napoli"
+      },
+      {
+        "cname": "国家考古博物馆",
+        "url": "/sight/napoli747/22719.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/183/711/883/25e8e7d4e1e347ed9e30c417d53c9dd5_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "翁贝托一世长廊",
+        "url": "/sight/napoli747/1416308.html",
+        "s_img": "http://m.chanyouji.cn/144885/1405744009127p18t6du9ohd0b1lru2t1brt14ic4.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via San Carlo, 80132 Napoli"
+      },
+      {
+        "cname": "卡波迪蒙特王宫",
+        "url": "/sight/napoli747/22712.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/036/138/382/dab8eda16ccc45e598d1709ebbaf78b9_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "那不勒斯主教大教堂",
+        "url": "/sight/napoli747/22717.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/186/062/801/0c977adc3a5f47f98e6c3d4eff26b961_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "圣多美尼克教堂",
+        "url": "/sight/napoli747/22713.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/723/723/4a6aef7aff7e4044b4c24ad570407e8c_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "喷硫火山口",
+        "url": "/sight/napoli747/22714.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/914/369/85739f9c558943e482b365ea8119ce9e_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "圣热内罗地下墓穴",
+        "url": "/sight/napoli747/22718.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "托斯卡纳",
+    "url": "http://you.ctrip.com/sightlist/tuscany21198.html",
+    "places": [
+      {
+        "cname": "圣母百花大教堂",
+        "url": "/sight/florence341/12018.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375367231920p180t4cuccuu05e616gl1a9dtcd2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via della Canonica, 1, Piazza del Duomo, 50122 Firenze"
+      },
+      {
+        "cname": "佛罗伦萨",
+        "url": "/sight/florence341/139439.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/498/418/071/bdf4366b1e6e4c4d8180bb249417c9c5_C_220_140.jpg",
+        "caddress": "佛罗伦萨"
+      },
+      {
+        "cname": "比萨斜塔",
+        "url": "/sight/pisa1761/67634.html",
+        "s_img": "http://p.chanyouji.cn/5307/1348249964979p177kv96chqkp1kpa1upbl188orh.jpg?imageView/1/w/220/h/140",
+        "caddress": "CPiazza del Duomo, 56126 Pisa"
+      },
+      {
+        "cname": "市政厅广场",
+        "url": "/sight/florence341/85090.html",
+        "s_img": "http://p.chanyouji.cn/59104/1375367862732p180t506dh19l1pnr1j296r53jr2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza della Signoria, Firenze"
+      },
+      {
+        "cname": "乌菲兹美术馆",
+        "url": "/sight/florence341/12023.html",
+        "s_img": "http://p.chanyouji.cn/148040/1406307606781p18tn7av2sq5h1vst1igd1e4i1r89p.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazzale degli Uffizi, 6, 50122 Firenze"
+      },
+      {
+        "cname": "老桥",
+        "url": "/sight/florence341/134731.html",
+        "s_img": "http://p.chanyouji.cn/1374760442/324812AB-EC2F-4C17-AFDD-34AF34F5412A.jpg?imageView/1/w/220/h/140",
+        "caddress": "Ponte Vecchio, Firenze"
+      },
+      {
+        "cname": "米开朗琪罗广场",
+        "url": "/sight/florence341/12030.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/353/499/962/15e96f3baf004a4b9ea6e47840980cb1_C_220_140.jpg",
+        "caddress": "Piazzale Michelangelo, 50125 Firenze"
+      },
+      {
+        "cname": "佛罗伦萨学院美术馆",
+        "url": "/sight/florence341/138945.html",
+        "s_img": "http://p.chanyouji.cn/93579/1387887035842p18ci86p8vo281flbm3tt8l1ga08.jpg?imageView/1/w/220/h/140",
+        "caddress": "Via Bettino Ricasoli, 60, 50122 Firenze"
+      },
+      {
+        "cname": "锡耶纳老城区",
+        "url": "/sight/florence341/76639.html",
+        "s_img": "http://p.chanyouji.cn/156469/1408415538328p18vm1kcvk1u561qvv1gfpndl1pj1o.jpg?imageView/1/w/220/h/140",
+        "caddress": "意大利锡耶纳"
+      },
+      {
+        "cname": "圣十字大教堂",
+        "url": "/sight/florence341/12031.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/574/662/768/5b23637339824d5e8f1617d41828a17c_C_220_140.jpg",
+        "caddress": "Piazza Santa Croce, 16, 50122, Firenze"
+      },
+      {
+        "cname": "皮蒂宫",
+        "url": "/sight/florence341/12024.html",
+        "s_img": "http://p.chanyouji.cn/162520/1410363657475p191g3egf1138s1gs01g961nngq441q.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza de Pitti, 1, Firenze"
+      },
+      {
+        "cname": "乔托钟楼",
+        "url": "/sight/florence341/12020.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/212/098/809/42dad64473d6485683514fc83d1b7bbf_C_220_140.jpg",
+        "caddress": "Piazza Duomo, 50122 Firenze"
+      },
+      {
+        "cname": "但丁故居",
+        "url": "/sight/florence341/138943.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/E8/F8/CghzgVTZbCCATGkTABso0-4uxdM198_C_220_140.jpg",
+        "caddress": "Via S. Margherita, 1, Firenze"
+      },
+      {
+        "cname": "美第奇-里卡尔第宫",
+        "url": "/sight/florence341/12028.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/739/518/589/9fee12acd0c041c6bb1ee4d0836e49db_C_220_140.jpg",
+        "caddress": "Via Camillo Cavour, 3, 50129 Firenze"
+      },
+      {
+        "cname": "圣洛伦佐教堂",
+        "url": "/sight/florence341/12026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/929/228/162/7c9eae3b254e4469a5942fc43b0e063e_C_220_140.jpg",
+        "caddress": "Piazza di San Lorenzo, 9, 50123 Firenze"
+      },
+      {
+        "cname": "波波里花园",
+        "url": "/sight/florence341/12025.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/480/109/060/ea977e31c3544c0d9439732b9e31bbb6_C_220_140.jpg",
+        "caddress": "Piazza Pitti, 1, 50125 Firenze"
+      },
+      {
+        "cname": "奇迹广场",
+        "url": "/sight/pisa1761/1416224.html",
+        "s_img": "http://m.chanyouji.cn/59104/1375367399481p180t4i20pq2112jkulp1mb6dds2.jpg?imageView/1/w/220/h/140",
+        "caddress": "Piazza del Duomo, 56010 Pisa"
+      },
+      {
+        "cname": "锡耶纳大教堂博物馆",
+        "url": "/sight/siena1128/138912.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/561/928/933/f7f6f7027c534d2e9d6b9e72862bc514_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, 53100 Siena, Italy"
+      },
+      {
+        "cname": "贝壳广场",
+        "url": "/sight/siena1128/138911.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/841/080/354/39738a6a40c243308eddb71ecdcd15be_C_220_140.jpg",
+        "caddress": "Piazza Il Campo, 53100 Siena"
+      },
+      {
+        "cname": "巴杰罗美术馆",
+        "url": "/sight/florence341/12019.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/402/859/762/8408c20d64d04af884a2ceff81b6d763_C_220_140.jpg",
+        "caddress": "Via del Proconsolo, 4, 50122 Firenze"
+      },
+      {
+        "cname": "维奇奥宫（旧宫）",
+        "url": "/sight/florence341/12022.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/916/255/954/44e55664a196443cafd5cb7032203eea_C_220_140.jpg",
+        "caddress": "Piazza della Signoria, Firenze"
+      },
+      {
+        "cname": "圣吉米亚诺大教堂",
+        "url": "/sight/sangimignano6394/1410030.html",
+        "s_img": "http://m.chanyouji.cn/13562/1352699928376p17bpj525fm76gj21ps45drt3t4.jpg?imageView/1/w/220/h/140",
+        "caddress": "Cathedral (Collegiata),San Gimignano Siena"
+      },
+      {
+        "cname": "圣吉米纳诺古城",
+        "url": "/sight/siena1128/67519.html",
+        "s_img": "http://p.chanyouji.cn/1380967192/471B6167-654F-4B20-A891-B26E0AE1CDB0.jpg?imageView/1/w/220/h/140",
+        "caddress": "锡耶纳省圣吉米尼亚诺"
+      },
+      {
+        "cname": "法拉利博物馆",
+        "url": "/sight/florence341/75411.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/310/345/084/811243c34eb549b2b4f8a2f00e52e2b1_C_220_140.jpg",
+        "caddress": "Via Dino Ferrari, 43, 41053 Maranello Modena,"
+      },
+      {
+        "cname": "圣母百花大教堂博物馆",
+        "url": "/sight/florence341/12021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/427/894/468/11e4c047c8034b519a6b0f4d15975814_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, 9 50122 Firenze"
+      },
+      {
+        "cname": "皮恩扎",
+        "url": "/sight/tuscany21198/146920.html",
+        "s_img": "http://m.chanyouji.cn/450/1347719959462p17755pvt4htqoudmvu123pjtt6.jpg?imageView/1/w/220/h/140",
+        "caddress": "53026 Pienza SI（斯卡纳大区锡耶纳省皮恩扎镇）"
+      },
+      {
+        "cname": "圣若望洗礼堂",
+        "url": "/sight/florence341/141888.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/861/080/872/339ffe74c4e343779ec745acf0bc17ab_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "主教座堂广场",
+        "url": "/sight/sangimignano6394/1410031.html",
+        "s_img": "",
+        "caddress": "Piazza del Duomo,San Gimignano Siena"
+      },
+      {
+        "cname": "阿诺河",
+        "url": "/sight/florence341/1415235.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0B/8E/3A/Cghzf1TkwpSAJsVsAB42438iRbI664_C_220_140.jpg",
+        "caddress": "Fiume Arno, Firenze"
+      },
+      {
+        "cname": "共和广场",
+        "url": "/sight/florence341/1415253.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/54/5C/CghzgVS_fNyAaJTCAAFFllYpMRg499_C_220_140.jpg",
+        "caddress": "Piazza della Repubblica, 50123 Firenze"
+      },
+      {
+        "cname": "美第奇家族礼拜堂",
+        "url": "/sight/florence341/49737.html",
+        "s_img": "",
+        "caddress": "Piazza di Madonna degli Aldobrandini, 6, 50123 Firenze"
+      },
+      {
+        "cname": "天堂之门",
+        "url": "/sight/florence341/1415233.html",
+        "s_img": "",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "蒙特卡蒂尼",
+        "url": "/sight/tuscany21198/26173.html",
+        "s_img": "",
+        "caddress": "Montecatini-terme Pistoia"
+      },
+      {
+        "cname": "水井广场",
+        "url": "/sight/sangimignano6394/1410025.html",
+        "s_img": "",
+        "caddress": "Piazza della Cisterna, San Gimignano Siena"
+      },
+      {
+        "cname": "恩宠桥",
+        "url": "/sight/florence341/1415246.html",
+        "s_img": "",
+        "caddress": "Ponte alle Grazie, Firenze"
+      },
+      {
+        "cname": "圣米尼亚托教堂",
+        "url": "/sight/florence341/49743.html",
+        "s_img": "",
+        "caddress": "Via delle Porte Sante, 34, 50125 Firenze"
+      },
+      {
+        "cname": "圣三一教堂",
+        "url": "/sight/florence341/1415259.html",
+        "s_img": "",
+        "caddress": "Via del Parione, 3, 50123 Firenze"
+      },
+      {
+        "cname": "圣三一桥",
+        "url": "/sight/florence341/1415250.html",
+        "s_img": "",
+        "caddress": "Ponte Santa Trinita, 50100 Firenze"
+      },
+      {
+        "cname": "新市场拱廊",
+        "url": "/sight/florence341/1415262.html",
+        "s_img": "",
+        "caddress": "Piazza del Mercato Nuovo, 50123 Firenze"
+      },
+      {
+        "cname": "主教座堂广场",
+        "url": "/sight/florence341/1415225.html",
+        "s_img": "",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "格罗萨塔楼",
+        "url": "/sight/sangimignano6394/1410007.html",
+        "s_img": "",
+        "caddress": "Piazza Duomo, 2,San Gimignano Siena, Italia"
+      },
+      {
+        "cname": "新圣母教堂香料药房",
+        "url": "/sight/florence341/1415281.html",
+        "s_img": "",
+        "caddress": "Via della Scala, 16, 50123 Firenze"
+      },
+      {
+        "cname": "碧加洛凉廊",
+        "url": "/sight/florence341/1415249.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/334/626/650/473fa9ac43494a07937a921c11e57723_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, Firenze"
+      },
+      {
+        "cname": "瓷器博物馆",
+        "url": "/sight/florence341/1415318.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/691/326/218/2f2a23fa08ef411bb88c5981378c85df_C_220_140.jpg",
+        "caddress": "Piazza de Pitti, Firenze"
+      },
+      {
+        "cname": "国家考古博物馆",
+        "url": "/sight/florence341/49739.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/265/399/258/b48a7e180be44912b4bb6478e82fb272_C_220_140.jpg",
+        "caddress": "Piazza della Santissima Annunziata, 9, Firenze"
+      },
+      {
+        "cname": "卡尔特修道院",
+        "url": "/sight/florence341/1415293.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/633/559/663/d07525e2679e4e2fbfa26b56748caa79_C_220_140.jpg",
+        "caddress": "Via della Certosa, 1, 50124 Firenze"
+      },
+      {
+        "cname": "鲁切拉宫",
+        "url": "/sight/florence341/1415328.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/535/399/687/2deb975f85cb4cd29063cb4fbb891d5e_C_220_140.jpg",
+        "caddress": "Via della Vigna Nuova, 18, Firenze"
+      },
+      {
+        "cname": "圣灵大教堂",
+        "url": "/sight/florence341/1415256.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/390/786/713/a2062b026c544ad0aefc19b9d5302946_C_220_140.jpg",
+        "caddress": "Piazza Santo Spirito, 30, 50125 Firenze"
+      },
+      {
+        "cname": "圣马可博物馆",
+        "url": "/sight/florence341/1415258.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/316/149/059/319f17a62e1349c9bd6885e88db30dc1_C_220_140.jpg",
+        "caddress": "Piazza San Marco, 3, 50121 Firenze"
+      },
+      {
+        "cname": "圣母领报大教堂",
+        "url": "/sight/florence341/1415261.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/670/196/676/6c15a588085240d090f7c074a9427380_C_220_140.jpg",
+        "caddress": "Piazza SS Annunziata, 50122 Firenze"
+      },
+      {
+        "cname": "圣十字广场",
+        "url": "/sight/florence341/1415237.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/737/818/541/433fd385d4944f9f8a9846556d6fd63b_C_220_140.jpg",
+        "caddress": "Piazza Santa Croce, Firenze"
+      },
+      {
+        "cname": "新圣母大殿",
+        "url": "/sight/florence341/1415224.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/045/682/005/b9fb3372852346069f143c3f01eb2a53_C_220_140.jpg",
+        "caddress": "Piazza di Santa Maria Novella, 18, 50123 Firenze"
+      },
+      {
+        "cname": "育婴堂",
+        "url": "/sight/florence341/1415265.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/869/997/aed41791621740e3aa6451b49d5ea1b7_C_220_140.jpg",
+        "caddress": "Piazza della Santissima Annunziata, 12, 50121 Firenze"
+      },
+      {
+        "cname": "锡耶纳大教堂",
+        "url": "/sight/siena1128/142342.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/738/051/268/9ba302c71cc54fa29ea6c29f410b72ba_C_220_140.jpg",
+        "caddress": "Piazza del Campo 1"
+      },
+      {
+        "cname": "安东尼宫",
+        "url": "/sight/florence341/1415292.html",
+        "s_img": "",
+        "caddress": "Piazza degli Antinori, 3, Firenze"
+      },
+      {
+        "cname": "伽利略博物馆",
+        "url": "/sight/florence341/1415313.html",
+        "s_img": "",
+        "caddress": "Piazza dei Giudici, 1, 50122 Firenze"
+      },
+      {
+        "cname": "巴尔迪尼花园",
+        "url": "/sight/florence341/1415285.html",
+        "s_img": "",
+        "caddress": "Costa San Giorgio, 2, 50125 Firenze"
+      },
+      {
+        "cname": "达·芬奇博物馆",
+        "url": "/sight/tuscany21198/1484235.html",
+        "s_img": "",
+        "caddress": "Via della Torre, 2, 50059 Vinci"
+      },
+      {
+        "cname": "菲耶索莱",
+        "url": "/sight/florence341/1415296.html",
+        "s_img": "",
+        "caddress": "Fiesole, Florence"
+      },
+      {
+        "cname": "芬奇",
+        "url": "/sight/florence341/1415330.html",
+        "s_img": "",
+        "caddress": "Vinci, FI"
+      },
+      {
+        "cname": "佛罗伦萨大学",
+        "url": "/sight/florence341/1415333.html",
+        "s_img": "",
+        "caddress": "Piazza di San Marco, 4, 50121 Firenze"
+      },
+      {
+        "cname": "弗兰基球场",
+        "url": "/sight/florence341/1415302.html",
+        "s_img": "",
+        "caddress": "Viale Manfredo Fanti, 4, 50137 Firenze"
+      },
+      {
+        "cname": "狂欢节博物馆",
+        "url": "/sight/tuscany21198/1484221.html",
+        "s_img": "",
+        "caddress": "Via Santa Maria Goretti, 55049 Viareggio LU"
+      },
+      {
+        "cname": "罗都佛·西维罗楼",
+        "url": "/sight/florence341/1415323.html",
+        "s_img": "",
+        "caddress": "Lungarno Serristori, 1, 50100 Firenze"
+      },
+      {
+        "cname": "蒙特里焦尼",
+        "url": "/sight/tuscany21198/1484286.html",
+        "s_img": "",
+        "caddress": "53035 Monteriggioni SI"
+      },
+      {
+        "cname": "神圣艺术博物馆",
+        "url": "/sight/tuscany21198/1484281.html",
+        "s_img": "",
+        "caddress": "Via San Piero in Mercato, 233, 50025 Montespertoli FI"
+      },
+      {
+        "cname": "圣乔万尼门",
+        "url": "/sight/sangimignano6394/1410016.html",
+        "s_img": "",
+        "caddress": "53037 San Gimignano SI, 意大利"
+      },
+      {
+        "cname": "统一广场",
+        "url": "/sight/florence341/1415251.html",
+        "s_img": "",
+        "caddress": "Piazza dell'Unità Italiana, 50123 Firenze"
+      },
+      {
+        "cname": "托纳波尼路",
+        "url": "/sight/florence341/1415304.html",
+        "s_img": "",
+        "caddress": "Via dè Tornabuoni, 50123 Firenze"
+      },
+      {
+        "cname": "犹太教大会堂",
+        "url": "/sight/florence341/1415273.html",
+        "s_img": "",
+        "caddress": "Via Luigi Carlo Farini, 6, 50121 Firenze"
+      },
+      {
+        "cname": "诸圣教堂",
+        "url": "/sight/florence341/1415316.html",
+        "s_img": "",
+        "caddress": "Borgo Ognissanti, 42, 50123 Firenze"
+      },
+      {
+        "cname": "卡尔米内圣母教堂",
+        "url": "/sight/florence341/1415322.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/357/151/758/dfb625b548894a58b3807d459ed29b79_C_220_140.jpg",
+        "caddress": "Piazza del Carmine, 50124 Firenze"
+      },
+      {
+        "cname": "布兰卡契小堂",
+        "url": "/sight/florence341/1415294.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/901/259/c5cc6b88cf1e4ea2b2ed9e1f99982114_C_220_140.jpg",
+        "caddress": "Piazza del Carmine, 50124 Firenze"
+      },
+      {
+        "cname": "玫瑰花园",
+        "url": "/sight/florence341/1415264.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/387/475/901/d6a50b1270804ac4926f7c449fa64a8f_C_220_140.jpg",
+        "caddress": "Viale Giuseppe Poggi, 2, 50125 Firenze"
+      },
+      {
+        "cname": "圣弥额尔教堂",
+        "url": "/sight/florence341/1415291.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/613/406/210/f2e6f507cf1b4007a335214886707649_C_220_140.jpg",
+        "caddress": "Via dell'Arte della Lana, 50123 Firenze"
+      },
+      {
+        "cname": "布里昂家族墓",
+        "url": "/sight/tuscany21198/1484270.html",
+        "s_img": "",
+        "caddress": "Via Brioni, 28, Altivole TV"
+      },
+      {
+        "cname": "葡萄酒博物馆",
+        "url": "/sight/tuscany21198/1484297.html",
+        "s_img": "",
+        "caddress": "Corso Vittorio Emanuele II, 31, 06089 Torgiano PG"
+      },
+      {
+        "cname": "圣富临教堂",
+        "url": "/sight/florence341/1415283.html",
+        "s_img": "",
+        "caddress": "Piazza di Santa Felicita, 3, 50125 Firenze"
+      },
+      {
+        "cname": "美景堡",
+        "url": "/sight/florence341/1415282.html",
+        "s_img": "",
+        "caddress": "Via di San Leonardo, 1, 50100 Firenze"
+      },
+      {
+        "cname": "简洁花园",
+        "url": "/sight/florence341/1415327.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/665/517/910/4d1c8823861840bfae3ddc980f4252e0_C_220_140.jpg",
+        "caddress": "Via Pier Antonio Micheli, 3, 50121 Firenze"
+      },
+      {
+        "cname": "波代斯塔宫",
+        "url": "/sight/tuscany21198/1484441.html",
+        "s_img": "",
+        "caddress": "Piazza Maggiore, 1, Bologna"
+      },
+      {
+        "cname": "里窝那海事堡垒",
+        "url": "/sight/tuscany21198/1484263.html",
+        "s_img": "",
+        "caddress": "Piazza Dei Marmi, 57123 Livorno LI"
+      },
+      {
+        "cname": "马莱玛公园",
+        "url": "/sight/tuscany21198/1484206.html",
+        "s_img": "",
+        "caddress": "Via Bersagliere, 7/9, 58100 Alberese GR"
+      },
+      {
+        "cname": "莫纳阿格里斯古董店",
+        "url": "/sight/siena1128/142350.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/492/979/811/c5b337b83fb64c388508485f44a40fe9_C_220_140.jpg",
+        "caddress": "锡耶纳"
+      },
+      {
+        "cname": "露天集市",
+        "url": "/sight/siena1128/142346.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/483/661/2c0e33db31644b15bf85e57b5229f513_C_220_140.jpg",
+        "caddress": "Via La Lizza街"
+      },
+      {
+        "cname": "国立美术馆",
+        "url": "/sight/siena1128/142345.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/736/607/193/6f9efdf1bcbd4f9b96b5af393b4d85fd_C_220_140.jpg",
+        "caddress": "Via San Pietro 29"
+      },
+      {
+        "cname": "市立博物馆",
+        "url": "/sight/siena1128/142341.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/963/399/567/8fe2f304c58b44e0a93b3ba3d2d047cc_C_220_140.jpg",
+        "caddress": "Piazza del Campo 1"
+      },
+      {
+        "cname": "圣多米尼克教堂",
+        "url": "/sight/siena1128/142344.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/935/336/923/8d2215169132447fb15d019307d9553e_C_220_140.jpg",
+        "caddress": "Via Camporegio"
+      },
+      {
+        "cname": "古董市场",
+        "url": "/sight/siena1128/142349.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/618/014/755/577107f3d8944df99776a00b56045507_C_220_140.jpg",
+        "caddress": "Piazza del Mercato"
+      },
+      {
+        "cname": "曼加塔",
+        "url": "/sight/siena1128/142340.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/391/870/572/3624f1e087094ad18fc7f278416a25b7_C_220_140.jpg",
+        "caddress": "Piazza del Campo 1"
+      },
+      {
+        "cname": "圣玛利亚斯卡拉教堂",
+        "url": "/sight/siena1128/142343.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/273/841/701/d607e5ee7bde492ea81db007ce19a23e_C_220_140.jpg",
+        "caddress": "Piazza del Duomo 2"
+      },
+      {
+        "cname": "黑与白",
+        "url": "/sight/siena1128/142351.html",
+        "s_img": "",
+        "caddress": "Via dei Fusari 21"
+      },
+      {
+        "cname": "Cortecci",
+        "url": "/sight/siena1128/142352.html",
+        "s_img": "",
+        "caddress": "Via Banchi di Sopra 27"
+      }
+    ]
+  },
+  {
+    "cname": "庞贝",
+    "url": "http://you.ctrip.com/sightlist/pompeii719.html",
+    "places": [
+      {
+        "cname": "庞贝古城",
+        "url": "/sight/pompeii719/138949.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/643/795/384/37300bd574114e50b38d28330e0c0d14_C_220_140.jpg",
+        "caddress": "Via Villa dei Misteri, 2, 80045 Pompei Napoli"
+      },
+      {
+        "cname": "阿波罗神殿中心广场",
+        "url": "/sight/pompeii719/22793.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/886/213/387/189ce4def3c143cfbcbac1d87b52f125_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "悲剧诗人之家",
+        "url": "/sight/pompeii719/22795.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/894/206/811/61cce97bdda343edaacc75756453d220_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "露天剧场",
+        "url": "/sight/pompeii719/22798.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/376/826/682/07d7060d1f974a9d8ce86b0c175af9e6_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "神秘庄",
+        "url": "/sight/pompeii719/22799.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/167/693/888/9dc7f938a46c47b5934e1ec33ea75579_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "阿波坦查大道",
+        "url": "/sight/pompeii719/22797.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/955/007/cc8f1a6a035c416eacac85b54186e131_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "维提之家",
+        "url": "/sight/pompeii719/22794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/784/005/475/e7b40081d2694264af38d7ea1ac4e635_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "史塔比尼浴场",
+        "url": "/sight/pompeii719/22796.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/342/846/696/cbec2bf739aa4a24a8d9e3cf0fff4ab7_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "锡耶纳",
+    "url": "http://you.ctrip.com/sightlist/siena1128.html",
+    "places": [
+      {
+        "cname": "锡耶纳老城区",
+        "url": "/sight/florence341/76639.html",
+        "s_img": "http://p.chanyouji.cn/156469/1408415538328p18vm1kcvk1u561qvv1gfpndl1pj1o.jpg?imageView/1/w/220/h/140",
+        "caddress": "意大利锡耶纳"
+      },
+      {
+        "cname": "锡耶纳大教堂博物馆",
+        "url": "/sight/siena1128/138912.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/561/928/933/f7f6f7027c534d2e9d6b9e72862bc514_C_220_140.jpg",
+        "caddress": "Piazza del Duomo, 53100 Siena, Italy"
+      },
+      {
+        "cname": "贝壳广场",
+        "url": "/sight/siena1128/138911.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/841/080/354/39738a6a40c243308eddb71ecdcd15be_C_220_140.jpg",
+        "caddress": "Piazza Il Campo, 53100 Siena"
+      },
+      {
+        "cname": "圣吉米纳诺古城",
+        "url": "/sight/siena1128/67519.html",
+        "s_img": "http://p.chanyouji.cn/1380967192/471B6167-654F-4B20-A891-B26E0AE1CDB0.jpg?imageView/1/w/220/h/140",
+        "caddress": "锡耶纳省圣吉米尼亚诺"
+      },
+      {
+        "cname": "蒙塔奇诺",
+        "url": "/sight/siena1128/147133.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/233/028/072/e4739320f4a4489f906d4ce900894a7a_C_220_140.jpg",
+        "caddress": "53024 Montalcino SI（锡耶纳省蒙达奇诺）"
+      },
+      {
+        "cname": "锡耶纳大教堂",
+        "url": "/sight/siena1128/142342.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/738/051/268/9ba302c71cc54fa29ea6c29f410b72ba_C_220_140.jpg",
+        "caddress": "Piazza del Campo 1"
+      },
+      {
+        "cname": "欢乐喷泉",
+        "url": "/sight/siena1128/1484469.html",
+        "s_img": "",
+        "caddress": "Piazza Il Campo, 21, Siena SI"
+      },
+      {
+        "cname": "沙林贝尼广场",
+        "url": "/sight/siena1128/1484506.html",
+        "s_img": "",
+        "caddress": "Piazza Salimbeni, Siena SI"
+      },
+      {
+        "cname": "莫纳阿格里斯古董店",
+        "url": "/sight/siena1128/142350.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/492/979/811/c5b337b83fb64c388508485f44a40fe9_C_220_140.jpg",
+        "caddress": "锡耶纳"
+      },
+      {
+        "cname": "露天集市",
+        "url": "/sight/siena1128/142346.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/483/661/2c0e33db31644b15bf85e57b5229f513_C_220_140.jpg",
+        "caddress": "Via La Lizza街"
+      },
+      {
+        "cname": "国立美术馆",
+        "url": "/sight/siena1128/142345.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/736/607/193/6f9efdf1bcbd4f9b96b5af393b4d85fd_C_220_140.jpg",
+        "caddress": "Via San Pietro 29"
+      },
+      {
+        "cname": "市立博物馆",
+        "url": "/sight/siena1128/142341.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/963/399/567/8fe2f304c58b44e0a93b3ba3d2d047cc_C_220_140.jpg",
+        "caddress": "Piazza del Campo 1"
+      },
+      {
+        "cname": "圣多米尼克教堂",
+        "url": "/sight/siena1128/142344.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/935/336/923/8d2215169132447fb15d019307d9553e_C_220_140.jpg",
+        "caddress": "Via Camporegio"
+      },
+      {
+        "cname": "古董市场",
+        "url": "/sight/siena1128/142349.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/618/014/755/577107f3d8944df99776a00b56045507_C_220_140.jpg",
+        "caddress": "Piazza del Mercato"
+      },
+      {
+        "cname": "曼加塔",
+        "url": "/sight/siena1128/142340.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/391/870/572/3624f1e087094ad18fc7f278416a25b7_C_220_140.jpg",
+        "caddress": "Piazza del Campo 1"
+      },
+      {
+        "cname": "圣玛利亚斯卡拉教堂",
+        "url": "/sight/siena1128/142343.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/273/841/701/d607e5ee7bde492ea81db007ce19a23e_C_220_140.jpg",
+        "caddress": "Piazza del Duomo 2"
+      },
+      {
+        "cname": "黑与白",
+        "url": "/sight/siena1128/142351.html",
+        "s_img": "",
+        "caddress": "Via dei Fusari 21"
+      },
+      {
+        "cname": "Cortecci",
+        "url": "/sight/siena1128/142352.html",
+        "s_img": "",
+        "caddress": "Via Banchi di Sopra 27"
+      }
+    ]
+  },
+  {
+    "cname": "西西里岛",
+    "url": "http://you.ctrip.com/sightlist/sicily21192.html",
+    "places": [
+      {
+        "cname": "巴勒莫",
+        "url": "/sight/sicily21192/133504.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/126/110/653/1e6ce77dc705472487271ce1a2783873_C_220_140.jpg",
+        "caddress": "意大利西西里岛首府巴勒莫"
+      },
+      {
+        "cname": "卡塔尼亚",
+        "url": "/sight/sicily21192/133505.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/944/469/087/a7f5dff66110449d85f7d7a5ca3bccdd_C_220_140.jpg",
+        "caddress": "catania, Sicily"
+      },
+      {
+        "cname": "陶尔米纳",
+        "url": "/sight/sicily21192/135506.html",
+        "s_img": "http://m.chanyouji.cn/1393863210/93297D4D-0CA0-486F-A46C-C466E9733622.jpg?imageView/1/w/220/h/140",
+        "caddress": "意大利西西里岛的一个小镇，世界十大地中海沙滩小镇"
+      },
+      {
+        "cname": "埃特纳火山",
+        "url": "/sight/sicily21192/133515.html",
+        "s_img": "http://m.chanyouji.cn/27590/1362838135539p17l7nn3qu1nuugvs40n17b51fls7.jpg?imageView/1/w/220/h/140",
+        "caddress": "Catania, Sicily, Italy"
+      },
+      {
+        "cname": "阿格里真托",
+        "url": "/sight/sicily21192/133507.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/085/898/069/1f4c1d1001df4692b67344ea24e088c5_C_220_140.jpg",
+        "caddress": "阿格里真托省省会。近西西里岛南岸。"
+      },
+      {
+        "cname": "锡拉库萨",
+        "url": "/sight/sicily21192/133506.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/815/989/579/3b990845f49942d2a0960d7937b15a5b_C_220_140.jpg",
+        "caddress": "意大利西西里锡拉库萨"
+      },
+      {
+        "cname": "圣若望隐修院",
+        "url": "/sight/sicily21192/133512.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/987/028/614/64333d81e81445378260d670e0c7fb6d_C_220_140.jpg",
+        "caddress": "意大利巴勒莫 Via dei Benedettini, 独修者若望教堂"
+      },
+      {
+        "cname": "圣卡塔尔多教堂",
+        "url": "/sight/sicily21192/133510.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/956/261/763/2cf8e2328ff444ca819147cd3a1c1268_C_220_140.jpg",
+        "caddress": "Piazza Bellini, 1, Palermo, 意大利 ‎"
+      },
+      {
+        "cname": "普雷托利亚广场",
+        "url": "/sight/sicily21192/133508.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/638/385/c189098ea8e440c182053167d64d1a3d_C_220_140.jpg",
+        "caddress": "意大利西西里巴勒莫普雷托利亚广场"
+      },
+      {
+        "cname": "切法卢",
+        "url": "/sight/sicily21192/133503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/977/854/761/45b4c1c8e039451389baeb9387449b9f_C_220_140.jpg",
+        "caddress": "意大利巴勒莫省西西里北部的海滨小镇切法卢"
+      },
+      {
+        "cname": "神殿之谷",
+        "url": "/sight/sicily21192/133514.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/641/888/124/c33ac7272cfc4068bcf84122723bdcf3_C_220_140.jpg",
+        "caddress": "Valley of the Temples, Agrigento, AG, Italy"
+      },
+      {
+        "cname": "诺托",
+        "url": "/sight/sicily21192/135508.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/662/993/368/a87a2743c7744e948d6d4a488d072273_C_220_140.jpg",
+        "caddress": "Noto, SR, Italia"
+      },
+      {
+        "cname": "圣地安娜广场",
+        "url": "/sight/sicily21192/133511.html",
+        "s_img": "",
+        "caddress": "西西里岛"
+      }
+    ]
+  },
+  {
+    "cname": "五渔村",
+    "url": "http://you.ctrip.com/sightlist/cinqueterre7742.html",
+    "places": [
+      {
+        "cname": "五渔村",
+        "url": "/sight/cinqueterre7742/110556.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/373/308/638/c0c889247cd44a91a4569edfa246b95f_C_220_140.jpg",
+        "caddress": "Via Discovolo, 19017 Stazione Manarola Riomaggiore La Spezia"
+      },
+      {
+        "cname": "爱之路",
+        "url": "/sight/cinqueterre7742/1508468.html",
+        "s_img": "",
+        "caddress": "Parco Nazionale delle Cinque Terre Riomaggiore La Spezia"
+      },
+      {
+        "cname": "多里亚城堡",
+        "url": "/sight/cinqueterre7742/1508446.html",
+        "s_img": "",
+        "caddress": "21014 Laveno-Mombello VA"
+      },
+      {
+        "cname": "科尔尼利亚",
+        "url": "/sight/cinqueterre7742/1508445.html",
+        "s_img": "",
+        "caddress": "Parco Nazionale delle Cinque Terre Riomaggiore La Spezia"
+      },
+      {
+        "cname": "里奥马焦雷",
+        "url": "/sight/cinqueterre7742/1508491.html",
+        "s_img": "",
+        "caddress": "Via della Valletta, 13 Riomaggiore SP"
+      },
+      {
+        "cname": "里奥马焦雷城堡",
+        "url": "/sight/cinqueterre7742/1508442.html",
+        "s_img": "",
+        "caddress": "Riomaggiore La Spezia"
+      },
+      {
+        "cname": "马纳罗拉",
+        "url": "/sight/cinqueterre7742/1508483.html",
+        "s_img": "",
+        "caddress": "Manarola, La Spezia"
+      },
+      {
+        "cname": "蒙特罗索",
+        "url": "/sight/cinqueterre7742/1508486.html",
+        "s_img": "",
+        "caddress": "Parco Nazionale delle Cinque Terre Riomaggiore La Spezia"
+      },
+      {
+        "cname": "蒙特罗索巨人",
+        "url": "/sight/cinqueterre7742/1508467.html",
+        "s_img": "",
+        "caddress": "Parco Nazionale delle Cinque Terre Riomaggiore La Spezia"
+      },
+      {
+        "cname": "生命女神礼拜堂",
+        "url": "/sight/cinqueterre7742/1508242.html",
+        "s_img": "",
+        "caddress": "Località Soviore 19016 Monterosso Al Mare"
+      },
+      {
+        "cname": "圣彼得教堂",
+        "url": "/sight/cinqueterre7742/1494070.html",
+        "s_img": "",
+        "caddress": "Via San Pietro 25030 Paratico BS"
+      },
+      {
+        "cname": "圣卡特丽娜礼拜堂",
+        "url": "/sight/cinqueterre7742/1508213.html",
+        "s_img": "",
+        "caddress": "Fondamenta Santa Caterina 30121 Venezia"
+      },
+      {
+        "cname": "圣劳伦佐教堂",
+        "url": "/sight/cinqueterre7742/1508451.html",
+        "s_img": "",
+        "caddress": "Via Palazzo di Città, 4 10122 Torino"
+      },
+      {
+        "cname": "圣玛格丽特大教堂-韦尔纳扎",
+        "url": "/sight/cinqueterre7742/1508444.html",
+        "s_img": "",
+        "caddress": "Parco Nazionale delle Cinque Terre Riomaggiore La Spezia"
+      },
+      {
+        "cname": "圣母朝圣地",
+        "url": "/sight/cinqueterre7742/1508246.html",
+        "s_img": "",
+        "caddress": "Loc. Madonna di Reggio 19018 Vernazza"
+      },
+      {
+        "cname": "圣约翰教堂",
+        "url": "/sight/cinqueterre7742/1508443.html",
+        "s_img": "",
+        "caddress": "SS530 19025 Fezzano SP"
+      },
+      {
+        "cname": "韦尔纳扎",
+        "url": "/sight/cinqueterre7742/1508477.html",
+        "s_img": "",
+        "caddress": "Parco Nazionale delle Cinque Terre Riomaggiore La Spezia"
+      },
+      {
+        "cname": "韦尔纳扎",
+        "url": "/sight/cinqueterre7742/132531.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/721/829/751/664b9b94f58c41849e1463b6b5bc75bb_C_220_140.jpg",
+        "caddress": "SP, Italia"
+      },
+      {
+        "cname": "5terre Massage ",
+        "url": "/sight/monterossoalmare48215/132522.html",
+        "s_img": "",
+        "caddress": "Piazza Garibaldi, 19016 Monterosso al Mare, Italy"
+      },
+      {
+        "cname": "圣弗朗西斯科",
+        "url": "/sight/monterossoalmare48215/132518.html",
+        "s_img": "",
+        "caddress": "Piazza S.Francesco, 55045 Lucca, 意大利 ‎"
+      },
+      {
+        "cname": "Buranco Agriturismo",
+        "url": "/sight/monterossoalmare48215/132524.html",
+        "s_img": "",
+        "caddress": "Via Buranco 72, Monterosso al Mare, Italy"
+      },
+      {
+        "cname": "Dawn Tower (Torre Aurora) ",
+        "url": "/sight/monterossoalmare48215/132525.html",
+        "s_img": "",
+        "caddress": "Via San Gregorio Torre, 1, Fucecchio Firenze, 意大利 ‎"
+      },
+      {
+        "cname": "Il Gigante ",
+        "url": "/sight/monterossoalmare48215/132526.html",
+        "s_img": "",
+        "caddress": "Strada Statale 11 Padana Superiore, 154, Bellinzago Lombardo Milano, 意大利 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "热那亚",
+    "url": "http://you.ctrip.com/sightlist/genoa1042.html",
+    "places": [
+      {
+        "cname": "佛拉里广场",
+        "url": "/sight/genoa1042/72646.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/650/302/012/edb53cafcab14e6b94d3c328738a5675_C_220_140.jpg",
+        "caddress": "Piazza de Ferrari, Genova"
+      },
+      {
+        "cname": "白之宫",
+        "url": "/sight/genoa1042/72643.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/989/658/153/a704c32c8c27453cbbea90865b897372_C_220_140.jpg",
+        "caddress": "Via Garibaldi, 11, 16124 Genova"
+      },
+      {
+        "cname": "斯皮诺拉宫国家美术馆",
+        "url": "/sight/genoa1042/72306.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/935/647/911/8e413dcbf1a8447d8bbac798dd1259f4_C_220_140.jpg",
+        "caddress": "Piazza di Pellicceria, 1, 16123 Genova"
+      },
+      {
+        "cname": "热那亚水族馆",
+        "url": "/sight/genoa1042/72304.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/637/900/456/bd73788d5b2a405a86ac87b5ece51457_C_220_140.jpg",
+        "caddress": "Ponte Spinola, 16128 Genova, 意大利"
+      },
+      {
+        "cname": "加里波第路",
+        "url": "/sight/genoa1042/72308.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/577/538/676/3298f2ba2da74d66aaa741ae63d592c1_C_220_140.jpg",
+        "caddress": "Via Garibaldi, Genova"
+      },
+      {
+        "cname": "赤红宫殿",
+        "url": "/sight/genoa1042/72645.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/987/050/764/0207cafc679b45389261e91d3d92a48d_C_220_140.jpg",
+        "caddress": "Via Garibaldi, 18, 16124 Genova"
+      },
+      {
+        "cname": "圣劳伦斯大教堂",
+        "url": "/sight/genoa1042/72307.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/348/502/666/8c30df8db4fa4a39b6b5fbe28f05cb82_C_220_140.jpg",
+        "caddress": "Piazza San Lorenzo, 16123 Genova"
+      }
+    ]
+  },
+  {
+    "cname": "博洛尼亚",
+    "url": "http://you.ctrip.com/sightlist/bologna1041.html",
+    "places": []
+  },
+  {
+    "cname": "利古里亚大区",
+    "url": "http://you.ctrip.com/sightlist/liguria120355.html",
+    "places": []
+  },
+  {
+    "cname": "San Gimignano",
+    "url": "http://you.ctrip.com/sightlist/sangimignano6394.html",
+    "places": [
+      {
+        "cname": "圣吉米亚诺大教堂",
+        "url": "/sight/sangimignano6394/1410030.html",
+        "s_img": "http://m.chanyouji.cn/13562/1352699928376p17bpj525fm76gj21ps45drt3t4.jpg?imageView/1/w/220/h/140",
+        "caddress": "Cathedral (Collegiata),San Gimignano Siena"
+      },
+      {
+        "cname": "主教座堂广场",
+        "url": "/sight/sangimignano6394/1410031.html",
+        "s_img": "",
+        "caddress": "Piazza del Duomo,San Gimignano Siena"
+      },
+      {
+        "cname": "水井广场",
+        "url": "/sight/sangimignano6394/1410025.html",
+        "s_img": "",
+        "caddress": "Piazza della Cisterna, San Gimignano Siena"
+      },
+      {
+        "cname": "格罗萨塔楼",
+        "url": "/sight/sangimignano6394/1410007.html",
+        "s_img": "",
+        "caddress": "Piazza Duomo, 2,San Gimignano Siena, Italia"
+      },
+      {
+        "cname": "圣乔万尼门",
+        "url": "/sight/sangimignano6394/1410016.html",
+        "s_img": "",
+        "caddress": "53037 San Gimignano SI, 意大利"
+      }
+    ]
+  },
+  {
+    "cname": "巴里",
+    "url": "http://you.ctrip.com/sightlist/bari1495.html",
+    "places": []
+  },
+  {
+    "cname": "的里雅斯特",
+    "url": "http://you.ctrip.com/sightlist/trieste1740.html",
+    "places": []
+  },
+  {
+    "cname": "都灵",
+    "url": "http://you.ctrip.com/sightlist/turin1433.html",
+    "places": [
+      {
+        "cname": "华伦天奴城堡",
+        "url": "/sight/turin1433/1483712.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/673/874/783/583459f906f34ebd87f8b53c4234b5d4_C_220_140.jpg",
+        "caddress": "Castello del Valentino, Politecnico di Torino, 10126 Torino"
+      },
+      {
+        "cname": "国家电影博物馆",
+        "url": "/sight/turin1433/74318.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M09/9E/CC/CghzfVS1aLSAQNtCAAJ3vD-mS7s285_C_220_140.jpg",
+        "caddress": "Via Montebello, 20, Torino"
+      },
+      {
+        "cname": "维托里奥广场",
+        "url": "/sight/turin1433/1483717.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/615/521/053/4ff26e0013024deda8ad86282905b69f_C_220_140.jpg",
+        "caddress": "Piazza Vittorio Veneto, 15, 10124 Torino"
+      },
+      {
+        "cname": "圣卡洛广场",
+        "url": "/sight/turin1433/74316.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/486/959/8b22ffbc8d9540fd9950ae3db8c7d181_C_220_140.jpg",
+        "caddress": "Piazza San Carlo, 10123 Torino"
+      },
+      {
+        "cname": "埃及博物馆",
+        "url": "/sight/turin1433/74320.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/794/305/241/06d72a05b5b14289a094580253e817af_C_220_140.jpg",
+        "caddress": "Via Accademia delle Scienze, 6, 10123 Torino"
+      },
+      {
+        "cname": "圣乔瓦尼·巴蒂斯塔大教堂",
+        "url": "/sight/turin1433/74319.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/755/108/253/f69e4e358bcc4fde837ff37759e4af46_C_220_140.jpg",
+        "caddress": "Piazza San Giovanni, Torino"
+      },
+      {
+        "cname": "马达马宫",
+        "url": "/sight/turin1433/74317.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/974/964/701/9ce155ecb6b9450a928ff67966961798_C_220_140.jpg",
+        "caddress": "Piazza Castello, 10122 Torino"
+      },
+      {
+        "cname": "都灵Lingotto会展中心",
+        "url": "/sight/turin1433/74321.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/699/455/644/d2b22c00480d4f189c40491540c6dfa8_C_220_140.jpg",
+        "caddress": "Via Nizza, 294, 10126 Torino"
+      },
+      {
+        "cname": "汽车博物馆",
+        "url": "/sight/turin1433/74331.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/702/442/540/8b769e2ca7a84f229d42ade01df70c13_C_220_140.jpg",
+        "caddress": "Corso Unità d'Italia, 40, Torino"
+      },
+      {
+        "cname": "塞巴达美术馆",
+        "url": "/sight/turin1433/74333.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/709/130/115/24c53f8bae144f3db98a8f34aefc6609_C_220_140.jpg",
+        "caddress": "Via Maria Vittoria, 3, 10123 Torino"
+      },
+      {
+        "cname": "艺术学院科学馆",
+        "url": "/sight/turin1433/74330.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/636/899/297/69113f060d5340579554030594f4a799_C_220_140.jpg",
+        "caddress": "Via Maria Vittoria, 3, 10123 Torino"
+      },
+      {
+        "cname": "阿尔卑斯山",
+        "url": "/sight/turin1433/123054.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/394/044/694/7979779ce8594adba2df3d89819ab45c_C_220_140.jpg",
+        "caddress": "意大利都灵之北"
+      }
+    ]
+  },
+  {
+    "cname": "穆拉诺",
+    "url": "http://you.ctrip.com/sightlist/murano48303.html",
+    "places": [
+      {
+        "cname": "玻璃博物馆",
+        "url": "/sight/murano48303/134141.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/609/937/069/96527b15c3254dd98e2fd7df4299791c_C_220_140.jpg",
+        "caddress": "Fondamenta Marco Giustinian, 8, 30141 Venezia"
+      },
+      {
+        "cname": "多纳托教堂",
+        "url": "/sight/murano48303/134142.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/891/519/637/073632572ee943e3bd04b4eec5a04714_C_220_140.jpg",
+        "caddress": "Campo San Donato, 11, 30141 Venezia"
+      },
+      {
+        "cname": "Vetreria Artistica Colleoni sn...",
+        "url": "/sight/murano48303/134383.html",
+        "s_img": "",
+        "caddress": "Fondamenta San Giovanni dei Battuti, 12 30141 Venezia"
+      },
+      {
+        "cname": "Calle San Cipriano",
+        "url": "/sight/murano48303/134394.html",
+        "s_img": "",
+        "caddress": "Calle San Cipriano 48, 30141 Murano,"
+      },
+      {
+        "cname": "Nuova Venier Glassworks ",
+        "url": "/sight/murano48303/134393.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/729/435/888/c2e7cdf591ce41a3974d26b06ee6c8d0_C_220_140.jpg",
+        "caddress": "54/B, FDM. Navagero, 30141 Murano,"
+      }
+    ]
+  },
+  {
+    "cname": "卡塔尼亚",
+    "url": "http://you.ctrip.com/sightlist/catania734.html",
+    "places": [
+      {
+        "cname": "卡塔尼亚",
+        "url": "/sight/sicily21192/133505.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/944/469/087/a7f5dff66110449d85f7d7a5ca3bccdd_C_220_140.jpg",
+        "caddress": "catania, Sicily"
+      },
+      {
+        "cname": "圣阿加塔大教堂",
+        "url": "/sight/catania734/1506017.html",
+        "s_img": "",
+        "caddress": "Via Vittorio Emanuele II, 163"
+      }
+    ]
+  },
+  {
+    "cname": "里米尼",
+    "url": "http://you.ctrip.com/sightlist/rimini1120.html",
+    "places": []
+  },
+  {
+    "cname": "帕多瓦",
+    "url": "http://you.ctrip.com/sightlist/padua1616.html",
+    "places": []
+  },
+  {
+    "cname": "卡利亚里",
+    "url": "http://you.ctrip.com/sightlist/cagliari5359.html",
+    "places": []
+  },
+  {
+    "cname": "陶尔米纳",
+    "url": "http://you.ctrip.com/sightlist/taormina1647.html",
+    "places": [
+      {
+        "cname": "陶尔米纳",
+        "url": "/sight/sicily21192/135506.html",
+        "s_img": "http://m.chanyouji.cn/1393863210/93297D4D-0CA0-486F-A46C-C466E9733622.jpg?imageView/1/w/220/h/140",
+        "caddress": "意大利西西里岛的一个小镇，世界十大地中海沙滩小镇"
+      }
+    ]
+  },
+  {
+    "cname": "Tirano",
+    "url": "http://you.ctrip.com/sightlist/tirano47797.html",
+    "places": []
+  },
+  {
+    "cname": "普拉托",
+    "url": "http://you.ctrip.com/sightlist/prato1547.html",
+    "places": []
+  },
+  {
+    "cname": "Ceglie Messapica",
+    "url": "http://you.ctrip.com/sightlist/cegliemessapica7639.html",
+    "places": []
+  },
+  {
+    "cname": "Massafra",
+    "url": "http://you.ctrip.com/sightlist/massafra7640.html",
+    "places": [
+      {
+        "cname": "奔富",
+        "url": "/sight/massafra7640/96835.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/577/345/136/674e293329364d6880b56f82f260c025_C_220_140.jpg",
+        "caddress": "78 Penfold Rd, Magill SA 5072澳大利亚 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "Ne",
+    "url": "http://you.ctrip.com/sightlist/ne7781.html",
+    "places": [
+      {
+        "cname": "Chelsea Market",
+        "url": "/sight/ne7781/122894.html",
+        "s_img": "",
+        "caddress": "New York City"
+      },
+      {
+        "cname": "仙人掌花园",
+        "url": "/sight/ne7781/123062.html",
+        "s_img": "",
+        "caddress": "2 Cactus Garden Dr, Henderson, NV, USA"
+      }
+    ]
+  }
+]

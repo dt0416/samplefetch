@@ -1,0 +1,80 @@
+[
+  {
+    "cname": "迪拜",
+    "suggest_places": [
+      {
+        "cname": "哈利法塔（迪拜塔）",
+        "url": "/sight/dubai1062/63119.html"
+      },
+      {
+        "cname": "帆船酒店",
+        "url": "/sight/dubai1062/26919.html"
+      },
+      {
+        "cname": "迪拜博物馆",
+        "url": "/sight/dubai1062/67431.html"
+      },
+      {
+        "cname": "黄金市场",
+        "url": "/sight/dubai1062/138417.html"
+      },
+      {
+        "cname": "迪拜河",
+        "url": "/sight/dubai1062/52057.html"
+      }
+    ],
+    "url": "/sightlist/dubai1062.html"
+  },
+  {
+    "cname": "阿布扎比",
+    "suggest_places": [
+      {
+        "cname": "谢赫扎耶德清真寺",
+        "url": "/sight/abudhabi1353/71290.html"
+      },
+      {
+        "cname": "阿布扎比",
+        "url": "/sight/abudhabi1353/138373.html"
+      },
+      {
+        "cname": "八星级酋长酒店",
+        "url": "/sight/abudhabi1353/71291.html"
+      },
+      {
+        "cname": "阿布扎比法拉利主题公园",
+        "url": "/sight/abudhabi1353/133445.html"
+      },
+      {
+        "cname": "阿布扎比民俗村",
+        "url": "/sight/abudhabi1353/133442.html"
+      }
+    ],
+    "url": "/sightlist/abudhabi1353.html"
+  },
+  {
+    "cname": "沙迦",
+    "suggest_places": [
+      {
+        "cname": "考古博物馆",
+        "url": "/sight/sharjah2094/133433.html"
+      },
+      {
+        "cname": "沙迦伊斯兰文明博物馆",
+        "url": "/sight/sharjah2094/133407.html"
+      },
+      {
+        "cname": "沙迦文化广场",
+        "url": "/sight/sharjah2094/133398.html"
+      },
+      {
+        "cname": "那不达博物馆",
+        "url": "/sight/sharjah2094/133403.html"
+      },
+      {
+        "cname": "沙迦古董车博物馆",
+        "url": "/sight/sharjah2094/133436.html"
+      }
+    ],
+    "url": "/sightlist/sharjah2094.html"
+  }
+]

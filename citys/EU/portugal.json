@@ -1,0 +1,87 @@
+[
+  {
+    "cname": "里斯本",
+    "suggest_places": [
+      {
+        "cname": "罗卡角",
+        "url": "/sight/lisbon574/75410.html"
+      },
+      {
+        "cname": "贝伦塔",
+        "url": "/sight/lisbon574/137727.html"
+      },
+      {
+        "cname": "贝伦区",
+        "url": "/sight/lisbon574/146795.html"
+      },
+      {
+        "cname": "航海纪念碑",
+        "url": "/sight/lisbon574/137755.html"
+      },
+      {
+        "cname": "热罗尼莫斯修道院",
+        "url": "/sight/lisbon574/137756.html"
+      }
+    ],
+    "url": "/sightlist/lisbon574.html"
+  },
+  {
+    "cname": "波尔图",
+    "suggest_places": [
+      {
+        "cname": "克莱瑞科塔",
+        "url": "/sight/porto1708/137759.html"
+      },
+      {
+        "cname": "波尔图大教堂",
+        "url": "/sight/porto1708/137743.html"
+      },
+      {
+        "cname": "路易一世大桥",
+        "url": "/sight/porto1708/137764.html"
+      },
+      {
+        "cname": "雷伊斯国家美术馆",
+        "url": "/sight/porto1708/137762.html"
+      },
+      {
+        "cname": "葡萄酒博物馆",
+        "url": "/sight/porto1708/137130.html"
+      }
+    ],
+    "url": "/sightlist/porto1708.html"
+  },
+  {
+    "cname": "卡斯凯斯",
+    "suggest_places": [
+      {
+        "cname": "卡斯凯斯",
+        "url": "/sight/cascais1874/75408.html"
+      }
+    ],
+    "url": "/sightlist/cascais1874.html"
+  },
+  {
+    "cname": "辛特拉",
+    "suggest_places": [
+      {
+        "cname": "辛特拉城",
+        "url": "/sight/sintra47341/137100.html"
+      },
+      {
+        "cname": "摩尔人城堡",
+        "url": "/sight/sintra47341/1676027.html"
+      },
+      {
+        "cname": "佩纳宫",
+        "url": "/sight/sintra47341/1675995.html"
+      }
+    ],
+    "url": "/sightlist/sintra47341.html"
+  },
+  {
+    "cname": "奥比都斯",
+    "suggest_places": [],
+    "url": "/sightlist/obidos29388.html"
+  }
+]

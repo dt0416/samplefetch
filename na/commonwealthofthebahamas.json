@@ -1,0 +1,92 @@
+[
+  {
+    "cname": "天堂岛",
+    "url": "http://you.ctrip.com/sightlist/paradiseisland1268.html",
+    "places": [
+      {
+        "cname": "天堂岛",
+        "url": "/sight/halongbay218/133528.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/951/999/8b0f6821d168479cbf93ac5d4db3b6a7_C_220_140.jpg",
+        "caddress": "下龙湾海域斗鸡石西南海域25海里处"
+      },
+      {
+        "cname": "新普罗维登斯岛",
+        "url": "/sight/paradiseisland1268/141215.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/341/600/835/6f0a4ede8ea74a2088f6c1e35ea02a96_C_220_140.jpg",
+        "caddress": "New Providence"
+      },
+      {
+        "cname": "亚特兰蒂斯王国酒店",
+        "url": "/sight/paradiseisland1268/141220.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/108/930/004/85014e63d27a46e4a0e06d9df0996ae6_C_220_140.jpg",
+        "caddress": "1 Casino Drive, Paradise Island"
+      },
+      {
+        "cname": "高尔夫锦标赛球场",
+        "url": "/sight/paradiseisland1268/141233.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/356/993/154/a2d574a7eed54a55a12ffb1e6988dca5_C_220_140.jpg",
+        "caddress": "位于天堂岛的亚特兰蒂斯酒店内。"
+      },
+      {
+        "cname": "室外水族馆",
+        "url": "/sight/paradiseisland1268/141040.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/822/881/195/4d8550cf8fbd42edb3d70dbb96fb160d_C_220_140.jpg",
+        "caddress": "亚特兰蒂斯酒店管辖内"
+      },
+      {
+        "cname": "天堂岛",
+        "url": "/sight/antarctica120487/137580.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/304/522/395/40708e66dc50499bbcb0b33754c93aa7_C_220_140.jpg",
+        "caddress": "Paradise Harbour,Gerlache Strait,Antarctica"
+      }
+    ]
+  },
+  {
+    "cname": "拿骚",
+    "url": "http://you.ctrip.com/sightlist/nassau1267.html",
+    "places": [
+      {
+        "cname": "芬卡斯尔堡",
+        "url": "/sight/nassau1267/1460361.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/271/994/427/c94e6192ccba49298a5bb5e478f33d5e_C_220_140.jpg",
+        "caddress": "Fort Fincastle, Nassau, New Providence"
+      },
+      {
+        "cname": "国家历史博物馆",
+        "url": "/sight/nassau1267/1460046.html",
+        "s_img": "",
+        "caddress": "West & West Hill Sts. W Hill St, Nassau"
+      },
+      {
+        "cname": "海盗博物馆",
+        "url": "/sight/nassau1267/1460044.html",
+        "s_img": "",
+        "caddress": "P.O. Box N-.4840, Nassau"
+      },
+      {
+        "cname": "拿骚公共图书馆",
+        "url": "/sight/nassau1267/1460354.html",
+        "s_img": "",
+        "caddress": "South Beach Public Library, East Street, Nassau, New Providence"
+      },
+      {
+        "cname": "夏洛特堡",
+        "url": "/sight/nassau1267/1460363.html",
+        "s_img": "",
+        "caddress": "W Bay St, Nassau"
+      },
+      {
+        "cname": "亚特兰蒂斯天堂岛",
+        "url": "/sight/nassau1267/1460029.html",
+        "s_img": "",
+        "caddress": "1 Casino Drive, Paradise Island"
+      },
+      {
+        "cname": "克利夫顿遗产国家陆地和海洋公园",
+        "url": "/sight/nassau1267/1460366.html",
+        "s_img": "",
+        "caddress": "Clifton Heritage Park, New Providence"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "cname": "卢森堡",
+    "suggest_places": [
+      {
+        "cname": "卢森堡",
+        "url": "/sight/luxemburg300/73466.html"
+      },
+      {
+        "cname": "阿道夫大桥",
+        "url": "/sight/luxemburg300/73470.html"
+      },
+      {
+        "cname": "宪法广场",
+        "url": "/sight/luxemburg300/73469.html"
+      },
+      {
+        "cname": "卢森堡古堡",
+        "url": "/sight/luxemburg300/123087.html"
+      },
+      {
+        "cname": "卢森堡大峡谷",
+        "url": "/sight/luxemburg300/73472.html"
+      }
+    ],
+    "url": "/sightlist/luxemburg300.html"
+  }
+]

@@ -1,0 +1,2128 @@
+[
+  {
+    "cname": "成都",
+    "suggest_places": [
+      {
+        "cname": "锦里",
+        "url": "/sight/chengdu104/48862.html"
+      },
+      {
+        "cname": "都江堰",
+        "url": "/sight/chengdu104/4597.html"
+      },
+      {
+        "cname": "武侯祠",
+        "url": "/sight/chengdu104/4227.html"
+      },
+      {
+        "cname": "宽窄巷子",
+        "url": "/sight/chengdu104/63456.html"
+      },
+      {
+        "cname": "杜甫草堂",
+        "url": "/sight/chengdu104/4226.html"
+      }
+    ],
+    "url": "/sightlist/chengdu104.html"
+  },
+  {
+    "cname": "九寨沟",
+    "suggest_places": [
+      {
+        "cname": "九寨沟风景区",
+        "url": "/sight/jiuzhaigou25/77380.html"
+      },
+      {
+        "cname": "五彩池",
+        "url": "/sight/jiuzhaigou25/55425.html"
+      },
+      {
+        "cname": "五花海",
+        "url": "/sight/jiuzhaigou25/55329.html"
+      },
+      {
+        "cname": "长海",
+        "url": "/sight/jiuzhaigou25/55427.html"
+      },
+      {
+        "cname": "熊猫海",
+        "url": "/sight/jiuzhaigou25/55346.html"
+      }
+    ],
+    "url": "/sightlist/jiuzhaigou25.html"
+  },
+  {
+    "cname": "稻城",
+    "suggest_places": [
+      {
+        "cname": "牛奶海",
+        "url": "/sight/daocheng342/43890.html"
+      },
+      {
+        "cname": "央迈勇",
+        "url": "/sight/daocheng342/18703.html"
+      },
+      {
+        "cname": "仙乃日",
+        "url": "/sight/daocheng342/62715.html"
+      },
+      {
+        "cname": "洛绒牛场",
+        "url": "/sight/daocheng342/18745.html"
+      },
+      {
+        "cname": "冲古寺",
+        "url": "/sight/daocheng342/18688.html"
+      }
+    ],
+    "url": "/sightlist/daocheng342.html"
+  },
+  {
+    "cname": "峨眉山",
+    "suggest_places": [
+      {
+        "cname": "峨眉山",
+        "url": "/sight/emeishan24/110282.html"
+      },
+      {
+        "cname": "金顶",
+        "url": "/sight/emeishan24/4327.html"
+      },
+      {
+        "cname": "报国寺",
+        "url": "/sight/emeishan24/4324.html"
+      },
+      {
+        "cname": "万年寺",
+        "url": "/sight/emeishan24/4233.html"
+      },
+      {
+        "cname": "雷洞坪",
+        "url": "/sight/emeishan24/4326.html"
+      }
+    ],
+    "url": "/sightlist/emeishan24.html"
+  },
+  {
+    "cname": "康定",
+    "suggest_places": [
+      {
+        "cname": "新都桥",
+        "url": "/sight/kangding344/43874.html"
+      },
+      {
+        "cname": "康定 ",
+        "url": "/sight/kangding344/136677.html"
+      },
+      {
+        "cname": "木格措",
+        "url": "/sight/kangding344/77460.html"
+      },
+      {
+        "cname": "贡嘎山",
+        "url": "/sight/kangding344/11965.html"
+      },
+      {
+        "cname": "塔公草原",
+        "url": "/sight/kangding344/14836.html"
+      }
+    ],
+    "url": "/sightlist/kangding344.html"
+  },
+  {
+    "cname": "乐山",
+    "suggest_places": [
+      {
+        "cname": "峨眉山",
+        "url": "/sight/leshan103/110282.html"
+      },
+      {
+        "cname": "乐山大佛",
+        "url": "/sight/leshan103/4355.html"
+      },
+      {
+        "cname": "金顶",
+        "url": "/sight/leshan103/4327.html"
+      },
+      {
+        "cname": "报国寺",
+        "url": "/sight/leshan103/4324.html"
+      },
+      {
+        "cname": "万年寺",
+        "url": "/sight/leshan103/4233.html"
+      }
+    ],
+    "url": "/sightlist/leshan103.html"
+  },
+  {
+    "cname": "都江堰",
+    "suggest_places": [
+      {
+        "cname": "都江堰",
+        "url": "/sight/dujiangyan911/4597.html"
+      },
+      {
+        "cname": "青城山",
+        "url": "/sight/dujiangyan911/62960.html"
+      },
+      {
+        "cname": "南桥",
+        "url": "/sight/dujiangyan911/76261.html"
+      },
+      {
+        "cname": "青城后山",
+        "url": "/sight/dujiangyan911/62961.html"
+      },
+      {
+        "cname": "二王庙",
+        "url": "/sight/dujiangyan911/63153.html"
+      }
+    ],
+    "url": "/sightlist/dujiangyan911.html"
+  },
+  {
+    "cname": "阿坝",
+    "suggest_places": [
+      {
+        "cname": "五彩池",
+        "url": "/sight/aba744/55425.html"
+      },
+      {
+        "cname": "五花海",
+        "url": "/sight/aba744/55329.html"
+      },
+      {
+        "cname": "长海",
+        "url": "/sight/aba744/55427.html"
+      },
+      {
+        "cname": "熊猫海",
+        "url": "/sight/aba744/55346.html"
+      },
+      {
+        "cname": "珍珠滩瀑布",
+        "url": "/sight/aba744/110309.html"
+      }
+    ],
+    "url": "/sightlist/aba744.html"
+  },
+  {
+    "cname": "黄龙风景名胜区",
+    "suggest_places": [
+      {
+        "cname": "黄龙风景名胜区",
+        "url": "/sight/huanglong143864/2673.html"
+      },
+      {
+        "cname": "川主寺",
+        "url": "/sight/huanglong143864/77401.html"
+      },
+      {
+        "cname": "牟尼沟",
+        "url": "/sight/huanglong143864/14872.html"
+      },
+      {
+        "cname": "雪宝鼎",
+        "url": "/sight/huanglong143864/2668.html"
+      },
+      {
+        "cname": "黄龙五彩池",
+        "url": "/sight/huanglong143864/77309.html"
+      }
+    ],
+    "url": "/sightlist/huanglong143864.html"
+  },
+  {
+    "cname": "若尔盖",
+    "suggest_places": [
+      {
+        "cname": "若尔盖花湖",
+        "url": "/sight/reergai3165/136686.html"
+      },
+      {
+        "cname": "九曲黄河第一湾",
+        "url": "/sight/reergai3165/63376.html"
+      },
+      {
+        "cname": "格尔底寺",
+        "url": "/sight/reergai3165/63377.html"
+      },
+      {
+        "cname": "白龙江大峡谷",
+        "url": "/sight/reergai3165/1413997.html"
+      },
+      {
+        "cname": "降扎温泉",
+        "url": "/sight/reergai3165/1416317.html"
+      }
+    ],
+    "url": "/sightlist/reergai3165.html"
+  },
+  {
+    "cname": "雅安",
+    "suggest_places": [
+      {
+        "cname": "碧峰峡",
+        "url": "/sight/yaan917/63875.html"
+      },
+      {
+        "cname": "上里古镇",
+        "url": "/sight/yaan917/63880.html"
+      },
+      {
+        "cname": "牛背山",
+        "url": "/sight/yaan917/133520.html"
+      },
+      {
+        "cname": "碧峰峡野生动物园",
+        "url": "/sight/yaan917/136570.html"
+      },
+      {
+        "cname": "蒙顶山",
+        "url": "/sight/yaan917/63879.html"
+      }
+    ],
+    "url": "/sightlist/yaan917.html"
+  },
+  {
+    "cname": "西昌",
+    "suggest_places": [
+      {
+        "cname": "邛海",
+        "url": "/sight/xichang592/19706.html"
+      },
+      {
+        "cname": "螺髻山",
+        "url": "/sight/xichang592/19705.html"
+      },
+      {
+        "cname": "泸山",
+        "url": "/sight/xichang592/49892.html"
+      },
+      {
+        "cname": "西昌卫星发射中心",
+        "url": "/sight/xichang592/19704.html"
+      },
+      {
+        "cname": "天下灵山",
+        "url": "/sight/xichang592/1409341.html"
+      }
+    ],
+    "url": "/sightlist/xichang592.html"
+  },
+  {
+    "cname": "海螺沟",
+    "suggest_places": [
+      {
+        "cname": "海螺沟",
+        "url": "/sight/hailuogou705/76648.html"
+      },
+      {
+        "cname": "磨西古镇",
+        "url": "/sight/hailuogou705/133783.html"
+      },
+      {
+        "cname": "四号营地",
+        "url": "/sight/hailuogou705/133780.html"
+      },
+      {
+        "cname": "二号营地",
+        "url": "/sight/hailuogou705/133775.html"
+      },
+      {
+        "cname": "三号营地",
+        "url": "/sight/hailuogou705/133777.html"
+      }
+    ],
+    "url": "/sightlist/hailuogou705.html"
+  },
+  {
+    "cname": "丹巴",
+    "suggest_places": [
+      {
+        "cname": "甲居藏寨",
+        "url": "/sight/danba704/76687.html"
+      },
+      {
+        "cname": "八美镇",
+        "url": "/sight/danba704/22068.html"
+      },
+      {
+        "cname": "梭坡碉楼",
+        "url": "/sight/danba704/22073.html"
+      },
+      {
+        "cname": "东谷",
+        "url": "/sight/danba704/22069.html"
+      },
+      {
+        "cname": "莫斯卡",
+        "url": "/sight/danba704/133524.html"
+      }
+    ],
+    "url": "/sightlist/danba704.html"
+  },
+  {
+    "cname": "青城山",
+    "suggest_places": [
+      {
+        "cname": "青城山",
+        "url": "/sight/qingchengshan143879/62960.html"
+      },
+      {
+        "cname": "青城后山",
+        "url": "/sight/qingchengshan143879/62961.html"
+      },
+      {
+        "cname": "普照寺",
+        "url": "/sight/qingchengshan143879/1416294.html"
+      },
+      {
+        "cname": "圆明宫",
+        "url": "/sight/qingchengshan143879/1463836.html"
+      }
+    ],
+    "url": "/sightlist/qingchengshan143879.html"
+  },
+  {
+    "cname": "松潘",
+    "suggest_places": [
+      {
+        "cname": "黄龙风景名胜区",
+        "url": "/sight/songpan606/2673.html"
+      },
+      {
+        "cname": "川主寺",
+        "url": "/sight/songpan606/77401.html"
+      },
+      {
+        "cname": "松潘古城",
+        "url": "/sight/songpan606/55651.html"
+      },
+      {
+        "cname": "牟尼沟",
+        "url": "/sight/songpan606/14872.html"
+      },
+      {
+        "cname": "雪宝鼎",
+        "url": "/sight/songpan606/2668.html"
+      }
+    ],
+    "url": "/sightlist/songpan606.html"
+  },
+  {
+    "cname": "甘孜",
+    "suggest_places": [
+      {
+        "cname": "新都桥",
+        "url": "/sight/ganzi754/43874.html"
+      },
+      {
+        "cname": "海螺沟",
+        "url": "/sight/ganzi754/76648.html"
+      },
+      {
+        "cname": "牛奶海",
+        "url": "/sight/ganzi754/43890.html"
+      },
+      {
+        "cname": "康定 ",
+        "url": "/sight/ganzi754/136677.html"
+      },
+      {
+        "cname": "木格措",
+        "url": "/sight/ganzi754/77460.html"
+      }
+    ],
+    "url": "/sightlist/ganzi754.html"
+  },
+  {
+    "cname": "宜宾",
+    "suggest_places": [
+      {
+        "cname": "蜀南竹海",
+        "url": "/sight/yibin278/18674.html"
+      },
+      {
+        "cname": "李庄古镇",
+        "url": "/sight/yibin278/49763.html"
+      },
+      {
+        "cname": "石海洞乡",
+        "url": "/sight/yibin278/18675.html"
+      },
+      {
+        "cname": "西部大峡谷温泉",
+        "url": "/sight/yibin278/49785.html"
+      },
+      {
+        "cname": "夕佳山民居",
+        "url": "/sight/yibin278/18678.html"
+      }
+    ],
+    "url": "/sightlist/yibin278.html"
+  },
+  {
+    "cname": "绵阳",
+    "suggest_places": [
+      {
+        "cname": "药王谷",
+        "url": "/sight/mianyang915/75685.html"
+      },
+      {
+        "cname": "窦圌山",
+        "url": "/sight/mianyang915/61359.html"
+      },
+      {
+        "cname": "七曲山大庙",
+        "url": "/sight/mianyang915/61369.html"
+      },
+      {
+        "cname": "江油李白故里",
+        "url": "/sight/mianyang915/61303.html"
+      },
+      {
+        "cname": "九皇山",
+        "url": "/sight/mianyang915/61307.html"
+      }
+    ],
+    "url": "/sightlist/mianyang915.html"
+  },
+  {
+    "cname": "茂县",
+    "suggest_places": [
+      {
+        "cname": "叠溪－松坪沟风景区",
+        "url": "/sight/maoxian3164/77698.html"
+      },
+      {
+        "cname": "中国古羌城",
+        "url": "/sight/maoxian3164/1409209.html"
+      },
+      {
+        "cname": "坪头羌寨",
+        "url": "/sight/maoxian3164/1410826.html"
+      },
+      {
+        "cname": "九鼎山",
+        "url": "/sight/maoxian3164/78053.html"
+      },
+      {
+        "cname": "牟托羌寨",
+        "url": "/sight/maoxian3164/147166.html"
+      }
+    ],
+    "url": "/sightlist/maoxian3164.html"
+  },
+  {
+    "cname": "广元",
+    "suggest_places": [
+      {
+        "cname": "昭化古城",
+        "url": "/sight/guangyuan593/63532.html"
+      },
+      {
+        "cname": "皇泽寺",
+        "url": "/sight/guangyuan593/20452.html"
+      },
+      {
+        "cname": "剑门关",
+        "url": "/sight/guangyuan593/20449.html"
+      },
+      {
+        "cname": "千佛崖",
+        "url": "/sight/guangyuan593/20448.html"
+      },
+      {
+        "cname": "翠云廊",
+        "url": "/sight/guangyuan593/20450.html"
+      }
+    ],
+    "url": "/sightlist/guangyuan593.html"
+  },
+  {
+    "cname": "德阳",
+    "suggest_places": [
+      {
+        "cname": "三星堆博物馆",
+        "url": "/sight/deyang462/48854.html"
+      },
+      {
+        "cname": "段家大院子",
+        "url": "/sight/deyang462/61282.html"
+      },
+      {
+        "cname": "绵竹年画村",
+        "url": "/sight/deyang462/1416577.html"
+      },
+      {
+        "cname": "德阳文庙",
+        "url": "/sight/deyang462/127962.html"
+      },
+      {
+        "cname": "房湖公园",
+        "url": "/sight/deyang462/61279.html"
+      }
+    ],
+    "url": "/sightlist/deyang462.html"
+  },
+  {
+    "cname": "泸州",
+    "suggest_places": [
+      {
+        "cname": "方山",
+        "url": "/sight/luzhou604/60803.html"
+      },
+      {
+        "cname": "玉蟾山",
+        "url": "/sight/luzhou604/60801.html"
+      },
+      {
+        "cname": "佛宝森林公园",
+        "url": "/sight/luzhou604/60776.html"
+      },
+      {
+        "cname": "太平古镇",
+        "url": "/sight/luzhou604/1412931.html"
+      },
+      {
+        "cname": "尧坝古镇",
+        "url": "/sight/luzhou604/128061.html"
+      }
+    ],
+    "url": "/sightlist/luzhou604.html"
+  },
+  {
+    "cname": "阆中",
+    "suggest_places": [
+      {
+        "cname": "阆中古城",
+        "url": "/sight/langzhong831/74576.html"
+      },
+      {
+        "cname": "华光楼",
+        "url": "/sight/langzhong831/109793.html"
+      },
+      {
+        "cname": "天宫院风水文化景区",
+        "url": "/sight/langzhong831/142083.html"
+      },
+      {
+        "cname": "汉桓侯祠",
+        "url": "/sight/langzhong831/109791.html"
+      },
+      {
+        "cname": "锦屏山风景区",
+        "url": "/sight/langzhong831/74575.html"
+      }
+    ],
+    "url": "/sightlist/langzhong831.html"
+  },
+  {
+    "cname": "黄龙溪古镇",
+    "suggest_places": [
+      {
+        "cname": "黄龙溪古镇",
+        "url": "/sight/huanglongxi120532/22176.html"
+      },
+      {
+        "cname": "黄龙溪博物馆",
+        "url": "/sight/huanglongxi120532/120083.html"
+      },
+      {
+        "cname": "黄龙溪蝴蝶迎新主题园",
+        "url": "/sight/huanglongxi120532/1488678.html"
+      }
+    ],
+    "url": "/sightlist/huanglongxi120532.html"
+  },
+  {
+    "cname": "凉山",
+    "suggest_places": [
+      {
+        "cname": "邛海",
+        "url": "/sight/liangshan912/19706.html"
+      },
+      {
+        "cname": "泸沽湖",
+        "url": "/sight/liangshan912/49931.html"
+      },
+      {
+        "cname": "螺髻山",
+        "url": "/sight/liangshan912/19705.html"
+      },
+      {
+        "cname": "泸山",
+        "url": "/sight/liangshan912/49892.html"
+      },
+      {
+        "cname": "西昌卫星发射中心",
+        "url": "/sight/liangshan912/19704.html"
+      }
+    ],
+    "url": "/sightlist/liangshan912.html"
+  },
+  {
+    "cname": "泸定",
+    "suggest_places": [
+      {
+        "cname": "海螺沟",
+        "url": "/sight/luding2059/76648.html"
+      },
+      {
+        "cname": "泸定桥",
+        "url": "/sight/luding2059/14925.html"
+      },
+      {
+        "cname": "磨西古镇",
+        "url": "/sight/luding2059/133783.html"
+      },
+      {
+        "cname": "四号营地",
+        "url": "/sight/luding2059/133780.html"
+      },
+      {
+        "cname": "二号营地",
+        "url": "/sight/luding2059/133775.html"
+      }
+    ],
+    "url": "/sightlist/luding2059.html"
+  },
+  {
+    "cname": "南充",
+    "suggest_places": [
+      {
+        "cname": "阆中古城",
+        "url": "/sight/nanchong782/74576.html"
+      },
+      {
+        "cname": "西山风景区",
+        "url": "/sight/nanchong782/74628.html"
+      },
+      {
+        "cname": "凌云山风景区",
+        "url": "/sight/nanchong782/74608.html"
+      },
+      {
+        "cname": "华光楼",
+        "url": "/sight/nanchong782/109793.html"
+      },
+      {
+        "cname": "朱德故里琳琅山景区",
+        "url": "/sight/nanchong782/74574.html"
+      }
+    ],
+    "url": "/sightlist/nanchong782.html"
+  },
+  {
+    "cname": "汶川",
+    "suggest_places": [
+      {
+        "cname": "映秀镇",
+        "url": "/sight/wenchuan3101/145075.html"
+      },
+      {
+        "cname": "映秀地震遗址",
+        "url": "/sight/wenchuan3101/127927.html"
+      },
+      {
+        "cname": "萝卜羌寨",
+        "url": "/sight/wenchuan3101/1416366.html"
+      },
+      {
+        "cname": "三江生态旅游区",
+        "url": "/sight/wenchuan3101/141093.html"
+      },
+      {
+        "cname": "龙溪羌人谷",
+        "url": "/sight/wenchuan3101/1416361.html"
+      }
+    ],
+    "url": "/sightlist/wenchuan3101.html"
+  },
+  {
+    "cname": "自贡",
+    "suggest_places": [
+      {
+        "cname": "自贡恐龙博物馆",
+        "url": "/sight/zigong575/63819.html"
+      },
+      {
+        "cname": "中国彩灯博物馆",
+        "url": "/sight/zigong575/63823.html"
+      },
+      {
+        "cname": "盐业历史博物馆",
+        "url": "/sight/zigong575/63818.html"
+      },
+      {
+        "cname": "燊海井",
+        "url": "/sight/zigong575/63828.html"
+      },
+      {
+        "cname": "富顺文庙",
+        "url": "/sight/zigong575/127557.html"
+      }
+    ],
+    "url": "/sightlist/zigong575.html"
+  },
+  {
+    "cname": "广安",
+    "suggest_places": [
+      {
+        "cname": "华蓥山",
+        "url": "/sight/guangan693/63672.html"
+      },
+      {
+        "cname": "邓小平故里",
+        "url": "/sight/guangan693/63669.html"
+      },
+      {
+        "cname": "邓小平故居",
+        "url": "/sight/guangan693/63661.html"
+      },
+      {
+        "cname": "沿口古镇",
+        "url": "/sight/guangan693/63749.html"
+      },
+      {
+        "cname": "肖溪古镇",
+        "url": "/sight/guangan693/63761.html"
+      }
+    ],
+    "url": "/sightlist/guangan693.html"
+  },
+  {
+    "cname": "广汉",
+    "suggest_places": [
+      {
+        "cname": "三星堆博物馆",
+        "url": "/sight/guanghan1349/48854.html"
+      },
+      {
+        "cname": "段家大院子",
+        "url": "/sight/guanghan1349/61282.html"
+      },
+      {
+        "cname": "房湖公园",
+        "url": "/sight/guanghan1349/61279.html"
+      },
+      {
+        "cname": "金龙湖",
+        "url": "/sight/guanghan1349/61298.html"
+      },
+      {
+        "cname": "金雁湖",
+        "url": "/sight/guanghan1349/61281.html"
+      }
+    ],
+    "url": "/sightlist/guanghan1349.html"
+  },
+  {
+    "cname": "色达县",
+    "suggest_places": [
+      {
+        "cname": "色达喇荣五明佛学院",
+        "url": "/sight/sedaxian120478/109889.html"
+      },
+      {
+        "cname": "色达天葬台",
+        "url": "/sight/sedaxian120478/133401.html"
+      },
+      {
+        "cname": "邓登曲登佛塔",
+        "url": "/sight/sedaxian120478/133409.html"
+      },
+      {
+        "cname": "东嘎寺",
+        "url": "/sight/sedaxian120478/133404.html"
+      },
+      {
+        "cname": "格萨尔文化博物馆",
+        "url": "/sight/sedaxian120478/1418311.html"
+      }
+    ],
+    "url": "/sightlist/sedaxian120478.html"
+  },
+  {
+    "cname": "理塘",
+    "suggest_places": [
+      {
+        "cname": "长青春科尔寺",
+        "url": "/sight/litang3150/22769.html"
+      },
+      {
+        "cname": "理塘寺",
+        "url": "/sight/litang3150/76750.html"
+      },
+      {
+        "cname": "格聂神山",
+        "url": "/sight/litang3150/76751.html"
+      },
+      {
+        "cname": "白塔公园",
+        "url": "/sight/litang3150/1416189.html"
+      }
+    ],
+    "url": "/sightlist/litang3150.html"
+  },
+  {
+    "cname": "遂宁",
+    "suggest_places": [
+      {
+        "cname": "中国死海",
+        "url": "/sight/suining605/110263.html"
+      },
+      {
+        "cname": "灵泉寺",
+        "url": "/sight/suining605/141118.html"
+      },
+      {
+        "cname": "观音故里灵泉景区",
+        "url": "/sight/suining605/128034.html"
+      },
+      {
+        "cname": "龙凤古镇",
+        "url": "/sight/suining605/141123.html"
+      },
+      {
+        "cname": "子昂故里",
+        "url": "/sight/suining605/1408156.html"
+      }
+    ],
+    "url": "/sightlist/suining605.html"
+  },
+  {
+    "cname": "眉山",
+    "suggest_places": [
+      {
+        "cname": "瓦屋山",
+        "url": "/sight/meishan914/49102.html"
+      },
+      {
+        "cname": "柳江古镇",
+        "url": "/sight/meishan914/77339.html"
+      },
+      {
+        "cname": "仁寿黑龙滩",
+        "url": "/sight/meishan914/49073.html"
+      },
+      {
+        "cname": "三苏祠博物馆",
+        "url": "/sight/meishan914/49071.html"
+      },
+      {
+        "cname": "彭祖山",
+        "url": "/sight/meishan914/49106.html"
+      }
+    ],
+    "url": "/sightlist/meishan914.html"
+  },
+  {
+    "cname": "红原",
+    "suggest_places": [
+      {
+        "cname": "瓦切塔林",
+        "url": "/sight/gongyuan3099/127904.html"
+      },
+      {
+        "cname": "月亮湾草原",
+        "url": "/sight/gongyuan3099/136618.html"
+      }
+    ],
+    "url": "/sightlist/gongyuan3099.html"
+  },
+  {
+    "cname": "达州",
+    "suggest_places": [
+      {
+        "cname": "賨人谷景区",
+        "url": "/sight/dazhou910/128079.html"
+      },
+      {
+        "cname": "观音山森林公园",
+        "url": "/sight/dazhou910/128080.html"
+      },
+      {
+        "cname": "达州凤凰山",
+        "url": "/sight/dazhou910/128072.html"
+      },
+      {
+        "cname": "和悦庄乡村温泉酒店",
+        "url": "/sight/dazhou910/1409005.html"
+      },
+      {
+        "cname": "龙爪塔风景区",
+        "url": "/sight/dazhou910/128083.html"
+      }
+    ],
+    "url": "/sightlist/dazhou910.html"
+  },
+  {
+    "cname": "巴中",
+    "suggest_places": [
+      {
+        "cname": "巴中市通江王坪旅游景区",
+        "url": "/sight/bazhong703/1412511.html"
+      },
+      {
+        "cname": "米仓山古栈道",
+        "url": "/sight/bazhong703/22130.html"
+      },
+      {
+        "cname": "南龛石窟",
+        "url": "/sight/bazhong703/22133.html"
+      },
+      {
+        "cname": "光雾山桃园景区",
+        "url": "/sight/bazhong703/1411044.html"
+      },
+      {
+        "cname": "南阳森林公园",
+        "url": "/sight/bazhong703/22131.html"
+      }
+    ],
+    "url": "/sightlist/bazhong703.html"
+  },
+  {
+    "cname": "攀枝花",
+    "suggest_places": [
+      {
+        "cname": "二滩国家森林公园",
+        "url": "/sight/panzhihua786/61152.html"
+      },
+      {
+        "cname": "格萨拉生态旅游区",
+        "url": "/sight/panzhihua786/61159.html"
+      },
+      {
+        "cname": "龙潭溶洞",
+        "url": "/sight/panzhihua786/61163.html"
+      },
+      {
+        "cname": "攀枝花公园",
+        "url": "/sight/panzhihua786/1416514.html"
+      },
+      {
+        "cname": "竹湖园公园",
+        "url": "/sight/panzhihua786/128146.html"
+      }
+    ],
+    "url": "/sightlist/panzhihua786.html"
+  },
+  {
+    "cname": "内江",
+    "suggest_places": [
+      {
+        "cname": "隆昌石牌坊群",
+        "url": "/sight/neijiang823/128059.html"
+      },
+      {
+        "cname": "古宇湖",
+        "url": "/sight/neijiang823/141182.html"
+      },
+      {
+        "cname": "圣灵山地质公园",
+        "url": "/sight/neijiang823/1410827.html"
+      },
+      {
+        "cname": "重龙山",
+        "url": "/sight/neijiang823/141186.html"
+      },
+      {
+        "cname": "圣水寺",
+        "url": "/sight/neijiang823/1477651.html"
+      }
+    ],
+    "url": "/sightlist/neijiang823.html"
+  },
+  {
+    "cname": "资阳",
+    "suggest_places": [
+      {
+        "cname": "安岳石刻",
+        "url": "/sight/ziyang918/128160.html"
+      },
+      {
+        "cname": "圆觉洞摩崖造像风景区",
+        "url": "/sight/ziyang918/128157.html"
+      },
+      {
+        "cname": "乐至报国寺",
+        "url": "/sight/ziyang918/128162.html"
+      },
+      {
+        "cname": "简阳白塔园",
+        "url": "/sight/ziyang918/128166.html"
+      },
+      {
+        "cname": "花溪谷",
+        "url": "/sight/ziyang918/135408.html"
+      }
+    ],
+    "url": "/sightlist/ziyang918.html"
+  },
+  {
+    "cname": "邛崃",
+    "suggest_places": [
+      {
+        "cname": "天台山",
+        "url": "/sight/qionglai1403/4603.html"
+      },
+      {
+        "cname": "平乐古镇",
+        "url": "/sight/qionglai1403/48864.html"
+      },
+      {
+        "cname": "平乐古镇金鸡谷",
+        "url": "/sight/qionglai1403/134466.html"
+      },
+      {
+        "cname": "芦沟竹海",
+        "url": "/sight/qionglai1403/119923.html"
+      },
+      {
+        "cname": "临邛古城",
+        "url": "/sight/qionglai1403/1416302.html"
+      }
+    ],
+    "url": "/sightlist/qionglai1403.html"
+  },
+  {
+    "cname": "西岭雪山",
+    "suggest_places": [
+      {
+        "cname": "西岭雪山",
+        "url": "/sight/xilingxueshan1484/4349.html"
+      }
+    ],
+    "url": "/sightlist/xilingxueshan1484.html"
+  },
+  {
+    "cname": "大邑",
+    "suggest_places": [
+      {
+        "cname": "西岭雪山",
+        "url": "/sight/dae3130/4349.html"
+      },
+      {
+        "cname": "刘氏庄园",
+        "url": "/sight/dae3130/48849.html"
+      },
+      {
+        "cname": "建川博物馆聚落",
+        "url": "/sight/dae3130/71986.html"
+      },
+      {
+        "cname": "安仁古镇",
+        "url": "/sight/dae3130/79456.html"
+      },
+      {
+        "cname": "新场古镇",
+        "url": "/sight/dae3130/119937.html"
+      }
+    ],
+    "url": "/sightlist/dae3130.html"
+  },
+  {
+    "cname": "雅江",
+    "suggest_places": [],
+    "url": "/sightlist/yajiang3137.html"
+  },
+  {
+    "cname": "马尔康",
+    "suggest_places": [
+      {
+        "cname": "卓克基土司官寨",
+        "url": "/sight/maerkang913/63371.html"
+      },
+      {
+        "cname": "西索村",
+        "url": "/sight/maerkang913/127942.html"
+      },
+      {
+        "cname": "梭磨河峡谷",
+        "url": "/sight/maerkang913/78059.html"
+      },
+      {
+        "cname": "昌列寺",
+        "url": "/sight/maerkang913/1418543.html"
+      },
+      {
+        "cname": "察柯寺",
+        "url": "/sight/maerkang913/1418541.html"
+      }
+    ],
+    "url": "/sightlist/maerkang913.html"
+  },
+  {
+    "cname": "双流",
+    "suggest_places": [
+      {
+        "cname": "南湖梦幻岛",
+        "url": "/sight/shuangliu3160/85925.html"
+      },
+      {
+        "cname": "紫颐香薰山谷",
+        "url": "/sight/shuangliu3160/142178.html"
+      },
+      {
+        "cname": "双流中心公园",
+        "url": "/sight/shuangliu3160/1462565.html"
+      },
+      {
+        "cname": "古佛堰",
+        "url": "/sight/shuangliu3160/4338.html"
+      },
+      {
+        "cname": "棠湖公园",
+        "url": "/sight/shuangliu3160/1462282.html"
+      }
+    ],
+    "url": "/sightlist/shuangliu3160.html"
+  },
+  {
+    "cname": "崇州",
+    "suggest_places": [
+      {
+        "cname": "九龙沟",
+        "url": "/sight/chongzhou909/4605.html"
+      },
+      {
+        "cname": "文锦江温泉",
+        "url": "/sight/chongzhou909/140398.html"
+      },
+      {
+        "cname": "元通古镇",
+        "url": "/sight/chongzhou909/145010.html"
+      },
+      {
+        "cname": "鸡冠山",
+        "url": "/sight/chongzhou909/145011.html"
+      },
+      {
+        "cname": "罨画池",
+        "url": "/sight/chongzhou909/145012.html"
+      }
+    ],
+    "url": "/sightlist/chongzhou909.html"
+  },
+  {
+    "cname": "巴塘",
+    "suggest_places": [
+      {
+        "cname": "康宁寺",
+        "url": "/sight/batang3102/1416388.html"
+      },
+      {
+        "cname": "巴塘热水沟",
+        "url": "/sight/batang3102/50072.html"
+      }
+    ],
+    "url": "/sightlist/batang3102.html"
+  },
+  {
+    "cname": "德格",
+    "suggest_places": [
+      {
+        "cname": "德格印经院",
+        "url": "/sight/dege3140/22762.html"
+      },
+      {
+        "cname": "新路海",
+        "url": "/sight/dege3140/22763.html"
+      },
+      {
+        "cname": "阿须草原",
+        "url": "/sight/dege3140/1416439.html"
+      },
+      {
+        "cname": "八邦寺",
+        "url": "/sight/dege3140/1418360.html"
+      },
+      {
+        "cname": "更庆寺",
+        "url": "/sight/dege3140/1418369.html"
+      }
+    ],
+    "url": "/sightlist/dege3140.html"
+  },
+  {
+    "cname": "江油",
+    "suggest_places": [
+      {
+        "cname": "窦圌山",
+        "url": "/sight/jiangyou1037/61359.html"
+      },
+      {
+        "cname": "江油李白故里",
+        "url": "/sight/jiangyou1037/61303.html"
+      },
+      {
+        "cname": "佛爷洞",
+        "url": "/sight/jiangyou1037/75028.html"
+      },
+      {
+        "cname": "江油天音风景区",
+        "url": "/sight/jiangyou1037/134464.html"
+      },
+      {
+        "cname": "青林口古镇",
+        "url": "/sight/jiangyou1037/145002.html"
+      }
+    ],
+    "url": "/sightlist/jiangyou1037.html"
+  },
+  {
+    "cname": "万源",
+    "suggest_places": [
+      {
+        "cname": "八台山",
+        "url": "/sight/moyuan3094/1484920.html"
+      },
+      {
+        "cname": "龙潭河景区",
+        "url": "/sight/moyuan3094/128078.html"
+      },
+      {
+        "cname": "张建成石刻墓坊",
+        "url": "/sight/moyuan3094/128084.html"
+      },
+      {
+        "cname": "鱼泉山风景区",
+        "url": "/sight/moyuan3094/128085.html"
+      },
+      {
+        "cname": "驼山公园",
+        "url": "/sight/moyuan3094/128087.html"
+      }
+    ],
+    "url": "/sightlist/moyuan3094.html"
+  },
+  {
+    "cname": "四姑娘山",
+    "suggest_places": [
+      {
+        "cname": "四姑娘山",
+        "url": "/sight/siguniangshan143878/63315.html"
+      }
+    ],
+    "url": "/sightlist/siguniangshan143878.html"
+  },
+  {
+    "cname": "彭州",
+    "suggest_places": [
+      {
+        "cname": "九峰山风景名胜区",
+        "url": "/sight/pengzhou1747/4608.html"
+      },
+      {
+        "cname": "彭州龙门山地震遗址公园",
+        "url": "/sight/pengzhou1747/64519.html"
+      },
+      {
+        "cname": "白鹿镇",
+        "url": "/sight/pengzhou1747/1418771.html"
+      },
+      {
+        "cname": "中华蝴蝶生态城",
+        "url": "/sight/pengzhou1747/1413835.html"
+      },
+      {
+        "cname": "龙兴寺",
+        "url": "/sight/pengzhou1747/1476684.html"
+      }
+    ],
+    "url": "/sightlist/pengzhou1747.html"
+  },
+  {
+    "cname": "犍为",
+    "suggest_places": [
+      {
+        "cname": "嘉阳小火车",
+        "url": "/sight/jianwei3118/107569.html"
+      },
+      {
+        "cname": "嘉阳国家矿山公园",
+        "url": "/sight/jianwei3118/147743.html"
+      },
+      {
+        "cname": "茉莉漂流",
+        "url": "/sight/jianwei3118/70131.html"
+      }
+    ],
+    "url": "/sightlist/jianwei3118.html"
+  },
+  {
+    "cname": "什邡",
+    "suggest_places": [
+      {
+        "cname": "什邡蓥华山风景区",
+        "url": "/sight/shenfang3154/4609.html"
+      },
+      {
+        "cname": "什邡穿心店地震遗址",
+        "url": "/sight/shenfang3154/64868.html"
+      },
+      {
+        "cname": "红豆村",
+        "url": "/sight/shenfang3154/140997.html"
+      },
+      {
+        "cname": "红峡谷",
+        "url": "/sight/shenfang3154/1673611.html"
+      },
+      {
+        "cname": "龙居寺",
+        "url": "/sight/shenfang3154/140999.html"
+      }
+    ],
+    "url": "/sightlist/shenfang3154.html"
+  },
+  {
+    "cname": "华蓥",
+    "suggest_places": [
+      {
+        "cname": "华蓥山",
+        "url": "/sight/huaying3103/63672.html"
+      },
+      {
+        "cname": "华蓥山石林",
+        "url": "/sight/huaying3103/63760.html"
+      },
+      {
+        "cname": "华蓥山大峡谷",
+        "url": "/sight/huaying3103/63751.html"
+      },
+      {
+        "cname": "华蓥山宝鼎",
+        "url": "/sight/huaying3103/74764.html"
+      },
+      {
+        "cname": "安丙家族墓地",
+        "url": "/sight/huaying3103/74777.html"
+      }
+    ],
+    "url": "/sightlist/huaying3103.html"
+  },
+  {
+    "cname": "金川",
+    "suggest_places": [
+      {
+        "cname": "观音桥",
+        "url": "/sight/jinchuan3125/1417768.html"
+      }
+    ],
+    "url": "/sightlist/jinchuan3125.html"
+  },
+  {
+    "cname": "北川",
+    "suggest_places": [
+      {
+        "cname": "药王谷",
+        "url": "/sight/beichuan1934/75685.html"
+      },
+      {
+        "cname": "九皇山",
+        "url": "/sight/beichuan1934/61307.html"
+      },
+      {
+        "cname": "北川地震遗址",
+        "url": "/sight/beichuan1934/64843.html"
+      },
+      {
+        "cname": "北川维斯特农业示范观光园",
+        "url": "/sight/beichuan1934/70159.html"
+      }
+    ],
+    "url": "/sightlist/beichuan1934.html"
+  },
+  {
+    "cname": "洪雅",
+    "suggest_places": [
+      {
+        "cname": "柳江古镇",
+        "url": "/sight/hongya3096/77339.html"
+      },
+      {
+        "cname": "柳江古镇漂流",
+        "url": "/sight/hongya3096/70161.html"
+      }
+    ],
+    "url": "/sightlist/hongya3096.html"
+  },
+  {
+    "cname": "黑水县",
+    "suggest_places": [
+      {
+        "cname": "达古冰山地质公园",
+        "url": "/sight/heishui120552/63306.html"
+      },
+      {
+        "cname": "色尔古藏寨",
+        "url": "/sight/heishui120552/78051.html"
+      },
+      {
+        "cname": "卡龙沟",
+        "url": "/sight/heishui120552/78015.html"
+      },
+      {
+        "cname": "奶子沟彩林谷",
+        "url": "/sight/heishui120552/134678.html"
+      },
+      {
+        "cname": "雅克夏森林公园",
+        "url": "/sight/heishui120552/145025.html"
+      }
+    ],
+    "url": "/sightlist/heishui120552.html"
+  },
+  {
+    "cname": "简阳",
+    "suggest_places": [
+      {
+        "cname": "简阳白塔园",
+        "url": "/sight/jianyang3122/128166.html"
+      },
+      {
+        "cname": "三岔湖风景区",
+        "url": "/sight/jianyang3122/135409.html"
+      },
+      {
+        "cname": "资阳龙泉湖",
+        "url": "/sight/jianyang3122/135410.html"
+      },
+      {
+        "cname": "五凤山森林公园",
+        "url": "/sight/jianyang3122/135412.html"
+      }
+    ],
+    "url": "/sightlist/jianyang3122.html"
+  },
+  {
+    "cname": "剑阁",
+    "suggest_places": [
+      {
+        "cname": "剑门蜀道",
+        "url": "/sight/jiange3115/20446.html"
+      }
+    ],
+    "url": "/sightlist/jiange3115.html"
+  },
+  {
+    "cname": "大英",
+    "suggest_places": [
+      {
+        "cname": "中国死海",
+        "url": "/sight/daying1395/110263.html"
+      }
+    ],
+    "url": "/sightlist/daying1395.html"
+  },
+  {
+    "cname": "冕宁",
+    "suggest_places": [
+      {
+        "cname": "灵山寺",
+        "url": "/sight/mianning3091/49918.html"
+      },
+      {
+        "cname": "彝海",
+        "url": "/sight/mianning3091/49893.html"
+      },
+      {
+        "cname": "彝海结盟",
+        "url": "/sight/mianning3091/70083.html"
+      },
+      {
+        "cname": "冶勒自然保护区",
+        "url": "/sight/mianning3091/49919.html"
+      }
+    ],
+    "url": "/sightlist/mianning3091.html"
+  },
+  {
+    "cname": "盐源",
+    "suggest_places": [
+      {
+        "cname": "末代王妃府",
+        "url": "/sight/yanyuan3142/147432.html"
+      },
+      {
+        "cname": "盐源公母山",
+        "url": "/sight/yanyuan3142/49901.html"
+      }
+    ],
+    "url": "/sightlist/yanyuan3142.html"
+  },
+  {
+    "cname": "甘孜县",
+    "suggest_places": [
+      {
+        "cname": "甘孜寺",
+        "url": "/sight/ganzixian3156/140200.html"
+      },
+      {
+        "cname": "德贡波",
+        "url": "/sight/ganzixian3156/1418446.html"
+      }
+    ],
+    "url": "/sightlist/ganzixian3156.html"
+  },
+  {
+    "cname": "平武",
+    "suggest_places": [
+      {
+        "cname": "平武报恩寺",
+        "url": "/sight/bengwu3134/74928.html"
+      },
+      {
+        "cname": "虎牙大峡谷",
+        "url": "/sight/bengwu3134/145108.html"
+      },
+      {
+        "cname": "王朗自然保护区",
+        "url": "/sight/bengwu3134/61304.html"
+      },
+      {
+        "cname": "平通漂流",
+        "url": "/sight/bengwu3134/70174.html"
+      }
+    ],
+    "url": "/sightlist/bengwu3134.html"
+  },
+  {
+    "cname": "邻水",
+    "suggest_places": [
+      {
+        "cname": "天意谷 ",
+        "url": "/sight/linshui3147/110258.html"
+      }
+    ],
+    "url": "/sightlist/linshui3147.html"
+  },
+  {
+    "cname": "新津",
+    "suggest_places": [
+      {
+        "cname": "花舞人间",
+        "url": "/sight/xinjin3124/120077.html"
+      },
+      {
+        "cname": "新津老君山",
+        "url": "/sight/xinjin3124/1416103.html"
+      },
+      {
+        "cname": "胡家大院",
+        "url": "/sight/xinjin3124/1484989.html"
+      },
+      {
+        "cname": "梨花溪",
+        "url": "/sight/xinjin3124/1468601.html"
+      },
+      {
+        "cname": "乌尤寺",
+        "url": "/sight/xinjin3124/1485218.html"
+      }
+    ],
+    "url": "/sightlist/xinjin3124.html"
+  },
+  {
+    "cname": "白玉县",
+    "suggest_places": [
+      {
+        "cname": "白玉寺",
+        "url": "/sight/baiyuxian120485/133459.html"
+      },
+      {
+        "cname": "亚青寺",
+        "url": "/sight/baiyuxian120485/133463.html"
+      },
+      {
+        "cname": "噶陀寺",
+        "url": "/sight/baiyuxian120485/133462.html"
+      },
+      {
+        "cname": "察青松多白唇鹿自然保护区",
+        "url": "/sight/baiyuxian120485/133465.html"
+      },
+      {
+        "cname": "火龙沟人文生态景区",
+        "url": "/sight/baiyuxian120485/133466.html"
+      }
+    ],
+    "url": "/sightlist/baiyuxian120485.html"
+  },
+  {
+    "cname": "武胜",
+    "suggest_places": [
+      {
+        "cname": "沿口古镇",
+        "url": "/sight/wuqing3105/63749.html"
+      },
+      {
+        "cname": "宝箴塞",
+        "url": "/sight/wuqing3105/63756.html"
+      }
+    ],
+    "url": "/sightlist/wuqing3105.html"
+  },
+  {
+    "cname": "南江",
+    "suggest_places": [],
+    "url": "/sightlist/najiang3109.html"
+  },
+  {
+    "cname": "通江",
+    "suggest_places": [
+      {
+        "cname": "诺水河风景名胜区",
+        "url": "/sight/tongjiang3167/22132.html"
+      },
+      {
+        "cname": "红四方面军总指挥部旧址纪念馆",
+        "url": "/sight/tongjiang3167/22129.html"
+      },
+      {
+        "cname": "诺水河溶洞漂流",
+        "url": "/sight/tongjiang3167/1416549.html"
+      },
+      {
+        "cname": "中峰洞",
+        "url": "/sight/tongjiang3167/1416547.html"
+      }
+    ],
+    "url": "/sightlist/tongjiang3167.html"
+  },
+  {
+    "cname": "蒲江",
+    "suggest_places": [
+      {
+        "cname": "石象寺",
+        "url": "/sight/bojiang3136/1469752.html"
+      },
+      {
+        "cname": "樱桃山旅游景区",
+        "url": "/sight/bojiang3136/1485158.html"
+      },
+      {
+        "cname": "西来古镇",
+        "url": "/sight/bojiang3136/1460454.html"
+      },
+      {
+        "cname": "飞仙阁",
+        "url": "/sight/bojiang3136/1429944.html"
+      },
+      {
+        "cname": "长滩湖",
+        "url": "/sight/bojiang3136/1462696.html"
+      }
+    ],
+    "url": "/sightlist/bojiang3136.html"
+  },
+  {
+    "cname": "大竹",
+    "suggest_places": [
+      {
+        "cname": "海明湖温泉水世界",
+        "url": "/sight/dazhu3138/69708.html"
+      },
+      {
+        "cname": "五峰山国家森林公园",
+        "url": "/sight/dazhu3138/128077.html"
+      }
+    ],
+    "url": "/sightlist/dazhu3138.html"
+  },
+  {
+    "cname": "郫县",
+    "suggest_places": [
+      {
+        "cname": "郫县望丛祠",
+        "url": "/sight/pixian3128/4606.html"
+      },
+      {
+        "cname": "川菜博物馆",
+        "url": "/sight/pixian3128/142568.html"
+      },
+      {
+        "cname": "唐昌镇",
+        "url": "/sight/pixian3128/1476658.html"
+      },
+      {
+        "cname": "郫县绿道",
+        "url": "/sight/pixian3128/1472372.html"
+      },
+      {
+        "cname": "郫县古城遗址",
+        "url": "/sight/pixian3128/1464632.html"
+      }
+    ],
+    "url": "/sightlist/pixian3128.html"
+  },
+  {
+    "cname": "荣县",
+    "suggest_places": [
+      {
+        "cname": "荣县大佛",
+        "url": "/sight/rongxian3144/63831.html"
+      }
+    ],
+    "url": "/sightlist/rongxian3144.html"
+  },
+  {
+    "cname": "木里",
+    "suggest_places": [
+      {
+        "cname": "木里王国",
+        "url": "/sight/muli3100/49883.html"
+      },
+      {
+        "cname": "长海子",
+        "url": "/sight/muli3100/1416482.html"
+      },
+      {
+        "cname": "康坞大寺",
+        "url": "/sight/muli3100/1416499.html"
+      },
+      {
+        "cname": "瓦尔寨大寺",
+        "url": "/sight/muli3100/1418282.html"
+      }
+    ],
+    "url": "/sightlist/muli3100.html"
+  },
+  {
+    "cname": "蓬安",
+    "suggest_places": [
+      {
+        "cname": "嘉陵第一桑梓",
+        "url": "/sight/pengan3119/1416535.html"
+      },
+      {
+        "cname": "周子古镇",
+        "url": "/sight/pengan3119/1418227.html"
+      },
+      {
+        "cname": "龙角山",
+        "url": "/sight/pengan3119/135012.html"
+      },
+      {
+        "cname": "新政离堆",
+        "url": "/sight/pengan3119/135013.html"
+      }
+    ],
+    "url": "/sightlist/pengan3119.html"
+  },
+  {
+    "cname": "兴文",
+    "suggest_places": [
+      {
+        "cname": "兴文石海",
+        "url": "/sight/xinwen3120/69564.html"
+      }
+    ],
+    "url": "/sightlist/xinwen3120.html"
+  },
+  {
+    "cname": "古蔺",
+    "suggest_places": [
+      {
+        "cname": "太平古镇",
+        "url": "/sight/gulin3166/1412931.html"
+      },
+      {
+        "cname": "红军四渡赤水太平渡陈列馆",
+        "url": "/sight/gulin3166/60781.html"
+      }
+    ],
+    "url": "/sightlist/gulin3166.html"
+  },
+  {
+    "cname": "射洪",
+    "suggest_places": [
+      {
+        "cname": "子昂故里",
+        "url": "/sight/shehong1944/1408156.html"
+      }
+    ],
+    "url": "/sightlist/shehong1944.html"
+  },
+  {
+    "cname": "安县",
+    "suggest_places": [
+      {
+        "cname": "寻龙山景区",
+        "url": "/sight/anxian3089/134463.html"
+      },
+      {
+        "cname": "绵州温泉酒店",
+        "url": "/sight/anxian3089/70219.html"
+      }
+    ],
+    "url": "/sightlist/anxian3089.html"
+  },
+  {
+    "cname": "米易",
+    "suggest_places": [
+      {
+        "cname": "龙潭溶洞",
+        "url": "/sight/miyi3097/61163.html"
+      },
+      {
+        "cname": "白坡山自然保护区",
+        "url": "/sight/miyi3097/128145.html"
+      },
+      {
+        "cname": "海塔世外桃源风景区",
+        "url": "/sight/miyi3097/128144.html"
+      }
+    ],
+    "url": "/sightlist/miyi3097.html"
+  },
+  {
+    "cname": "金堂",
+    "suggest_places": [
+      {
+        "cname": "五凤溪古镇",
+        "url": "/sight/jintang3131/69609.html"
+      },
+      {
+        "cname": "金堂云顶山风景区",
+        "url": "/sight/jintang3131/4604.html"
+      },
+      {
+        "cname": "三溪白庙村",
+        "url": "/sight/jintang3131/1473912.html"
+      },
+      {
+        "cname": "三学寺",
+        "url": "/sight/jintang3131/1472431.html"
+      },
+      {
+        "cname": "云顶石城",
+        "url": "/sight/jintang3131/1416101.html"
+      }
+    ],
+    "url": "/sightlist/jintang3131.html"
+  },
+  {
+    "cname": "三台",
+    "suggest_places": [
+      {
+        "cname": "三台杜甫草堂",
+        "url": "/sight/sansi3148/61370.html"
+      },
+      {
+        "cname": "盛世樱花悠乐谷",
+        "url": "/sight/sansi3148/1679155.html"
+      }
+    ],
+    "url": "/sightlist/sansi3148.html"
+  },
+  {
+    "cname": "中江",
+    "suggest_places": [
+      {
+        "cname": "德阳白塔寺",
+        "url": "/sight/zhongjiang3155/127964.html"
+      },
+      {
+        "cname": "黄继光纪念馆",
+        "url": "/sight/zhongjiang3155/127961.html"
+      }
+    ],
+    "url": "/sightlist/zhongjiang3155.html"
+  },
+  {
+    "cname": "安岳",
+    "suggest_places": [
+      {
+        "cname": "安岳石刻",
+        "url": "/sight/anyue3092/128160.html"
+      },
+      {
+        "cname": "圆觉洞摩崖造像风景区",
+        "url": "/sight/anyue3092/128157.html"
+      },
+      {
+        "cname": "毗卢洞文物景区",
+        "url": "/sight/anyue3092/128164.html"
+      }
+    ],
+    "url": "/sightlist/anyue3092.html"
+  },
+  {
+    "cname": "喜德",
+    "suggest_places": [
+      {
+        "cname": "小相岭风景区",
+        "url": "/sight/chide3117/49917.html"
+      },
+      {
+        "cname": "喜德公塘子温泉",
+        "url": "/sight/chide3117/70211.html"
+      }
+    ],
+    "url": "/sightlist/chide3117.html"
+  },
+  {
+    "cname": "岳池",
+    "suggest_places": [
+      {
+        "cname": "岳池翠湖",
+        "url": "/sight/yueche3151/74780.html"
+      }
+    ],
+    "url": "/sightlist/yueche3151.html"
+  },
+  {
+    "cname": "资中",
+    "suggest_places": [
+      {
+        "cname": "圣灵山地质公园",
+        "url": "/sight/zizhong3163/1410827.html"
+      }
+    ],
+    "url": "/sightlist/zizhong3163.html"
+  },
+  {
+    "cname": "会理",
+    "suggest_places": [
+      {
+        "cname": "会理古城",
+        "url": "/sight/huili3106/1416510.html"
+      },
+      {
+        "cname": "会理白马寺",
+        "url": "/sight/huili3106/1416513.html"
+      },
+      {
+        "cname": "龙肘山",
+        "url": "/sight/huili3106/49887.html"
+      }
+    ],
+    "url": "/sightlist/huili3106.html"
+  },
+  {
+    "cname": "夹江",
+    "suggest_places": [
+      {
+        "cname": "夹江千佛岩",
+        "url": "/sight/gajiang3108/49067.html"
+      }
+    ],
+    "url": "/sightlist/gajiang3108.html"
+  },
+  {
+    "cname": "渠县",
+    "suggest_places": [
+      {
+        "cname": "賨人谷景区",
+        "url": "/sight/juxian3141/128079.html"
+      },
+      {
+        "cname": "大坡岭省级森林公园",
+        "url": "/sight/juxian3141/128082.html"
+      }
+    ],
+    "url": "/sightlist/juxian3141.html"
+  },
+  {
+    "cname": "乐至",
+    "suggest_places": [
+      {
+        "cname": "乐至报国寺",
+        "url": "/sight/ledie3143/128162.html"
+      },
+      {
+        "cname": "陈毅旧居",
+        "url": "/sight/ledie3143/128172.html"
+      }
+    ],
+    "url": "/sightlist/ledie3143.html"
+  },
+  {
+    "cname": "苍溪",
+    "suggest_places": [
+      {
+        "cname": "苍溪红军渡",
+        "url": "/sight/cangxi3111/63576.html"
+      },
+      {
+        "cname": "苍溪梨博园",
+        "url": "/sight/cangxi3111/70415.html"
+      },
+      {
+        "cname": "梨文化博览园",
+        "url": "/sight/cangxi3111/128117.html"
+      }
+    ],
+    "url": "/sightlist/cangxi3111.html"
+  },
+  {
+    "cname": "达川区",
+    "suggest_places": [
+      {
+        "cname": "达县真佛山",
+        "url": "/sight/dachuan3121/69563.html"
+      },
+      {
+        "cname": "真佛山景区",
+        "url": "/sight/dachuan3121/128073.html"
+      },
+      {
+        "cname": "达县玉佛寺",
+        "url": "/sight/dachuan3121/128086.html"
+      }
+    ],
+    "url": "/sightlist/dachuan3121.html"
+  },
+  {
+    "cname": "宣汉",
+    "suggest_places": [
+      {
+        "cname": "观音山森林公园",
+        "url": "/sight/xuanhan3129/128080.html"
+      },
+      {
+        "cname": "百里峡景区",
+        "url": "/sight/xuanhan3129/135382.html"
+      },
+      {
+        "cname": "百里峡盘龙洞",
+        "url": "/sight/xuanhan3129/1412185.html"
+      }
+    ],
+    "url": "/sightlist/xuanhan3129.html"
+  },
+  {
+    "cname": "盐边",
+    "suggest_places": [
+      {
+        "cname": "二滩国家森林公园",
+        "url": "/sight/yanbian3139/61152.html"
+      },
+      {
+        "cname": "格萨拉生态旅游区",
+        "url": "/sight/yanbian3139/61159.html"
+      },
+      {
+        "cname": "红格温泉宾馆",
+        "url": "/sight/yanbian3139/70231.html"
+      }
+    ],
+    "url": "/sightlist/yanbian3139.html"
+  },
+  {
+    "cname": "峨边",
+    "suggest_places": [
+      {
+        "cname": "黑竹沟温泉山庄",
+        "url": "/sight/ebian3146/69562.html"
+      }
+    ],
+    "url": "/sightlist/ebian3146.html"
+  }
+]

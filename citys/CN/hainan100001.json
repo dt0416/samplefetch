@@ -1,0 +1,481 @@
+[
+  {
+    "cname": "三亚",
+    "suggest_places": [
+      {
+        "cname": "亚龙湾",
+        "url": "/sight/sanya61/3226.html"
+      },
+      {
+        "cname": "蜈支洲岛",
+        "url": "/sight/sanya61/3244.html"
+      },
+      {
+        "cname": "第一市场",
+        "url": "/sight/sanya61/110367.html"
+      },
+      {
+        "cname": "大东海",
+        "url": "/sight/sanya61/3224.html"
+      },
+      {
+        "cname": "天涯海角",
+        "url": "/sight/sanya61/3222.html"
+      }
+    ],
+    "url": "/sightlist/sanya61.html"
+  },
+  {
+    "cname": "海口",
+    "suggest_places": [
+      {
+        "cname": "骑楼老街",
+        "url": "/sight/haikou37/52006.html"
+      },
+      {
+        "cname": "雷琼海口火山群世界地质公园",
+        "url": "/sight/haikou37/3175.html"
+      },
+      {
+        "cname": "假日海滩",
+        "url": "/sight/haikou37/3177.html"
+      },
+      {
+        "cname": "万绿园",
+        "url": "/sight/haikou37/49169.html"
+      },
+      {
+        "cname": "五公祠",
+        "url": "/sight/haikou37/3172.html"
+      }
+    ],
+    "url": "/sightlist/haikou37.html"
+  },
+  {
+    "cname": "海南东线",
+    "suggest_places": [],
+    "url": "/sightlist/hainandongxian59.html"
+  },
+  {
+    "cname": "万宁",
+    "suggest_places": [
+      {
+        "cname": "兴隆热带植物园",
+        "url": "/sight/wanning846/3200.html"
+      },
+      {
+        "cname": "东山岭",
+        "url": "/sight/wanning846/3199.html"
+      },
+      {
+        "cname": "兴隆热带花园",
+        "url": "/sight/wanning846/54274.html"
+      },
+      {
+        "cname": "兴隆温泉",
+        "url": "/sight/wanning846/3202.html"
+      },
+      {
+        "cname": "神州半岛",
+        "url": "/sight/wanning846/3201.html"
+      }
+    ],
+    "url": "/sightlist/wanning846.html"
+  },
+  {
+    "cname": "陵水",
+    "suggest_places": [
+      {
+        "cname": "分界洲岛",
+        "url": "/sight/lingshui1509/63528.html"
+      },
+      {
+        "cname": "南湾猴岛",
+        "url": "/sight/lingshui1509/3216.html"
+      },
+      {
+        "cname": "清水湾",
+        "url": "/sight/lingshui1509/107590.html"
+      },
+      {
+        "cname": "香水湾",
+        "url": "/sight/lingshui1509/3218.html"
+      },
+      {
+        "cname": "吊罗山国家森林公园",
+        "url": "/sight/lingshui1509/21835.html"
+      }
+    ],
+    "url": "/sightlist/lingshui1509.html"
+  },
+  {
+    "cname": "保亭",
+    "suggest_places": [
+      {
+        "cname": "槟榔谷",
+        "url": "/sight/baoting1009/107588.html"
+      },
+      {
+        "cname": "热带植物园",
+        "url": "/sight/baoting1009/3215.html"
+      },
+      {
+        "cname": "七仙岭温泉国家森林公园",
+        "url": "/sight/baoting1009/145186.html"
+      },
+      {
+        "cname": "七仙岭景区",
+        "url": "/sight/baoting1009/3212.html"
+      },
+      {
+        "cname": "甘什岭",
+        "url": "/sight/baoting1009/18191.html"
+      }
+    ],
+    "url": "/sightlist/baoting1009.html"
+  },
+  {
+    "cname": "东方",
+    "suggest_places": [
+      {
+        "cname": "鱼麟洲",
+        "url": "/sight/dongfang842/18234.html"
+      },
+      {
+        "cname": "白查村船形茅草屋",
+        "url": "/sight/dongfang842/55084.html"
+      },
+      {
+        "cname": "大田坡鹿保护区",
+        "url": "/sight/dongfang842/3234.html"
+      },
+      {
+        "cname": "俄贤岭",
+        "url": "/sight/dongfang842/18233.html"
+      }
+    ],
+    "url": "/sightlist/dongfang842.html"
+  },
+  {
+    "cname": "文昌",
+    "suggest_places": [
+      {
+        "cname": "铜鼓岭",
+        "url": "/sight/wenchang1007/3186.html"
+      },
+      {
+        "cname": "东郊椰林",
+        "url": "/sight/wenchang1007/3185.html"
+      },
+      {
+        "cname": "文昌孔庙",
+        "url": "/sight/wenchang1007/145178.html"
+      },
+      {
+        "cname": "椰子大观园",
+        "url": "/sight/wenchang1007/69581.html"
+      },
+      {
+        "cname": "文庙",
+        "url": "/sight/wenchang1007/3190.html"
+      }
+    ],
+    "url": "/sightlist/wenchang1007.html"
+  },
+  {
+    "cname": "琼海",
+    "suggest_places": [
+      {
+        "cname": "玉带滩",
+        "url": "/sight/qionghai843/54236.html"
+      },
+      {
+        "cname": "万泉河",
+        "url": "/sight/qionghai843/3192.html"
+      },
+      {
+        "cname": "博鳌亚洲论坛永久会址",
+        "url": "/sight/qionghai843/54550.html"
+      },
+      {
+        "cname": "红色娘子军纪念园",
+        "url": "/sight/qionghai843/3193.html"
+      },
+      {
+        "cname": "博鳌东方文化苑",
+        "url": "/sight/qionghai843/54237.html"
+      }
+    ],
+    "url": "/sightlist/qionghai843.html"
+  },
+  {
+    "cname": "海南西线",
+    "suggest_places": [],
+    "url": "/sightlist/hainanxixian58.html"
+  },
+  {
+    "cname": "海南中线",
+    "suggest_places": [],
+    "url": "/sightlist/hainanzhongxian60.html"
+  },
+  {
+    "cname": "五指山",
+    "suggest_places": [
+      {
+        "cname": "五指山热带雨林风景区",
+        "url": "/sight/wuzhishan982/110178.html"
+      },
+      {
+        "cname": "五指山国家级自然保护区",
+        "url": "/sight/wuzhishan982/3211.html"
+      },
+      {
+        "cname": "五指山大峡谷漂流",
+        "url": "/sight/wuzhishan982/132025.html"
+      },
+      {
+        "cname": "民族博物馆",
+        "url": "/sight/wuzhishan982/3210.html"
+      },
+      {
+        "cname": "太平山瀑布",
+        "url": "/sight/wuzhishan982/3208.html"
+      }
+    ],
+    "url": "/sightlist/wuzhishan982.html"
+  },
+  {
+    "cname": "白沙",
+    "suggest_places": [
+      {
+        "cname": "白沙陨石坑",
+        "url": "/sight/baisha2455/145188.html"
+      },
+      {
+        "cname": "红坎瀑布",
+        "url": "/sight/baisha2455/145187.html"
+      }
+    ],
+    "url": "/sightlist/baisha2455.html"
+  },
+  {
+    "cname": "儋州",
+    "suggest_places": [
+      {
+        "cname": "儋州千年古盐田",
+        "url": "/sight/danzhou841/55011.html"
+      },
+      {
+        "cname": "热作两院植物园",
+        "url": "/sight/danzhou841/3237.html"
+      },
+      {
+        "cname": "东坡书院",
+        "url": "/sight/danzhou841/3238.html"
+      },
+      {
+        "cname": "松涛天湖风景区",
+        "url": "/sight/danzhou841/131920.html"
+      },
+      {
+        "cname": "石花水洞",
+        "url": "/sight/danzhou841/131922.html"
+      }
+    ],
+    "url": "/sightlist/danzhou841.html"
+  },
+  {
+    "cname": "乐东",
+    "suggest_places": [
+      {
+        "cname": "尖峰岭国家森林公园",
+        "url": "/sight/ledong981/3233.html"
+      },
+      {
+        "cname": "莺歌海盐场",
+        "url": "/sight/ledong981/18235.html"
+      },
+      {
+        "cname": "毛公山",
+        "url": "/sight/ledong981/3232.html"
+      },
+      {
+        "cname": "鸣凤谷",
+        "url": "/sight/ledong981/138097.html"
+      }
+    ],
+    "url": "/sightlist/ledong981.html"
+  },
+  {
+    "cname": "石梅湾",
+    "suggest_places": [
+      {
+        "cname": "石梅湾景区",
+        "url": "/sight/shimeiwan1948/3198.html"
+      }
+    ],
+    "url": "/sightlist/shimeiwan1948.html"
+  },
+  {
+    "cname": "琼中",
+    "suggest_places": [
+      {
+        "cname": "黎母山森林公园",
+        "url": "/sight/qiongzhong844/18195.html"
+      },
+      {
+        "cname": "百花岭风景区",
+        "url": "/sight/qiongzhong844/3207.html"
+      },
+      {
+        "cname": "鹦歌岭",
+        "url": "/sight/qiongzhong844/18204.html"
+      },
+      {
+        "cname": "白沙起义纪念馆",
+        "url": "/sight/qiongzhong844/3206.html"
+      }
+    ],
+    "url": "/sightlist/qiongzhong844.html"
+  },
+  {
+    "cname": "临高",
+    "suggest_places": [
+      {
+        "cname": "临高角",
+        "url": "/sight/lingao2458/3243.html"
+      },
+      {
+        "cname": "百仞滩",
+        "url": "/sight/lingao2458/131961.html"
+      },
+      {
+        "cname": "茉莉轩",
+        "url": "/sight/lingao2458/18220.html"
+      },
+      {
+        "cname": "高山岭",
+        "url": "/sight/lingao2458/18219.html"
+      }
+    ],
+    "url": "/sightlist/lingao2458.html"
+  },
+  {
+    "cname": "昌江",
+    "suggest_places": [
+      {
+        "cname": "棋子湾",
+        "url": "/sight/changjiang2456/3235.html"
+      },
+      {
+        "cname": "坝王岭",
+        "url": "/sight/changjiang2456/3236.html"
+      },
+      {
+        "cname": "古昌化城",
+        "url": "/sight/changjiang2456/18228.html"
+      },
+      {
+        "cname": "昌化镇",
+        "url": "/sight/changjiang2456/1675163.html"
+      },
+      {
+        "cname": "七星燕窝岭",
+        "url": "/sight/changjiang2456/18230.html"
+      }
+    ],
+    "url": "/sightlist/changjiang2456.html"
+  },
+  {
+    "cname": "澄迈",
+    "suggest_places": [
+      {
+        "cname": "福山咖啡文化风情镇",
+        "url": "/sight/chengmai2457/20230.html"
+      },
+      {
+        "cname": "永庆文化旅游景区",
+        "url": "/sight/chengmai2457/20196.html"
+      }
+    ],
+    "url": "/sightlist/chengmai2457.html"
+  },
+  {
+    "cname": "屯昌",
+    "suggest_places": [
+      {
+        "cname": "枫木鹿场",
+        "url": "/sight/tunchang845/3196.html"
+      },
+      {
+        "cname": "海南南坤民族风情旅游区",
+        "url": "/sight/tunchang845/145185.html"
+      },
+      {
+        "cname": "木色旅游度假风景区",
+        "url": "/sight/tunchang845/18205.html"
+      },
+      {
+        "cname": "石峡海瑞祖居",
+        "url": "/sight/tunchang845/18206.html"
+      },
+      {
+        "cname": "卧龙山",
+        "url": "/sight/tunchang845/3197.html"
+      }
+    ],
+    "url": "/sightlist/tunchang845.html"
+  },
+  {
+    "cname": "定安",
+    "suggest_places": [
+      {
+        "cname": "文笔峰",
+        "url": "/sight/dingan2021/131946.html"
+      },
+      {
+        "cname": "海南热带飞禽世界",
+        "url": "/sight/dingan2021/145181.html"
+      },
+      {
+        "cname": "海南农垦万嘉热带植物园",
+        "url": "/sight/dingan2021/70136.html"
+      },
+      {
+        "cname": "海南母瑞山革命根据地纪念园",
+        "url": "/sight/dingan2021/145182.html"
+      },
+      {
+        "cname": "太史坊",
+        "url": "/sight/dingan2021/145183.html"
+      }
+    ],
+    "url": "/sightlist/dingan2021.html"
+  },
+  {
+    "cname": "三沙",
+    "suggest_places": [
+      {
+        "cname": "永兴岛",
+        "url": "/sight/sansha120101/18240.html"
+      },
+      {
+        "cname": "石岛",
+        "url": "/sight/sansha120101/18241.html"
+      },
+      {
+        "cname": "七连屿",
+        "url": "/sight/sansha120101/18242.html"
+      },
+      {
+        "cname": "永乐群岛",
+        "url": "/sight/sansha120101/55124.html"
+      },
+      {
+        "cname": "东岛",
+        "url": "/sight/sansha120101/145189.html"
+      }
+    ],
+    "url": "/sightlist/sansha120101.html"
+  }
+]

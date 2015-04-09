@@ -1,0 +1,120 @@
+[
+  {
+    "cname": "赫尔辛基",
+    "suggest_places": [
+      {
+        "cname": "岩石教堂",
+        "url": "/sight/helsinki452/25472.html"
+      },
+      {
+        "cname": "赫尔辛基大教堂",
+        "url": "/sight/helsinki452/25474.html"
+      },
+      {
+        "cname": "赫尔辛基",
+        "url": "/sight/helsinki452/139256.html"
+      },
+      {
+        "cname": "西贝柳斯公园",
+        "url": "/sight/helsinki452/25479.html"
+      },
+      {
+        "cname": "乌斯别斯基东正大教堂",
+        "url": "/sight/helsinki452/25475.html"
+      }
+    ],
+    "url": "/sightlist/helsinki452.html"
+  },
+  {
+    "cname": "罗凡涅米",
+    "suggest_places": [
+      {
+        "cname": "圣诞老人村",
+        "url": "/sight/lapland1049/26568.html"
+      },
+      {
+        "cname": "北极圈",
+        "url": "/sight/lapland1049/26563.html"
+      },
+      {
+        "cname": "圣诞公园",
+        "url": "/sight/lapland1049/26569.html"
+      },
+      {
+        "cname": "桑普号破冰船",
+        "url": "/sight/lapland1049/26572.html"
+      },
+      {
+        "cname": "冰雪城堡",
+        "url": "/sight/lapland1049/26565.html"
+      }
+    ],
+    "url": "/sightlist/lapland1049.html"
+  },
+  {
+    "cname": "图尔库",
+    "suggest_places": [
+      {
+        "cname": "图尔库城堡",
+        "url": "/sight/turku1078/67526.html"
+      },
+      {
+        "cname": "图尔库教堂",
+        "url": "/sight/turku1078/136598.html"
+      }
+    ],
+    "url": "/sightlist/turku1078.html"
+  },
+  {
+    "cname": "凯米",
+    "suggest_places": [
+      {
+        "cname": "凯米宝石馆",
+        "url": "/sight/kemi1076/26571.html"
+      }
+    ],
+    "url": "/sightlist/kemi1076.html"
+  },
+  {
+    "cname": "Espoo",
+    "suggest_places": [
+      {
+        "cname": "努克西奥国家公园",
+        "url": "/sight/espoo45722/25470.html"
+      },
+      {
+        "cname": "诺基亚中心",
+        "url": "/sight/espoo45722/136595.html"
+      }
+    ],
+    "url": "/sightlist/espoo45722.html"
+  },
+  {
+    "cname": "坦佩雷",
+    "suggest_places": [],
+    "url": "/sightlist/tampere1077.html"
+  },
+  {
+    "cname": "库奥皮奥",
+    "suggest_places": [
+      {
+        "cname": "库奥皮奥博物馆",
+        "url": "/sight/kuopio1419/71190.html"
+      },
+      {
+        "cname": "普幽山",
+        "url": "/sight/kuopio1419/71192.html"
+      },
+      {
+        "cname": "东正教教堂博物馆",
+        "url": "/sight/kuopio1419/71191.html"
+      }
+    ],
+    "url": "/sightlist/kuopio1419.html"
+  },
+  {
+    "cname": "奥卢",
+    "suggest_places": [],
+    "url": "/sightlist/oulu1361.html"
+  }
+]

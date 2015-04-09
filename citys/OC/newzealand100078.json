@@ -1,0 +1,351 @@
+[
+  {
+    "cname": "皇后镇",
+    "suggest_places": [
+      {
+        "cname": "皇后镇",
+        "url": "/sight/queenstown684/137258.html"
+      },
+      {
+        "cname": "瓦纳卡湖",
+        "url": "/sight/queenstown684/132568.html"
+      },
+      {
+        "cname": "瓦卡蒂普湖",
+        "url": "/sight/queenstown684/21856.html"
+      },
+      {
+        "cname": "箭镇",
+        "url": "/sight/queenstown684/137473.html"
+      },
+      {
+        "cname": "米尔福德峡湾",
+        "url": "/sight/queenstown684/132469.html"
+      }
+    ],
+    "url": "/sightlist/queenstown684.html"
+  },
+  {
+    "cname": "基督城",
+    "suggest_places": [
+      {
+        "cname": "基督城",
+        "url": "/sight/christchurch695/137271.html"
+      },
+      {
+        "cname": "雅芳河",
+        "url": "/sight/christchurch695/137483.html"
+      },
+      {
+        "cname": "坎特伯雷博物馆",
+        "url": "/sight/christchurch695/133938.html"
+      },
+      {
+        "cname": "基督城植物园",
+        "url": "/sight/christchurch695/79311.html"
+      },
+      {
+        "cname": "基督城国际南极中心",
+        "url": "/sight/christchurch695/21861.html"
+      }
+    ],
+    "url": "/sightlist/christchurch695.html"
+  },
+  {
+    "cname": "奥克兰",
+    "suggest_places": [
+      {
+        "cname": "奥克兰",
+        "url": "/sight/auckland320/137223.html"
+      },
+      {
+        "cname": "天空塔",
+        "url": "/sight/auckland320/20015.html"
+      },
+      {
+        "cname": "伊甸山",
+        "url": "/sight/auckland320/51556.html"
+      },
+      {
+        "cname": "岛屿湾",
+        "url": "/sight/auckland320/67262.html"
+      },
+      {
+        "cname": "怀托摩萤火虫洞",
+        "url": "/sight/auckland320/50918.html"
+      }
+    ],
+    "url": "/sightlist/auckland320.html"
+  },
+  {
+    "cname": "南岛",
+    "suggest_places": [
+      {
+        "cname": "基督城",
+        "url": "/sight/southisland25056/137271.html"
+      },
+      {
+        "cname": "皇后镇",
+        "url": "/sight/southisland25056/137258.html"
+      },
+      {
+        "cname": "瓦纳卡湖",
+        "url": "/sight/southisland25056/132568.html"
+      },
+      {
+        "cname": "蒂卡普湖",
+        "url": "/sight/southisland25056/123116.html"
+      },
+      {
+        "cname": "凯库拉",
+        "url": "/sight/southisland25056/133983.html"
+      }
+    ],
+    "url": "/sightlist/southisland25056.html"
+  },
+  {
+    "cname": "罗托鲁瓦",
+    "suggest_places": [
+      {
+        "cname": "罗托鲁瓦湖",
+        "url": "/sight/rorotua682/21846.html"
+      },
+      {
+        "cname": "毛利文化村",
+        "url": "/sight/rorotua682/67783.html"
+      },
+      {
+        "cname": "爱歌顿农场",
+        "url": "/sight/rorotua682/137211.html"
+      },
+      {
+        "cname": "红木森林公园",
+        "url": "/sight/rorotua682/79301.html"
+      },
+      {
+        "cname": "政府花园",
+        "url": "/sight/rorotua682/79299.html"
+      }
+    ],
+    "url": "/sightlist/rorotua682.html"
+  },
+  {
+    "cname": "但尼丁",
+    "suggest_places": [
+      {
+        "cname": "但尼丁火车站",
+        "url": "/sight/dunedin1192/51317.html"
+      },
+      {
+        "cname": "但尼丁",
+        "url": "/sight/dunedin1192/137190.html"
+      },
+      {
+        "cname": "摩拉基大圆石",
+        "url": "/sight/dunedin1192/146388.html"
+      },
+      {
+        "cname": "奥塔哥半岛",
+        "url": "/sight/dunedin1192/137185.html"
+      },
+      {
+        "cname": "奥玛鲁",
+        "url": "/sight/dunedin1192/137183.html"
+      }
+    ],
+    "url": "/sightlist/dunedin1192.html"
+  },
+  {
+    "cname": "惠灵顿",
+    "suggest_places": [
+      {
+        "cname": "维多利亚山",
+        "url": "/sight/wellington755/25413.html"
+      },
+      {
+        "cname": "新西兰国家博物馆",
+        "url": "/sight/wellington755/25415.html"
+      },
+      {
+        "cname": "惠灵顿动物园",
+        "url": "/sight/wellington755/134015.html"
+      },
+      {
+        "cname": "惠灵顿植物园",
+        "url": "/sight/wellington755/134013.html"
+      },
+      {
+        "cname": "威塔之家",
+        "url": "/sight/wellington755/137481.html"
+      }
+    ],
+    "url": "/sightlist/wellington755.html"
+  },
+  {
+    "cname": "北岛",
+    "suggest_places": [
+      {
+        "cname": "奥克兰",
+        "url": "/sight/northisland25055/137223.html"
+      },
+      {
+        "cname": "天空塔",
+        "url": "/sight/northisland25055/20015.html"
+      },
+      {
+        "cname": "罗托鲁瓦湖",
+        "url": "/sight/northisland25055/21846.html"
+      },
+      {
+        "cname": "毛利文化村",
+        "url": "/sight/northisland25055/67783.html"
+      },
+      {
+        "cname": "伊甸山",
+        "url": "/sight/northisland25055/51556.html"
+      }
+    ],
+    "url": "/sightlist/northisland25055.html"
+  },
+  {
+    "cname": "陶波",
+    "suggest_places": [
+      {
+        "cname": "胡卡瀑布",
+        "url": "/sight/taupo1863/146381.html"
+      },
+      {
+        "cname": "陶波湖",
+        "url": "/sight/taupo1863/132307.html"
+      }
+    ],
+    "url": "/sightlist/taupo1863.html"
+  },
+  {
+    "cname": "Kaikoura",
+    "suggest_places": [
+      {
+        "cname": "凯库拉",
+        "url": "/sight/kaikoura57947/133983.html"
+      }
+    ],
+    "url": "/sightlist/kaikoura57947.html"
+  },
+  {
+    "cname": "福克斯冰河",
+    "suggest_places": [
+      {
+        "cname": "福克斯冰河",
+        "url": "/sight/foxglacier1210/1409552.html"
+      }
+    ],
+    "url": "/sightlist/foxglacier1210.html"
+  },
+  {
+    "cname": "格雷茅斯",
+    "suggest_places": [
+      {
+        "cname": "格雷茅斯",
+        "url": "/sight/greymouth17181/137268.html"
+      }
+    ],
+    "url": "/sightlist/greymouth17181.html"
+  },
+  {
+    "cname": "南岛西海岸",
+    "suggest_places": [
+      {
+        "cname": "福克斯冰河",
+        "url": "/sight/southwestland1370/1409552.html"
+      },
+      {
+        "cname": "西岸冰川",
+        "url": "/sight/southwestland1370/137272.html"
+      },
+      {
+        "cname": "弗兰兹·约瑟夫冰河",
+        "url": "/sight/southwestland1370/122948.html"
+      },
+      {
+        "cname": "马瑟森湖",
+        "url": "/sight/southwestland1370/1414681.html"
+      }
+    ],
+    "url": "/sightlist/southwestland1370.html"
+  },
+  {
+    "cname": "派希亚",
+    "suggest_places": [],
+    "url": "/sightlist/paihia1860.html"
+  },
+  {
+    "cname": "蒂阿瑙",
+    "suggest_places": [],
+    "url": "/sightlist/teanau1862.html"
+  },
+  {
+    "cname": "库克山国家公园",
+    "suggest_places": [
+      {
+        "cname": "库克山国家公园",
+        "url": "/sight/mountcooknationalpark123179/65251.html"
+      },
+      {
+        "cname": "塔斯曼冰川",
+        "url": "/sight/mountcooknationalpark123179/1476651.html"
+      }
+    ],
+    "url": "/sightlist/mountcooknationalpark123179.html"
+  },
+  {
+    "cname": "坎特伯雷",
+    "suggest_places": [
+      {
+        "cname": "基督城",
+        "url": "/sight/canterbury17120/137271.html"
+      },
+      {
+        "cname": "蒂卡普湖",
+        "url": "/sight/canterbury17120/123116.html"
+      },
+      {
+        "cname": "凯库拉",
+        "url": "/sight/canterbury17120/133983.html"
+      },
+      {
+        "cname": "牧羊人教堂",
+        "url": "/sight/canterbury17120/134006.html"
+      },
+      {
+        "cname": "库克山国家公园",
+        "url": "/sight/canterbury17120/65251.html"
+      }
+    ],
+    "url": "/sightlist/canterbury17120.html"
+  },
+  {
+    "cname": "尼尔森",
+    "suggest_places": [
+      {
+        "cname": "阿贝尔·塔斯曼国家公园",
+        "url": "/sight/nelson1176/147354.html"
+      }
+    ],
+    "url": "/sightlist/nelson1176.html"
+  },
+  {
+    "cname": "Glenorchy",
+    "suggest_places": [],
+    "url": "/sightlist/glenorchy17173.html"
+  },
+  {
+    "cname": "Hamilton",
+    "suggest_places": [
+      {
+        "cname": "汉米尔顿花园",
+        "url": "/sight/hamilton17093/1409952.html"
+      }
+    ],
+    "url": "/sightlist/hamilton17093.html"
+  }
+]

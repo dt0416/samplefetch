@@ -1,0 +1,106 @@
+[
+  {
+    "cname": "塞班岛",
+    "suggest_places": [
+      {
+        "cname": "军舰岛 ",
+        "url": "/sight/saipan569/24848.html"
+      },
+      {
+        "cname": "鸟岛 ",
+        "url": "/sight/saipan569/24850.html"
+      },
+      {
+        "cname": "蓝洞 ",
+        "url": "/sight/saipan569/24849.html"
+      },
+      {
+        "cname": "万岁崖 ",
+        "url": "/sight/saipan569/24851.html"
+      },
+      {
+        "cname": "自杀崖",
+        "url": "/sight/saipan569/46151.html"
+      }
+    ],
+    "url": "/sightlist/saipan569.html"
+  },
+  {
+    "cname": "北马里亚纳群岛",
+    "suggest_places": [
+      {
+        "cname": "军舰岛 ",
+        "url": "/sight/northernmarianaislands788/24848.html"
+      },
+      {
+        "cname": "鸟岛 ",
+        "url": "/sight/northernmarianaislands788/24850.html"
+      },
+      {
+        "cname": "蓝洞 ",
+        "url": "/sight/northernmarianaislands788/24849.html"
+      },
+      {
+        "cname": "万岁崖 ",
+        "url": "/sight/northernmarianaislands788/24851.html"
+      },
+      {
+        "cname": "自杀崖",
+        "url": "/sight/northernmarianaislands788/46151.html"
+      }
+    ],
+    "url": "/sightlist/northernmarianaislands788.html"
+  },
+  {
+    "cname": "关岛",
+    "suggest_places": [
+      {
+        "cname": "恋人岬",
+        "url": "/sight/guam1422/137491.html"
+      },
+      {
+        "cname": "杜梦湾",
+        "url": "/sight/guam1422/137376.html"
+      },
+      {
+        "cname": "海底世界水族馆",
+        "url": "/sight/guam1422/71533.html"
+      },
+      {
+        "cname": "鱼眼海洋公园",
+        "url": "/sight/guam1422/71535.html"
+      },
+      {
+        "cname": "彩虹教堂",
+        "url": "/sight/guam1422/1407830.html"
+      }
+    ],
+    "url": "/sightlist/guam1422.html"
+  },
+  {
+    "cname": "天宁岛",
+    "suggest_places": [
+      {
+        "cname": "塔加海滩",
+        "url": "/sight/tinian570/64895.html"
+      },
+      {
+        "cname": "喷水海岸",
+        "url": "/sight/tinian570/64891.html"
+      },
+      {
+        "cname": "塔加屋",
+        "url": "/sight/tinian570/64893.html"
+      },
+      {
+        "cname": "原子弹装载地",
+        "url": "/sight/tinian570/24890.html"
+      },
+      {
+        "cname": "塔琼卡海滩",
+        "url": "/sight/tinian570/24893.html"
+      }
+    ],
+    "url": "/sightlist/tinian570.html"
+  }
+]

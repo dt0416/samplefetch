@@ -1,0 +1,192 @@
+[
+  {
+    "cname": "维也纳",
+    "suggest_places": [
+      {
+        "cname": "斯蒂芬大教堂",
+        "url": "/sight/vienna439/13349.html"
+      },
+      {
+        "cname": "美泉宫",
+        "url": "/sight/vienna439/13347.html"
+      },
+      {
+        "cname": "维也纳",
+        "url": "/sight/vienna439/138317.html"
+      },
+      {
+        "cname": "霍夫堡宫",
+        "url": "/sight/vienna439/13343.html"
+      },
+      {
+        "cname": "维也纳音乐协会金色大厅",
+        "url": "/sight/vienna439/13353.html"
+      }
+    ],
+    "url": "/sightlist/vienna439.html"
+  },
+  {
+    "cname": "萨尔茨堡",
+    "suggest_places": [
+      {
+        "cname": "霍亨萨尔茨堡",
+        "url": "/sight/salzburg440/13345.html"
+      },
+      {
+        "cname": "米拉贝尔宫殿和花园",
+        "url": "/sight/salzburg440/13449.html"
+      },
+      {
+        "cname": "莫扎特出生地",
+        "url": "/sight/salzburg440/13346.html"
+      },
+      {
+        "cname": "粮食胡同",
+        "url": "/sight/salzburg440/72733.html"
+      },
+      {
+        "cname": "萨尔茨堡大教堂",
+        "url": "/sight/salzburg440/13463.html"
+      }
+    ],
+    "url": "/sightlist/salzburg440.html"
+  },
+  {
+    "cname": "哈尔施塔特",
+    "suggest_places": [
+      {
+        "cname": "哈尔施塔特湖",
+        "url": "/sight/hallstatt792/25026.html"
+      },
+      {
+        "cname": "哈尔施塔特",
+        "url": "/sight/hallstatt792/137037.html"
+      },
+      {
+        "cname": "上特劳恩",
+        "url": "/sight/hallstatt792/60997.html"
+      },
+      {
+        "cname": "盐洞",
+        "url": "/sight/hallstatt792/25024.html"
+      },
+      {
+        "cname": "特劳恩湖",
+        "url": "/sight/hallstatt792/25023.html"
+      }
+    ],
+    "url": "/sightlist/hallstatt792.html"
+  },
+  {
+    "cname": "因斯布鲁克",
+    "suggest_places": [
+      {
+        "cname": "施华洛世奇水晶世界",
+        "url": "/sight/innsbruck791/24927.html"
+      },
+      {
+        "cname": "玛丽亚·特蕾西亚大街",
+        "url": "/sight/innsbruck791/24936.html"
+      },
+      {
+        "cname": "黄金屋顶",
+        "url": "/sight/innsbruck791/24938.html"
+      },
+      {
+        "cname": "凯旋门",
+        "url": "/sight/innsbruck791/24925.html"
+      },
+      {
+        "cname": "茵斯布鲁克",
+        "url": "/sight/innsbruck791/138320.html"
+      }
+    ],
+    "url": "/sightlist/innsbruck791.html"
+  },
+  {
+    "cname": "格拉茨",
+    "suggest_places": [
+      {
+        "cname": "城堡山",
+        "url": "/sight/graz793/24846.html"
+      },
+      {
+        "cname": "大教堂",
+        "url": "/sight/graz793/24880.html"
+      },
+      {
+        "cname": "市政厅",
+        "url": "/sight/graz793/24877.html"
+      },
+      {
+        "cname": "城市公园",
+        "url": "/sight/graz793/24898.html"
+      },
+      {
+        "cname": "老城区中心广场",
+        "url": "/sight/graz793/24871.html"
+      }
+    ],
+    "url": "/sightlist/graz793.html"
+  },
+  {
+    "cname": "梅尔克",
+    "suggest_places": [
+      {
+        "cname": "梅尔克修道院",
+        "url": "/sight/melk46847/66749.html"
+      },
+      {
+        "cname": "梅尔克小镇",
+        "url": "/sight/melk46847/122988.html"
+      }
+    ],
+    "url": "/sightlist/melk46847.html"
+  },
+  {
+    "cname": "奥地利阿尔卑斯山",
+    "suggest_places": [
+      {
+        "cname": "施华洛世奇水晶世界",
+        "url": "/sight/austrianalps20491/24927.html"
+      },
+      {
+        "cname": "玛丽亚·特蕾西亚大街",
+        "url": "/sight/austrianalps20491/24936.html"
+      },
+      {
+        "cname": "黄金屋顶",
+        "url": "/sight/austrianalps20491/24938.html"
+      },
+      {
+        "cname": "凯旋门",
+        "url": "/sight/austrianalps20491/24925.html"
+      },
+      {
+        "cname": "斯泰维奥坳公路",
+        "url": "/sight/austrianalps20491/1410681.html"
+      }
+    ],
+    "url": "/sightlist/austrianalps20491.html"
+  },
+  {
+    "cname": "马耳他",
+    "suggest_places": [],
+    "url": "/sightlist/malta46482.html"
+  },
+  {
+    "cname": "圣沃夫冈",
+    "suggest_places": [
+      {
+        "cname": "圣沃夫冈",
+        "url": "/sight/stwolfgang1688/138311.html"
+      }
+    ],
+    "url": "/sightlist/stwolfgang1688.html"
+  },
+  {
+    "cname": "Linz",
+    "suggest_places": [],
+    "url": "/sightlist/linz28708.html"
+  }
+]

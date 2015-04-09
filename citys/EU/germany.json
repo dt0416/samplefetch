@@ -1,0 +1,840 @@
+[
+  {
+    "cname": "慕尼黑",
+    "suggest_places": [
+      {
+        "cname": "慕尼黑",
+        "url": "/sight/munich572/138231.html"
+      },
+      {
+        "cname": "玛利亚广场",
+        "url": "/sight/munich572/52782.html"
+      },
+      {
+        "cname": "宝马世界",
+        "url": "/sight/munich572/22550.html"
+      },
+      {
+        "cname": "宫廷啤酒屋",
+        "url": "/sight/munich572/54152.html"
+      },
+      {
+        "cname": "圣母教堂",
+        "url": "/sight/munich572/22554.html"
+      }
+    ],
+    "url": "/sightlist/munich572.html"
+  },
+  {
+    "cname": "法兰克福",
+    "suggest_places": [
+      {
+        "cname": "法兰克福",
+        "url": "/sight/frankfurt305/138142.html"
+      },
+      {
+        "cname": "罗马广场",
+        "url": "/sight/frankfurt305/12657.html"
+      },
+      {
+        "cname": "法兰克福大教堂",
+        "url": "/sight/frankfurt305/54087.html"
+      },
+      {
+        "cname": "罗腾堡",
+        "url": "/sight/frankfurt305/67122.html"
+      },
+      {
+        "cname": "歌德故居",
+        "url": "/sight/frankfurt305/12658.html"
+      }
+    ],
+    "url": "/sightlist/frankfurt305.html"
+  },
+  {
+    "cname": "柏林",
+    "suggest_places": [
+      {
+        "cname": "柏林大教堂",
+        "url": "/sight/berlin306/52021.html"
+      },
+      {
+        "cname": "勃兰登堡门和巴黎广场",
+        "url": "/sight/berlin306/12736.html"
+      },
+      {
+        "cname": "柏林墙遗址纪念公园",
+        "url": "/sight/berlin306/134668.html"
+      },
+      {
+        "cname": "国会大厦",
+        "url": "/sight/berlin306/12734.html"
+      },
+      {
+        "cname": "博物馆岛",
+        "url": "/sight/berlin306/52458.html"
+      }
+    ],
+    "url": "/sightlist/berlin306.html"
+  },
+  {
+    "cname": "富森",
+    "suggest_places": [
+      {
+        "cname": "新天鹅堡",
+        "url": "/sight/fussen1040/22578.html"
+      },
+      {
+        "cname": "福森",
+        "url": "/sight/fussen1040/122955.html"
+      },
+      {
+        "cname": "郝恩斯堡",
+        "url": "/sight/fussen1040/134893.html"
+      },
+      {
+        "cname": "圣曼克修道院",
+        "url": "/sight/fussen1040/134894.html"
+      }
+    ],
+    "url": "/sightlist/fussen1040.html"
+  },
+  {
+    "cname": "科隆",
+    "suggest_places": [
+      {
+        "cname": "科隆大教堂",
+        "url": "/sight/cologne388/12748.html"
+      },
+      {
+        "cname": "科隆",
+        "url": "/sight/cologne388/138213.html"
+      },
+      {
+        "cname": "巧克力博物馆",
+        "url": "/sight/cologne388/12759.html"
+      },
+      {
+        "cname": "霍亨索伦桥",
+        "url": "/sight/cologne388/134725.html"
+      },
+      {
+        "cname": "科隆市政厅",
+        "url": "/sight/cologne388/12754.html"
+      }
+    ],
+    "url": "/sightlist/cologne388.html"
+  },
+  {
+    "cname": "海德堡",
+    "suggest_places": [
+      {
+        "cname": "海德堡",
+        "url": "/sight/heidelberg790/138190.html"
+      },
+      {
+        "cname": "海德堡城堡",
+        "url": "/sight/heidelberg790/134789.html"
+      },
+      {
+        "cname": "哲学家小径",
+        "url": "/sight/heidelberg790/134792.html"
+      },
+      {
+        "cname": "海德堡老城区",
+        "url": "/sight/heidelberg790/66774.html"
+      },
+      {
+        "cname": "海德堡大学",
+        "url": "/sight/heidelberg790/66775.html"
+      }
+    ],
+    "url": "/sightlist/heidelberg790.html"
+  },
+  {
+    "cname": "斯图加特",
+    "suggest_places": [
+      {
+        "cname": "斯图加特",
+        "url": "/sight/stuttgart1039/138249.html"
+      },
+      {
+        "cname": "梅赛德斯奔驰博物馆",
+        "url": "/sight/stuttgart1039/133492.html"
+      },
+      {
+        "cname": "保时捷博物馆",
+        "url": "/sight/stuttgart1039/134905.html"
+      },
+      {
+        "cname": "宫殿广场",
+        "url": "/sight/stuttgart1039/133539.html"
+      },
+      {
+        "cname": "威廉动植物园",
+        "url": "/sight/stuttgart1039/133538.html"
+      }
+    ],
+    "url": "/sightlist/stuttgart1039.html"
+  },
+  {
+    "cname": "Hohenschwangau",
+    "suggest_places": [
+      {
+        "cname": "高天鹅堡",
+        "url": "/sight/hohenschwangau46205/141945.html"
+      },
+      {
+        "cname": "福尔根湖",
+        "url": "/sight/hohenschwangau46205/141948.html"
+      }
+    ],
+    "url": "/sightlist/hohenschwangau46205.html"
+  },
+  {
+    "cname": "贝希特斯加登",
+    "suggest_places": [
+      {
+        "cname": "国王湖",
+        "url": "/sight/berchtesgaden1090/84015.html"
+      },
+      {
+        "cname": "拉姆绍",
+        "url": "/sight/berchtesgaden1090/146333.html"
+      },
+      {
+        "cname": "魔法森林",
+        "url": "/sight/berchtesgaden1090/1412507.html"
+      },
+      {
+        "cname": "Hintersee湖",
+        "url": "/sight/berchtesgaden1090/1412495.html"
+      },
+      {
+        "cname": "耶拿峰",
+        "url": "/sight/berchtesgaden1090/1412526.html"
+      }
+    ],
+    "url": "/sightlist/berchtesgaden1090.html"
+  },
+  {
+    "cname": "佛莱堡",
+    "suggest_places": [
+      {
+        "cname": "大教堂",
+        "url": "/sight/freiburgimbreisgau1703/133582.html"
+      },
+      {
+        "cname": "佛莱堡市政厅广场",
+        "url": "/sight/freiburgimbreisgau1703/122981.html"
+      },
+      {
+        "cname": "奥古斯丁博物馆 ",
+        "url": "/sight/freiburgimbreisgau1703/133583.html"
+      }
+    ],
+    "url": "/sightlist/freiburgimbreisgau1703.html"
+  },
+  {
+    "cname": "汉堡",
+    "suggest_places": [
+      {
+        "cname": "绳索大街",
+        "url": "/sight/hamburg573/138245.html"
+      },
+      {
+        "cname": "阿尔斯特湖",
+        "url": "/sight/hamburg573/24368.html"
+      },
+      {
+        "cname": "汉堡市政厅",
+        "url": "/sight/hamburg573/24364.html"
+      },
+      {
+        "cname": "布莱克尼斯区",
+        "url": "/sight/hamburg573/137321.html"
+      },
+      {
+        "cname": "汉堡港",
+        "url": "/sight/hamburg573/24365.html"
+      }
+    ],
+    "url": "/sightlist/hamburg573.html"
+  },
+  {
+    "cname": "波恩",
+    "suggest_places": [
+      {
+        "cname": "波恩",
+        "url": "/sight/bonn787/137313.html"
+      },
+      {
+        "cname": "贝多芬故居",
+        "url": "/sight/bonn787/138069.html"
+      },
+      {
+        "cname": "植物园",
+        "url": "/sight/bonn787/138260.html"
+      },
+      {
+        "cname": "老市政厅",
+        "url": "/sight/bonn787/137364.html"
+      },
+      {
+        "cname": "波恩大学",
+        "url": "/sight/bonn787/138079.html"
+      }
+    ],
+    "url": "/sightlist/bonn787.html"
+  },
+  {
+    "cname": "德累斯顿",
+    "suggest_places": [
+      {
+        "cname": "德累斯顿",
+        "url": "/sight/dresden1467/138137.html"
+      },
+      {
+        "cname": "三皇教堂",
+        "url": "/sight/dresden1467/147921.html"
+      },
+      {
+        "cname": "德累斯顿王宫",
+        "url": "/sight/dresden1467/79070.html"
+      },
+      {
+        "cname": "德累斯顿圣母教堂",
+        "url": "/sight/dresden1467/79069.html"
+      }
+    ],
+    "url": "/sightlist/dresden1467.html"
+  },
+  {
+    "cname": "罗滕堡",
+    "suggest_places": [
+      {
+        "cname": "罗滕堡",
+        "url": "/sight/rothenburgobdertauber1707/141946.html"
+      },
+      {
+        "cname": "城堡花园",
+        "url": "/sight/rothenburgobdertauber1707/134883.html"
+      },
+      {
+        "cname": "市政厅",
+        "url": "/sight/rothenburgobdertauber1707/134881.html"
+      },
+      {
+        "cname": "步云莱",
+        "url": "/sight/rothenburgobdertauber1707/1487987.html"
+      },
+      {
+        "cname": "罗滕堡古老手艺人之家",
+        "url": "/sight/rothenburgobdertauber1707/1487994.html"
+      }
+    ],
+    "url": "/sightlist/rothenburgobdertauber1707.html"
+  },
+  {
+    "cname": "博登湖",
+    "suggest_places": [
+      {
+        "cname": "博登湖",
+        "url": "/sight/lakeconstance44693/133544.html"
+      },
+      {
+        "cname": "美瑙岛",
+        "url": "/sight/lakeconstance44693/133286.html"
+      },
+      {
+        "cname": "博登湖",
+        "url": "/sight/lakeconstance44693/78487.html"
+      }
+    ],
+    "url": "/sightlist/lakeconstance44693.html"
+  },
+  {
+    "cname": "杜塞尔多夫",
+    "suggest_places": [
+      {
+        "cname": "国王大道",
+        "url": "/sight/dusseldorf700/146329.html"
+      },
+      {
+        "cname": "本拉特宫",
+        "url": "/sight/dusseldorf700/1489373.html"
+      },
+      {
+        "cname": "海涅故居",
+        "url": "/sight/dusseldorf700/1489372.html"
+      },
+      {
+        "cname": "霍夫花园",
+        "url": "/sight/dusseldorf700/1489358.html"
+      },
+      {
+        "cname": "集市广场",
+        "url": "/sight/dusseldorf700/1489356.html"
+      }
+    ],
+    "url": "/sightlist/dusseldorf700.html"
+  },
+  {
+    "cname": "巴登巴登",
+    "suggest_places": [
+      {
+        "cname": "巴登巴登",
+        "url": "/sight/badenbaden1092/138135.html"
+      },
+      {
+        "cname": "旧皇宫",
+        "url": "/sight/badenbaden1092/133482.html"
+      },
+      {
+        "cname": "卡拉卡拉浴场",
+        "url": "/sight/badenbaden1092/133479.html"
+      },
+      {
+        "cname": "巴登巴登赌场",
+        "url": "/sight/badenbaden1092/133487.html"
+      },
+      {
+        "cname": "腓特烈浴池",
+        "url": "/sight/badenbaden1092/133478.html"
+      }
+    ],
+    "url": "/sightlist/badenbaden1092.html"
+  },
+  {
+    "cname": "维尔茨堡",
+    "suggest_places": [
+      {
+        "cname": "维尔茨堡",
+        "url": "/sight/wurzburg2108/141944.html"
+      },
+      {
+        "cname": "主教宫",
+        "url": "/sight/wurzburg2108/85396.html"
+      },
+      {
+        "cname": "旧美因桥",
+        "url": "/sight/wurzburg2108/85388.html"
+      },
+      {
+        "cname": "马林贝格要塞",
+        "url": "/sight/wurzburg2108/85508.html"
+      },
+      {
+        "cname": "圣基里安大教堂",
+        "url": "/sight/wurzburg2108/85402.html"
+      }
+    ],
+    "url": "/sightlist/wurzburg2108.html"
+  },
+  {
+    "cname": "波茨坦",
+    "suggest_places": [
+      {
+        "cname": "无忧宫",
+        "url": "/sight/potsdam26709/134872.html"
+      },
+      {
+        "cname": "塞琪琳霍夫宫",
+        "url": "/sight/potsdam26709/87869.html"
+      },
+      {
+        "cname": "新宫",
+        "url": "/sight/potsdam26709/134873.html"
+      }
+    ],
+    "url": "/sightlist/potsdam26709.html"
+  },
+  {
+    "cname": "吕贝克",
+    "suggest_places": [
+      {
+        "cname": "吕贝克",
+        "url": "/sight/lubeck1582/24377.html"
+      },
+      {
+        "cname": "霍尔斯坦门",
+        "url": "/sight/lubeck1582/134869.html"
+      },
+      {
+        "cname": "圣玛丽恩教堂",
+        "url": "/sight/lubeck1582/134868.html"
+      }
+    ],
+    "url": "/sightlist/lubeck1582.html"
+  },
+  {
+    "cname": "滴滴湖",
+    "suggest_places": [
+      {
+        "cname": "滴滴湖",
+        "url": "/sight/titisee44499/133285.html"
+      }
+    ],
+    "url": "/sightlist/titisee44499.html"
+  },
+  {
+    "cname": "纽伦堡",
+    "suggest_places": [
+      {
+        "cname": "美泉",
+        "url": "/sight/nuremberg1489/134886.html"
+      },
+      {
+        "cname": "圣劳伦茨教堂",
+        "url": "/sight/nuremberg1489/84022.html"
+      },
+      {
+        "cname": "工匠广场",
+        "url": "/sight/nuremberg1489/134885.html"
+      }
+    ],
+    "url": "/sightlist/nuremberg1489.html"
+  },
+  {
+    "cname": "汉诺威",
+    "suggest_places": [
+      {
+        "cname": "市政厅",
+        "url": "/sight/hannover585/72814.html"
+      },
+      {
+        "cname": "集市教堂",
+        "url": "/sight/hannover585/72816.html"
+      },
+      {
+        "cname": "汉诺威展览中心",
+        "url": "/sight/hannover585/72819.html"
+      },
+      {
+        "cname": "汉诺威大花园",
+        "url": "/sight/hannover585/72813.html"
+      },
+      {
+        "cname": "莱纳河城堡",
+        "url": "/sight/hannover585/72817.html"
+      }
+    ],
+    "url": "/sightlist/hannover585.html"
+  },
+  {
+    "cname": "乌尔姆",
+    "suggest_places": [
+      {
+        "cname": "乌尔姆大教堂",
+        "url": "/sight/ulm44539/133541.html"
+      },
+      {
+        "cname": "乐高乐园",
+        "url": "/sight/ulm44539/146340.html"
+      },
+      {
+        "cname": "德国面包博物馆 ",
+        "url": "/sight/ulm44539/133542.html"
+      }
+    ],
+    "url": "/sightlist/ulm44539.html"
+  },
+  {
+    "cname": "林道",
+    "suggest_places": [
+      {
+        "cname": "林道市港口",
+        "url": "/sight/lindau1493/84021.html"
+      }
+    ],
+    "url": "/sightlist/lindau1493.html"
+  },
+  {
+    "cname": "科布伦茨",
+    "suggest_places": [
+      {
+        "cname": "德意志之角",
+        "url": "/sight/koblenz27070/67344.html"
+      }
+    ],
+    "url": "/sightlist/koblenz27070.html"
+  },
+  {
+    "cname": "美因茨",
+    "suggest_places": [],
+    "url": "/sightlist/mainz1390.html"
+  },
+  {
+    "cname": "班堡",
+    "suggest_places": [
+      {
+        "cname": "新王宫",
+        "url": "/sight/bamberg1492/83934.html"
+      },
+      {
+        "cname": "班贝格城大教堂",
+        "url": "/sight/bamberg1492/83935.html"
+      }
+    ],
+    "url": "/sightlist/bamberg1492.html"
+  },
+  {
+    "cname": "雷根斯堡",
+    "suggest_places": [
+      {
+        "cname": "石桥",
+        "url": "/sight/regensburg1494/84025.html"
+      },
+      {
+        "cname": "圣彼得天主大教堂",
+        "url": "/sight/regensburg1494/84024.html"
+      }
+    ],
+    "url": "/sightlist/regensburg1494.html"
+  },
+  {
+    "cname": "吕德斯海姆",
+    "suggest_places": [
+      {
+        "cname": "吕德斯海姆",
+        "url": "/sight/rudesheim1709/83372.html"
+      }
+    ],
+    "url": "/sightlist/rudesheim1709.html"
+  },
+  {
+    "cname": "黑森林",
+    "suggest_places": [
+      {
+        "cname": "大教堂",
+        "url": "/sight/blackforest44339/133582.html"
+      },
+      {
+        "cname": "巴登巴登",
+        "url": "/sight/blackforest44339/138135.html"
+      },
+      {
+        "cname": "霍亨索伦城堡",
+        "url": "/sight/blackforest44339/133600.html"
+      },
+      {
+        "cname": "旧皇宫",
+        "url": "/sight/blackforest44339/133482.html"
+      },
+      {
+        "cname": "卡拉卡拉浴场",
+        "url": "/sight/blackforest44339/133479.html"
+      }
+    ],
+    "url": "/sightlist/blackforest44339.html"
+  },
+  {
+    "cname": "黑森州",
+    "suggest_places": [
+      {
+        "cname": "吕德斯海姆",
+        "url": "/sight/hessen123711/83372.html"
+      },
+      {
+        "cname": "阿斯菲尔德",
+        "url": "/sight/hessen123711/83368.html"
+      }
+    ],
+    "url": "/sightlist/hessen123711.html"
+  },
+  {
+    "cname": "埃森",
+    "suggest_places": [],
+    "url": "/sightlist/essen1686.html"
+  },
+  {
+    "cname": "多特蒙德",
+    "suggest_places": [
+      {
+        "cname": "维斯特法伦体育场",
+        "url": "/sight/dortmund1731/141164.html"
+      },
+      {
+        "cname": "霍赫绥堡赌场",
+        "url": "/sight/dortmund1731/141183.html"
+      },
+      {
+        "cname": "威斯特法伦交响音乐厅",
+        "url": "/sight/dortmund1731/141180.html"
+      },
+      {
+        "cname": "多特蒙德图书馆",
+        "url": "/sight/dortmund1731/141172.html"
+      }
+    ],
+    "url": "/sightlist/dortmund1731.html"
+  },
+  {
+    "cname": "威斯巴登",
+    "suggest_places": [],
+    "url": "/sightlist/wiesbaden1088.html"
+  },
+  {
+    "cname": "卡尔斯鲁厄",
+    "suggest_places": [
+      {
+        "cname": "集市广场",
+        "url": "/sight/karlsruhe44617/133653.html"
+      },
+      {
+        "cname": "巴登州国立剧院",
+        "url": "/sight/karlsruhe44617/133652.html"
+      },
+      {
+        "cname": "省立美术馆",
+        "url": "/sight/karlsruhe44617/133546.html"
+      },
+      {
+        "cname": "巴登省立博物馆",
+        "url": "/sight/karlsruhe44617/133545.html"
+      }
+    ],
+    "url": "/sightlist/karlsruhe44617.html"
+  },
+  {
+    "cname": "亚琛",
+    "suggest_places": [
+      {
+        "cname": "亚琛市政厅",
+        "url": "/sight/aachen1677/1410630.html"
+      }
+    ],
+    "url": "/sightlist/aachen1677.html"
+  },
+  {
+    "cname": "巴林根",
+    "suggest_places": [
+      {
+        "cname": "霍亨索伦城堡",
+        "url": "/sight/balingen19886/133600.html"
+      }
+    ],
+    "url": "/sightlist/balingen19886.html"
+  },
+  {
+    "cname": "康斯坦茨",
+    "suggest_places": [
+      {
+        "cname": "旧市区",
+        "url": "/sight/konstanz44657/133543.html"
+      }
+    ],
+    "url": "/sightlist/konstanz44657.html"
+  },
+  {
+    "cname": "莱比锡",
+    "suggest_places": [
+      {
+        "cname": "尼古拉教堂",
+        "url": "/sight/leipzig1106/73003.html"
+      },
+      {
+        "cname": "民族大会战纪念碑",
+        "url": "/sight/leipzig1106/73006.html"
+      },
+      {
+        "cname": "老市政厅",
+        "url": "/sight/leipzig1106/72997.html"
+      },
+      {
+        "cname": "托马斯教堂",
+        "url": "/sight/leipzig1106/72999.html"
+      },
+      {
+        "cname": "巴赫博物馆",
+        "url": "/sight/leipzig1106/73000.html"
+      }
+    ],
+    "url": "/sightlist/leipzig1106.html"
+  },
+  {
+    "cname": "Steingaden",
+    "suggest_places": [
+      {
+        "cname": "威斯教堂",
+        "url": "/sight/steingaden25715/142465.html"
+      }
+    ],
+    "url": "/sightlist/steingaden25715.html"
+  },
+  {
+    "cname": "艾福特",
+    "suggest_places": [
+      {
+        "cname": "大教堂",
+        "url": "/sight/erfurt27554/134890.html"
+      },
+      {
+        "cname": "克雷马桥",
+        "url": "/sight/erfurt27554/134889.html"
+      },
+      {
+        "cname": "鱼市广场",
+        "url": "/sight/erfurt27554/134891.html"
+      }
+    ],
+    "url": "/sightlist/erfurt27554.html"
+  },
+  {
+    "cname": "魏玛",
+    "suggest_places": [
+      {
+        "cname": "歌德博物馆",
+        "url": "/sight/weimar27660/134888.html"
+      },
+      {
+        "cname": "李斯特故居",
+        "url": "/sight/weimar27660/134887.html"
+      }
+    ],
+    "url": "/sightlist/weimar27660.html"
+  },
+  {
+    "cname": "蒂宾根",
+    "suggest_places": [
+      {
+        "cname": "蒂宾根城",
+        "url": "/sight/tubingen44519/134895.html"
+      }
+    ],
+    "url": "/sightlist/tubingen44519.html"
+  },
+  {
+    "cname": "特里贝格",
+    "suggest_places": [
+      {
+        "cname": "特里贝格瀑布",
+        "url": "/sight/triberg46102/133603.html"
+      },
+      {
+        "cname": "黑森林博物馆",
+        "url": "/sight/triberg46102/133604.html"
+      }
+    ],
+    "url": "/sightlist/triberg46102.html"
+  },
+  {
+    "cname": "梅青根",
+    "suggest_places": [],
+    "url": "/sightlist/metzingen44414.html"
+  },
+  {
+    "cname": "卡尔夫",
+    "suggest_places": [
+      {
+        "cname": "赫塞博物馆",
+        "url": "/sight/calw46123/133657.html"
+      },
+      {
+        "cname": "毛尔布隆修道院",
+        "url": "/sight/calw46123/133540.html"
+      }
+    ],
+    "url": "/sightlist/calw46123.html"
+  }
+]

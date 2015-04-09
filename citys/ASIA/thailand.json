@@ -1,0 +1,567 @@
+[
+  {
+    "cname": "普吉岛",
+    "suggest_places": [
+      {
+        "cname": "芭东海滩",
+        "url": "/sight/phuket364/18402.html"
+      },
+      {
+        "cname": "皇帝岛",
+        "url": "/sight/phuket364/56986.html"
+      },
+      {
+        "cname": "普吉镇",
+        "url": "/sight/phuket364/56906.html"
+      },
+      {
+        "cname": "珊瑚岛",
+        "url": "/sight/phuket364/19809.html"
+      },
+      {
+        "cname": "卡塔海滩",
+        "url": "/sight/phuket364/18405.html"
+      }
+    ],
+    "url": "/sightlist/phuket364.html"
+  },
+  {
+    "cname": "曼谷",
+    "suggest_places": [
+      {
+        "cname": "大皇宫",
+        "url": "/sight/bangkok191/7290.html"
+      },
+      {
+        "cname": "四面佛",
+        "url": "/sight/bangkok191/7311.html"
+      },
+      {
+        "cname": "玉佛寺",
+        "url": "/sight/bangkok191/7292.html"
+      },
+      {
+        "cname": "考山路",
+        "url": "/sight/bangkok191/110031.html"
+      },
+      {
+        "cname": "卧佛寺",
+        "url": "/sight/bangkok191/7293.html"
+      }
+    ],
+    "url": "/sightlist/bangkok191.html"
+  },
+  {
+    "cname": "清迈",
+    "suggest_places": [
+      {
+        "cname": "双龙寺",
+        "url": "/sight/chiangmai209/110168.html"
+      },
+      {
+        "cname": "清迈大学",
+        "url": "/sight/chiangmai209/110147.html"
+      },
+      {
+        "cname": "大佛塔寺",
+        "url": "/sight/chiangmai209/8142.html"
+      },
+      {
+        "cname": "帕辛寺",
+        "url": "/sight/chiangmai209/8140.html"
+      },
+      {
+        "cname": "塔佩门",
+        "url": "/sight/chiangmai209/110443.html"
+      }
+    ],
+    "url": "/sightlist/chiangmai209.html"
+  },
+  {
+    "cname": "芭提雅",
+    "suggest_places": [
+      {
+        "cname": "芭提雅海滩",
+        "url": "/sight/pattaya208/8133.html"
+      },
+      {
+        "cname": "东芭乐园",
+        "url": "/sight/pattaya208/8132.html"
+      },
+      {
+        "cname": "金沙岛",
+        "url": "/sight/pattaya208/136879.html"
+      },
+      {
+        "cname": "四合镇水乡",
+        "url": "/sight/pattaya208/136935.html"
+      },
+      {
+        "cname": "风月步行街",
+        "url": "/sight/pattaya208/133140.html"
+      }
+    ],
+    "url": "/sightlist/pattaya208.html"
+  },
+  {
+    "cname": "皮皮岛",
+    "suggest_places": [
+      {
+        "cname": "大皮皮岛",
+        "url": "/sight/kophiphidon565/145683.html"
+      },
+      {
+        "cname": "玛雅湾",
+        "url": "/sight/kophiphidon565/19459.html"
+      },
+      {
+        "cname": "竹子岛",
+        "url": "/sight/kophiphidon565/19461.html"
+      },
+      {
+        "cname": "蚊子岛",
+        "url": "/sight/kophiphidon565/19460.html"
+      },
+      {
+        "cname": "观景点",
+        "url": "/sight/kophiphidon565/20071.html"
+      }
+    ],
+    "url": "/sightlist/kophiphidon565.html"
+  },
+  {
+    "cname": "苏梅岛",
+    "suggest_places": [
+      {
+        "cname": "南园岛",
+        "url": "/sight/kohsamui566/140603.html"
+      },
+      {
+        "cname": "查汶海滩",
+        "url": "/sight/kohsamui566/18903.html"
+      },
+      {
+        "cname": "涛岛",
+        "url": "/sight/kohsamui566/57636.html"
+      },
+      {
+        "cname": "拉迈海滩",
+        "url": "/sight/kohsamui566/18906.html"
+      },
+      {
+        "cname": "帕干岛",
+        "url": "/sight/kohsamui566/136910.html"
+      }
+    ],
+    "url": "/sightlist/kohsamui566.html"
+  },
+  {
+    "cname": "甲米",
+    "suggest_places": [
+      {
+        "cname": "奥南海滩",
+        "url": "/sight/krabi616/57256.html"
+      },
+      {
+        "cname": "莱雷海滩",
+        "url": "/sight/krabi616/57263.html"
+      },
+      {
+        "cname": "甲米镇",
+        "url": "/sight/krabi616/20598.html"
+      },
+      {
+        "cname": "红岛",
+        "url": "/sight/krabi616/134404.html"
+      },
+      {
+        "cname": "虎穴庙",
+        "url": "/sight/krabi616/20599.html"
+      }
+    ],
+    "url": "/sightlist/krabi616.html"
+  },
+  {
+    "cname": "拜县",
+    "suggest_places": [
+      {
+        "cname": "拜县",
+        "url": "/sight/paitown120476/145807.html"
+      },
+      {
+        "cname": "Coffee in love",
+        "url": "/sight/paitown120476/134535.html"
+      },
+      {
+        "cname": "二战纪念桥",
+        "url": "/sight/paitown120476/133381.html"
+      },
+      {
+        "cname": "拜县大峡谷",
+        "url": "/sight/paitown120476/133380.html"
+      },
+      {
+        "cname": "南湖山地村",
+        "url": "/sight/paitown120476/133360.html"
+      }
+    ],
+    "url": "/sightlist/paitown120476.html"
+  },
+  {
+    "cname": "清莱",
+    "suggest_places": [
+      {
+        "cname": "白庙",
+        "url": "/sight/chiangrai551/122909.html"
+      },
+      {
+        "cname": "黑庙",
+        "url": "/sight/chiangrai551/134977.html"
+      },
+      {
+        "cname": "长颈族村",
+        "url": "/sight/chiangrai551/135016.html"
+      },
+      {
+        "cname": "美斯乐村",
+        "url": "/sight/chiangrai551/61992.html"
+      },
+      {
+        "cname": "美塞",
+        "url": "/sight/chiangrai551/18515.html"
+      }
+    ],
+    "url": "/sightlist/chiangrai551.html"
+  },
+  {
+    "cname": "华欣",
+    "suggest_places": [
+      {
+        "cname": "华欣火车站",
+        "url": "/sight/huahin674/60747.html"
+      },
+      {
+        "cname": "爱与希望之宫",
+        "url": "/sight/huahin674/22102.html"
+      },
+      {
+        "cname": "华欣圣托里尼公园",
+        "url": "/sight/huahin674/148007.html"
+      },
+      {
+        "cname": "华欣夜市",
+        "url": "/sight/huahin674/138749.html"
+      },
+      {
+        "cname": "七岩",
+        "url": "/sight/huahin674/136917.html"
+      }
+    ],
+    "url": "/sightlist/huahin674.html"
+  },
+  {
+    "cname": "大城",
+    "suggest_places": [
+      {
+        "cname": "邦芭茵夏宫",
+        "url": "/sight/ayutthaya1187/50745.html"
+      },
+      {
+        "cname": "帕玛哈泰寺",
+        "url": "/sight/ayutthaya1187/61197.html"
+      },
+      {
+        "cname": "帕司山碧佛寺",
+        "url": "/sight/ayutthaya1187/50738.html"
+      },
+      {
+        "cname": "大城国家博物馆",
+        "url": "/sight/ayutthaya1187/50742.html"
+      },
+      {
+        "cname": "亚柴蒙考寺",
+        "url": "/sight/ayutthaya1187/50741.html"
+      }
+    ],
+    "url": "/sightlist/ayutthaya1187.html"
+  },
+  {
+    "cname": "沙美岛",
+    "suggest_places": [
+      {
+        "cname": "沙美岛",
+        "url": "/sight/kosamed128671/8210.html"
+      },
+      {
+        "cname": "钻石海滩",
+        "url": "/sight/kosamed128671/1418356.html"
+      }
+    ],
+    "url": "/sightlist/kosamed128671.html"
+  },
+  {
+    "cname": "丹嫩沙多",
+    "suggest_places": [
+      {
+        "cname": "丹嫩沙多水上集市",
+        "url": "/sight/damnoensaduak24591/7541.html"
+      }
+    ],
+    "url": "/sightlist/damnoensaduak24591.html"
+  },
+  {
+    "cname": "北榄县",
+    "suggest_places": [
+      {
+        "cname": "北榄鳄鱼湖动物园",
+        "url": "/sight/samutprakan24514/7316.html"
+      },
+      {
+        "cname": "古城微缩景观公园",
+        "url": "/sight/samutprakan24514/73896.html"
+      },
+      {
+        "cname": "三头神象博物馆",
+        "url": "/sight/samutprakan24514/74996.html"
+      }
+    ],
+    "url": "/sightlist/samutprakan24514.html"
+  },
+  {
+    "cname": "是拉差",
+    "suggest_places": [
+      {
+        "cname": "龙虎园",
+        "url": "/sight/siracha24546/73897.html"
+      }
+    ],
+    "url": "/sightlist/siracha24546.html"
+  },
+  {
+    "cname": "斯米兰群岛",
+    "suggest_places": [
+      {
+        "cname": "斯米兰群岛",
+        "url": "/sight/similanislands24596/109872.html"
+      },
+      {
+        "cname": "8号Similan岛",
+        "url": "/sight/similanislands24596/1414718.html"
+      },
+      {
+        "cname": "4号Miang岛",
+        "url": "/sight/similanislands24596/1414763.html"
+      },
+      {
+        "cname": "7号Hin Pousar岛",
+        "url": "/sight/similanislands24596/1414786.html"
+      },
+      {
+        "cname": "Tachai岛",
+        "url": "/sight/similanislands24596/1414761.html"
+      }
+    ],
+    "url": "/sightlist/similanislands24596.html"
+  },
+  {
+    "cname": "素可泰",
+    "suggest_places": [
+      {
+        "cname": "素可泰历史公园",
+        "url": "/sight/sukhothai24566/122905.html"
+      }
+    ],
+    "url": "/sightlist/sukhothai24566.html"
+  },
+  {
+    "cname": "夜功",
+    "suggest_places": [
+      {
+        "cname": "安帕瓦水上集市",
+        "url": "/sight/mueangsamutsongkhram120536/1409725.html"
+      },
+      {
+        "cname": "美功铁道市场",
+        "url": "/sight/mueangsamutsongkhram120536/132779.html"
+      }
+    ],
+    "url": "/sightlist/mueangsamutsongkhram120536.html"
+  },
+  {
+    "cname": "阁兰达岛",
+    "suggest_places": [
+      {
+        "cname": "兰达岛",
+        "url": "/sight/kolanta1908/20597.html"
+      }
+    ],
+    "url": "/sightlist/kolanta1908.html"
+  },
+  {
+    "cname": "北碧府",
+    "suggest_places": [
+      {
+        "cname": "桂河大桥",
+        "url": "/sight/kanchanaburiprovince1910/145702.html"
+      }
+    ],
+    "url": "/sightlist/kanchanaburiprovince1910.html"
+  },
+  {
+    "cname": "帝王岛",
+    "suggest_places": [],
+    "url": "/sightlist/rachayaiisland14969.html"
+  },
+  {
+    "cname": "奥南",
+    "suggest_places": [],
+    "url": "/sightlist/aonang14920.html"
+  },
+  {
+    "cname": "合艾",
+    "suggest_places": [
+      {
+        "cname": "合艾",
+        "url": "/sight/hatyai24603/48029.html"
+      }
+    ],
+    "url": "/sightlist/hatyai24603.html"
+  },
+  {
+    "cname": "南邦",
+    "suggest_places": [
+      {
+        "cname": "南邦",
+        "url": "/sight/lampang24600/136905.html"
+      }
+    ],
+    "url": "/sightlist/lampang24600.html"
+  },
+  {
+    "cname": "象岛",
+    "suggest_places": [
+      {
+        "cname": "白沙滩",
+        "url": "/sight/kochang128607/1512107.html"
+      }
+    ],
+    "url": "/sightlist/kochang128607.html"
+  },
+  {
+    "cname": "宋卡",
+    "suggest_places": [
+      {
+        "cname": "合艾",
+        "url": "/sight/songkhla649/48029.html"
+      },
+      {
+        "cname": "宋卡国立博物馆",
+        "url": "/sight/songkhla649/74290.html"
+      },
+      {
+        "cname": "Ko Yo岛",
+        "url": "/sight/songkhla649/74292.html"
+      },
+      {
+        "cname": "撒米拉海滩 ",
+        "url": "/sight/songkhla649/48031.html"
+      },
+      {
+        "cname": "宋卡湖",
+        "url": "/sight/songkhla649/74397.html"
+      }
+    ],
+    "url": "/sightlist/songkhla649.html"
+  },
+  {
+    "cname": "沙敦府",
+    "suggest_places": [
+      {
+        "cname": "丽贝岛",
+        "url": "/sight/satunprovince120501/145713.html"
+      }
+    ],
+    "url": "/sightlist/satunprovince120501.html"
+  },
+  {
+    "cname": "董里府",
+    "suggest_places": [
+      {
+        "cname": "珍珠岛",
+        "url": "/sight/trangprovince23194/1413528.html"
+      },
+      {
+        "cname": "爱岛",
+        "url": "/sight/trangprovince23194/1413510.html"
+      },
+      {
+        "cname": "甲兰岛",
+        "url": "/sight/trangprovince23194/1413530.html"
+      },
+      {
+        "cname": "线岛",
+        "url": "/sight/trangprovince23194/1413538.html"
+      },
+      {
+        "cname": "龙洞",
+        "url": "/sight/trangprovince23194/1413531.html"
+      }
+    ],
+    "url": "/sightlist/trangprovince23194.html"
+  },
+  {
+    "cname": "清道",
+    "suggest_places": [
+      {
+        "cname": "清道山洞",
+        "url": "/sight/chiangdao14929/8185.html"
+      }
+    ],
+    "url": "/sightlist/chiangdao14929.html"
+  },
+  {
+    "cname": "沽岛",
+    "suggest_places": [],
+    "url": "/sightlist/kohkood2124.html"
+  },
+  {
+    "cname": "董里",
+    "suggest_places": [
+      {
+        "cname": "爱岛",
+        "url": "/sight/trang14989/1413510.html"
+      }
+    ],
+    "url": "/sightlist/trang14989.html"
+  },
+  {
+    "cname": "小长岛",
+    "suggest_places": [],
+    "url": "/sightlist/koyaonoi24564.html"
+  },
+  {
+    "cname": "佛统",
+    "suggest_places": [
+      {
+        "cname": "佛统大塔",
+        "url": "/sight/nakhonpathom120529/136815.html"
+      }
+    ],
+    "url": "/sightlist/nakhonpathom120529.html"
+  },
+  {
+    "cname": "玛岛",
+    "suggest_places": [],
+    "url": "/sightlist/kohmak24540.html"
+  },
+  {
+    "cname": "佛丕府",
+    "suggest_places": [
+      {
+        "cname": "拉玛五世宫殿",
+        "url": "/sight/phetchaburiprovince24581/148061.html"
+      }
+    ],
+    "url": "/sightlist/phetchaburiprovince24581.html"
+  }
+]

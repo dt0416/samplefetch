@@ -1,0 +1,504 @@
+[
+  {
+    "cname": "哈瓦那",
+    "url": "http://you.ctrip.com/sightlist/havana353.html",
+    "places": [
+      {
+        "cname": "哈瓦那旧城",
+        "url": "/sight/havana353/146734.html",
+        "s_img": "http://p.chanyouji.cn/43808/1370170821100p17s28lm9reekkkm2qv11oi1pef9.jpg?imageView/1/w/220/h/140",
+        "caddress": "Old Havana"
+      },
+      {
+        "cname": "武器广场",
+        "url": "/sight/havana353/75167.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/155/688/703/9f982c035ebc478aadf5de63ad60142b_C_220_140.jpg",
+        "caddress": "Plaza de Armas, Havana"
+      },
+      {
+        "cname": "革命广场",
+        "url": "/sight/havana353/142473.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/309/384/140/f8fb9af249fe49af8e25dda3c28fcea4_C_220_140.jpg",
+        "caddress": "Plaza de la Revolucion, La Habana, Havana"
+      },
+      {
+        "cname": "教堂广场",
+        "url": "/sight/havana353/142468.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/164/235/909/299f9cc35bd247abb70ace9354fbd615_C_220_140.jpg",
+        "caddress": "Plaza de la Catedral, Havana"
+      },
+      {
+        "cname": "圣弗朗西斯科广场",
+        "url": "/sight/havana353/142469.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/510/236/822/9236a51734f34c789e1666ad2489db34_C_220_140.jpg",
+        "caddress": "Plaza de San Francisco, Havana"
+      },
+      {
+        "cname": "哈瓦那海滨大道",
+        "url": "/sight/havana353/75188.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/183/215/808/94d28ff9c0c147eeb505378db6f0c16a_C_220_140.jpg",
+        "caddress": "Centro Habana, Havana, Cuba"
+      },
+      {
+        "cname": "海明威故居",
+        "url": "/sight/havana353/139935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/547/982/393/879ba12a7ee24cfdb58206650150f496_C_220_140.jpg",
+        "caddress": "Ernest Hemingway, Singer, La Habana"
+      },
+      {
+        "cname": "国会大厦",
+        "url": "/sight/havana353/139932.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/098/726/18cc4ee6760c40ad9b1dec5b6f3196b8_C_220_140.jpg",
+        "caddress": "哈瓦那老城"
+      },
+      {
+        "cname": "皇家军队城堡",
+        "url": "/sight/havana353/75169.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/801/729/025/a0973b757cbb42a299617a9fe8828a48_C_220_140.jpg",
+        "caddress": "O'Reilly, 哈瓦那"
+      },
+      {
+        "cname": "帕塔加斯雪茄烟制作工厂",
+        "url": "/sight/havana353/142471.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/797/294/652/3afbe609f0f042939634f59d39298a3b_C_220_140.jpg",
+        "caddress": "哈瓦那老城"
+      },
+      {
+        "cname": "革命博物馆",
+        "url": "/sight/havana353/142472.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/858/083/720/2e9eedf15d71436c966e779ec1a454e3_C_220_140.jpg",
+        "caddress": "Avenue de las Misiones, Havana"
+      },
+      {
+        "cname": "朗姆酒博物馆",
+        "url": "/sight/havana353/142492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/369/072/221/13e7d0f65d504a85aa6750e3958ae3ef_C_220_140.jpg",
+        "caddress": "La Habana Vieja, Havana"
+      },
+      {
+        "cname": "哈瓜海湾",
+        "url": "/sight/havana353/75189.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/017/997/574ac1df8b494e84a5eef7b3a8409f82_C_220_140.jpg",
+        "caddress": "哈瓦那"
+      },
+      {
+        "cname": "哈瓦那大教堂",
+        "url": "/sight/havana353/1495634.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/9C/06/CghzfFSjJ8-AaInaAAJKCBnv2fQ163_C_220_140.jpg",
+        "caddress": "Calle Empedrado 156, La Habana Vieja, Havana, Cuba"
+      },
+      {
+        "cname": "哈瓦那新城",
+        "url": "/sight/havana353/139934.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/046/689/948/c05d925dded14607a22c8158ad5b2bc4_C_220_140.jpg",
+        "caddress": "哈瓦那"
+      },
+      {
+        "cname": "老广场",
+        "url": "/sight/havana353/142470.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/479/559/945/41171d38568f4c09930cd13f38f4ef19_C_220_140.jpg",
+        "caddress": "哈瓦那老城"
+      },
+      {
+        "cname": "莫罗与卡瓦纳历史公园",
+        "url": "/sight/havana353/142474.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/102/847/367/252300fe1a0946d188d0027ea8af4d12_C_220_140.jpg",
+        "caddress": "Carretera de la Cabana, La Habana del Este"
+      }
+    ]
+  },
+  {
+    "cname": "古巴",
+    "url": "http://you.ctrip.com/sightlist/cuba100113.html",
+    "places": [
+      {
+        "cname": "哈瓦那旧城",
+        "url": "/sight/havana353/146734.html",
+        "s_img": "http://p.chanyouji.cn/43808/1370170821100p17s28lm9reekkkm2qv11oi1pef9.jpg?imageView/1/w/220/h/140",
+        "caddress": "Old Havana"
+      },
+      {
+        "cname": "武器广场",
+        "url": "/sight/havana353/75167.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/155/688/703/9f982c035ebc478aadf5de63ad60142b_C_220_140.jpg",
+        "caddress": "Plaza de Armas, Havana"
+      },
+      {
+        "cname": "巴拉德罗海滩",
+        "url": "/sight/varadero31947/75171.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/394/948/406/80a48eec959d4adb8bf7b311dd0a33c5_C_220_140.jpg",
+        "caddress": "Varadero, Cuba"
+      },
+      {
+        "cname": "革命广场",
+        "url": "/sight/havana353/142473.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/309/384/140/f8fb9af249fe49af8e25dda3c28fcea4_C_220_140.jpg",
+        "caddress": "Plaza de la Revolucion, La Habana, Havana"
+      },
+      {
+        "cname": "教堂广场",
+        "url": "/sight/havana353/142468.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/164/235/909/299f9cc35bd247abb70ace9354fbd615_C_220_140.jpg",
+        "caddress": "Plaza de la Catedral, Havana"
+      },
+      {
+        "cname": "圣弗朗西斯科广场",
+        "url": "/sight/havana353/142469.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/510/236/822/9236a51734f34c789e1666ad2489db34_C_220_140.jpg",
+        "caddress": "Plaza de San Francisco, Havana"
+      },
+      {
+        "cname": "哈瓦那海滨大道",
+        "url": "/sight/havana353/75188.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/183/215/808/94d28ff9c0c147eeb505378db6f0c16a_C_220_140.jpg",
+        "caddress": "Centro Habana, Havana, Cuba"
+      },
+      {
+        "cname": "海明威故居",
+        "url": "/sight/havana353/139935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/547/982/393/879ba12a7ee24cfdb58206650150f496_C_220_140.jpg",
+        "caddress": "Ernest Hemingway, Singer, La Habana"
+      },
+      {
+        "cname": "塞斯佩蒂斯广场",
+        "url": "/sight/santiagodecuba31939/142509.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/367/597/832/fab8f0a9fe544a7db899244d3f296271_C_220_140.jpg",
+        "caddress": "Marte, Santiago de Cuba, 古巴 ‎"
+      },
+      {
+        "cname": "国会大厦",
+        "url": "/sight/havana353/139932.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/098/726/18cc4ee6760c40ad9b1dec5b6f3196b8_C_220_140.jpg",
+        "caddress": "哈瓦那老城"
+      },
+      {
+        "cname": "皇家军队城堡",
+        "url": "/sight/havana353/75169.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/801/729/025/a0973b757cbb42a299617a9fe8828a48_C_220_140.jpg",
+        "caddress": "O'Reilly, 哈瓦那"
+      },
+      {
+        "cname": "Ancon Beach",
+        "url": "/sight/trinidad31943/142504.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/299/308/131/7691bb4eba9a498aac250f6b57d32bed_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      },
+      {
+        "cname": "帕塔加斯雪茄烟制作工厂",
+        "url": "/sight/havana353/142471.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/797/294/652/3afbe609f0f042939634f59d39298a3b_C_220_140.jpg",
+        "caddress": "哈瓦那老城"
+      },
+      {
+        "cname": "革命博物馆",
+        "url": "/sight/havana353/142472.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/858/083/720/2e9eedf15d71436c966e779ec1a454e3_C_220_140.jpg",
+        "caddress": "Avenue de las Misiones, Havana"
+      },
+      {
+        "cname": "朗姆酒博物馆",
+        "url": "/sight/havana353/142492.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/369/072/221/13e7d0f65d504a85aa6750e3958ae3ef_C_220_140.jpg",
+        "caddress": "La Habana Vieja, Havana"
+      },
+      {
+        "cname": "哈瓜海湾",
+        "url": "/sight/havana353/75189.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/657/017/997/574ac1df8b494e84a5eef7b3a8409f82_C_220_140.jpg",
+        "caddress": "哈瓦那"
+      },
+      {
+        "cname": "哈瓦那新城",
+        "url": "/sight/havana353/139934.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/046/689/948/c05d925dded14607a22c8158ad5b2bc4_C_220_140.jpg",
+        "caddress": "哈瓦那"
+      },
+      {
+        "cname": "Plaza Mayor",
+        "url": "/sight/trinidad31943/142502.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/176/950/661/af33972bd57047d6ac854479647b9e44_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      },
+      {
+        "cname": "特立尼达老城",
+        "url": "/sight/trinidad31943/142501.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/056/579/050/048dcaa42269462dad0fea05da08bdff_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      },
+      {
+        "cname": "726历史纪念馆",
+        "url": "/sight/santiagodecuba31939/142511.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/298/954/922/92144cd5f0a349888f8937133b101ed0_C_220_140.jpg",
+        "caddress": "Avenida Moncada, Santiago de Cuba, 古巴"
+      },
+      {
+        "cname": "Ambrosio Cave",
+        "url": "/sight/varadero31947/142508.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/682/495/325/7a1fce4936be40faa26d8e0fe36f26e0_C_220_140.jpg",
+        "caddress": "Cueva de Ambrosio, Autopista Sur, Varadero, Matanzas, Cuba"
+      },
+      {
+        "cname": "Cueva de Saturno",
+        "url": "/sight/matanzas31938/142507.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/158/340/377/a58a9b0f39484796945b00fd80591db3_C_220_140.jpg",
+        "caddress": "Cueva de Saturno, Cárdenas, Provincia di Matanzas, Cuba"
+      },
+      {
+        "cname": "Omance Museum",
+        "url": "/sight/trinidad31943/142503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/093/126/377/7a002c7910ec46b1ae6d5647dfd39a78_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      },
+      {
+        "cname": "老广场",
+        "url": "/sight/havana353/142470.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/479/559/945/41171d38568f4c09930cd13f38f4ef19_C_220_140.jpg",
+        "caddress": "哈瓦那老城"
+      },
+      {
+        "cname": "蒙特马尔大自然公园",
+        "url": "/sight/matanzas31938/142506.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/875/601/774/6e7dff13638343a883016afe44a52757_C_220_140.jpg",
+        "caddress": "古巴 Parque Nacional Cienaga de Zapata ‎"
+      },
+      {
+        "cname": "莫罗要塞",
+        "url": "/sight/santiagodecuba31939/142512.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/283/718/514/4e52c76a261449528ca575e396ff71f4_C_220_140.jpg",
+        "caddress": "Santiago de Cuba, 古巴 ‎"
+      },
+      {
+        "cname": "莫罗与卡瓦纳历史公园",
+        "url": "/sight/havana353/142474.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/102/847/367/252300fe1a0946d188d0027ea8af4d12_C_220_140.jpg",
+        "caddress": "Carretera de la Cabana, La Habana del Este"
+      },
+      {
+        "cname": "圣伊菲赫尼亚公墓",
+        "url": "/sight/santiagodecuba31939/142510.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/885/910/938/dc193fafe2d543ccbbc2611dff0114f4_C_220_140.jpg",
+        "caddress": "Avenida Capitán Raúl Perozo, Santiago de Cuba, 古巴 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "波多黎各",
+    "url": "http://you.ctrip.com/sightlist/puertorico21617.html",
+    "places": []
+  },
+  {
+    "cname": "巴哈马",
+    "url": "http://you.ctrip.com/sightlist/commonwealthofthebahamas21598.html",
+    "places": [
+      {
+        "cname": "大巴哈马",
+        "url": "/sight/commonwealthofthebahamas21598/76252.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/362/267/421/26c280baedc24a6caab6c9a2ef2cfc5e_C_220_140.jpg",
+        "caddress": "Grand Bahama, the Bahamas"
+      },
+      {
+        "cname": "粉色沙滩",
+        "url": "/sight/commonwealthofthebahamas21598/1460353.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/847/921/115/11d6e83d6be74345935e6a3f009f46cd_C_220_140.jpg",
+        "caddress": "Pink Sands, Dunmore Town, Harbour Island"
+      },
+      {
+        "cname": "半月湾",
+        "url": "/sight/commonwealthofthebahamas21598/1460368.html",
+        "s_img": "",
+        "caddress": "Half Moon Cay, Cat Island"
+      },
+      {
+        "cname": "猪岛",
+        "url": "/sight/commonwealthofthebahamas21598/1460364.html",
+        "s_img": "",
+        "caddress": "Pig Beach, Black Point"
+      }
+    ]
+  },
+  {
+    "cname": "多米尼加",
+    "url": "http://you.ctrip.com/sightlist/dominicanrepublic100145.html",
+    "places": []
+  },
+  {
+    "cname": "巴拉德罗",
+    "url": "http://you.ctrip.com/sightlist/varadero31947.html",
+    "places": [
+      {
+        "cname": "巴拉德罗海滩",
+        "url": "/sight/varadero31947/75171.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/394/948/406/80a48eec959d4adb8bf7b311dd0a33c5_C_220_140.jpg",
+        "caddress": "Varadero, Cuba"
+      },
+      {
+        "cname": "Ambrosio Cave",
+        "url": "/sight/varadero31947/142508.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/682/495/325/7a1fce4936be40faa26d8e0fe36f26e0_C_220_140.jpg",
+        "caddress": "Cueva de Ambrosio, Autopista Sur, Varadero, Matanzas, Cuba"
+      }
+    ]
+  },
+  {
+    "cname": "天堂岛",
+    "url": "http://you.ctrip.com/sightlist/paradiseisland1268.html",
+    "places": [
+      {
+        "cname": "天堂岛",
+        "url": "/sight/halongbay218/133528.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/160/951/999/8b0f6821d168479cbf93ac5d4db3b6a7_C_220_140.jpg",
+        "caddress": "下龙湾海域斗鸡石西南海域25海里处"
+      },
+      {
+        "cname": "新普罗维登斯岛",
+        "url": "/sight/paradiseisland1268/141215.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/341/600/835/6f0a4ede8ea74a2088f6c1e35ea02a96_C_220_140.jpg",
+        "caddress": "New Providence"
+      },
+      {
+        "cname": "亚特兰蒂斯王国酒店",
+        "url": "/sight/paradiseisland1268/141220.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/108/930/004/85014e63d27a46e4a0e06d9df0996ae6_C_220_140.jpg",
+        "caddress": "1 Casino Drive, Paradise Island"
+      },
+      {
+        "cname": "高尔夫锦标赛球场",
+        "url": "/sight/paradiseisland1268/141233.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/356/993/154/a2d574a7eed54a55a12ffb1e6988dca5_C_220_140.jpg",
+        "caddress": "位于天堂岛的亚特兰蒂斯酒店内。"
+      },
+      {
+        "cname": "室外水族馆",
+        "url": "/sight/paradiseisland1268/141040.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/822/881/195/4d8550cf8fbd42edb3d70dbb96fb160d_C_220_140.jpg",
+        "caddress": "亚特兰蒂斯酒店管辖内"
+      },
+      {
+        "cname": "天堂岛",
+        "url": "/sight/antarctica120487/137580.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/304/522/395/40708e66dc50499bbcb0b33754c93aa7_C_220_140.jpg",
+        "caddress": "Paradise Harbour,Gerlache Strait,Antarctica"
+      }
+    ]
+  },
+  {
+    "cname": "拿骚",
+    "url": "http://you.ctrip.com/sightlist/nassau1267.html",
+    "places": [
+      {
+        "cname": "芬卡斯尔堡",
+        "url": "/sight/nassau1267/1460361.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/271/994/427/c94e6192ccba49298a5bb5e478f33d5e_C_220_140.jpg",
+        "caddress": "Fort Fincastle, Nassau, New Providence"
+      },
+      {
+        "cname": "国家历史博物馆",
+        "url": "/sight/nassau1267/1460046.html",
+        "s_img": "",
+        "caddress": "West & West Hill Sts. W Hill St, Nassau"
+      },
+      {
+        "cname": "海盗博物馆",
+        "url": "/sight/nassau1267/1460044.html",
+        "s_img": "",
+        "caddress": "P.O. Box N-.4840, Nassau"
+      },
+      {
+        "cname": "拿骚公共图书馆",
+        "url": "/sight/nassau1267/1460354.html",
+        "s_img": "",
+        "caddress": "South Beach Public Library, East Street, Nassau, New Providence"
+      },
+      {
+        "cname": "夏洛特堡",
+        "url": "/sight/nassau1267/1460363.html",
+        "s_img": "",
+        "caddress": "W Bay St, Nassau"
+      },
+      {
+        "cname": "亚特兰蒂斯天堂岛",
+        "url": "/sight/nassau1267/1460029.html",
+        "s_img": "",
+        "caddress": "1 Casino Drive, Paradise Island"
+      },
+      {
+        "cname": "克利夫顿遗产国家陆地和海洋公园",
+        "url": "/sight/nassau1267/1460366.html",
+        "s_img": "",
+        "caddress": "Clifton Heritage Park, New Providence"
+      }
+    ]
+  },
+  {
+    "cname": "海地角",
+    "url": "http://you.ctrip.com/sightlist/caphaitien31824.html",
+    "places": [
+      {
+        "cname": "Labadee",
+        "url": "/sight/caphaitien31824/122849.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/292/237/062/09e32a0b2c014973abf93547feef6c0c_C_220_140.jpg",
+        "caddress": "中美洲海地国Haiti"
+      }
+    ]
+  },
+  {
+    "cname": "古巴圣地亚哥",
+    "url": "http://you.ctrip.com/sightlist/santiagodecuba31939.html",
+    "places": [
+      {
+        "cname": "塞斯佩蒂斯广场",
+        "url": "/sight/santiagodecuba31939/142509.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/367/597/832/fab8f0a9fe544a7db899244d3f296271_C_220_140.jpg",
+        "caddress": "Marte, Santiago de Cuba, 古巴 ‎"
+      },
+      {
+        "cname": "726历史纪念馆",
+        "url": "/sight/santiagodecuba31939/142511.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/298/954/922/92144cd5f0a349888f8937133b101ed0_C_220_140.jpg",
+        "caddress": "Avenida Moncada, Santiago de Cuba, 古巴"
+      },
+      {
+        "cname": "莫罗要塞",
+        "url": "/sight/santiagodecuba31939/142512.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/283/718/514/4e52c76a261449528ca575e396ff71f4_C_220_140.jpg",
+        "caddress": "Santiago de Cuba, 古巴 ‎"
+      },
+      {
+        "cname": "圣伊菲赫尼亚公墓",
+        "url": "/sight/santiagodecuba31939/142510.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/885/910/938/dc193fafe2d543ccbbc2611dff0114f4_C_220_140.jpg",
+        "caddress": "Avenida Capitán Raúl Perozo, Santiago de Cuba, 古巴 ‎"
+      }
+    ]
+  },
+  {
+    "cname": "特立尼达",
+    "url": "http://you.ctrip.com/sightlist/trinidad31943.html",
+    "places": [
+      {
+        "cname": "Ancon Beach",
+        "url": "/sight/trinidad31943/142504.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/299/308/131/7691bb4eba9a498aac250f6b57d32bed_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      },
+      {
+        "cname": "Plaza Mayor",
+        "url": "/sight/trinidad31943/142502.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/176/950/661/af33972bd57047d6ac854479647b9e44_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      },
+      {
+        "cname": "特立尼达老城",
+        "url": "/sight/trinidad31943/142501.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/056/579/050/048dcaa42269462dad0fea05da08bdff_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      },
+      {
+        "cname": "Omance Museum",
+        "url": "/sight/trinidad31943/142503.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/093/126/377/7a002c7910ec46b1ae6d5647dfd39a78_C_220_140.jpg",
+        "caddress": "Trinidad, Havana"
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "cname": "阿姆斯特丹",
+    "suggest_places": [
+      {
+        "cname": "桑斯安斯风车村",
+        "url": "/sight/amsterdam299/62538.html"
+      },
+      {
+        "cname": "梵高美术馆",
+        "url": "/sight/amsterdam299/62540.html"
+      },
+      {
+        "cname": "库肯霍夫公园",
+        "url": "/sight/amsterdam299/12541.html"
+      },
+      {
+        "cname": "阿姆斯特丹运河",
+        "url": "/sight/amsterdam299/12517.html"
+      },
+      {
+        "cname": "阿姆斯特丹号",
+        "url": "/sight/amsterdam299/12757.html"
+      }
+    ],
+    "url": "/sightlist/amsterdam299.html"
+  },
+  {
+    "cname": "海牙",
+    "suggest_places": [
+      {
+        "cname": "海牙",
+        "url": "/sight/thehague385/139458.html"
+      },
+      {
+        "cname": "和平宫",
+        "url": "/sight/thehague385/12637.html"
+      },
+      {
+        "cname": "代尔夫特",
+        "url": "/sight/thehague385/12628.html"
+      },
+      {
+        "cname": "席凡宁根海滩",
+        "url": "/sight/thehague385/12627.html"
+      },
+      {
+        "cname": "马德罗丹",
+        "url": "/sight/thehague385/12630.html"
+      }
+    ],
+    "url": "/sightlist/thehague385.html"
+  },
+  {
+    "cname": "鹿特丹",
+    "suggest_places": [
+      {
+        "cname": "鹿特丹",
+        "url": "/sight/rotterdam393/138479.html"
+      },
+      {
+        "cname": "小孩堤防风车村",
+        "url": "/sight/rotterdam393/67565.html"
+      },
+      {
+        "cname": "立体方块屋",
+        "url": "/sight/rotterdam393/84092.html"
+      },
+      {
+        "cname": "昆莎美术馆",
+        "url": "/sight/rotterdam393/1412471.html"
+      },
+      {
+        "cname": "伊拉斯谟斯大桥",
+        "url": "/sight/rotterdam393/1408074.html"
+      }
+    ],
+    "url": "/sightlist/rotterdam393.html"
+  },
+  {
+    "cname": "乌特勒支",
+    "suggest_places": [
+      {
+        "cname": "库勒慕勒美术馆",
+        "url": "/sight/utrecht394/67631.html"
+      },
+      {
+        "cname": "德哈尔古堡",
+        "url": "/sight/utrecht394/25017.html"
+      }
+    ],
+    "url": "/sightlist/utrecht394.html"
+  },
+  {
+    "cname": "Alkmaar",
+    "suggest_places": [
+      {
+        "cname": "阿克马乳酪市场",
+        "url": "/sight/alkmaar45521/12846.html"
+      }
+    ],
+    "url": "/sightlist/alkmaar45521.html"
+  }
+]

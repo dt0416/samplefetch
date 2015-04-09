@@ -1,0 +1,33 @@
+[
+  {
+    "cname": "哈拉雷",
+    "suggest_places": [],
+    "url": "/sightlist/harare1255.html"
+  },
+  {
+    "cname": "维多利亚瀑布",
+    "suggest_places": [
+      {
+        "cname": "维多利亚瀑布",
+        "url": "/sight/victoriafalls20092/123078.html"
+      },
+      {
+        "cname": "赞比西河",
+        "url": "/sight/victoriafalls20092/134364.html"
+      },
+      {
+        "cname": "维多利亚瀑布",
+        "url": "/sight/victoriafalls20092/134359.html"
+      },
+      {
+        "cname": "维多利亚大桥（赞比亚大桥）",
+        "url": "/sight/victoriafalls20092/139979.html"
+      },
+      {
+        "cname": "魔鬼泳池",
+        "url": "/sight/victoriafalls20092/134365.html"
+      }
+    ],
+    "url": "/sightlist/victoriafalls20092.html"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "cname": "帕罗",
+    "url": "http://you.ctrip.com/sightlist/paro21433.html",
+    "places": [
+      {
+        "cname": "虎穴寺",
+        "url": "/sight/paro21433/145829.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/504/061/859/bf03e1d56c284c62a33c582faf75986d_C_220_140.jpg",
+        "caddress": "Taktsang Lhakhang, Taktsang Trail, Paro"
+      },
+      {
+        "cname": "不丹国家博物馆",
+        "url": "/sight/paro21433/1413165.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/380/948/918/150fc91ce8334aaba3edcd7955d204f9_C_220_140.jpg",
+        "caddress": "Ta Dzong, Paro"
+      },
+      {
+        "cname": "Chele La山隘",
+        "url": "/sight/paro21433/1413286.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/905/815/347/94df6e5e7089441396aa3dcf33907f5e_C_220_140.jpg",
+        "caddress": "Chele La, Paro"
+      },
+      {
+        "cname": "哈阿河谷",
+        "url": "/sight/paro21433/1413277.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/094/168/802/007b08f48f4b46b2a6419cd9a55adc8f_C_220_140.jpg",
+        "caddress": "Haa, Paro"
+      },
+      {
+        "cname": "帕罗宗",
+        "url": "/sight/paro21433/145830.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/529/722/867/5e2ce9beb9c54cbba13e3be5a8695237_C_220_140.jpg",
+        "caddress": "Paro, Bhutan"
+      },
+      {
+        "cname": "克楚寺",
+        "url": "/sight/paro21433/1413288.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/619/874/925/bb227295efe84dfb9e6f9e6e4de19811_C_220_140.jpg",
+        "caddress": "Kyichu Lhakhang, Paro"
+      },
+      {
+        "cname": "杜克耶宗",
+        "url": "/sight/paro21433/1413311.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/213/379/737/2ee2160ef973485a953919fd466e6162_C_220_140.jpg",
+        "caddress": "Drukgyel Dzong, Paro"
+      }
+    ]
+  },
+  {
+    "cname": "廷布",
+    "url": "http://you.ctrip.com/sightlist/thimphu21431.html",
+    "places": [
+      {
+        "cname": "多曲拉山口",
+        "url": "/sight/thimphu21431/1413167.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/249/234/804/863addd293d848dbbe8d845b714c7075_C_220_140.jpg",
+        "caddress": "Dochula, Thimphu"
+      },
+      {
+        "cname": "民俗博物馆",
+        "url": "/sight/thimphu21431/1413095.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/685/637/596/2c675f6d97c2410497e8bf35a5d1afb5_C_220_140.jpg",
+        "caddress": "Pedzoe Lam"
+      },
+      {
+        "cname": "塔金动物园",
+        "url": "/sight/thimphu21431/1413319.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/771/212/941/19a710f8b5b642379b7c0ee34d92f2c7_C_220_140.jpg",
+        "caddress": "Lhado Lam, Thimphu"
+      },
+      {
+        "cname": "释迦摩尼佛像",
+        "url": "/sight/thimphu21431/1413422.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/729/884/479/683ade96348941a1bf30e6b887774f56_C_220_140.jpg",
+        "caddress": "Kuenselphodrang, Thimphu"
+      },
+      {
+        "cname": "扎西确宗",
+        "url": "/sight/thimphu21431/1413274.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/638/772/618/42f48ac938d04e3fae86e6d3c2904cea_C_220_140.jpg",
+        "caddress": "Tashichhodzong, Chhagchhen Lam, Thimphu"
+      },
+      {
+        "cname": "国家纪念碑",
+        "url": "/sight/thimphu21431/1413312.html",
+        "s_img": "",
+        "caddress": "Doeboom Lam, Thimphu"
+      }
+    ]
+  }
+]

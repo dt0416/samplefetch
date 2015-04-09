@@ -1,0 +1,38 @@
+[
+  {
+    "cname": "里加",
+    "url": "http://you.ctrip.com/sightlist/riga1245.html",
+    "places": [
+      {
+        "cname": "拉脱维亚战争博物馆",
+        "url": "/sight/riga1245/1510493.html",
+        "s_img": "",
+        "caddress": "20, Smilsu Street, (Pulvertornis), Riga, LV-1050"
+      },
+      {
+        "cname": "火药塔",
+        "url": "/sight/riga1245/1510523.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/AD/05/CghzflTXwheAegaXAAH4NiwxkWY203_C_220_140.jpg",
+        "caddress": "20, Smilsu Street, (Pulvertornis), Riga, LV-1050"
+      },
+      {
+        "cname": "阿尔伯特街",
+        "url": "/sight/riga1245/1510459.html",
+        "s_img": "",
+        "caddress": "Alberta iela, Riga"
+      },
+      {
+        "cname": "中央大市场",
+        "url": "/sight/riga1245/1510551.html",
+        "s_img": "",
+        "caddress": "7, Negyu St., Riga, Latvia, LV-1050"
+      },
+      {
+        "cname": "黑头宫",
+        "url": "/sight/riga1245/1506902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M01/CD/62/CghzgVTXv2aAZ0Z8AAIahXaOV8c670_C_220_140.jpg",
+        "caddress": "1 Kalku iela,Riga, LV-1035, Latvia"
+      }
+    ]
+  }
+]

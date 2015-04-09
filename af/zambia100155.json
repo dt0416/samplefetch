@@ -1,0 +1,19 @@
+[
+  {
+    "cname": "卢萨卡",
+    "url": "http://you.ctrip.com/sightlist/lusaka1312.html",
+    "places": []
+  },
+  {
+    "cname": "利文斯顿",
+    "url": "http://you.ctrip.com/sightlist/livingstone20042.html",
+    "places": [
+      {
+        "cname": "维多利亚瀑布",
+        "url": "/sight/livingstone20042/134359.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/0D/B3/CghzfFUHRiOAKtTfAAJ6UfiN1Bs156_C_220_140.jpg",
+        "caddress": "非洲赞比西河的中游赞比亚与津巴布韦接壤处"
+      }
+    ]
+  }
+]

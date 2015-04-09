@@ -1,0 +1,59 @@
+[
+  {
+    "cname": "南迪",
+    "suggest_places": [
+      {
+        "cname": "丹娜努岛",
+        "url": "/sight/nadi1339/57316.html"
+      },
+      {
+        "cname": "沉睡巨人公园",
+        "url": "/sight/nadi1339/57240.html"
+      },
+      {
+        "cname": "玛玛努卡群岛",
+        "url": "/sight/nadi1339/57250.html"
+      },
+      {
+        "cname": "金银岛",
+        "url": "/sight/nadi1339/57208.html"
+      },
+      {
+        "cname": "辛加东卡",
+        "url": "/sight/nadi1339/57237.html"
+      }
+    ],
+    "url": "/sightlist/nadi1339.html"
+  },
+  {
+    "cname": "苏瓦",
+    "suggest_places": [
+      {
+        "cname": "苏瓦",
+        "url": "/sight/suva1338/135572.html"
+      },
+      {
+        "cname": "贝卡环礁",
+        "url": "/sight/suva1338/57253.html"
+      },
+      {
+        "cname": "维提岛",
+        "url": "/sight/suva1338/139223.html"
+      },
+      {
+        "cname": "斐济博物馆",
+        "url": "/sight/suva1338/57158.html"
+      },
+      {
+        "cname": "总统府",
+        "url": "/sight/suva1338/57196.html"
+      }
+    ],
+    "url": "/sightlist/suva1338.html"
+  },
+  {
+    "cname": "珊瑚海岸",
+    "suggest_places": [],
+    "url": "/sightlist/coralcoast1962.html"
+  }
+]

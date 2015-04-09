@@ -1,0 +1,380 @@
+[
+  {
+    "cname": "佩特拉",
+    "url": "http://you.ctrip.com/sightlist/petra143896.html",
+    "places": [
+      {
+        "cname": "佩特拉古城",
+        "url": "/sight/petra143896/141569.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/055/853/115/64b089b36897462a9dfd10b0e343f8fc_C_220_140.jpg",
+        "caddress": "Wadi Musa,Petra,Ma'an 71882"
+      },
+      {
+        "cname": "蛇道",
+        "url": "/sight/petra143896/23134.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/730/001/463/09c532bfa4974f87a8b1883750cb383a_C_220_140.jpg",
+        "caddress": "al-Siq, Wadi Musa"
+      },
+      {
+        "cname": "卡兹尼神殿",
+        "url": "/sight/petra143896/23132.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/267/968/015/10c44e6022f84919a0d582b6c6dcc10a_C_220_140.jpg",
+        "caddress": "Wadi Musa, Petra, Ma'an, 71882"
+      },
+      {
+        "cname": "罗马露天剧场",
+        "url": "/sight/petra143896/23136.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/860/210/683/b1a6a37eb69143758c4894a7802f5d09_C_220_140.jpg",
+        "caddress": "Petra,Jordan"
+      },
+      {
+        "cname": "佩特拉祭坛",
+        "url": "/sight/petra143896/23127.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/848/764/372/2d14a4b81db04348b8740cb731ebc1fb_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "代尔修道院",
+        "url": "/sight/petra143896/23133.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/022/918/251/66c6fd0c4b2b45b29c3c6d85a2799f2f_C_220_140.jpg",
+        "caddress": "Petra, Jordan"
+      },
+      {
+        "cname": "女儿宫",
+        "url": "/sight/petra143896/23131.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/748/945/386/830c9408337a41e69de3e28d6245418d_C_220_140.jpg",
+        "caddress": "Petra, Jordan"
+      },
+      {
+        "cname": "月亮峡谷",
+        "url": "/sight/petra143896/138602.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/307/709/498/a832c0c99dc349a9b153067908ecfd5b_C_220_140.jpg",
+        "caddress": "Wadi Rum Visitor Center, Petra, Jordan"
+      },
+      {
+        "cname": "石柱街",
+        "url": "/sight/petra143896/142772.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/885/473/480/841cdcacdedc43ccb8930bf8d8b6f235_C_220_140.jpg",
+        "caddress": "Petra,Jordan"
+      }
+    ]
+  },
+  {
+    "cname": "安曼",
+    "url": "http://you.ctrip.com/sightlist/amman761.html",
+    "places": [
+      {
+        "cname": "安曼市区",
+        "url": "/sight/amman761/138588.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/104/848/743/e6cf43e2776046d6b8b41f4370758eec_C_220_140.jpg",
+        "caddress": "Amman"
+      },
+      {
+        "cname": "城堡山",
+        "url": "/sight/amman761/138596.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/552/960/183/0d7d792403d54d0e9a6566e70d00e63d_C_220_140.jpg",
+        "caddress": "Amman, Jordan"
+      },
+      {
+        "cname": "卡拉克",
+        "url": "/sight/amman761/1409827.html",
+        "s_img": "",
+        "caddress": "约旦东北方向2.2公里"
+      },
+      {
+        "cname": "阿卜杜拉国王清真寺",
+        "url": "/sight/amman761/23005.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/709/114/647/898cf4fc4404415a8a053a92e5eb37c1_C_220_140.jpg",
+        "caddress": "Sulayman An Nabullsi, Amman"
+      },
+      {
+        "cname": "阿姆拉城堡",
+        "url": "/sight/amman761/138582.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/759/944/251/a0f05835e3dd420cb07211e53ddc64d7_C_220_140.jpg",
+        "caddress": "Al-Azraq"
+      },
+      {
+        "cname": "阿兹拉克城堡",
+        "url": "/sight/amman761/138586.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/174/763/659/6b85015d1b7447d1aa7bc88348076ebd_C_220_140.jpg",
+        "caddress": "Amman Governorate"
+      },
+      {
+        "cname": "绍马里自然保护区",
+        "url": "/sight/amman761/138598.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/174/135/902/814ae072d10347cd8370993c54d66fd0_C_220_140.jpg",
+        "caddress": "Complex No 117, Al Shareef Abd Al Hameed Sharaf St 117, Amman 11196"
+      },
+      {
+        "cname": "约旦峡谷",
+        "url": "/sight/amman761/22979.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/512/338/274/e759fd36a0094c81838081627d0f8269_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "国家考古学博物馆",
+        "url": "/sight/amman761/138592.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/502/959/660/5accff443a064c5e9439091448f98f5c_C_220_140.jpg",
+        "caddress": "Al-Malek Ali bin al-Hussein Street, The Citadel"
+      },
+      {
+        "cname": "穆吉布自然保护区",
+        "url": "/sight/amman761/22977.html",
+        "s_img": "",
+        "caddress": "Dead sea road, Sweimeh 18186"
+      },
+      {
+        "cname": "安曼的博物馆",
+        "url": "/sight/amman761/22961.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/872/054/523/424a845f8efe439f9aa81393d0cb7d0b_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "马卡鲁斯",
+        "url": "/sight/amman761/22989.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/868/443/988/17e21d79095b439297fa13d0815b4539_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "约旦民俗博物馆",
+        "url": "/sight/amman761/138601.html",
+        "s_img": "",
+        "caddress": "The Roman Amphitheater, Citadel, Amman"
+      },
+      {
+        "cname": "安曼的美术馆",
+        "url": "/sight/amman761/22962.html",
+        "s_img": "",
+        "caddress": "The Khalid Shoman Foundation Darat Al Funun, Nadeem Al Mallah St 13, Amman 11183"
+      },
+      {
+        "cname": "约旦民间传统博物馆",
+        "url": "/sight/amman761/138599.html",
+        "s_img": "",
+        "caddress": "Amman"
+      },
+      {
+        "cname": "水神殿",
+        "url": "/sight/amman761/23145.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/147/853/169/aff9a717692a476f96211025432e3433_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "杰拉什考古博物馆",
+        "url": "/sight/amman761/23141.html",
+        "s_img": "",
+        "caddress": "Citadel Hill, Amman"
+      },
+      {
+        "cname": "Hashemite 广场",
+        "url": "/sight/amman761/142774.html",
+        "s_img": "",
+        "caddress": "Sulayman An Nabullsi, Amman"
+      },
+      {
+        "cname": "哈拉伯特城堡",
+        "url": "/sight/amman761/23121.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "萨尔特",
+        "url": "/sight/amman761/22981.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "罗特圣堂",
+        "url": "/sight/amman761/22985.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "马达巴",
+    "url": "http://you.ctrip.com/sightlist/madaba24802.html",
+    "places": [
+      {
+        "cname": "尼波山",
+        "url": "/sight/madaba24802/22988.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/102/865/297/69167b3becb746d0b36c9c8ff63ecd25_C_220_140.jpg",
+        "caddress": "距离马达巴九公里"
+      },
+      {
+        "cname": "圣乔治教堂",
+        "url": "/sight/madaba24802/23007.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/707/735/420/630682c940de41539d8d259b059a2afb_C_220_140.jpg",
+        "caddress": "Madaba, Jordan"
+      }
+    ]
+  },
+  {
+    "cname": "杰拉什",
+    "url": "http://you.ctrip.com/sightlist/jerash143897.html",
+    "places": [
+      {
+        "cname": "杰拉什罗马古城遗址",
+        "url": "/sight/jerash143897/138589.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/020/526/155/bc6d18554fa645ac87c97ae9a6816142_C_220_140.jpg",
+        "caddress": "Jerash"
+      },
+      {
+        "cname": "哈德良凯旋门",
+        "url": "/sight/jerash143897/142767.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/438/119/613/e73ff470f9c94b788c3fb9b584280be7_C_220_140.jpg",
+        "caddress": "Jerash,Jordan"
+      },
+      {
+        "cname": "列柱大街",
+        "url": "/sight/jerash143897/142771.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/836/765/346/16b41df9c487431d9bff0340ff89b7b4_C_220_140.jpg",
+        "caddress": "Jerash,Jordan"
+      },
+      {
+        "cname": "椭圆形广场",
+        "url": "/sight/jerash143897/142768.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/438/196/418/31e020eb79d14b79a320b6ca1f810451_C_220_140.jpg",
+        "caddress": "Jerash,Jordan"
+      },
+      {
+        "cname": "南露天剧场",
+        "url": "/sight/jerash143897/142769.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/244/023/287/c5b7af7733d548c98ef1c1b989113ab5_C_220_140.jpg",
+        "caddress": "Jerash,Jordan"
+      },
+      {
+        "cname": "罗马浴室",
+        "url": "/sight/jerash143897/23153.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "阿尔忒弥斯月亮女神庙",
+        "url": "/sight/jerash143897/142770.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/679/042/315/7846f92b88cb40f0a0161871d1a99011_C_220_140.jpg",
+        "caddress": "Jerash,Jordan"
+      }
+    ]
+  },
+  {
+    "cname": "亚喀巴",
+    "url": "http://you.ctrip.com/sightlist/aqaba766.html",
+    "places": [
+      {
+        "cname": "马木路克城堡",
+        "url": "/sight/aqaba766/23130.html",
+        "s_img": "",
+        "caddress": "Eilat"
+      },
+      {
+        "cname": "皇家墓冢群",
+        "url": "/sight/aqaba766/23138.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/311/782/710/fc1f0af05f8249b6a34b0c6c907f514d_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "摩西泉",
+        "url": "/sight/aqaba766/23129.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/789/767/269/eb1fc7740744427985d737aab1cf27f0_C_220_140.jpg",
+        "caddress": "尼波山北面"
+      },
+      {
+        "cname": "亚喀巴湾",
+        "url": "/sight/aqaba766/23065.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "珊瑚岛",
+        "url": "/sight/aqaba766/23137.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/886/519/671/85ce7214e30243d0b2b53b138bea2d17_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "亚喀巴城堡",
+        "url": "/sight/aqaba766/142766.html",
+        "s_img": "",
+        "caddress": "Madaba, Jordan"
+      },
+      {
+        "cname": "亚喀巴古迹博物馆",
+        "url": "/sight/aqaba766/23126.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "死海",
+    "url": "http://you.ctrip.com/sightlist/deadsea143898.html",
+    "places": [
+      {
+        "cname": "死海海滩",
+        "url": "/sight/deadsea143898/22974.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/513/866/863/016ee8c0c68a4c83a30ff17083050b8a_C_220_140.jpg",
+        "caddress": "Dead Sea, Jordan"
+      }
+    ]
+  },
+  {
+    "cname": "伊尔比德",
+    "url": "http://you.ctrip.com/sightlist/irbid763.html",
+    "places": [
+      {
+        "cname": "宙斯神庙",
+        "url": "/sight/irbid763/23154.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "佩拉",
+        "url": "/sight/irbid763/23147.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "月神殿",
+        "url": "/sight/irbid763/23148.html",
+        "s_img": "",
+        "caddress": "Jarash"
+      },
+      {
+        "cname": "赛马场",
+        "url": "/sight/irbid763/23140.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "米格多勒神庙",
+        "url": "/sight/irbid763/23155.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/666/524/952/aab98c653fc840c48a85df4e423845d3_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "阿杰朗古堡",
+        "url": "/sight/irbid763/23139.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "北部剧院",
+        "url": "/sight/irbid763/23149.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "南部剧院",
+        "url": "/sight/irbid763/23150.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "乌姆盖斯",
+        "url": "/sight/irbid763/23152.html",
+        "s_img": "",
+        "caddress": ""
+      }
+    ]
+  }
+]

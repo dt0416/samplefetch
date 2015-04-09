@@ -1,0 +1,111 @@
+[
+  {
+    "cname": "布拉格",
+    "suggest_places": [
+      {
+        "cname": "查理大桥",
+        "url": "/sight/prague822/25446.html"
+      },
+      {
+        "cname": "布拉格城堡",
+        "url": "/sight/prague822/25447.html"
+      },
+      {
+        "cname": "布拉格广场",
+        "url": "/sight/prague822/25455.html"
+      },
+      {
+        "cname": "布拉格天文钟",
+        "url": "/sight/prague822/25448.html"
+      },
+      {
+        "cname": "圣维特大教堂",
+        "url": "/sight/prague822/25456.html"
+      }
+    ],
+    "url": "/sightlist/prague822.html"
+  },
+  {
+    "cname": "克鲁姆洛夫",
+    "suggest_places": [
+      {
+        "cname": "克鲁姆洛夫",
+        "url": "/sight/ceskykrumlov8532/137367.html"
+      },
+      {
+        "cname": "克鲁姆洛夫城堡",
+        "url": "/sight/ceskykrumlov8532/110071.html"
+      },
+      {
+        "cname": "耶稣学院",
+        "url": "/sight/ceskykrumlov8532/1508187.html"
+      },
+      {
+        "cname": "圣维特教堂",
+        "url": "/sight/ceskykrumlov8532/142277.html"
+      },
+      {
+        "cname": "克鲁姆洛夫历史中心",
+        "url": "/sight/ceskykrumlov8532/110072.html"
+      }
+    ],
+    "url": "/sightlist/ceskykrumlov8532.html"
+  },
+  {
+    "cname": "库特纳霍拉",
+    "suggest_places": [
+      {
+        "cname": "人骨教堂",
+        "url": "/sight/kutnahora2116/85617.html"
+      },
+      {
+        "cname": "圣巴巴拉教堂",
+        "url": "/sight/kutnahora2116/85615.html"
+      }
+    ],
+    "url": "/sightlist/kutnahora2116.html"
+  },
+  {
+    "cname": "卡罗维发利",
+    "suggest_places": [],
+    "url": "/sightlist/karlovyvary1205.html"
+  },
+  {
+    "cname": "卡罗维发利州",
+    "suggest_places": [
+      {
+        "cname": "圣玛莉教堂",
+        "url": "/sight/carlsbadarea123774/1409910.html"
+      }
+    ],
+    "url": "/sightlist/carlsbadarea123774.html"
+  },
+  {
+    "cname": "布尔诺",
+    "suggest_places": [
+      {
+        "cname": "自由广场",
+        "url": "/sight/brno1126/79307.html"
+      },
+      {
+        "cname": "史皮尔柏城堡",
+        "url": "/sight/brno1126/79310.html"
+      },
+      {
+        "cname": "绿色广场",
+        "url": "/sight/brno1126/79308.html"
+      }
+    ],
+    "url": "/sightlist/brno1126.html"
+  },
+  {
+    "cname": "Marianske Lazne",
+    "suggest_places": [
+      {
+        "cname": "玛利亚小镇",
+        "url": "/sight/marianskelazne8514/81650.html"
+      }
+    ],
+    "url": "/sightlist/marianskelazne8514.html"
+  }
+]

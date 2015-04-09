@@ -1,0 +1,228 @@
+[
+  {
+    "cname": "银川",
+    "suggest_places": [
+      {
+        "cname": "西夏王陵",
+        "url": "/sight/yinchuan239/8831.html"
+      },
+      {
+        "cname": "镇北堡西部影视城",
+        "url": "/sight/yinchuan239/8834.html"
+      },
+      {
+        "cname": "贺兰山岩画",
+        "url": "/sight/yinchuan239/8821.html"
+      },
+      {
+        "cname": "中华回乡文化园",
+        "url": "/sight/yinchuan239/50629.html"
+      },
+      {
+        "cname": "水洞沟遗址",
+        "url": "/sight/yinchuan239/50459.html"
+      }
+    ],
+    "url": "/sightlist/yinchuan239.html"
+  },
+  {
+    "cname": "中卫",
+    "suggest_places": [
+      {
+        "cname": "沙坡头",
+        "url": "/sight/zhongwei1184/50442.html"
+      },
+      {
+        "cname": "腾格里沙漠",
+        "url": "/sight/zhongwei1184/50857.html"
+      },
+      {
+        "cname": "中卫高庙",
+        "url": "/sight/zhongwei1184/50439.html"
+      },
+      {
+        "cname": "通湖草原",
+        "url": "/sight/zhongwei1184/129090.html"
+      },
+      {
+        "cname": "寺口子",
+        "url": "/sight/zhongwei1184/50861.html"
+      }
+    ],
+    "url": "/sightlist/zhongwei1184.html"
+  },
+  {
+    "cname": "石嘴山",
+    "suggest_places": [
+      {
+        "cname": "沙湖生态旅游区",
+        "url": "/sight/shizuishan889/140406.html"
+      },
+      {
+        "cname": "玉皇阁",
+        "url": "/sight/shizuishan889/50448.html"
+      },
+      {
+        "cname": "田州古塔",
+        "url": "/sight/shizuishan889/50759.html"
+      },
+      {
+        "cname": "归德沟",
+        "url": "/sight/shizuishan889/50756.html"
+      },
+      {
+        "cname": "北武当地质公园",
+        "url": "/sight/shizuishan889/50753.html"
+      }
+    ],
+    "url": "/sightlist/shizuishan889.html"
+  },
+  {
+    "cname": "固原",
+    "suggest_places": [
+      {
+        "cname": "固原博物馆",
+        "url": "/sight/guyuan888/72246.html"
+      },
+      {
+        "cname": "须弥山石窟",
+        "url": "/sight/guyuan888/50445.html"
+      },
+      {
+        "cname": "火石寨",
+        "url": "/sight/guyuan888/51249.html"
+      },
+      {
+        "cname": "胭脂峡",
+        "url": "/sight/guyuan888/51313.html"
+      },
+      {
+        "cname": "战国秦长城",
+        "url": "/sight/guyuan888/51257.html"
+      }
+    ],
+    "url": "/sightlist/guyuan888.html"
+  },
+  {
+    "cname": "吴忠",
+    "suggest_places": [
+      {
+        "cname": "青铜峡108塔",
+        "url": "/sight/wuzhong890/50440.html"
+      },
+      {
+        "cname": "青铜峡黄河大峡谷",
+        "url": "/sight/wuzhong890/70400.html"
+      },
+      {
+        "cname": "牛首山寺庙群",
+        "url": "/sight/wuzhong890/51042.html"
+      },
+      {
+        "cname": "古长城",
+        "url": "/sight/wuzhong890/51048.html"
+      },
+      {
+        "cname": "古城湾旅游区",
+        "url": "/sight/wuzhong890/50988.html"
+      }
+    ],
+    "url": "/sightlist/wuzhong890.html"
+  },
+  {
+    "cname": "青铜峡",
+    "suggest_places": [
+      {
+        "cname": "青铜峡108塔",
+        "url": "/sight/qingtongxia2330/50440.html"
+      },
+      {
+        "cname": "青铜峡黄河大峡谷",
+        "url": "/sight/qingtongxia2330/70400.html"
+      },
+      {
+        "cname": "黄河世纪坛",
+        "url": "/sight/qingtongxia2330/129392.html"
+      },
+      {
+        "cname": "青铜峡鸟岛",
+        "url": "/sight/qingtongxia2330/51050.html"
+      }
+    ],
+    "url": "/sightlist/qingtongxia2330.html"
+  },
+  {
+    "cname": "永宁",
+    "suggest_places": [
+      {
+        "cname": "永宁县海子湖金马休闲度假村",
+        "url": "/sight/yongning2324/70163.html"
+      }
+    ],
+    "url": "/sightlist/yongning2324.html"
+  },
+  {
+    "cname": "泾源",
+    "suggest_places": [
+      {
+        "cname": "六盘山国家森林公园",
+        "url": "/sight/jingyuan2329/51229.html"
+      },
+      {
+        "cname": "野荷谷",
+        "url": "/sight/jingyuan2329/70481.html"
+      },
+      {
+        "cname": "九号公馆温泉宫",
+        "url": "/sight/jingyuan2329/70046.html"
+      },
+      {
+        "cname": "白云寺景区",
+        "url": "/sight/jingyuan2329/70281.html"
+      }
+    ],
+    "url": "/sightlist/jingyuan2329.html"
+  },
+  {
+    "cname": "灵武",
+    "suggest_places": [
+      {
+        "cname": "长流水生态旅游区",
+        "url": "/sight/lingwu2323/50460.html"
+      },
+      {
+        "cname": "红山堡",
+        "url": "/sight/lingwu2323/50512.html"
+      },
+      {
+        "cname": "白芨滩自然保护区",
+        "url": "/sight/lingwu2323/50511.html"
+      }
+    ],
+    "url": "/sightlist/lingwu2323.html"
+  },
+  {
+    "cname": "海原",
+    "suggest_places": [
+      {
+        "cname": "海原清真大寺",
+        "url": "/sight/haiyuan2325/50877.html"
+      },
+      {
+        "cname": "天都山",
+        "url": "/sight/haiyuan2325/50943.html"
+      }
+    ],
+    "url": "/sightlist/haiyuan2325.html"
+  },
+  {
+    "cname": "隆德",
+    "suggest_places": [
+      {
+        "cname": "六盘山长征景区",
+        "url": "/sight/longde2326/70103.html"
+      }
+    ],
+    "url": "/sightlist/longde2326.html"
+  }
+]

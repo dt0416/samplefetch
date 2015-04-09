@@ -1,0 +1,676 @@
+[
+  {
+    "cname": "吉隆坡",
+    "suggest_places": [
+      {
+        "cname": "国家石油公司双塔大楼",
+        "url": "/sight/kualalumpur45/3500.html"
+      },
+      {
+        "cname": "独立广场",
+        "url": "/sight/kualalumpur45/3514.html"
+      },
+      {
+        "cname": "国家清真寺",
+        "url": "/sight/kualalumpur45/8006.html"
+      },
+      {
+        "cname": "茨厂街",
+        "url": "/sight/kualalumpur45/136580.html"
+      },
+      {
+        "cname": "吉隆坡塔",
+        "url": "/sight/kualalumpur45/3509.html"
+      }
+    ],
+    "url": "/sightlist/kualalumpur45.html"
+  },
+  {
+    "cname": "沙巴",
+    "suggest_places": [
+      {
+        "cname": "水上清真寺",
+        "url": "/sight/sabah538/66647.html"
+      },
+      {
+        "cname": "亚庇",
+        "url": "/sight/sabah538/137088.html"
+      },
+      {
+        "cname": "丹容亚路海滩",
+        "url": "/sight/sabah538/137043.html"
+      },
+      {
+        "cname": "马布岛",
+        "url": "/sight/sabah538/109837.html"
+      },
+      {
+        "cname": "美人鱼岛",
+        "url": "/sight/sabah538/87605.html"
+      }
+    ],
+    "url": "/sightlist/sabah538.html"
+  },
+  {
+    "cname": "兰卡威",
+    "suggest_places": [
+      {
+        "cname": "巨鹰广场",
+        "url": "/sight/langkawi539/20051.html"
+      },
+      {
+        "cname": "珍南海滩",
+        "url": "/sight/langkawi539/18459.html"
+      },
+      {
+        "cname": "瓜镇",
+        "url": "/sight/langkawi539/110099.html"
+      },
+      {
+        "cname": "丹绒鲁海滩",
+        "url": "/sight/langkawi539/18456.html"
+      },
+      {
+        "cname": "东方村",
+        "url": "/sight/langkawi539/109787.html"
+      }
+    ],
+    "url": "/sightlist/langkawi539.html"
+  },
+  {
+    "cname": "亚庇",
+    "suggest_places": [
+      {
+        "cname": "水上清真寺",
+        "url": "/sight/kotakinabalu583/66647.html"
+      },
+      {
+        "cname": "亚庇",
+        "url": "/sight/kotakinabalu583/137088.html"
+      },
+      {
+        "cname": "丹容亚路海滩",
+        "url": "/sight/kotakinabalu583/137043.html"
+      },
+      {
+        "cname": "东姑阿都拉曼国家公园",
+        "url": "/sight/kotakinabalu583/18446.html"
+      },
+      {
+        "cname": "沙碧岛",
+        "url": "/sight/kotakinabalu583/146458.html"
+      }
+    ],
+    "url": "/sightlist/kotakinabalu583.html"
+  },
+  {
+    "cname": "马六甲市",
+    "suggest_places": [
+      {
+        "cname": "荷兰红屋",
+        "url": "/sight/melaka42/3457.html"
+      },
+      {
+        "cname": "圣保罗教堂",
+        "url": "/sight/melaka42/3458.html"
+      },
+      {
+        "cname": "马六甲河",
+        "url": "/sight/melaka42/146462.html"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/melaka42/8158.html"
+      },
+      {
+        "cname": "圣地亚哥城堡",
+        "url": "/sight/melaka42/3450.html"
+      }
+    ],
+    "url": "/sightlist/melaka42.html"
+  },
+  {
+    "cname": "热浪岛",
+    "suggest_places": [
+      {
+        "cname": "热浪岛",
+        "url": "/sight/redang662/136596.html"
+      },
+      {
+        "cname": "浪中岛",
+        "url": "/sight/redang662/30054.html"
+      },
+      {
+        "cname": "棉花岛",
+        "url": "/sight/redang662/25727.html"
+      },
+      {
+        "cname": "嬷嬷茶屋",
+        "url": "/sight/redang662/25730.html"
+      },
+      {
+        "cname": "平安岛",
+        "url": "/sight/redang662/25733.html"
+      }
+    ],
+    "url": "/sightlist/redang662.html"
+  },
+  {
+    "cname": "马六甲",
+    "suggest_places": [
+      {
+        "cname": "荷兰红屋",
+        "url": "/sight/melakastate23093/3457.html"
+      },
+      {
+        "cname": "圣保罗教堂",
+        "url": "/sight/melakastate23093/3458.html"
+      },
+      {
+        "cname": "马六甲河",
+        "url": "/sight/melakastate23093/146462.html"
+      },
+      {
+        "cname": "唐人街",
+        "url": "/sight/melakastate23093/8158.html"
+      },
+      {
+        "cname": "圣地亚哥城堡",
+        "url": "/sight/melakastate23093/3450.html"
+      }
+    ],
+    "url": "/sightlist/melakastate23093.html"
+  },
+  {
+    "cname": "槟城",
+    "suggest_places": [
+      {
+        "cname": "槟城",
+        "url": "/sight/penang44/146540.html"
+      },
+      {
+        "cname": "植物园",
+        "url": "/sight/penang44/3486.html"
+      },
+      {
+        "cname": "极乐寺",
+        "url": "/sight/penang44/3485.html"
+      },
+      {
+        "cname": "张弼士故居",
+        "url": "/sight/penang44/134384.html"
+      },
+      {
+        "cname": "姓氏桥",
+        "url": "/sight/penang44/134391.html"
+      }
+    ],
+    "url": "/sightlist/penang44.html"
+  },
+  {
+    "cname": "云顶高原",
+    "suggest_places": [
+      {
+        "cname": "云顶主题游乐场",
+        "url": "/sight/gentinghighlands561/134324.html"
+      },
+      {
+        "cname": "云顶娱乐场",
+        "url": "/sight/gentinghighlands561/134321.html"
+      },
+      {
+        "cname": "云顶高原",
+        "url": "/sight/gentinghighlands561/138955.html"
+      },
+      {
+        "cname": "云顶草莓农场",
+        "url": "/sight/gentinghighlands561/134323.html"
+      },
+      {
+        "cname": "清水岩庙",
+        "url": "/sight/gentinghighlands561/134327.html"
+      }
+    ],
+    "url": "/sightlist/gentinghighlands561.html"
+  },
+  {
+    "cname": "仙本那",
+    "suggest_places": [
+      {
+        "cname": "马布岛",
+        "url": "/sight/semporna14898/109837.html"
+      },
+      {
+        "cname": "仙本那",
+        "url": "/sight/semporna14898/146837.html"
+      },
+      {
+        "cname": "卡帕莱岛",
+        "url": "/sight/semporna14898/109854.html"
+      },
+      {
+        "cname": "马达京岛",
+        "url": "/sight/semporna14898/133502.html"
+      },
+      {
+        "cname": "西巴丹岛",
+        "url": "/sight/semporna14898/20863.html"
+      }
+    ],
+    "url": "/sightlist/semporna14898.html"
+  },
+  {
+    "cname": "山打根",
+    "suggest_places": [
+      {
+        "cname": "拉卜湾长鼻猴保护区",
+        "url": "/sight/sandakan14894/66657.html"
+      },
+      {
+        "cname": "山打根",
+        "url": "/sight/sandakan14894/66664.html"
+      },
+      {
+        "cname": "京那巴登岸河",
+        "url": "/sight/sandakan14894/66658.html"
+      },
+      {
+        "cname": "西必洛猿人保护区",
+        "url": "/sight/sandakan14894/20862.html"
+      },
+      {
+        "cname": "凯尔斯红树林保护区",
+        "url": "/sight/sandakan14894/141853.html"
+      }
+    ],
+    "url": "/sightlist/sandakan14894.html"
+  },
+  {
+    "cname": "乔治城",
+    "suggest_places": [
+      {
+        "cname": "植物园",
+        "url": "/sight/georgetown57611/3486.html"
+      },
+      {
+        "cname": "极乐寺",
+        "url": "/sight/georgetown57611/3485.html"
+      },
+      {
+        "cname": "张弼士故居",
+        "url": "/sight/georgetown57611/134384.html"
+      },
+      {
+        "cname": "姓氏桥",
+        "url": "/sight/georgetown57611/134391.html"
+      },
+      {
+        "cname": "娘惹博物馆",
+        "url": "/sight/georgetown57611/3449.html"
+      }
+    ],
+    "url": "/sightlist/georgetown57611.html"
+  },
+  {
+    "cname": "停泊岛",
+    "suggest_places": [
+      {
+        "cname": "小停泊岛",
+        "url": "/sight/perhentian1171/48085.html"
+      },
+      {
+        "cname": "大停泊岛",
+        "url": "/sight/perhentian1171/48066.html"
+      }
+    ],
+    "url": "/sightlist/perhentian1171.html"
+  },
+  {
+    "cname": "槟榔屿",
+    "suggest_places": [
+      {
+        "cname": "植物园",
+        "url": "/sight/penangisland14838/3486.html"
+      },
+      {
+        "cname": "极乐寺",
+        "url": "/sight/penangisland14838/3485.html"
+      },
+      {
+        "cname": "张弼士故居",
+        "url": "/sight/penangisland14838/134384.html"
+      },
+      {
+        "cname": "姓氏桥",
+        "url": "/sight/penangisland14838/134391.html"
+      },
+      {
+        "cname": "娘惹博物馆",
+        "url": "/sight/penangisland14838/3449.html"
+      }
+    ],
+    "url": "/sightlist/penangisland14838.html"
+  },
+  {
+    "cname": "邦咯岛",
+    "suggest_places": [
+      {
+        "cname": "邦咯岛",
+        "url": "/sight/pangkor647/136552.html"
+      },
+      {
+        "cname": "邦咯海滩",
+        "url": "/sight/pangkor647/136957.html"
+      },
+      {
+        "cname": "尼邦海滩",
+        "url": "/sight/pangkor647/137597.html"
+      },
+      {
+        "cname": "荷兰古堡",
+        "url": "/sight/pangkor647/1407403.html"
+      },
+      {
+        "cname": "福临宫",
+        "url": "/sight/pangkor647/1407404.html"
+      }
+    ],
+    "url": "/sightlist/pangkor647.html"
+  },
+  {
+    "cname": "古打毛律",
+    "suggest_places": [
+      {
+        "cname": "美人鱼岛",
+        "url": "/sight/kotabelud14891/87605.html"
+      }
+    ],
+    "url": "/sightlist/kotabelud14891.html"
+  },
+  {
+    "cname": "斗湖",
+    "suggest_places": [
+      {
+        "cname": "斗湖山公园",
+        "url": "/sight/tawau14906/66661.html"
+      }
+    ],
+    "url": "/sightlist/tawau14906.html"
+  },
+  {
+    "cname": "新山",
+    "suggest_places": [
+      {
+        "cname": "乐高主题公园",
+        "url": "/sight/johorbahru1377/137213.html"
+      },
+      {
+        "cname": "新山Hello Kitty主题乐园",
+        "url": "/sight/johorbahru1377/1477673.html"
+      },
+      {
+        "cname": "小小大世界主题乐园",
+        "url": "/sight/johorbahru1377/1477686.html"
+      },
+      {
+        "cname": "UK休闲农场",
+        "url": "/sight/johorbahru1377/1488506.html"
+      },
+      {
+        "cname": "公主港家庭主题乐园",
+        "url": "/sight/johorbahru1377/1477674.html"
+      }
+    ],
+    "url": "/sightlist/johorbahru1377.html"
+  },
+  {
+    "cname": "沙捞越",
+    "suggest_places": [
+      {
+        "cname": "古晋",
+        "url": "/sight/sarawak537/18410.html"
+      },
+      {
+        "cname": "尼亚国家公园",
+        "url": "/sight/sarawak537/18417.html"
+      },
+      {
+        "cname": "坝柯国家公园",
+        "url": "/sight/sarawak537/18413.html"
+      },
+      {
+        "cname": "八塘涯湖",
+        "url": "/sight/sarawak537/18414.html"
+      },
+      {
+        "cname": "西布",
+        "url": "/sight/sarawak537/18416.html"
+      }
+    ],
+    "url": "/sightlist/sarawak537.html"
+  },
+  {
+    "cname": "古晋",
+    "suggest_places": [
+      {
+        "cname": "古晋",
+        "url": "/sight/kuching781/18410.html"
+      }
+    ],
+    "url": "/sightlist/kuching781.html"
+  },
+  {
+    "cname": "刁曼岛",
+    "suggest_places": [],
+    "url": "/sightlist/tioman701.html"
+  },
+  {
+    "cname": "雪兰莪",
+    "suggest_places": [],
+    "url": "/sightlist/selangor1083.html"
+  },
+  {
+    "cname": "哥打巴鲁",
+    "suggest_places": [
+      {
+        "cname": "默迪卡广场",
+        "url": "/sight/kotabharu14858/1486868.html"
+      },
+      {
+        "cname": "大义场皇宫",
+        "url": "/sight/kotabharu14858/1486810.html"
+      },
+      {
+        "cname": "吉兰丹州博物馆",
+        "url": "/sight/kotabharu14858/1486869.html"
+      }
+    ],
+    "url": "/sightlist/kotabharu14858.html"
+  },
+  {
+    "cname": "关丹",
+    "suggest_places": [],
+    "url": "/sightlist/kuantan1113.html"
+  },
+  {
+    "cname": "瓜镇",
+    "suggest_places": [
+      {
+        "cname": "瓜镇",
+        "url": "/sight/kuah23103/110099.html"
+      },
+      {
+        "cname": "Eagle square",
+        "url": "/sight/kuah23103/122922.html"
+      }
+    ],
+    "url": "/sightlist/kuah23103.html"
+  },
+  {
+    "cname": "彭亨",
+    "suggest_places": [
+      {
+        "cname": "云顶主题游乐场",
+        "url": "/sight/pahang23085/134324.html"
+      },
+      {
+        "cname": "云顶娱乐场",
+        "url": "/sight/pahang23085/134321.html"
+      },
+      {
+        "cname": "云顶草莓农场",
+        "url": "/sight/pahang23085/134323.html"
+      },
+      {
+        "cname": "清水岩庙",
+        "url": "/sight/pahang23085/134327.html"
+      }
+    ],
+    "url": "/sightlist/pahang23085.html"
+  },
+  {
+    "cname": "巴六拜",
+    "suggest_places": [
+      {
+        "cname": "蛇庙",
+        "url": "/sight/bayanlepas57610/3482.html"
+      },
+      {
+        "cname": "战争博物馆",
+        "url": "/sight/bayanlepas57610/134381.html"
+      },
+      {
+        "cname": "武吉占姆动植物园",
+        "url": "/sight/bayanlepas57610/1469050.html"
+      }
+    ],
+    "url": "/sightlist/bayanlepas57610.html"
+  },
+  {
+    "cname": "爱极乐",
+    "suggest_places": [
+      {
+        "cname": "爱极乐森林公园",
+        "url": "/sight/ayerkeroh14882/3444.html"
+      }
+    ],
+    "url": "/sightlist/ayerkeroh14882.html"
+  },
+  {
+    "cname": "怡保",
+    "suggest_places": [
+      {
+        "cname": "怡保火车站",
+        "url": "/sight/ipoh14868/1410976.html"
+      },
+      {
+        "cname": "市政大楼",
+        "url": "/sight/ipoh14868/1498543.html"
+      },
+      {
+        "cname": "怡保博物馆",
+        "url": "/sight/ipoh14868/1512307.html"
+      },
+      {
+        "cname": "怡保旧街场",
+        "url": "/sight/ipoh14868/1498528.html"
+      },
+      {
+        "cname": "柚子街",
+        "url": "/sight/ipoh14868/1411342.html"
+      }
+    ],
+    "url": "/sightlist/ipoh14868.html"
+  },
+  {
+    "cname": "龙运",
+    "suggest_places": [
+      {
+        "cname": "兰道阿邦海滩",
+        "url": "/sight/dungun1114/25728.html"
+      }
+    ],
+    "url": "/sightlist/dungun1114.html"
+  },
+  {
+    "cname": "波德申",
+    "suggest_places": [
+      {
+        "cname": "波德申海滩",
+        "url": "/sight/portdickson1136/67521.html"
+      }
+    ],
+    "url": "/sightlist/portdickson1136.html"
+  },
+  {
+    "cname": "巴生",
+    "suggest_places": [],
+    "url": "/sightlist/klang14844.html"
+  },
+  {
+    "cname": "古达",
+    "suggest_places": [
+      {
+        "cname": "丹绒新邦孟阿瑶",
+        "url": "/sight/kudat14899/1417591.html"
+      },
+      {
+        "cname": "古达清真寺",
+        "url": "/sight/kudat14899/1417550.html"
+      },
+      {
+        "cname": "卡兰布海滩",
+        "url": "/sight/kudat14899/1417547.html"
+      }
+    ],
+    "url": "/sightlist/kudat14899.html"
+  },
+  {
+    "cname": "兰脑",
+    "suggest_places": [
+      {
+        "cname": "京那巴鲁国家公园",
+        "url": "/sight/ranau14905/18447.html"
+      }
+    ],
+    "url": "/sightlist/ranau14905.html"
+  },
+  {
+    "cname": "拿笃",
+    "suggest_places": [
+      {
+        "cname": "丹浓谷自然保护区",
+        "url": "/sight/lahaddatu14907/20832.html"
+      },
+      {
+        "cname": "踏缤野生动物保护区",
+        "url": "/sight/lahaddatu14907/66660.html"
+      }
+    ],
+    "url": "/sightlist/lahaddatu14907.html"
+  },
+  {
+    "cname": "丹容武雅",
+    "suggest_places": [
+      {
+        "cname": "森林公园",
+        "url": "/sight/tanjongbungah57612/3490.html"
+      },
+      {
+        "cname": "蝴蝶园",
+        "url": "/sight/tanjongbungah57612/3488.html"
+      }
+    ],
+    "url": "/sightlist/tanjongbungah57612.html"
+  },
+  {
+    "cname": "巴都丁宜",
+    "suggest_places": [
+      {
+        "cname": "巴都丁宜沙滩",
+        "url": "/sight/batuferringhi57609/3481.html"
+      }
+    ],
+    "url": "/sightlist/batuferringhi57609.html"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "cname": "万象",
+    "suggest_places": [
+      {
+        "cname": "万象",
+        "url": "/sight/vientiane749/136674.html"
+      },
+      {
+        "cname": "凯旋门",
+        "url": "/sight/vientiane749/66420.html"
+      },
+      {
+        "cname": "万荣",
+        "url": "/sight/vientiane749/64077.html"
+      },
+      {
+        "cname": "塔銮寺",
+        "url": "/sight/vientiane749/66419.html"
+      },
+      {
+        "cname": "西萨格寺",
+        "url": "/sight/vientiane749/66421.html"
+      }
+    ],
+    "url": "/sightlist/vientiane749.html"
+  },
+  {
+    "cname": "琅勃拉邦",
+    "suggest_places": [
+      {
+        "cname": "琅勃拉邦",
+        "url": "/sight/luangprabang1362/139774.html"
+      },
+      {
+        "cname": "光西瀑布",
+        "url": "/sight/luangprabang1362/63960.html"
+      },
+      {
+        "cname": "香通寺",
+        "url": "/sight/luangprabang1362/63916.html"
+      },
+      {
+        "cname": "浦西山",
+        "url": "/sight/luangprabang1362/63802.html"
+      },
+      {
+        "cname": "王宫博物馆",
+        "url": "/sight/luangprabang1362/63918.html"
+      }
+    ],
+    "url": "/sightlist/luangprabang1362.html"
+  },
+  {
+    "cname": "万荣",
+    "suggest_places": [
+      {
+        "cname": "万荣",
+        "url": "/sight/vangvieng21457/64077.html"
+      },
+      {
+        "cname": "万荣乘热气球",
+        "url": "/sight/vangvieng21457/1412232.html"
+      },
+      {
+        "cname": "坦江溶洞",
+        "url": "/sight/vangvieng21457/139781.html"
+      },
+      {
+        "cname": "南松河",
+        "url": "/sight/vangvieng21457/30230.html"
+      }
+    ],
+    "url": "/sightlist/vangvieng21457.html"
+  },
+  {
+    "cname": "会晒",
+    "suggest_places": [
+      {
+        "cname": "会晒",
+        "url": "/sight/houeixai21439/30192.html"
+      }
+    ],
+    "url": "/sightlist/houeixai21439.html"
+  },
+  {
+    "cname": "巴色",
+    "suggest_places": [
+      {
+        "cname": "巴色",
+        "url": "/sight/pakse14790/30195.html"
+      },
+      {
+        "cname": "四千美岛",
+        "url": "/sight/pakse14790/30196.html"
+      },
+      {
+        "cname": "占巴塞瓦普庙",
+        "url": "/sight/pakse14790/30022.html"
+      }
+    ],
+    "url": "/sightlist/pakse14790.html"
+  },
+  {
+    "cname": "他曲",
+    "suggest_places": [
+      {
+        "cname": "他曲",
+        "url": "/sight/muangkhammouan21459/30193.html"
+      }
+    ],
+    "url": "/sightlist/muangkhammouan21459.html"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "cname": "突尼斯市",
+    "url": "http://you.ctrip.com/sightlist/tunis940.html",
+    "places": [
+      {
+        "cname": "迦太基古城遗址",
+        "url": "/sight/tunis940/139938.html",
+        "s_img": "http://p.chanyouji.cn/98174/1391693230519p18g3m0cn714rt1lmco3d3e04tr1l.jpg?imageView/1/w/220/h/140",
+        "caddress": "Carthage, Route de La Goulette 7016"
+      },
+      {
+        "cname": "蓝白小镇",
+        "url": "/sight/tunis940/139945.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/554/396/854/a61e604e3b644d17beaad383681152f9_C_220_140.jpg",
+        "caddress": "Sidi Bou Said, Carthago"
+      },
+      {
+        "cname": "巴尔杜国家博物馆",
+        "url": "/sight/tunis940/139918.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/158/487/166/a02e36fe3a9e4796a3f6492eaea7591d_C_220_140.jpg",
+        "caddress": "Rue Mongi Slim, 2000"
+      },
+      {
+        "cname": "红蜥蜴列车",
+        "url": "/sight/tunis940/139936.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/187/566/799/8cce0576f73e47fe88c04f71a51a113b_C_220_140.jpg",
+        "caddress": "Metlaoui Station（一般乘车点）"
+      }
+    ]
+  },
+  {
+    "cname": "苏斯",
+    "url": "http://you.ctrip.com/sightlist/sousse2097.html",
+    "places": [
+      {
+        "cname": "埃尔·杰姆斗兽场",
+        "url": "/sight/sousse2097/139914.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/201/325/206376c4138a4b15bf6210e38effc2e0_C_220_140.jpg",
+        "caddress": "El Jem, 突尼斯 ‎"
+      },
+      {
+        "cname": "艾勒·甘塔乌依港",
+        "url": "/sight/sousse2097/139915.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/524/335/248/8240758058294ca9acb89687b835fad8_C_220_140.jpg",
+        "caddress": "Route Touristique, Port El Kantaoui, Tunisia"
+      },
+      {
+        "cname": "苏斯海港",
+        "url": "/sight/sousse2097/139965.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/152/255/436/4900461780cf4782929b077bf9fbffd8_C_220_140.jpg",
+        "caddress": "Sousse, Gouvernorat de Sousse, Tunisie"
+      }
+    ]
+  },
+  {
+    "cname": "哈马迈特",
+    "url": "http://you.ctrip.com/sightlist/hammamet2070.html",
+    "places": [
+      {
+        "cname": "哈马马特",
+        "url": "/sight/hammamet2070/139933.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/498/821/883/7b88bfee3ab44c4faee688758e9ea891_C_220_140.jpg",
+        "caddress": "Hammamet, Nabeul, Tunisie"
+      }
+    ]
+  },
+  {
+    "cname": "马特马他",
+    "url": "http://you.ctrip.com/sightlist/matmata21877.html",
+    "places": [
+      {
+        "cname": "柏柏尔人洞穴民居",
+        "url": "/sight/matmata21877/139921.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/681/474/959/64ebfe7167834ed891886024aed43945_C_220_140.jpg",
+        "caddress": "Matmatat-Al-Qadimal, 突尼斯 ‎"
+      },
+      {
+        "cname": "马特马他",
+        "url": "/sight/matmata21877/139948.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/643/235/363/1eaeb706487440718ee80c3b287d0787_C_220_140.jpg",
+        "caddress": "Matmata, Tunisia"
+      }
+    ]
+  },
+  {
+    "cname": "托泽尔",
+    "url": "http://you.ctrip.com/sightlist/tozeur21902.html",
+    "places": [
+      {
+        "cname": "杰瑞德盐湖",
+        "url": "/sight/tozeur21902/139939.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/606/424/985/085df657b9b44dcf9e155265af804f47_C_220_140.jpg",
+        "caddress": "Tozeur, Tunisia"
+      },
+      {
+        "cname": "托泽尔",
+        "url": "/sight/tozeur21902/139976.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/086/629/496/d584d2be30a04696aea8861b85964602_C_220_140.jpg",
+        "caddress": "突尼斯亚托泽尔"
+      },
+      {
+        "cname": "歇比卡绿洲",
+        "url": "/sight/tozeur21902/139985.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/817/584/434/6d092431017942db836b3af76c6b954a_C_220_140.jpg",
+        "caddress": "Oasis De Chebika, Tunisia"
+      }
+    ]
+  },
+  {
+    "cname": "Douz",
+    "url": "http://you.ctrip.com/sightlist/douz21891.html",
+    "places": [
+      {
+        "cname": "杜兹",
+        "url": "/sight/douz21891/1409629.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/775/309/446/8bc63fde87304246bd1f2d2ebe76a336_C_220_140.jpg",
+        "caddress": "位于突尼斯南部"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3596 @@
+[
+  {
+    "cname": "拉萨",
+    "url": "http://you.ctrip.com/sightlist/lhasa36.html",
+    "places": [
+      {
+        "cname": "布达拉宫",
+        "url": "/sight/lhasa36/3117.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/085/346/592/364920aa0db34693afa791c20e72aa27_C_220_140.jpg",
+        "caddress": "拉萨市城关区北京中路宫前巷35号"
+      },
+      {
+        "cname": "大昭寺",
+        "url": "/sight/lhasa36/3119.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/691/997/515/de979f65e8c84efcb4c40a420ae379c6_C_220_140.jpg",
+        "caddress": "拉萨市城关区八廓街"
+      },
+      {
+        "cname": "纳木错",
+        "url": "/sight/lhasa36/11793.html",
+        "s_img": "http://m.chanyouji.cn/4892/1348123336796p177h6e2so1n7k1a2mikaf2mkvv2f.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市当雄县，距离拉萨约240公里。"
+      },
+      {
+        "cname": "八廓街",
+        "url": "/sight/lhasa36/3124.html",
+        "s_img": "http://p.chanyouji.cn/171026/1413002716626p193unsnit146u7e1k5qeah1cip1d.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市城关区大昭寺边"
+      },
+      {
+        "cname": "罗布林卡",
+        "url": "/sight/lhasa36/3118.html",
+        "s_img": "http://p.chanyouji.cn/1407318539/FC1521A2-1D27-4847-BD81-E19A6A135314.jpg?imageView/1/w/220/h/140",
+        "caddress": "西藏自治区拉萨市城关区罗布林卡路21号"
+      },
+      {
+        "cname": "西藏博物馆",
+        "url": "/sight/lhasa36/51555.html",
+        "s_img": "http://p.chanyouji.cn/1397235428/chanyouji44lazy73ngc40bl4mihycs2rr.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市城关区罗布林卡路19号"
+      },
+      {
+        "cname": "色拉寺",
+        "url": "/sight/lhasa36/3122.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/164/970/493/2c9282f64ef847acb5681577bb6051ca_C_220_140.jpg",
+        "caddress": "拉萨市城关区色拉路1号（色拉乌孜山）"
+      },
+      {
+        "cname": "哲蚌寺",
+        "url": "/sight/lhasa36/3121.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/294/067/077/685cc7e84fe34979acf09579dd3e81d7_C_220_140.jpg",
+        "caddress": "拉萨市北京西路276号（根培乌孜山的南山坳里）"
+      },
+      {
+        "cname": "拉萨河",
+        "url": "/sight/lhasa36/54499.html",
+        "s_img": "http://p.chanyouji.cn/88019/1384183242724p1893rskmdvo41j4itkn1jrfhho18.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "小昭寺",
+        "url": "/sight/lhasa36/5520.html",
+        "s_img": "http://p.chanyouji.cn/181851/1414246049151p1953q39l1t1c113ari57d01ohtd.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市城关区小昭寺路"
+      },
+      {
+        "cname": "药王山",
+        "url": "/sight/lhasa36/5525.html",
+        "s_img": "http://p.chanyouji.cn/1384650173/6C4AB15E-CE7D-4979-85E5-D63C85B9AFEA.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市城关区北京中路，布达拉宫西侧"
+      },
+      {
+        "cname": "那根拉山口",
+        "url": "/sight/dangxiong2443/109943.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/412/656/997/e6c87f83f96b4b1da82eaf01fb025054_C_220_140.jpg",
+        "caddress": "拉萨市当雄县念青唐古拉山脉(近纳木措)"
+      },
+      {
+        "cname": "米拉山",
+        "url": "/sight/lhasa36/109945.html",
+        "s_img": "http://p.chanyouji.cn/71304/1393075855945p18hcsijhl1iolap517bdbbd4g09.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市墨竹工卡县与林芝工布江达县边界"
+      },
+      {
+        "cname": "唐古拉山口",
+        "url": "/sight/dangxiong2443/51568.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/973/345/814/820c66b9d5c54503b8e42dbbcb68ae54_C_220_140.jpg",
+        "caddress": "青海省和西藏两省（区）的分界线，，距青海省格尔木市604公里"
+      },
+      {
+        "cname": "玛吉阿米",
+        "url": "/sight/lhasa36/138031.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/789/899/440/a55b6b4d09d0427884c826e22ff4afe3_C_220_140.jpg",
+        "caddress": "拉萨市八廓街东南角"
+      },
+      {
+        "cname": "甘丹寺",
+        "url": "/sight/lhasa36/3120.html",
+        "s_img": "http://m.chanyouji.cn/23690/1360139904262p17inafkfi8s51lfpr22u48buu4.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市达孜县境内拉萨河南岸旺波日山上"
+      },
+      {
+        "cname": "宗角禄康公园",
+        "url": "/sight/lhasa36/5522.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/305/697/547/4a47b318337e49a0a7e8e956e2d3f54f_C_220_140.jpg",
+        "caddress": "拉萨市城关区娘热南路9号（布达拉宫背后）"
+      },
+      {
+        "cname": "念青唐古拉观景台",
+        "url": "/sight/dangxiong2443/44016.html",
+        "s_img": "http://m.chanyouji.cn/103574/1395286586270p18jeosbmpp5v1okt1clrl8c1nm81s.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市当雄县念青唐古拉山"
+      },
+      {
+        "cname": "仓姑寺",
+        "url": "/sight/lhasa36/73124.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/075/624/562/116facf8ca4a466e9d1792be8e82ba0d_C_220_140.jpg",
+        "caddress": "拉萨市城关区林廓南巷29号"
+      },
+      {
+        "cname": "扎基寺",
+        "url": "/sight/lhasa36/138064.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/029/460/123/03e898d675fc45ccbec73327d6fbc9d1_C_220_140.jpg",
+        "caddress": "拉萨市城关区扎基东路"
+      },
+      {
+        "cname": "仙足岛",
+        "url": "/sight/lhasa36/147309.html",
+        "s_img": "http://p.chanyouji.cn/1689476/E62D7585-324D-4A5D-9047-E453A2F90D32.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "楚布寺",
+        "url": "/sight/lhasa36/11797.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/428/929/601/9b42dd161deb4b56aaa669b4d2aa8d3c_C_220_140.jpg",
+        "caddress": "拉萨市堆龙德庆县西北楚布河上游"
+      },
+      {
+        "cname": "直贡梯寺",
+        "url": "/sight/lhasa36/54460.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/006/582/a1706ba3a60c40018651ba87a2a935d2_C_220_140.jpg",
+        "caddress": "拉萨市墨竹工卡县以北仁多岗乡雪绒河边"
+      },
+      {
+        "cname": "川藏公路",
+        "url": "/sight/lhasa36/1410734.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M00/DC/4F/CghzfVT-qhuAARhCAAREuvoe02Y640_C_220_140.jpg",
+        "caddress": "318国道(上海-西藏樟木)成都至拉萨的一段公路"
+      },
+      {
+        "cname": "布达拉宫广场",
+        "url": "/sight/lhasa36/1487591.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M0A/B4/98/CghzfFUOk_-ARJW6AAIegK4M2ZM970_C_220_140.jpg",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "乃琼寺",
+        "url": "/sight/lhasa36/54459.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/781/849/830/966a4738f9b2425a9343d3808853c726_C_220_140.jpg",
+        "caddress": "拉萨市西北郊哲蚌寺旁"
+      },
+      {
+        "cname": "曲水大桥",
+        "url": "/sight/lhasa36/145347.html",
+        "s_img": "http://p.chanyouji.cn/1370011528/4436E332-46B2-449C-B7B5-2CFD9B5CE90B.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市曲水县城西雅鲁藏布江上"
+      },
+      {
+        "cname": "拉萨清真大寺",
+        "url": "/sight/lhasa36/5527.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/540/310/789/dea11f97a3664ce483f695bc9cb93233_C_220_140.jpg",
+        "caddress": "拉萨市城关区孜苏路6号"
+      },
+      {
+        "cname": "扎耶巴寺",
+        "url": "/sight/lhasa36/128931.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/130/640/410/6dcafbbb9b174734b94408686056598e_C_220_140.jpg",
+        "caddress": "拉萨市达孜县曲布村"
+      },
+      {
+        "cname": "木如寺",
+        "url": "/sight/lhasa36/128908.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区北京东路13号"
+      },
+      {
+        "cname": "西藏红宫",
+        "url": "/sight/lhasa36/1487684.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M02/D5/FF/CghzgVTYRYCAT2VlAAFqPtPNG8Y943_C_220_140.jpg",
+        "caddress": "拉萨市城关区北京中路35号布达拉宫"
+      },
+      {
+        "cname": "唐拉昂曲峰",
+        "url": "/sight/dangxiong2443/54452.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/703/535/452/8429cad6bc484147964430e72fc6ac80_C_220_140.jpg",
+        "caddress": "拉萨市当雄县境内"
+      },
+      {
+        "cname": "扎耶巴洞窟群",
+        "url": "/sight/lhasa36/54486.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/509/560/665/56af8e8dea124c748c0903a43c45c709_C_220_140.jpg",
+        "caddress": "拉萨市城关区扎耶巴乡境内"
+      },
+      {
+        "cname": "拉鲁湿地自然保护区",
+        "url": "/sight/lhasa36/128926.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/414/863/133d1d20e8704f5ebc1f7897615ec796_C_220_140.jpg",
+        "caddress": "拉萨市城关区当热西路"
+      },
+      {
+        "cname": "驻藏大臣衙门遗址",
+        "url": "/sight/lhasa36/54490.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/760/944/956/0424c5c70bf842118e29ad260d765515_C_220_140.jpg",
+        "caddress": "拉萨市城关区八廓街八廓北街"
+      },
+      {
+        "cname": "磨磐山关帝庙",
+        "url": "/sight/lhasa36/54491.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/027/039/267/4a91f484906a45c39d9db464b60dd868_C_220_140.jpg",
+        "caddress": "拉萨市城西的磨磐山上"
+      },
+      {
+        "cname": "尼木吞巴",
+        "url": "/sight/lhasa36/1409308.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/971/379/315/05935b516e4f44ffadf780d16d4c415d_C_220_140.jpg",
+        "caddress": "拉萨市尼木县吞巴乡"
+      },
+      {
+        "cname": "甲玛王宫",
+        "url": "/sight/lhasa36/54489.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/928/605/974/d168ceec527b44659bcefbff144181db_C_220_140.jpg",
+        "caddress": "拉萨市墨竹工卡县西南部，与山南地区毗邻"
+      },
+      {
+        "cname": "热振寺",
+        "url": "/sight/lhasa36/54487.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/203/677/895/bdc1218c1b9a4836a4f2687d6bef10a5_C_220_140.jpg",
+        "caddress": "拉萨市林周县旁多乡"
+      },
+      {
+        "cname": "达扎路恭纪功碑",
+        "url": "/sight/lhasa36/5524.html",
+        "s_img": "",
+        "caddress": "拉萨市北京东路，布达拉宫南侧"
+      },
+      {
+        "cname": "布宫白宫",
+        "url": "/sight/lhasa36/1488066.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/459/423/732/ac83eb319fb14bc4a95332f86b9c93c4_C_220_140.jpg",
+        "caddress": "拉萨市城关区布达拉宫"
+      },
+      {
+        "cname": "曲贡文化遗址",
+        "url": "/sight/lhasa36/5526.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/172/949/670/aa0300a497b247c792e5fba7d1518eca_C_220_140.jpg",
+        "caddress": "拉萨市娘热乡曲贡村"
+      },
+      {
+        "cname": "直贡噶举派寺庙群",
+        "url": "/sight/lhasa36/1488000.html",
+        "s_img": "",
+        "caddress": "拉萨市墨竹工卡县境内雪绒河边"
+      },
+      {
+        "cname": "甘丹颇章",
+        "url": "/sight/lhasa36/1487592.html",
+        "s_img": "",
+        "caddress": "拉萨市堆龙德庆县哲蚌寺内"
+      },
+      {
+        "cname": "羊八犍经院",
+        "url": "/sight/lhasa36/1488231.html",
+        "s_img": "",
+        "caddress": "拉萨市达孜县"
+      },
+      {
+        "cname": "卓玛拉康寺",
+        "url": "/sight/lhasa36/128892.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M00/85/CA/CghzfFTTIYWASr0uAAC6ecIpg1c121_C_220_140.jpg",
+        "caddress": "拉萨市曲水县318国道聂当乡帮那村 ‎"
+      },
+      {
+        "cname": "青藏川藏公路纪念碑",
+        "url": "/sight/lhasa36/1487669.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区金珠中路"
+      },
+      {
+        "cname": "唐蕃会盟碑",
+        "url": "/sight/lhasa36/1488241.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/567/991/640/b83df7f42b7e4d4280ebe50e04551b68_C_220_140.jpg",
+        "caddress": "拉萨市城关区大昭寺口"
+      },
+      {
+        "cname": "西藏和平解放纪念碑",
+        "url": "/sight/lhasa36/1487740.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/369/694/381/f225be5cf5d34a8488f0c6e829c1445e_C_220_140.jpg",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "西藏大学",
+        "url": "/sight/lhasa36/1487944.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区江苏路36号"
+      },
+      {
+        "cname": "南方三佑怙殿",
+        "url": "/sight/lhasa36/1488001.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "强巴拉康",
+        "url": "/sight/lhasa36/1487716.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区八廓北街中段"
+      },
+      {
+        "cname": "罗赛林扎仓",
+        "url": "/sight/lhasa36/1488226.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区哲蚌寺"
+      },
+      {
+        "cname": "乃朗寺",
+        "url": "/sight/lhasa36/128939.html",
+        "s_img": "",
+        "caddress": "拉萨市堆龙德庆县"
+      },
+      {
+        "cname": "德吉路",
+        "url": "/sight/lhasa36/1488218.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区德吉路"
+      },
+      {
+        "cname": "阿巴扎仓",
+        "url": "/sight/lhasa36/1487938.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区哲蚌寺内"
+      },
+      {
+        "cname": "赤妥康",
+        "url": "/sight/lhasa36/1488228.html",
+        "s_img": "",
+        "caddress": "拉萨市达孜县"
+      },
+      {
+        "cname": "德阳村",
+        "url": "/sight/lhasa36/1487708.html",
+        "s_img": "",
+        "caddress": "拉萨市堆龙德庆县"
+      },
+      {
+        "cname": "德阳扎仓",
+        "url": "/sight/lhasa36/1487973.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "格桑花公园",
+        "url": "/sight/lhasa36/128927.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区当热西路与娘热南路交汇处"
+      },
+      {
+        "cname": "根培乌孜山",
+        "url": "/sight/lhasa36/1488191.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "郭芒扎仓",
+        "url": "/sight/lhasa36/1488178.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区哲蚌寺内"
+      },
+      {
+        "cname": "热振国家森林公园",
+        "url": "/sight/lhasa36/1487649.html",
+        "s_img": "",
+        "caddress": "拉萨市林周县 ‎"
+      },
+      {
+        "cname": "桑木自然民俗村",
+        "url": "/sight/lhasa36/128942.html",
+        "s_img": "",
+        "caddress": "拉萨市堆龙德庆县桑木村"
+      },
+      {
+        "cname": "策满林",
+        "url": "/sight/lhasa36/1488201.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区大昭寺以北"
+      },
+      {
+        "cname": "木如宁巴",
+        "url": "/sight/lhasa36/1487781.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "药王山摩崖石刻",
+        "url": "/sight/lhasa36/1487607.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区药王山下"
+      },
+      {
+        "cname": "峻巴村",
+        "url": "/sight/lhasa36/51025.html",
+        "s_img": "",
+        "caddress": "拉萨市曲水县拉萨河南岸的一处山坳里"
+      },
+      {
+        "cname": "下密寺",
+        "url": "/sight/lhasa36/1487694.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区北京东路"
+      },
+      {
+        "cname": "措钦大殿",
+        "url": "/sight/lhasa36/1487584.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区哲蚌寺内"
+      },
+      {
+        "cname": "湖心宫",
+        "url": "/sight/lhasa36/1487698.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区罗布林卡内"
+      },
+      {
+        "cname": "鲁普岩寺",
+        "url": "/sight/lhasa36/1487742.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/536/758/665/be8c9ae571804cd6806f17ff4ede9132_C_220_140.jpg",
+        "caddress": "拉萨市城关区北京中路"
+      },
+      {
+        "cname": "松赞干布出生地",
+        "url": "/sight/lhasa36/128886.html",
+        "s_img": "",
+        "caddress": "拉萨市墨竹工卡县甲玛乡"
+      },
+      {
+        "cname": "策默林寺",
+        "url": "/sight/lhasa36/1487693.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "次巴拉康寺",
+        "url": "/sight/lhasa36/1487686.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区小昭寺路"
+      },
+      {
+        "cname": "丹杰林寺",
+        "url": "/sight/lhasa36/1488243.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区丹杰林路"
+      },
+      {
+        "cname": "德仲寺",
+        "url": "/sight/lhasa36/1487791.html",
+        "s_img": "",
+        "caddress": "拉萨市墨竹工卡县"
+      },
+      {
+        "cname": "﻿多吉扎寺",
+        "url": "/sight/lhasa36/1488057.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县昌果乡"
+      },
+      {
+        "cname": "甘曲寺",
+        "url": "/sight/lhasa36/1487984.html",
+        "s_img": "",
+        "caddress": "拉萨市林周县"
+      },
+      {
+        "cname": "功德林寺",
+        "url": "/sight/lhasa36/1487728.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区北京中路"
+      },
+      {
+        "cname": "米穷日寺",
+        "url": "/sight/lhasa36/1487983.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "奴日松贡布寺",
+        "url": "/sight/lhasa36/1488007.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区鲁固路"
+      },
+      {
+        "cname": "帕邦喀",
+        "url": "/sight/lhasa36/1487695.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "普布觉寺",
+        "url": "/sight/lhasa36/1488003.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区"
+      },
+      {
+        "cname": "桑阿寺",
+        "url": "/sight/lhasa36/1487736.html",
+        "s_img": "",
+        "caddress": "拉萨市达孜县"
+      },
+      {
+        "cname": "西藏藏医学院",
+        "url": "/sight/lhasa36/1487957.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区当热中路10号"
+      },
+      {
+        "cname": "珠峰登山博物馆",
+        "url": "/sight/lhasa36/1487741.html",
+        "s_img": "",
+        "caddress": "拉萨市城关区扎基西路3号"
+      }
+    ]
+  },
+  {
+    "cname": "林芝",
+    "url": "http://you.ctrip.com/sightlist/linzhi126.html",
+    "places": [
+      {
+        "cname": "雅鲁藏布大峡谷",
+        "url": "/sight/linzhi126/4625.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/620/610/871/327955d3f1c8401eae8cf1e18a0a6f6e_C_220_140.jpg",
+        "caddress": "林芝地区米林县派镇"
+      },
+      {
+        "cname": "巴松措",
+        "url": "/sight/linzhi126/4621.html",
+        "s_img": "http://p.chanyouji.cn/1644181/B5152AB2-9E4A-4E66-AC68-0914639D3949.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区工布江达县错高乡境内（靠近达切拉观光台）"
+      },
+      {
+        "cname": "南迦巴瓦峰",
+        "url": "/sight/linzhi126/4619.html",
+        "s_img": "http://p.chanyouji.cn/1408086427/00000000-0000-0000-0000-000000000395.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区米林县南迦巴瓦峰（雅鲁藏布江大拐弯的南侧）"
+      },
+      {
+        "cname": "米堆冰川",
+        "url": "/sight/bomi2436/55246.html",
+        "s_img": "http://p.chanyouji.cn/1407233755/B2EE6954-1339-43AB-8543-D07FD570F44E.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区波密县玉普乡米堆村"
+      },
+      {
+        "cname": "尼洋河",
+        "url": "/sight/linzhixian2449/55245.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/046/582/299/d738450a11b9460aa2a8ee9e0da3baf4_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      },
+      {
+        "cname": "鲁朗林海",
+        "url": "/sight/linzhi126/55250.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/864/059/508/fdf2200ba3bf43828ae02bb192fbd499_C_220_140.jpg",
+        "caddress": "林芝地区林芝县鲁朗镇（近318国道）"
+      },
+      {
+        "cname": "南伊沟",
+        "url": "/sight/linzhi126/81932.html",
+        "s_img": "http://p.chanyouji.cn/1408285351/537B5AC4-62DD-43F1-8E27-C4868E118E9C.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区米林县南伊乡境内"
+      },
+      {
+        "cname": "中流砥柱",
+        "url": "/sight/gongbujiangda120396/128970.html",
+        "s_img": "http://p.chanyouji.cn/120286/1399452146536p18nati6q31tb01lgu1pfg1vmsl72.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区工布江达县尼洋河中流"
+      },
+      {
+        "cname": "米拉山口",
+        "url": "/sight/linzhi126/128971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/558/039/427/3fdf7042a8b84d22b798d1d735431c83_C_220_140.jpg",
+        "caddress": "林芝地区墨竹工卡县与林芝地区工布江达县的分界上"
+      },
+      {
+        "cname": "色季拉山",
+        "url": "/sight/linzhixian2449/77603.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/615/174/f660e859b91140ae9e307d684a212fa0_C_220_140.jpg",
+        "caddress": "林芝地区林芝县318国道色季拉山"
+      },
+      {
+        "cname": "桃花沟",
+        "url": "/sight/linzhi126/4620.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/908/986/650/bcda4ef8d1d1441da1f383d7d3cdf1f3_C_220_140.jpg",
+        "caddress": "林芝地区波密县（近318国道）"
+      },
+      {
+        "cname": "排龙天险",
+        "url": "/sight/bomi2436/128989.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/429/874/bfa6670a0fa74e0abfb9b39fafd33b23_C_220_140.jpg",
+        "caddress": "林芝地区通麦村(近川藏线)"
+      },
+      {
+        "cname": "卡定沟天佛瀑布",
+        "url": "/sight/linzhi126/128978.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/356/039/354/aa137da91b624a57bdcbde90ab2216f3_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇尼洋河畔卡定沟内，距离八一镇约24公里"
+      },
+      {
+        "cname": "扎西岗村",
+        "url": "/sight/linzhi126/147310.html",
+        "s_img": "http://p.chanyouji.cn/76811/1382801119391p187qlh8f71gpr1e7vkk96nr10ge1b.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区林芝县东久乡扎西岗村"
+      },
+      {
+        "cname": "古乡湖",
+        "url": "/sight/linzhi126/147193.html",
+        "s_img": "http://p.chanyouji.cn/22736/1359642287390p17i8ftn852ujbtvfc71jjoheu2.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区波密县古乡湖景区"
+      },
+      {
+        "cname": "帕隆藏布江",
+        "url": "/sight/linzhixian2449/133615.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/655/057/61d28bc1b238477b910c5368810f0107_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      },
+      {
+        "cname": "鲁朗花海牧场 ",
+        "url": "/sight/linzhi126/135615.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/378/325/054/51c9b941d1fa4aa3b7c6c351548badfc_C_220_140.jpg",
+        "caddress": "林芝地区林芝县鲁朗镇（距318国道3公里）"
+      },
+      {
+        "cname": "苯日神山",
+        "url": "/sight/linzhi126/4626.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/930/075/998/64cc64a4dee2446cbb969f0de72b7f5f_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇附近"
+      },
+      {
+        "cname": "太昭古城",
+        "url": "/sight/linzhi126/145208.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/842/754/990/1477ac0dc89c4335a77b0c3996e3d418_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县太昭村"
+      },
+      {
+        "cname": "岗乡自然保护区",
+        "url": "/sight/bomi2436/4642.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/118/955/701/bac05267d13a4707b4d6137fab5296bd_C_220_140.jpg",
+        "caddress": "林芝地区波密县帕隆藏布河畔南恻（波密县城以西处于雅鲁藏布江大拐弯的东北部）"
+      },
+      {
+        "cname": "格萨尔古堡",
+        "url": "/sight/gongbujiangda120396/128993.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/223/980/547/623dbd8ec6df487dad66548cc1f2d35b_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县巴河镇秀巴村"
+      },
+      {
+        "cname": "世界柏树王园林",
+        "url": "/sight/linzhi126/4630.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/696/775/252/ba2a48194df14f0f8966d6e53746db45_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇东南方向"
+      },
+      {
+        "cname": "秀巴千年古堡群",
+        "url": "/sight/linzhi126/128998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/B9/3D/CghzflTYcpGAYNwqABH8pQ3a_cg115_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县巴河镇秀巴村"
+      },
+      {
+        "cname": "加拉白垒峰",
+        "url": "/sight/linzhi126/55249.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/622/551/651/c923561ac2ee4e06ba39f36f6da42b3b_C_220_140.jpg",
+        "caddress": "林芝地区雅鲁藏布江大拐弯外侧的南迦巴瓦峰地区"
+      },
+      {
+        "cname": "布久喇嘛岭寺",
+        "url": "/sight/linzhi126/4615.html",
+        "s_img": "http://p.chanyouji.cn/1414079727/2zlax2arg9f2dg5hmnpzg6gob.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区林芝县布久乡"
+      },
+      {
+        "cname": "尼洋阁藏东南文化博览园",
+        "url": "/sight/linzhi126/1409721.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M05/C2/17/CghzgVS2LIqABMzHAAePXKRCpDM943_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇娘乳岗"
+      },
+      {
+        "cname": "佛掌沙丘",
+        "url": "/sight/milin2448/128975.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/206/980/643/62a11b884f45484198c04c24b491d7d6_C_220_140.jpg",
+        "caddress": "林芝地区米林县丹娘乡雅鲁藏布江北岸(近雅鲁藏布大峡谷)"
+      },
+      {
+        "cname": "措木及日景区",
+        "url": "/sight/linzhixian2449/128990.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/853/711/882/e96aa1692818435bb950dcf7fe5bfa30_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇"
+      },
+      {
+        "cname": "林芝自然博物馆",
+        "url": "/sight/linzhixian2449/133577.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/420/204/113/59f8178b88534b38b93025671bcd3346_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      },
+      {
+        "cname": "仁钦崩寺",
+        "url": "/sight/motuo120397/4617.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/076/121/116/abe7d23bae264672a7cc9ad43296e067_C_220_140.jpg",
+        "caddress": "林芝地区墨脱县墨脱村南则玛拉山上"
+      },
+      {
+        "cname": "直白村",
+        "url": "/sight/milin2448/1412455.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/077/331/039/bce7c3107e904675a9dcc617482533c6_C_220_140.jpg",
+        "caddress": "林芝地区米林县派镇"
+      },
+      {
+        "cname": "帕嘎寺",
+        "url": "/sight/gongbujiangda120396/4616.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/041/120/67e776ee880940e3be3e5266a48d803d_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县娘蒲乡"
+      },
+      {
+        "cname": "琼果林景区",
+        "url": "/sight/linzhi126/1409497.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/202/961/526/4c9addedc5ed48338db3d10968a4db52_C_220_140.jpg",
+        "caddress": "林芝地区林芝县布久乡"
+      },
+      {
+        "cname": "藏布巴东瀑布群 ",
+        "url": "/sight/linzhi126/132896.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/169/487/471/a5666755c6a347bc973700859523cd6a_C_220_140.jpg",
+        "caddress": "林芝地区雅鲁藏布大峡谷西兴拉山下、距迫隆藏布汇入口约20公里处"
+      },
+      {
+        "cname": "格嘎温泉",
+        "url": "/sight/milin2448/81963.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/859/886/390/dcb85d40826a4371a0592821922b8d80_C_220_140.jpg",
+        "caddress": "林芝地区米林县格嘎村"
+      },
+      {
+        "cname": "千年核桃王民俗文化村",
+        "url": "/sight/linzhi126/128977.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/897/040/300/b05d5f29751a43f69728b6faa6b6854a_C_220_140.jpg",
+        "caddress": "林芝地区林芝县（近318国道、尼洋河）"
+      },
+      {
+        "cname": "易贡错",
+        "url": "/sight/linzhi126/1493275.html",
+        "s_img": "",
+        "caddress": "林芝地区波密县"
+      },
+      {
+        "cname": "易贡国家地质公园",
+        "url": "/sight/bomi2436/128991.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/557/494/975/7c1cb59a89d14d219f4c83bc804953fd_C_220_140.jpg",
+        "caddress": "林芝地区波密县与林芝县交界处"
+      },
+      {
+        "cname": "多雄拉山",
+        "url": "/sight/motuo120397/133598.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/017/393/c244854e6d3f4f5fa4f96a19dca3a058_C_220_140.jpg",
+        "caddress": "林芝地区墨脱县与米林县交界处"
+      },
+      {
+        "cname": "羌纳寺",
+        "url": "/sight/linzhi126/1493230.html",
+        "s_img": "",
+        "caddress": "林芝地区米林县"
+      },
+      {
+        "cname": "嘎朗湖景区",
+        "url": "/sight/bomi2436/128982.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/293/381/428/e1a592ef4f0449759797622d9d6dacee_C_220_140.jpg",
+        "caddress": "林芝地区波密县"
+      },
+      {
+        "cname": "比日神山生态景区",
+        "url": "/sight/linzhixian2449/128994.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/139/050/110/4bf9f77ca15e47548efa87b121ca9e63_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇泉州路"
+      },
+      {
+        "cname": "易贡茶场",
+        "url": "/sight/bomi2436/55248.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/759/725/497/0aab630fc60c4fedbcf1941180c8640b_C_220_140.jpg",
+        "caddress": "西藏自治区波密县八一镇"
+      },
+      {
+        "cname": "察隅慈巴沟国家自然保护区",
+        "url": "/sight/linzhi126/1417250.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/638/261/526/186c724621fa4e3f9bb7ae5b20890700_C_220_140.jpg",
+        "caddress": "林芝地区察隅县"
+      },
+      {
+        "cname": "巴尔曲德寺",
+        "url": "/sight/langxian120395/54936.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/371/220/538/17318b816a234a8a9a838de449436f35_C_220_140.jpg",
+        "caddress": "林芝地区朗县朗镇堆巴村"
+      },
+      {
+        "cname": "布如沟温泉群",
+        "url": "/sight/gongbujiangda120396/1417248.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县娘蒲乡"
+      },
+      {
+        "cname": "鲁朗五寨",
+        "url": "/sight/linzhi126/1493216.html",
+        "s_img": "",
+        "caddress": "林芝地区林芝县鲁朗镇鲁朗林海景区内，318国道旁"
+      },
+      {
+        "cname": "大渡卡遗址",
+        "url": "/sight/milin2448/128983.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/913/351/049/d190b27e102f442fb10bd9251d7cae94_C_220_140.jpg",
+        "caddress": "西藏自治区林芝地区米林县"
+      },
+      {
+        "cname": "茶马古驿站",
+        "url": "/sight/gongbujiangda120396/129001.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/802/778/709/891f0e4a66f642a5b7e06f7135066bb9_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县太昭村"
+      },
+      {
+        "cname": "第穆摩崖造像及雕刻",
+        "url": "/sight/linzhixian2449/4627.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/873/080/2ee13c40ca4c41d48cd7fd85e21c3875_C_220_140.jpg",
+        "caddress": "林芝地区林芝县广久乡"
+      },
+      {
+        "cname": "加兴沟水帘瀑布",
+        "url": "/sight/gongbujiangda120396/4753.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/272/200/712/640d2c8b9d1b492c9b1192adbceb8266_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县"
+      },
+      {
+        "cname": "嘎朗王宫遗址",
+        "url": "/sight/bomi2436/128981.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/084/792/465/a5255e3c9672468fbe8ff51fb8984118_C_220_140.jpg",
+        "caddress": "林芝地区波密县318国道旁"
+      },
+      {
+        "cname": "仰桑河",
+        "url": "/sight/motuo120397/133616.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/697/573/f86b73e365614617b6d395eb937fe8cc_C_220_140.jpg",
+        "caddress": "林芝地区墨脱县"
+      },
+      {
+        "cname": "苯日神泉",
+        "url": "/sight/linzhixian2449/129000.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/846/733/b95ef2b587274e27af379e9e72b81972_C_220_140.jpg",
+        "caddress": "林芝地区林芝县雅鲁藏布江北侧"
+      },
+      {
+        "cname": "列山古墓群",
+        "url": "/sight/langxian120395/4618.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/234/417/936/1a28a1838d6e48a48cfc7bb95327b8e3_C_220_140.jpg",
+        "caddress": "林芝地区朗县东嘎乡列山南坡"
+      },
+      {
+        "cname": "汉妃梳妆台",
+        "url": "/sight/linzhixian2449/4628.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/444/852/428/d702ec222a5b4b90893e9d785990c922_C_220_140.jpg",
+        "caddress": "林芝地区林芝县广久乡达域龙增村"
+      },
+      {
+        "cname": "邦纳民俗村",
+        "url": "/sight/linzhixian2449/128986.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/588/710/458/a4550f6f9d434d8e85107e94709274ef_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      },
+      {
+        "cname": "扎西曲林寺",
+        "url": "/sight/gongbujiangda120396/128987.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/709/783/8deb6f30e665487884a0bf668da78b9f_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县318国道"
+      },
+      {
+        "cname": "扎贡沟风景区",
+        "url": "/sight/milin2448/128988.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/737/971/380/e62d01ac8dbf41beb2b7c7da62dcd1ac_C_220_140.jpg",
+        "caddress": "林芝地区米林县南部的南伊珞巴民族乡扎贡沟内，距离县城7公里"
+      },
+      {
+        "cname": "地龙村原始森林",
+        "url": "/sight/linzhi126/55247.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/658/181/488/45a36896a5eb40a5b75f1839f68c4ce3_C_220_140.jpg",
+        "caddress": "林芝地区太昭村与娘蒲之间"
+      }
+    ]
+  },
+  {
+    "cname": "日喀则",
+    "url": "http://you.ctrip.com/sightlist/rikaze100.html",
+    "places": [
+      {
+        "cname": "扎什伦布寺",
+        "url": "/sight/rikaze100/4271.html",
+        "s_img": "http://m.chanyouji.cn/51937/1373143474705p17uqqf2fcp1a1ddn116j1qo34541p.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则市几吉郎卡路1号"
+      },
+      {
+        "cname": "珠峰大本营",
+        "url": "/sight/dingri2450/133016.html",
+        "s_img": "http://p.chanyouji.cn/137800/1404208133894p18roksst7e3jo3j2m9sp5evm1e.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区定日县境内"
+      },
+      {
+        "cname": "珠穆朗玛峰",
+        "url": "/sight/rikaze100/4280.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M08/BC/51/CghzflS2L8eAKjpdAASXdx91TXM748_C_220_140.jpg",
+        "caddress": "日喀则地区定日县境内，中尼边境"
+      },
+      {
+        "cname": "白居寺",
+        "url": "/sight/jiangzi2437/4272.html",
+        "s_img": "http://p.chanyouji.cn/51937/1373143993618p17uqqf2fc1j1t1c1s1rh71s17tev2h.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区江孜县城北部"
+      },
+      {
+        "cname": "卡若拉冰川",
+        "url": "/sight/jiangzi2437/109942.html",
+        "s_img": "http://p.chanyouji.cn/1408984936/BDF30DD1-96BE-4E5E-9C0F-04D44BF2247D.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区江孜县卡若拉山口"
+      },
+      {
+        "cname": "绒布寺",
+        "url": "/sight/dingri2450/11852.html",
+        "s_img": "http://p.chanyouji.cn/5064/1348167948703p177ih37vjv3v3ip1531vi2c0934.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区定日县巴松乡南面珠穆朗玛峰下绒布沟东西侧的“卓玛”（度母）山顶"
+      },
+      {
+        "cname": "帕拉庄园",
+        "url": "/sight/jiangzi2437/54920.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/346/849/848/7f3052c1c02f4a339551bb62a6f3c2a9_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县江热乡班觉伦布村"
+      },
+      {
+        "cname": "江孜宗山古堡",
+        "url": "/sight/jiangzi2437/4273.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/462/512/595/74079a972c5c4bd0a3f380ff8860bd60_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县白居寺背山顶上"
+      },
+      {
+        "cname": "萨迦寺",
+        "url": "/sight/sajia2442/4275.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/124/955/090/60709b271f83471f9e7292ba6cc4c239_C_220_140.jpg",
+        "caddress": "日喀则市萨迦县八思巴路奔波山下"
+      },
+      {
+        "cname": "樟木口岸",
+        "url": "/sight/nielamu2445/11788.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/264/663/808/98cf754c6d44490f8cee9ffe5b8e3b63_C_220_140.jpg",
+        "caddress": "日喀则地区聂拉木县樟木镇，中尼边境喜玛拉雅山中段南麓沟谷坡地上"
+      },
+      {
+        "cname": "满拉水库",
+        "url": "/sight/jiangzi2437/129026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/454/501/319/1e0d3d6925b14bb3a0ccf2cb6addc9c8_C_220_140.jpg",
+        "caddress": "日喀则地区斯米拉山口下的峡谷之中、江孜县龙马乡年楚河之上"
+      },
+      {
+        "cname": "希夏邦马峰",
+        "url": "/sight/nielamu2445/54916.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/995/796/d6c7efc4fbf648c2aaae7d0c572542a6_C_220_140.jpg",
+        "caddress": "日喀则地区聂拉木县喜马拉雅山脉中段"
+      },
+      {
+        "cname": "佩枯错",
+        "url": "/sight/rikaze100/54911.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/881/035/437/9c8143c82bfa43c09dc9f0382cf04f0b_C_220_140.jpg",
+        "caddress": "日喀则地区聂拉木县差那乡"
+      },
+      {
+        "cname": "马卡鲁峰",
+        "url": "/sight/rikaze100/54918.html",
+        "s_img": "http://p.chanyouji.cn/45601/1370851831921p17smhv79fvcffr03nk1nnc1fkg3t.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区喜马拉雅山脉中段"
+      },
+      {
+        "cname": "卓奥友峰",
+        "url": "/sight/dingri2450/54967.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/508/462/008/ba09e2ccdb024c71b38e33250bc6974c_C_220_140.jpg",
+        "caddress": "日喀则地区定日县中尼边境上"
+      },
+      {
+        "cname": "洛子峰",
+        "url": "/sight/rikaze100/54913.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/627/379/176/425b5537cf7a4036a184e20ff8e76e20_C_220_140.jpg",
+        "caddress": "日喀则地区日喀则市东南（中国和尼泊尔边境珠穆朗玛峰以南约3公里处）"
+      },
+      {
+        "cname": "绒布冰川",
+        "url": "/sight/dingri2450/4281.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/844/512/829/473583314fe0433c8b67c9d585848819_C_220_140.jpg",
+        "caddress": "日喀则地区定日县巴松乡南面珠穆朗玛峰下绒布沟"
+      },
+      {
+        "cname": "吉隆沟",
+        "url": "/sight/rikaze100/147275.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/761/396/673/e3cf67e3c09e4215a42cd883c2dcbcf8_C_220_140.jpg",
+        "caddress": "西藏自治区日喀则地区所辖的吉隆县境内"
+      },
+      {
+        "cname": "嘉措拉山口",
+        "url": "/sight/dingri2450/132747.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/487/540/238/6463420fed234c27b01b526d65fb8e21_C_220_140.jpg",
+        "caddress": "拉孜县和定日县分界点，嘉措拉山"
+      },
+      {
+        "cname": "夏鲁寺",
+        "url": "/sight/rikaze100/5573.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/859/004/677/a879e2f16ae2436faf2226bcfad98fe4_C_220_140.jpg",
+        "caddress": "日喀则地区日喀则市甲措雄乡夏鲁村"
+      },
+      {
+        "cname": "清真寺",
+        "url": "/sight/rikaze100/129036.html",
+        "s_img": "",
+        "caddress": "日喀则市雪强路帮佳孔社区内"
+      },
+      {
+        "cname": "中尼友谊桥",
+        "url": "/sight/nielamu2445/146845.html",
+        "s_img": "http://p.chanyouji.cn/21335/1359695372662p17ia2hoav1sbphnf1ih114f21um82.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区聂拉木县樟木口岸附近中尼界河上"
+      },
+      {
+        "cname": "班禅新宫",
+        "url": "/sight/rikaze100/11790.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/941/353/342/3d75bcd8c09f4492a8255e53767a7dbf_C_220_140.jpg",
+        "caddress": "日喀则市普彰路3号（近扎德路）"
+      },
+      {
+        "cname": "卓木拉日峰",
+        "url": "/sight/yadong120090/81918.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/435/243/948/315c0739dada4b6ea4374f1e64f1e6e3_C_220_140.jpg",
+        "caddress": "日喀则地区亚东县"
+      },
+      {
+        "cname": "乃钦康桑雪山",
+        "url": "/sight/rikaze100/1489014.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M06/AC/CF/CghzgVSlRfqAbefpABgY5-hklkA485_C_220_140.jpg",
+        "caddress": "日喀则地区浪卡子县和江孜县交界处"
+      },
+      {
+        "cname": "小布达拉",
+        "url": "/sight/jiangzi2437/54928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/403/197/827/356e0d2c22db4afc845060bd1a4fdc90_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县宗山镇"
+      },
+      {
+        "cname": "章子峰",
+        "url": "/sight/dingri2450/54934.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/084/305/850/7ffb73edc0d6468e8a8d94a3ae8a50cf_C_220_140.jpg",
+        "caddress": "日喀则地区定日县"
+      },
+      {
+        "cname": "卓木拉日雪山",
+        "url": "/sight/yadong120090/132869.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/177/077/996/04163067da5447daba0a8ffa4bf7ef42_C_220_140.jpg",
+        "caddress": "日喀则地区亚东县帕里镇"
+      },
+      {
+        "cname": "贡觉林卡",
+        "url": "/sight/rikaze100/54962.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/692/909/548/9a3d9e9dd31b4efe873863a70ed453f2_C_220_140.jpg",
+        "caddress": "日喀则市年河北路2号"
+      },
+      {
+        "cname": "扎什文化广场",
+        "url": "/sight/rikaze100/129034.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/231/133/289/0078286a5b4948988ca72cc6bbdea23f_C_220_140.jpg",
+        "caddress": "日喀则地区日喀则市普彰路 ，广场正对着扎什伦布寺。"
+      },
+      {
+        "cname": "多情错",
+        "url": "/sight/rikaze100/1488693.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M01/AA/7F/CghzfFSlNbKASlwHABNiPGnYonM061_C_220_140.jpg",
+        "caddress": "日喀则地区亚东县"
+      },
+      {
+        "cname": "嘎玛沟",
+        "url": "/sight/rikaze100/1488981.html",
+        "s_img": "",
+        "caddress": "日喀则地区定日县"
+      },
+      {
+        "cname": "强钦寺",
+        "url": "/sight/rikaze100/1489021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M0A/89/08/CghzgVSvPVSAcBs1AABxV8Nngiw421_C_220_140.jpg",
+        "caddress": "日喀则地区仁布县"
+      },
+      {
+        "cname": "展佛台",
+        "url": "/sight/rikaze100/1488995.html",
+        "s_img": "",
+        "caddress": "日喀则地区日喀则市几吉郎卡路1号扎什伦布寺内"
+      },
+      {
+        "cname": "大弥勒殿",
+        "url": "/sight/rikaze100/1489368.html",
+        "s_img": "",
+        "caddress": "日喀则地区几吉郎卡路7号扎什伦布寺内"
+      },
+      {
+        "cname": "拉孜尼姑寺",
+        "url": "/sight/rikaze100/1402121.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/552/796/289/6a6946ec8c1c4d0d95234d2af082147b_C_220_140.jpg",
+        "caddress": "区日喀则地区拉孜县"
+      },
+      {
+        "cname": "灵塔殿",
+        "url": "/sight/rikaze100/1489375.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/792/522/735a57130b72402f8d2623d7454e8d34_C_220_140.jpg",
+        "caddress": "日喀则地区几吉郎卡路7号"
+      },
+      {
+        "cname": "帕里草原",
+        "url": "/sight/rikaze100/1488653.html",
+        "s_img": "",
+        "caddress": "日喀则地区亚东县帕里镇"
+      },
+      {
+        "cname": "曲典尼玛尼姑庵",
+        "url": "/sight/rikaze100/1488976.html",
+        "s_img": "",
+        "caddress": "日喀则地区岗巴县昌龙乡"
+      },
+      {
+        "cname": "色吾沟",
+        "url": "/sight/rikaze100/1488957.html",
+        "s_img": "",
+        "caddress": "日喀则地区南木林县拉布普乡以北"
+      },
+      {
+        "cname": "色吾寺",
+        "url": "/sight/rikaze100/1489016.html",
+        "s_img": "",
+        "caddress": "日喀则地区南木林县拉布普乡色吾沟"
+      },
+      {
+        "cname": "协格尔曲德寺",
+        "url": "/sight/rikaze100/1489007.html",
+        "s_img": "",
+        "caddress": "日喀则地区定日县"
+      },
+      {
+        "cname": "金嘎溶洞",
+        "url": "/sight/jiangzi2437/54937.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/185/900/808/79c732aa3e4447f59dbe1b3f919492c6_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县金嘎乡"
+      },
+      {
+        "cname": "觉囊寺",
+        "url": "/sight/lazi2444/54938.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/681/560/377/17a80799785840f9b28e8af6f3de3701_C_220_140.jpg",
+        "caddress": "日喀则地区拉孜县欧布琼山"
+      },
+      {
+        "cname": "宁金抗沙峰",
+        "url": "/sight/rikaze100/145209.html",
+        "s_img": "",
+        "caddress": "日喀则地区江孜县喜马拉雅山以北"
+      },
+      {
+        "cname": "搭各加地热喷泉",
+        "url": "/sight/angren120375/54941.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/255/258/742/df1bdc203ae748eeac7ae9d6802d0066_C_220_140.jpg",
+        "caddress": "日喀则地区昂仁县"
+      },
+      {
+        "cname": "刚钦寺",
+        "url": "/sight/sajia2442/54965.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/241/319/a7c3dbac169a454da7b4882bd56d102c_C_220_140.jpg",
+        "caddress": "日喀则地区萨迦县查速乡"
+      },
+      {
+        "cname": "格登曲廓林寺",
+        "url": "/sight/nanmulin120373/54940.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/398/272/675/dfcccbbfeee64aec9d4b106db6933a0e_C_220_140.jpg",
+        "caddress": "在日喀则南木林县境内，距县城约1公里"
+      },
+      {
+        "cname": "南尼寺",
+        "url": "/sight/kangma120372/54961.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/062/716/26460582ba07454c82b28e6cdc7f08e4_C_220_140.jpg",
+        "caddress": "日喀则地区康马县南尼村的郎钦山山麓"
+      },
+      {
+        "cname": "平措林寺",
+        "url": "/sight/lazi2444/54931.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/990/339/700/1db17b5124e94543b2d4873c6c298497_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县平措林乡"
+      },
+      {
+        "cname": "热拉雍仲林寺",
+        "url": "/sight/nanmulin120373/54924.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/423/892/080/773cb999525b4b43a9578aa943b08289_C_220_140.jpg",
+        "caddress": "日喀则地区南木林县奴马乡玉拉杰山麓"
+      },
+      {
+        "cname": "嘎东寺",
+        "url": "/sight/bailang120377/54958.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/758/965/968/8577419f04b542098cde71dca37b6ffe_C_220_140.jpg",
+        "caddress": "日喀则地区白朗县"
+      },
+      {
+        "cname": "门隆则峰",
+        "url": "/sight/dingri2450/54966.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/011/885/502/50c06ce96d00458b9a520c2115b850b4_C_220_140.jpg",
+        "caddress": "日喀则地区定日县"
+      },
+      {
+        "cname": "纳塘寺",
+        "url": "/sight/rikaze100/129031.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/903/583/4178df63d44e4240a90e7a1ef3adb4d1_C_220_140.jpg",
+        "caddress": "日喀则市中尼公路旁"
+      },
+      {
+        "cname": "东嘎寺",
+        "url": "/sight/yadong120090/132117.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/243/595/9cb6b07361bb4f4eba18fd8c7470edff_C_220_140.jpg",
+        "caddress": "日喀则地区亚东县上亚东乡西边山坡处，距县城13公里"
+      },
+      {
+        "cname": "纳唐寺",
+        "url": "/sight/rikaze100/1488702.html",
+        "s_img": "",
+        "caddress": "日喀则地区日喀则市"
+      },
+      {
+        "cname": "宗山抗英遗址",
+        "url": "/sight/rikaze100/1488988.html",
+        "s_img": "",
+        "caddress": "日喀则地区江孜县白居路"
+      },
+      {
+        "cname": "年楚河自然观光游览区",
+        "url": "/sight/rikaze100/129019.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/741/015/533/0992e796c2414fae86e5bbd7bcb65824_C_220_140.jpg",
+        "caddress": "日喀则市滨河路"
+      },
+      {
+        "cname": "依玛寺",
+        "url": "/sight/kangma120372/129020.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/549/215/199/9967e076dcff4d03a5627887ab4ba676_C_220_140.jpg",
+        "caddress": "日喀则地区康马县萨玛达乡冲堆村"
+      },
+      {
+        "cname": "拉布吉康峰",
+        "url": "/sight/dingri2450/54919.html",
+        "s_img": "",
+        "caddress": "日喀则地区聂拉木县与定日县的交界"
+      },
+      {
+        "cname": "帕巴寺",
+        "url": "/sight/jilong120374/132873.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/352/636/254/b66470fb40b84a4687e59aaaa6c6afb8_C_220_140.jpg",
+        "caddress": "日喀则地区吉隆县东部"
+      },
+      {
+        "cname": "纳窟寺",
+        "url": "/sight/rikaze100/54960.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/305/523/529/b77bd551672149a189cef8981552c154_C_220_140.jpg",
+        "caddress": "日喀则市西南"
+      },
+      {
+        "cname": "孜布日神山",
+        "url": "/sight/dingri2450/54932.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/236/227/896/a328ed65522748ada5c6f47b636e7189_C_220_140.jpg",
+        "caddress": "日喀则地区定日县"
+      },
+      {
+        "cname": "俄尔寺",
+        "url": "/sight/rikaze100/129011.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/433/180/0934a23c43554e8da0dae2ebd7d54dd2_C_220_140.jpg",
+        "caddress": "日喀则市曲美乡白容村的山坡上"
+      },
+      {
+        "cname": "后藏民俗风情园",
+        "url": "/sight/rikaze100/129013.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/344/690/224/6c3bed39394c4a2a8edf76c30a2a3a81_C_220_140.jpg",
+        "caddress": "日喀则市喜格孜步行街"
+      },
+      {
+        "cname": "江孜历史文化陈列馆",
+        "url": "/sight/rikaze100/129023.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/669/205/114/4e19084f1ff540cca2d14cab2e8bc3d9_C_220_140.jpg",
+        "caddress": "日喀则市英雄路15号(宗山遗址)"
+      },
+      {
+        "cname": "杰玛央宗冰川",
+        "url": "/sight/zhongba120376/129035.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/465/911/489/a65401412d034bd9a732439b729730cc_C_220_140.jpg",
+        "caddress": "日喀则地区仲巴县和阿里地区普兰县交界处"
+      },
+      {
+        "cname": "常美切巴寺",
+        "url": "/sight/bailang120377/129018.html",
+        "s_img": "",
+        "caddress": "日喀则地区白朗县城南洛江镇"
+      }
+    ]
+  },
+  {
+    "cname": "阿里",
+    "url": "http://you.ctrip.com/sightlist/ali99.html",
+    "places": [
+      {
+        "cname": "冈仁波齐",
+        "url": "/sight/ali99/4315.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/762/632/763b0ad425b74f0bae83a623e855fb98_C_220_140.jpg",
+        "caddress": "阿里地区普兰县北部"
+      },
+      {
+        "cname": "玛旁雍错",
+        "url": "/sight/pulan2440/11796.html",
+        "s_img": "http://p.chanyouji.cn/172161/1414504581854p195bgm2m5ig71v961mv46h6uhd2.jpg?imageView/1/w/220/h/140",
+        "caddress": "阿里地区普兰县霍尔乡境内"
+      },
+      {
+        "cname": "拉昂错",
+        "url": "/sight/pulan2440/55996.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/645/420/b8eee8576915402c9edc7c01beae774d_C_220_140.jpg",
+        "caddress": "西藏自治区阿里地区普兰县玛旁雍错东北角"
+      },
+      {
+        "cname": "班公错",
+        "url": "/sight/ritu120147/4317.html",
+        "s_img": "http://p.chanyouji.cn/6313/1348641269208p1780kejae1q001pgvirh1811lio15.jpg?imageView/1/w/220/h/140",
+        "caddress": "阿里地区日土县东北部"
+      },
+      {
+        "cname": "古格王国遗址",
+        "url": "/sight/zhada2454/4316.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/478/050/179/b30bfd5dcd864c0595443eacd6f82489_C_220_140.jpg",
+        "caddress": "阿里地区扎达县托林镇西北的象泉河南岸"
+      },
+      {
+        "cname": "狮泉河",
+        "url": "/sight/ali99/132828.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/056/056/782/ca55fced26bf462da78873527e647cda_C_220_140.jpg",
+        "caddress": "阿里地区"
+      },
+      {
+        "cname": "札达土林",
+        "url": "/sight/zhada2454/4423.html",
+        "s_img": "http://p.chanyouji.cn/76375/1382533184103p187imceic1a771unubro1u2ccc32.jpg?imageView/1/w/220/h/140",
+        "caddress": "西藏自治区札达县境内"
+      },
+      {
+        "cname": "纳木那尼峰",
+        "url": "/sight/pulan2440/55997.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/491/152/641/e2f3b93356264c36aba29d71b87ffefb_C_220_140.jpg",
+        "caddress": "西藏自治区普兰县玛旁雍错旁边"
+      },
+      {
+        "cname": "托林寺",
+        "url": "/sight/zhada2454/11801.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/373/327/782/7acfc6e102bf4a94b5f0b35d90769f98_C_220_140.jpg",
+        "caddress": "西藏自治区札达县象泉河畔"
+      },
+      {
+        "cname": "塔钦",
+        "url": "/sight/ali99/145348.html",
+        "s_img": "http://p.chanyouji.cn/1399989621/BB934D21-D1F3-4722-B19E-C30E0AA664DD.jpg?imageView/1/w/220/h/140",
+        "caddress": "阿里地区岗仁布钦的山脚下的小山村"
+      },
+      {
+        "cname": "象泉河",
+        "url": "/sight/ali99/132829.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/152/476/988/a8d74c53a0ca4780a675866c4dfa02ae_C_220_140.jpg",
+        "caddress": "阿里地区"
+      },
+      {
+        "cname": "扎日南木错",
+        "url": "/sight/cuoqin120146/132147.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/227/991/241/3ec5c48c3633488ab8e1021a8b75144f_C_220_140.jpg",
+        "caddress": "西藏措勤县扎日南木错"
+      },
+      {
+        "cname": "即乌寺",
+        "url": "/sight/pulan2440/110473.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/655/142/729/51be6faa0784409a88e7a65c2c12ddf7_C_220_140.jpg",
+        "caddress": "阿里地区普兰县"
+      },
+      {
+        "cname": "孔雀河",
+        "url": "/sight/ali99/132832.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/077/551/609/900a6a3fb4744677b07a5aa4885af9dc_C_220_140.jpg",
+        "caddress": "阿里地区"
+      },
+      {
+        "cname": "科迦寺",
+        "url": "/sight/pulan2440/11802.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/668/648/564/69cc7fef5e9540c9a8f21b617236411f_C_220_140.jpg",
+        "caddress": "西藏自治区普兰县普兰镇科加村"
+      },
+      {
+        "cname": "界山达坂",
+        "url": "/sight/ritu120147/129041.html",
+        "s_img": "",
+        "caddress": "阿里地区日土县东汝乡松西村"
+      },
+      {
+        "cname": "日土岩画",
+        "url": "/sight/ritu120147/55998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/075/629/194/fe47d542fe3646708f8b98eab0025fce_C_220_140.jpg",
+        "caddress": "西藏自治区阿里地区日土县"
+      },
+      {
+        "cname": "马泉河",
+        "url": "/sight/ali99/132835.html",
+        "s_img": "",
+        "caddress": "阿里地区"
+      },
+      {
+        "cname": "公珠错",
+        "url": "/sight/pulan2440/110491.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/890/001/602/1f6920ff5e6143de8e51736a74810b6c_C_220_140.jpg",
+        "caddress": "阿里地区普兰县"
+      },
+      {
+        "cname": "皮央东嘎洞窟遗址",
+        "url": "/sight/zhada2454/56000.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/015/695/56da75328bb043e58c146aba30c94533_C_220_140.jpg",
+        "caddress": "阿里地区札达县"
+      },
+      {
+        "cname": "洞错",
+        "url": "/sight/gaize120145/129040.html",
+        "s_img": "",
+        "caddress": "阿里地区改则县"
+      },
+      {
+        "cname": "楚果寺",
+        "url": "/sight/pulan2440/132864.html",
+        "s_img": "",
+        "caddress": "阿里地区普兰县"
+      },
+      {
+        "cname": "曲普水热爆炸奇观",
+        "url": "/sight/pulan2440/110495.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/697/929/375/a7bc3b11c36e4130ba495164377394b6_C_220_140.jpg",
+        "caddress": "阿里地区普兰县曲普"
+      },
+      {
+        "cname": "达瓦错",
+        "url": "/sight/cuoqin120146/129046.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县"
+      },
+      {
+        "cname": "措勤河",
+        "url": "/sight/cuoqin120146/132866.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县"
+      },
+      {
+        "cname": "布嘎寺",
+        "url": "/sight/cuoqin120146/132862.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县达雄乡夏东村"
+      },
+      {
+        "cname": "边拉拉康",
+        "url": "/sight/cuoqin120146/132863.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县磁石乡加饶村"
+      }
+    ]
+  },
+  {
+    "cname": "浪卡子",
+    "url": "http://you.ctrip.com/sightlist/langqiazi2438.html",
+    "places": [
+      {
+        "cname": "羊卓雍措",
+        "url": "/sight/langqiazi2438/43863.html",
+        "s_img": "http://p.chanyouji.cn/170770/1413864599361p194oeaeet35aosr1rh1hoqoa59.jpg?imageView/1/w/220/h/140",
+        "caddress": "西藏自治区浪卡子县浪卡孜乡318国道旁"
+      },
+      {
+        "cname": "甘巴拉山口",
+        "url": "/sight/langqiazi2438/132895.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/985/496/897/eff1793b4129452f80ab01e97a0fe480_C_220_140.jpg",
+        "caddress": "山南地区浪卡子县与贡嘎县界山"
+      },
+      {
+        "cname": "普莫雍错",
+        "url": "/sight/langqiazi2438/132898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/554/664/3622e15174d74241bdb15bcc7b5bfd90_C_220_140.jpg",
+        "caddress": "西藏自治区山南地区浪卡子县普姆雍措"
+      },
+      {
+        "cname": "桑丁寺",
+        "url": "/sight/langqiazi2438/129075.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/501/229/542/a8c219eebc1a4c578881252d6a27ed21_C_220_140.jpg",
+        "caddress": "西藏自治区浪卡子县浪卡孜乡羊卓雍湖西南"
+      },
+      {
+        "cname": "姜桑拉姆峰",
+        "url": "/sight/langqiazi2438/54935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/081/808/30c34f3ff0634ed5ab5849674e22bf81_C_220_140.jpg",
+        "caddress": "山南地区浪卡子县"
+      },
+      {
+        "cname": "扎热寺",
+        "url": "/sight/langqiazi2438/129072.html",
+        "s_img": "",
+        "caddress": "山南地区浪卡子县"
+      },
+      {
+        "cname": "打隆寺",
+        "url": "/sight/langqiazi2438/129074.html",
+        "s_img": "",
+        "caddress": "山南地区浪卡子县"
+      }
+    ]
+  },
+  {
+    "cname": "林芝县",
+    "url": "http://you.ctrip.com/sightlist/linzhixian2449.html",
+    "places": [
+      {
+        "cname": "尼洋河",
+        "url": "/sight/linzhixian2449/55245.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/046/582/299/d738450a11b9460aa2a8ee9e0da3baf4_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      },
+      {
+        "cname": "色季拉山",
+        "url": "/sight/linzhixian2449/77603.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/660/615/174/f660e859b91140ae9e307d684a212fa0_C_220_140.jpg",
+        "caddress": "林芝地区林芝县318国道色季拉山"
+      },
+      {
+        "cname": "帕隆藏布江",
+        "url": "/sight/linzhixian2449/133615.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/150/655/057/61d28bc1b238477b910c5368810f0107_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      },
+      {
+        "cname": "措木及日景区",
+        "url": "/sight/linzhixian2449/128990.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/853/711/882/e96aa1692818435bb950dcf7fe5bfa30_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇"
+      },
+      {
+        "cname": "林芝自然博物馆",
+        "url": "/sight/linzhixian2449/133577.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/420/204/113/59f8178b88534b38b93025671bcd3346_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      },
+      {
+        "cname": "德木冷泉河",
+        "url": "/sight/linzhixian2449/1493306.html",
+        "s_img": "",
+        "caddress": "林芝地区林芝县鲁朗景区内"
+      },
+      {
+        "cname": "比日神山生态景区",
+        "url": "/sight/linzhixian2449/128994.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/139/050/110/4bf9f77ca15e47548efa87b121ca9e63_C_220_140.jpg",
+        "caddress": "林芝地区林芝县八一镇泉州路"
+      },
+      {
+        "cname": "第穆摩崖造像及雕刻",
+        "url": "/sight/linzhixian2449/4627.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/873/080/2ee13c40ca4c41d48cd7fd85e21c3875_C_220_140.jpg",
+        "caddress": "林芝地区林芝县广久乡"
+      },
+      {
+        "cname": "苯日神泉",
+        "url": "/sight/linzhixian2449/129000.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/631/846/733/b95ef2b587274e27af379e9e72b81972_C_220_140.jpg",
+        "caddress": "林芝地区林芝县雅鲁藏布江北侧"
+      },
+      {
+        "cname": "汉妃梳妆台",
+        "url": "/sight/linzhixian2449/4628.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/444/852/428/d702ec222a5b4b90893e9d785990c922_C_220_140.jpg",
+        "caddress": "林芝地区林芝县广久乡达域龙增村"
+      },
+      {
+        "cname": "邦纳民俗村",
+        "url": "/sight/linzhixian2449/128986.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/588/710/458/a4550f6f9d434d8e85107e94709274ef_C_220_140.jpg",
+        "caddress": "林芝地区林芝县"
+      }
+    ]
+  },
+  {
+    "cname": "山南",
+    "url": "http://you.ctrip.com/sightlist/shannan339.html",
+    "places": [
+      {
+        "cname": "羊卓雍措",
+        "url": "/sight/langqiazi2438/43863.html",
+        "s_img": "http://p.chanyouji.cn/170770/1413864599361p194oeaeet35aosr1rh1hoqoa59.jpg?imageView/1/w/220/h/140",
+        "caddress": "西藏自治区浪卡子县浪卡孜乡318国道旁"
+      },
+      {
+        "cname": "桑耶寺",
+        "url": "/sight/zhanang2451/11822.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/143/459/866/67fa41cf23d54763a217bbd8856b16b0_C_220_140.jpg",
+        "caddress": "山南地区扎囊县桑耶镇，雅鲁藏布江北岸的哈布山下"
+      },
+      {
+        "cname": "雍布拉康",
+        "url": "/sight/shannan339/11830.html",
+        "s_img": "http://p.chanyouji.cn/48950/1372199881507p17tumua891j5tqc912fg1b8h54n2n.jpg?imageView/1/w/220/h/140",
+        "caddress": "山南地区乃东县东南约5公里、昌珠镇境内的扎西次日山"
+      },
+      {
+        "cname": "拉姆拉错",
+        "url": "/sight/jiacha120409/11811.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/744/798/751/2c241e94f1b841d8941651a6137eae5f_C_220_140.jpg",
+        "caddress": "山南地区加查县县城东北部65公里"
+      },
+      {
+        "cname": "昌珠寺",
+        "url": "/sight/naidong2441/11836.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/405/289/192/bf641dd0220d4b04bb7d9514c8f3fb58_C_220_140.jpg",
+        "caddress": "山南地区乃东县泽当镇贡日山南麓"
+      },
+      {
+        "cname": "青朴修行地",
+        "url": "/sight/zhanang2451/11839.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/325/855/aa7287f1bc9240f49665d312337f6ea3_C_220_140.jpg",
+        "caddress": "西藏自治区扎囊县桑耶寺东北"
+      },
+      {
+        "cname": "敏珠林寺",
+        "url": "/sight/zhanang2451/11840.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/806/264/215/649e65f4aa7442b3b02bf65848906f39_C_220_140.jpg",
+        "caddress": "山南地区扎囊县扎期乡敏竹林村中"
+      },
+      {
+        "cname": "贡布日神山",
+        "url": "/sight/naidong2441/11827.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县雅鲁藏布江南侧"
+      },
+      {
+        "cname": "琼果杰寺",
+        "url": "/sight/jiacha120409/11817.html",
+        "s_img": "http://p.chanyouji.cn/72791/1381057079429p1866mla3i1q0det31s7k1a3p5hg2.jpg?imageView/1/w/220/h/140",
+        "caddress": "山南地区加查县崔久乡"
+      },
+      {
+        "cname": "羊湖景区",
+        "url": "/sight/shannan339/129076.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/092/855/740/f8eec2a91cec46ad80d64061d18c5e27_C_220_140.jpg",
+        "caddress": "山南地区浪卡子县"
+      },
+      {
+        "cname": "拉加里王宫",
+        "url": "/sight/qusong120412/11820.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/969/407/511/91fca52da81c44f68e61e5a6678402ef_C_220_140.jpg",
+        "caddress": "山南地区曲松县城南侧"
+      },
+      {
+        "cname": "甘巴拉山口",
+        "url": "/sight/langqiazi2438/132895.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/985/496/897/eff1793b4129452f80ab01e97a0fe480_C_220_140.jpg",
+        "caddress": "山南地区浪卡子县与贡嘎县界山"
+      },
+      {
+        "cname": "藏王墓",
+        "url": "/sight/qiongjie2439/11837.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/416/039/519/b2d361687e524b2a8e4bdafc9fd7de95_C_220_140.jpg",
+        "caddress": "西藏自治区琼结县距泽当镇约90公里"
+      },
+      {
+        "cname": "普莫雍错",
+        "url": "/sight/langqiazi2438/132898.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/554/664/3622e15174d74241bdb15bcc7b5bfd90_C_220_140.jpg",
+        "caddress": "西藏自治区山南地区浪卡子县普姆雍措"
+      },
+      {
+        "cname": "桑丁寺",
+        "url": "/sight/langqiazi2438/129075.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/501/229/542/a8c219eebc1a4c578881252d6a27ed21_C_220_140.jpg",
+        "caddress": "西藏自治区浪卡子县浪卡孜乡羊卓雍湖西南"
+      },
+      {
+        "cname": "烈士陵园",
+        "url": "/sight/naidong2441/129078.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县安徽大道11号"
+      },
+      {
+        "cname": "夏珠林寺",
+        "url": "/sight/gongga120408/129067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/456/714/816/a389b229167b4bb9bf0e5a651cd297f6_C_220_140.jpg",
+        "caddress": "山南地区贡嘎县"
+      },
+      {
+        "cname": "海布日神山",
+        "url": "/sight/zhanang2451/11826.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/554/464/327/31348ac62b294d16b5c0c92986cc975b_C_220_140.jpg",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "扎塘寺",
+        "url": "/sight/zhanang2451/55543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/815/302/3b5da3790eba4e73aa14ac0030ac4b56_C_220_140.jpg",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "藏王墓",
+        "url": "/sight/qiongjie2439/1417266.html",
+        "s_img": "",
+        "caddress": "山南地区琼果乡琼结县宗山西南方"
+      },
+      {
+        "cname": "姜桑拉姆峰",
+        "url": "/sight/langqiazi2438/54935.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/081/808/30c34f3ff0634ed5ab5849674e22bf81_C_220_140.jpg",
+        "caddress": "山南地区浪卡子县"
+      },
+      {
+        "cname": "多吉扎寺",
+        "url": "/sight/gongga120408/55604.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/831/007/278/f170eba94d5a430b9a40b24934e40dce_C_220_140.jpg",
+        "caddress": "西藏自治区山南地区贡嘎县昌果乡多吉扎村"
+      },
+      {
+        "cname": "哲古错",
+        "url": "/sight/cuomei120410/132893.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/404/985/736/42c2c059ef6e4afebf48918f9c5aa5b7_C_220_140.jpg",
+        "caddress": "山南地区措美县"
+      },
+      {
+        "cname": "巴郎却康",
+        "url": "/sight/sangri120413/11812.html",
+        "s_img": "",
+        "caddress": "西藏自治区桑日县绒乡巴郎村"
+      },
+      {
+        "cname": "囊色林庄园",
+        "url": "/sight/zhanang2451/11841.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县扎囊乡"
+      },
+      {
+        "cname": "聂玛隆圣洞",
+        "url": "/sight/zhanang2451/11825.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "恰嘎曲德寺",
+        "url": "/sight/sangri120413/55605.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县绒乡"
+      },
+      {
+        "cname": "赛卡古托寺",
+        "url": "/sight/luozha120411/55536.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县城以南50公里处"
+      },
+      {
+        "cname": "雅砻风景名胜区",
+        "url": "/sight/shannan339/55611.html",
+        "s_img": "",
+        "caddress": "山南地区"
+      },
+      {
+        "cname": "沃卡温泉",
+        "url": "/sight/sangri120413/11810.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县沃卡地区"
+      },
+      {
+        "cname": "曲龙寺",
+        "url": "/sight/sangri120413/11813.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县沃卡乡政府以南"
+      },
+      {
+        "cname": "日当寺",
+        "url": "/sight/longzi120407/129059.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/393/598/055/ffa0c5cfbad54ad8af57d1794b5c1312_C_220_140.jpg",
+        "caddress": "山南地区隆子县"
+      },
+      {
+        "cname": "吉如拉康寺",
+        "url": "/sight/naidong2441/55587.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      },
+      {
+        "cname": "扎羊宗溶洞",
+        "url": "/sight/zhanang2451/11842.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "昌果沟文化遗址",
+        "url": "/sight/gongga120408/43866.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县昌果乡"
+      },
+      {
+        "cname": "吉堆吐蕃墓群",
+        "url": "/sight/luozha120411/55601.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县吉堆乡政府所在地南侧土坡上"
+      },
+      {
+        "cname": "卡玛当寺",
+        "url": "/sight/sangri120413/55607.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县城东约2.5公里的一处山腰上"
+      },
+      {
+        "cname": "康格多山",
+        "url": "/sight/cuona120414/55527.html",
+        "s_img": "",
+        "caddress": "山南地区错那县"
+      },
+      {
+        "cname": "桑噶方托寺",
+        "url": "/sight/luozha120411/55603.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县色乡"
+      },
+      {
+        "cname": "札玛止桑宫",
+        "url": "/sight/zhanang2451/11823.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "拿日雍错",
+        "url": "/sight/cuona120414/132894.html",
+        "s_img": "",
+        "caddress": "山南地区错那县"
+      },
+      {
+        "cname": "土旦热麦寺",
+        "url": "/sight/gongga120408/129077.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县"
+      },
+      {
+        "cname": "泽当寺",
+        "url": "/sight/naidong2441/129071.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      },
+      {
+        "cname": "贡嘎曲德寺",
+        "url": "/sight/gongga120408/129053.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县"
+      },
+      {
+        "cname": "日乌德钦寺",
+        "url": "/sight/qiongjie2439/129060.html",
+        "s_img": "",
+        "caddress": "山南地区琼结县"
+      },
+      {
+        "cname": "亚桑寺",
+        "url": "/sight/naidong2441/129068.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      },
+      {
+        "cname": "扎热寺",
+        "url": "/sight/langqiazi2438/129072.html",
+        "s_img": "",
+        "caddress": "山南地区浪卡子县"
+      },
+      {
+        "cname": "赞塘玉益拉康",
+        "url": "/sight/naidong2441/132892.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      },
+      {
+        "cname": "拉隆寺",
+        "url": "/sight/luozha120411/129055.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县扎日乡洛扎努曲河北岸"
+      },
+      {
+        "cname": "打隆寺",
+        "url": "/sight/langqiazi2438/129074.html",
+        "s_img": "",
+        "caddress": "山南地区浪卡子县"
+      },
+      {
+        "cname": "顿布曲果寺",
+        "url": "/sight/gongga120408/129051.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县杰德秀镇"
+      },
+      {
+        "cname": "那玉河谷",
+        "url": "/sight/jiacha120409/132899.html",
+        "s_img": "",
+        "caddress": "山南地区加查县"
+      },
+      {
+        "cname": "桑日马鹿自然保护区",
+        "url": "/sight/sangri120413/129080.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县增期乡"
+      }
+    ]
+  },
+  {
+    "cname": "定日",
+    "url": "http://you.ctrip.com/sightlist/dingri2450.html",
+    "places": [
+      {
+        "cname": "珠峰大本营",
+        "url": "/sight/dingri2450/133016.html",
+        "s_img": "http://p.chanyouji.cn/137800/1404208133894p18roksst7e3jo3j2m9sp5evm1e.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区定日县境内"
+      },
+      {
+        "cname": "绒布寺",
+        "url": "/sight/dingri2450/11852.html",
+        "s_img": "http://p.chanyouji.cn/5064/1348167948703p177ih37vjv3v3ip1531vi2c0934.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区定日县巴松乡南面珠穆朗玛峰下绒布沟东西侧的“卓玛”（度母）山顶"
+      },
+      {
+        "cname": "卓奥友峰",
+        "url": "/sight/dingri2450/54967.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/508/462/008/ba09e2ccdb024c71b38e33250bc6974c_C_220_140.jpg",
+        "caddress": "日喀则地区定日县中尼边境上"
+      },
+      {
+        "cname": "绒布冰川",
+        "url": "/sight/dingri2450/4281.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/844/512/829/473583314fe0433c8b67c9d585848819_C_220_140.jpg",
+        "caddress": "日喀则地区定日县巴松乡南面珠穆朗玛峰下绒布沟"
+      },
+      {
+        "cname": "嘉措拉山口",
+        "url": "/sight/dingri2450/132747.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/487/540/238/6463420fed234c27b01b526d65fb8e21_C_220_140.jpg",
+        "caddress": "拉孜县和定日县分界点，嘉措拉山"
+      },
+      {
+        "cname": "章子峰",
+        "url": "/sight/dingri2450/54934.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/084/305/850/7ffb73edc0d6468e8a8d94a3ae8a50cf_C_220_140.jpg",
+        "caddress": "日喀则地区定日县"
+      },
+      {
+        "cname": "门隆则峰",
+        "url": "/sight/dingri2450/54966.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/011/885/502/50c06ce96d00458b9a520c2115b850b4_C_220_140.jpg",
+        "caddress": "日喀则地区定日县"
+      },
+      {
+        "cname": "拉布吉康峰",
+        "url": "/sight/dingri2450/54919.html",
+        "s_img": "",
+        "caddress": "日喀则地区聂拉木县与定日县的交界"
+      },
+      {
+        "cname": "孜布日神山",
+        "url": "/sight/dingri2450/54932.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/236/227/896/a328ed65522748ada5c6f47b636e7189_C_220_140.jpg",
+        "caddress": "日喀则地区定日县"
+      }
+    ]
+  },
+  {
+    "cname": "江孜",
+    "url": "http://you.ctrip.com/sightlist/jiangzi2437.html",
+    "places": [
+      {
+        "cname": "白居寺",
+        "url": "/sight/jiangzi2437/4272.html",
+        "s_img": "http://p.chanyouji.cn/51937/1373143993618p17uqqf2fc1j1t1c1s1rh71s17tev2h.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区江孜县城北部"
+      },
+      {
+        "cname": "卡若拉冰川",
+        "url": "/sight/jiangzi2437/109942.html",
+        "s_img": "http://p.chanyouji.cn/1408984936/BDF30DD1-96BE-4E5E-9C0F-04D44BF2247D.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区江孜县卡若拉山口"
+      },
+      {
+        "cname": "帕拉庄园",
+        "url": "/sight/jiangzi2437/54920.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/346/849/848/7f3052c1c02f4a339551bb62a6f3c2a9_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县江热乡班觉伦布村"
+      },
+      {
+        "cname": "江孜宗山古堡",
+        "url": "/sight/jiangzi2437/4273.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/462/512/595/74079a972c5c4bd0a3f380ff8860bd60_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县白居寺背山顶上"
+      },
+      {
+        "cname": "满拉水库",
+        "url": "/sight/jiangzi2437/129026.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/454/501/319/1e0d3d6925b14bb3a0ccf2cb6addc9c8_C_220_140.jpg",
+        "caddress": "日喀则地区斯米拉山口下的峡谷之中、江孜县龙马乡年楚河之上"
+      },
+      {
+        "cname": "小布达拉",
+        "url": "/sight/jiangzi2437/54928.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/403/197/827/356e0d2c22db4afc845060bd1a4fdc90_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县宗山镇"
+      },
+      {
+        "cname": "金嘎溶洞",
+        "url": "/sight/jiangzi2437/54937.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/185/900/808/79c732aa3e4447f59dbe1b3f919492c6_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县金嘎乡"
+      }
+    ]
+  },
+  {
+    "cname": "当雄",
+    "url": "http://you.ctrip.com/sightlist/dangxiong2443.html",
+    "places": [
+      {
+        "cname": "那根拉山口",
+        "url": "/sight/dangxiong2443/109943.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/412/656/997/e6c87f83f96b4b1da82eaf01fb025054_C_220_140.jpg",
+        "caddress": "拉萨市当雄县念青唐古拉山脉(近纳木措)"
+      },
+      {
+        "cname": "唐古拉山口",
+        "url": "/sight/dangxiong2443/51568.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/973/345/814/820c66b9d5c54503b8e42dbbcb68ae54_C_220_140.jpg",
+        "caddress": "青海省和西藏两省（区）的分界线，，距青海省格尔木市604公里"
+      },
+      {
+        "cname": "念青唐古拉观景台",
+        "url": "/sight/dangxiong2443/44016.html",
+        "s_img": "http://m.chanyouji.cn/103574/1395286586270p18jeosbmpp5v1okt1clrl8c1nm81s.jpg?imageView/1/w/220/h/140",
+        "caddress": "拉萨市当雄县念青唐古拉山"
+      },
+      {
+        "cname": "唐拉昂曲峰",
+        "url": "/sight/dangxiong2443/54452.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/703/535/452/8429cad6bc484147964430e72fc6ac80_C_220_140.jpg",
+        "caddress": "拉萨市当雄县境内"
+      },
+      {
+        "cname": "迎宾石",
+        "url": "/sight/dangxiong2443/1487587.html",
+        "s_img": "",
+        "caddress": "拉萨市当雄县纳木错景区"
+      },
+      {
+        "cname": "合掌石",
+        "url": "/sight/dangxiong2443/1487561.html",
+        "s_img": "",
+        "caddress": "拉萨市当雄县纳木错景区"
+      },
+      {
+        "cname": "扎西多寺",
+        "url": "/sight/dangxiong2443/1487571.html",
+        "s_img": "",
+        "caddress": "拉萨市当雄县纳木错景区"
+      },
+      {
+        "cname": "扎西岛寺",
+        "url": "/sight/dangxiong2443/1487562.html",
+        "s_img": "",
+        "caddress": "拉萨市当雄县纳木错景区"
+      },
+      {
+        "cname": "康玛寺",
+        "url": "/sight/dangxiong2443/1487792.html",
+        "s_img": "",
+        "caddress": "拉萨市当雄县"
+      }
+    ]
+  },
+  {
+    "cname": "波密",
+    "url": "http://you.ctrip.com/sightlist/bomi2436.html",
+    "places": [
+      {
+        "cname": "米堆冰川",
+        "url": "/sight/bomi2436/55246.html",
+        "s_img": "http://p.chanyouji.cn/1407233755/B2EE6954-1339-43AB-8543-D07FD570F44E.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区波密县玉普乡米堆村"
+      },
+      {
+        "cname": "排龙天险",
+        "url": "/sight/bomi2436/128989.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/429/874/bfa6670a0fa74e0abfb9b39fafd33b23_C_220_140.jpg",
+        "caddress": "林芝地区通麦村(近川藏线)"
+      },
+      {
+        "cname": "岗乡自然保护区",
+        "url": "/sight/bomi2436/4642.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/118/955/701/bac05267d13a4707b4d6137fab5296bd_C_220_140.jpg",
+        "caddress": "林芝地区波密县帕隆藏布河畔南恻（波密县城以西处于雅鲁藏布江大拐弯的东北部）"
+      },
+      {
+        "cname": "通麦大桥",
+        "url": "/sight/bomi2436/1493445.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M02/AE/25/CghzfFS1wEOAUM4wAABGB5ce5CY198_C_220_140.jpg",
+        "caddress": "林芝地区波密县"
+      },
+      {
+        "cname": "易贡国家地质公园",
+        "url": "/sight/bomi2436/128991.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/557/494/975/7c1cb59a89d14d219f4c83bc804953fd_C_220_140.jpg",
+        "caddress": "林芝地区波密县与林芝县交界处"
+      },
+      {
+        "cname": "嘎朗湖景区",
+        "url": "/sight/bomi2436/128982.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/293/381/428/e1a592ef4f0449759797622d9d6dacee_C_220_140.jpg",
+        "caddress": "林芝地区波密县"
+      },
+      {
+        "cname": "易贡茶场",
+        "url": "/sight/bomi2436/55248.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/759/725/497/0aab630fc60c4fedbcf1941180c8640b_C_220_140.jpg",
+        "caddress": "西藏自治区波密县八一镇"
+      },
+      {
+        "cname": "米堆村",
+        "url": "/sight/bomi2436/1493497.html",
+        "s_img": "",
+        "caddress": "林芝地区波密县米堆村"
+      },
+      {
+        "cname": "嘎朗王宫遗址",
+        "url": "/sight/bomi2436/128981.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/084/792/465/a5255e3c9672468fbe8ff51fb8984118_C_220_140.jpg",
+        "caddress": "林芝地区波密县318国道旁"
+      }
+    ]
+  },
+  {
+    "cname": "工布江达",
+    "url": "http://you.ctrip.com/sightlist/gongbujiangda120396.html",
+    "places": [
+      {
+        "cname": "中流砥柱",
+        "url": "/sight/gongbujiangda120396/128970.html",
+        "s_img": "http://p.chanyouji.cn/120286/1399452146536p18nati6q31tb01lgu1pfg1vmsl72.jpg?imageView/1/w/220/h/140",
+        "caddress": "林芝地区工布江达县尼洋河中流"
+      },
+      {
+        "cname": "格萨尔古堡",
+        "url": "/sight/gongbujiangda120396/128993.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/223/980/547/623dbd8ec6df487dad66548cc1f2d35b_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县巴河镇秀巴村"
+      },
+      {
+        "cname": "巴松湖国家森林公园",
+        "url": "/sight/gongbujiangda120396/1493277.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县"
+      },
+      {
+        "cname": "帕嘎寺",
+        "url": "/sight/gongbujiangda120396/4616.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/675/041/120/67e776ee880940e3be3e5266a48d803d_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县娘蒲乡"
+      },
+      {
+        "cname": "布如沟温泉群",
+        "url": "/sight/gongbujiangda120396/1417248.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县娘蒲乡"
+      },
+      {
+        "cname": "阿沛新村",
+        "url": "/sight/gongbujiangda120396/1493250.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县阿沛村"
+      },
+      {
+        "cname": "邦杰塘草原",
+        "url": "/sight/gongbujiangda120396/1493443.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县"
+      },
+      {
+        "cname": "错高村",
+        "url": "/sight/gongbujiangda120396/1489355.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县错高村"
+      },
+      {
+        "cname": "结巴村",
+        "url": "/sight/gongbujiangda120396/1493308.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县结巴村"
+      },
+      {
+        "cname": "珍珠神泉",
+        "url": "/sight/gongbujiangda120396/1493471.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县"
+      },
+      {
+        "cname": "﻿中流砥柱",
+        "url": "/sight/gongbujiangda120396/1493467.html",
+        "s_img": "",
+        "caddress": "林芝地区工布江达县"
+      },
+      {
+        "cname": "茶马古驿站",
+        "url": "/sight/gongbujiangda120396/129001.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/802/778/709/891f0e4a66f642a5b7e06f7135066bb9_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县太昭村"
+      },
+      {
+        "cname": "加兴沟水帘瀑布",
+        "url": "/sight/gongbujiangda120396/4753.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/272/200/712/640d2c8b9d1b492c9b1192adbceb8266_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县"
+      },
+      {
+        "cname": "扎西曲林寺",
+        "url": "/sight/gongbujiangda120396/128987.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/709/783/8deb6f30e665487884a0bf668da78b9f_C_220_140.jpg",
+        "caddress": "林芝地区工布江达县318国道"
+      }
+    ]
+  },
+  {
+    "cname": "八宿",
+    "url": "http://you.ctrip.com/sightlist/basu120403.html",
+    "places": [
+      {
+        "cname": "然乌湖",
+        "url": "/sight/basu120403/43786.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/152/761/979/706f256b47184781af8a6117c55f7cd7_C_220_140.jpg",
+        "caddress": "昌都地区八宿县然乌镇"
+      },
+      {
+        "cname": "怒江七十二道拐",
+        "url": "/sight/basu120403/145205.html",
+        "s_img": "http://p.chanyouji.cn/1407510506/4147CAC5-6237-4FA8-8E43-BE8EA91A06E1.jpg?imageView/1/w/220/h/140",
+        "caddress": "昌都地区川藏南线邦达至八宿区间"
+      },
+      {
+        "cname": "来古冰川",
+        "url": "/sight/basu120403/52577.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/148/590/765/4ed4fa5250904772abdc73287454c7da_C_220_140.jpg",
+        "caddress": "昌都地区八宿县来古村"
+      },
+      {
+        "cname": "多拉神山",
+        "url": "/sight/basu120403/18701.html",
+        "s_img": "",
+        "caddress": "西藏自治区八宿县白马镇以东"
+      },
+      {
+        "cname": "八宿嘎学岩画",
+        "url": "/sight/basu120403/18693.html",
+        "s_img": "",
+        "caddress": "西藏自治区八宿县县城以西"
+      },
+      {
+        "cname": "仁措湖",
+        "url": "/sight/basu120403/18705.html",
+        "s_img": "",
+        "caddress": "昌都地区八宿县郭关乡"
+      },
+      {
+        "cname": "同卡寺",
+        "url": "/sight/basu120403/43784.html",
+        "s_img": "",
+        "caddress": "昌都地区八宿县同卡乡"
+      }
+    ]
+  },
+  {
+    "cname": "昌都",
+    "url": "http://you.ctrip.com/sightlist/changdu559.html",
+    "places": [
+      {
+        "cname": "然乌湖",
+        "url": "/sight/basu120403/43786.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/152/761/979/706f256b47184781af8a6117c55f7cd7_C_220_140.jpg",
+        "caddress": "昌都地区八宿县然乌镇"
+      },
+      {
+        "cname": "怒江七十二道拐",
+        "url": "/sight/basu120403/145205.html",
+        "s_img": "http://p.chanyouji.cn/1407510506/4147CAC5-6237-4FA8-8E43-BE8EA91A06E1.jpg?imageView/1/w/220/h/140",
+        "caddress": "昌都地区川藏南线邦达至八宿区间"
+      },
+      {
+        "cname": "东达山",
+        "url": "/sight/zuogong120405/129081.html",
+        "s_img": "http://p.chanyouji.cn/1377072263/AECFB686-2E37-4D6D-BA91-FD2BC4601A8D.jpg?imageView/1/w/220/h/140",
+        "caddress": "西藏自治区昌都地区左贡县以北"
+      },
+      {
+        "cname": "西藏盐井千年古盐田",
+        "url": "/sight/changdu559/145206.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/302/804/234/97bf6fa9df2d4994abf7e6bba1ba0e06_C_220_140.jpg",
+        "caddress": "昌都地区芒康县盐井镇纳西民族乡"
+      },
+      {
+        "cname": "来古冰川",
+        "url": "/sight/basu120403/52577.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/148/590/765/4ed4fa5250904772abdc73287454c7da_C_220_140.jpg",
+        "caddress": "昌都地区八宿县来古村"
+      },
+      {
+        "cname": "邦达草原",
+        "url": "/sight/changdu559/56144.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/080/200/682/ba41ee536e9e46809708eaa65236691b_C_220_140.jpg",
+        "caddress": "西藏自治区八宿县境内"
+      },
+      {
+        "cname": "觉巴山",
+        "url": "/sight/changdu559/145207.html",
+        "s_img": "http://p.chanyouji.cn/1399217842/0D7DACC4-36B4-4FC3-BF07-386CBCE04A23.jpg?imageView/1/w/220/h/140",
+        "caddress": "昌都地区芒康县境内"
+      },
+      {
+        "cname": "强巴林寺",
+        "url": "/sight/karuo2453/18690.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/171/383/787/8b38d07226c147c686faeef8a08d7b22_C_220_140.jpg",
+        "caddress": "昌都地区昌都县昌都镇"
+      },
+      {
+        "cname": "安久拉山",
+        "url": "/sight/changdu559/1410291.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/467/500/590/a3b9aba056744be08f6c0c06adea714f_C_220_140.jpg",
+        "caddress": "昌都八宿县然乌镇"
+      },
+      {
+        "cname": "业拉山九十九道拐",
+        "url": "/sight/changdu559/129082.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/750/170/887/f1d9ff9ee9c741eea941eae56cf6fac8_C_220_140.jpg",
+        "caddress": "川藏路北线邦达镇北侧"
+      },
+      {
+        "cname": "红拉山滇金丝猴国家级自然保护区",
+        "url": "/sight/mangkang2452/56114.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/925/322/469/2426c2dee715445ab4f36bd71cf70daa_C_220_140.jpg",
+        "caddress": "昌都地区芒康县"
+      },
+      {
+        "cname": "格林丹东温泉",
+        "url": "/sight/changdu559/1410021.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/804/062/989/76d8fb50cea342ab84786ac7601db034_C_220_140.jpg",
+        "caddress": "昌都地区芒康县曲孜卡乡温泉度假区"
+      },
+      {
+        "cname": "孜珠寺",
+        "url": "/sight/dingqing2447/18700.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/661/114/726/b8009c7a420240b2ba995f590f600039_C_220_140.jpg",
+        "caddress": "西藏自治区丁青县觉恩乡"
+      },
+      {
+        "cname": "盐井天主教堂",
+        "url": "/sight/mangkang2452/56094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/241/241/045f951d0da440b89c19986c685d4f91_C_220_140.jpg",
+        "caddress": "昌都地区芒康县纳西乡上盐井村"
+      },
+      {
+        "cname": "多拉神山",
+        "url": "/sight/basu120403/18701.html",
+        "s_img": "",
+        "caddress": "西藏自治区八宿县白马镇以东"
+      },
+      {
+        "cname": "查杰玛大殿",
+        "url": "/sight/leiwuqi120400/18698.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/84/78/CghzgFTTIjuAZ-UUAADAz1QjRqc549_C_220_140.jpg",
+        "caddress": "西藏自治区昌都地区类乌齐县查杰玛大殿"
+      },
+      {
+        "cname": "噶玛寺",
+        "url": "/sight/karuo2453/18702.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/724/134/6313f25995314f09bca55fb46ce730c2_C_220_140.jpg",
+        "caddress": "昌都地区昌都县扎曲河上游约120公里的白西山麓"
+      },
+      {
+        "cname": "伊日温泉",
+        "url": "/sight/leiwuqi120400/18707.html",
+        "s_img": "",
+        "caddress": "西藏自治区类乌齐县伊日乡"
+      },
+      {
+        "cname": "卡玛多塔林",
+        "url": "/sight/leiwuqi120400/18704.html",
+        "s_img": "",
+        "caddress": "西藏自治区类乌齐县国道317线右侧"
+      },
+      {
+        "cname": "八宿嘎学岩画",
+        "url": "/sight/basu120403/18693.html",
+        "s_img": "",
+        "caddress": "西藏自治区八宿县县城以西"
+      },
+      {
+        "cname": "布托湖",
+        "url": "/sight/dingqing2447/18699.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/334/221/013/cec84b7962a24a08b6969998cea6e022_C_220_140.jpg",
+        "caddress": "西藏自治区丁青县县城北"
+      },
+      {
+        "cname": "生钦朗扎山",
+        "url": "/sight/jingda120398/18706.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/015/876/421/16a72e9720e2459b9065c4f609c0be5b_C_220_140.jpg",
+        "caddress": "西藏自治区江达县岗托乡境内"
+      },
+      {
+        "cname": "德庆颇章神山",
+        "url": "/sight/leiwuqi120400/18691.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/567/582/713/ed873b395e594d428802928fd85246d3_C_220_140.jpg",
+        "caddress": "昌都类乌齐县类乌齐镇旁"
+      },
+      {
+        "cname": "莽错",
+        "url": "/sight/mangkang2452/56098.html",
+        "s_img": "",
+        "caddress": "昌都地区芒康县中部莽岭乡"
+      },
+      {
+        "cname": "果布白宗山",
+        "url": "/sight/jingda120398/129083.html",
+        "s_img": "",
+        "caddress": "昌都地区江达县"
+      },
+      {
+        "cname": "波罗吉荣大峡谷",
+        "url": "/sight/jingda120398/18697.html",
+        "s_img": "",
+        "caddress": "昌都地区江达县同普乡与波罗乡交界处"
+      },
+      {
+        "cname": "达玛山",
+        "url": "/sight/changdu559/56089.html",
+        "s_img": "",
+        "caddress": "昌都地区芒康县 ‎"
+      },
+      {
+        "cname": "仁措湖",
+        "url": "/sight/basu120403/18705.html",
+        "s_img": "",
+        "caddress": "昌都地区八宿县郭关乡"
+      },
+      {
+        "cname": "波罗古泽",
+        "url": "/sight/jingda120398/18694.html",
+        "s_img": "",
+        "caddress": "昌都地区江达县波罗乡境内"
+      },
+      {
+        "cname": "谷布神山",
+        "url": "/sight/karuo2453/56090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/206/476/e40f9093ce694e1da7a8786283922819_C_220_140.jpg",
+        "caddress": "西藏自治区昌都县日通乡"
+      },
+      {
+        "cname": "卡若文化遗址",
+        "url": "/sight/karuo2453/18689.html",
+        "s_img": "",
+        "caddress": "西藏自治区昌都县卡若镇"
+      },
+      {
+        "cname": "同卡寺",
+        "url": "/sight/basu120403/43784.html",
+        "s_img": "",
+        "caddress": "昌都地区八宿县同卡乡"
+      },
+      {
+        "cname": "小恩达遗址",
+        "url": "/sight/karuo2453/56105.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/311/475/540/6ac14dcb6d9049b7ad549926985b71d5_C_220_140.jpg",
+        "caddress": "昌都地区昌都镇小恩达村"
+      },
+      {
+        "cname": "朱角山",
+        "url": "/sight/karuo2453/56101.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/095/507/560/f445789983ea46b695c0e088235e090a_C_220_140.jpg",
+        "caddress": "昌都地区昌都县俄洛镇"
+      },
+      {
+        "cname": "“大脚印”奇观",
+        "url": "/sight/karuo2453/43794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/607/751/796/e70606c8b9ff4dd1b12ee79c7f47e6b1_C_220_140.jpg",
+        "caddress": "西藏自治区昌都县昌都镇"
+      },
+      {
+        "cname": "长毛岭养鹿场",
+        "url": "/sight/leiwuqi120400/56097.html",
+        "s_img": "",
+        "caddress": "昌都地区类乌齐县长毛岭乡那登通"
+      },
+      {
+        "cname": "仁达摩崖造像",
+        "url": "/sight/chaya120402/56099.html",
+        "s_img": "",
+        "caddress": "昌都地区察雅县旺布乡"
+      },
+      {
+        "cname": "乃旦寺",
+        "url": "/sight/leiwuqi120400/18692.html",
+        "s_img": "",
+        "caddress": "昌都地区类乌齐县加桑区雨扎乡乌入村东南约二百米高的山上"
+      }
+    ]
+  },
+  {
+    "cname": "比如",
+    "url": "http://you.ctrip.com/sightlist/biru120390.html",
+    "places": [
+      {
+        "cname": "比如骷髅墙",
+        "url": "/sight/biru120390/44013.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/975/573/714/a42e263db07c450c93e166aa1d9cd902_C_220_140.jpg",
+        "caddress": "西藏自治区比如县茶曲乡"
+      },
+      {
+        "cname": "羊秀自然风景区",
+        "url": "/sight/biru120390/55764.html",
+        "s_img": "",
+        "caddress": "那曲地区比如县白嘎乡"
+      }
+    ]
+  },
+  {
+    "cname": "左贡",
+    "url": "http://you.ctrip.com/sightlist/zuogong120405.html",
+    "places": [
+      {
+        "cname": "东达山",
+        "url": "/sight/zuogong120405/129081.html",
+        "s_img": "http://p.chanyouji.cn/1377072263/AECFB686-2E37-4D6D-BA91-FD2BC4601A8D.jpg?imageView/1/w/220/h/140",
+        "caddress": "西藏自治区昌都地区左贡县以北"
+      }
+    ]
+  },
+  {
+    "cname": "聂拉木",
+    "url": "http://you.ctrip.com/sightlist/nielamu2445.html",
+    "places": [
+      {
+        "cname": "樟木口岸",
+        "url": "/sight/nielamu2445/11788.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/264/663/808/98cf754c6d44490f8cee9ffe5b8e3b63_C_220_140.jpg",
+        "caddress": "日喀则地区聂拉木县樟木镇，中尼边境喜玛拉雅山中段南麓沟谷坡地上"
+      },
+      {
+        "cname": "希夏邦马峰",
+        "url": "/sight/nielamu2445/54916.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/243/995/796/d6c7efc4fbf648c2aaae7d0c572542a6_C_220_140.jpg",
+        "caddress": "日喀则地区聂拉木县喜马拉雅山脉中段"
+      },
+      {
+        "cname": "中尼友谊桥",
+        "url": "/sight/nielamu2445/146845.html",
+        "s_img": "http://p.chanyouji.cn/21335/1359695372662p17ia2hoav1sbphnf1ih114f21um82.jpg?imageView/1/w/220/h/140",
+        "caddress": "日喀则地区聂拉木县樟木口岸附近中尼界河上"
+      }
+    ]
+  },
+  {
+    "cname": "普兰",
+    "url": "http://you.ctrip.com/sightlist/pulan2440.html",
+    "places": [
+      {
+        "cname": "玛旁雍错",
+        "url": "/sight/pulan2440/11796.html",
+        "s_img": "http://p.chanyouji.cn/172161/1414504581854p195bgm2m5ig71v961mv46h6uhd2.jpg?imageView/1/w/220/h/140",
+        "caddress": "阿里地区普兰县霍尔乡境内"
+      },
+      {
+        "cname": "拉昂错",
+        "url": "/sight/pulan2440/55996.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/624/645/420/b8eee8576915402c9edc7c01beae774d_C_220_140.jpg",
+        "caddress": "西藏自治区阿里地区普兰县玛旁雍错东北角"
+      },
+      {
+        "cname": "纳木那尼峰",
+        "url": "/sight/pulan2440/55997.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/491/152/641/e2f3b93356264c36aba29d71b87ffefb_C_220_140.jpg",
+        "caddress": "西藏自治区普兰县玛旁雍错旁边"
+      },
+      {
+        "cname": "即乌寺",
+        "url": "/sight/pulan2440/110473.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/655/142/729/51be6faa0784409a88e7a65c2c12ddf7_C_220_140.jpg",
+        "caddress": "阿里地区普兰县"
+      },
+      {
+        "cname": "科迦寺",
+        "url": "/sight/pulan2440/11802.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/668/648/564/69cc7fef5e9540c9a8f21b617236411f_C_220_140.jpg",
+        "caddress": "西藏自治区普兰县普兰镇科加村"
+      },
+      {
+        "cname": "公珠错",
+        "url": "/sight/pulan2440/110491.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/890/001/602/1f6920ff5e6143de8e51736a74810b6c_C_220_140.jpg",
+        "caddress": "阿里地区普兰县"
+      },
+      {
+        "cname": "楚果寺",
+        "url": "/sight/pulan2440/132864.html",
+        "s_img": "",
+        "caddress": "阿里地区普兰县"
+      },
+      {
+        "cname": "曲普水热爆炸奇观",
+        "url": "/sight/pulan2440/110495.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/697/929/375/a7bc3b11c36e4130ba495164377394b6_C_220_140.jpg",
+        "caddress": "阿里地区普兰县曲普"
+      }
+    ]
+  },
+  {
+    "cname": "札达",
+    "url": "http://you.ctrip.com/sightlist/zhada2454.html",
+    "places": [
+      {
+        "cname": "古格王国遗址",
+        "url": "/sight/zhada2454/4316.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/478/050/179/b30bfd5dcd864c0595443eacd6f82489_C_220_140.jpg",
+        "caddress": "阿里地区扎达县托林镇西北的象泉河南岸"
+      },
+      {
+        "cname": "札达土林",
+        "url": "/sight/zhada2454/4423.html",
+        "s_img": "http://p.chanyouji.cn/76375/1382533184103p187imceic1a771unubro1u2ccc32.jpg?imageView/1/w/220/h/140",
+        "caddress": "西藏自治区札达县境内"
+      },
+      {
+        "cname": "托林寺",
+        "url": "/sight/zhada2454/11801.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/373/327/782/7acfc6e102bf4a94b5f0b35d90769f98_C_220_140.jpg",
+        "caddress": "西藏自治区札达县象泉河畔"
+      },
+      {
+        "cname": "皮央东嘎洞窟遗址",
+        "url": "/sight/zhada2454/56000.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/892/015/695/56da75328bb043e58c146aba30c94533_C_220_140.jpg",
+        "caddress": "阿里地区札达县"
+      }
+    ]
+  },
+  {
+    "cname": "墨脱",
+    "url": "http://you.ctrip.com/sightlist/motuo120397.html",
+    "places": [
+      {
+        "cname": "仁钦崩寺",
+        "url": "/sight/motuo120397/4617.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/076/121/116/abe7d23bae264672a7cc9ad43296e067_C_220_140.jpg",
+        "caddress": "林芝地区墨脱县墨脱村南则玛拉山上"
+      },
+      {
+        "cname": "汗密瀑布",
+        "url": "/sight/motuo120397/1490165.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M07/6A/8A/CghzfVTh-qeASr-PAAEjVE3REKA265_C_220_140.jpg",
+        "caddress": "林芝地区墨脱县背崩乡汗密站"
+      },
+      {
+        "cname": "多雄拉山",
+        "url": "/sight/motuo120397/133598.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/719/017/393/c244854e6d3f4f5fa4f96a19dca3a058_C_220_140.jpg",
+        "caddress": "林芝地区墨脱县与米林县交界处"
+      },
+      {
+        "cname": "布裙湖",
+        "url": "/sight/motuo120397/1489354.html",
+        "s_img": "",
+        "caddress": "林芝地区墨脱县背崩乡"
+      },
+      {
+        "cname": "仰桑河",
+        "url": "/sight/motuo120397/133616.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/050/697/573/f86b73e365614617b6d395eb937fe8cc_C_220_140.jpg",
+        "caddress": "林芝地区墨脱县"
+      }
+    ]
+  },
+  {
+    "cname": "那曲",
+    "url": "http://you.ctrip.com/sightlist/naqu120387.html",
+    "places": [
+      {
+        "cname": "羌塘草原",
+        "url": "/sight/naqu120387/44009.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/785/116/825/0fee3fece6a9426a8d5c200a830b032d_C_220_140.jpg",
+        "caddress": "那曲地区那曲县念青唐古拉山以北"
+      },
+      {
+        "cname": "卓玛峡谷",
+        "url": "/sight/naqu120387/44011.html",
+        "s_img": "",
+        "caddress": "西藏自治区那曲县古路乡"
+      },
+      {
+        "cname": "草原八塔",
+        "url": "/sight/naqu120387/44007.html",
+        "s_img": "",
+        "caddress": "那曲地区那曲县文化路东段（青藏公路路旁）"
+      },
+      {
+        "cname": "桑丹康桑雪山",
+        "url": "/sight/naqu120387/44014.html",
+        "s_img": "",
+        "caddress": "藏北那曲县古露乡境内的青藏公路旁"
+      },
+      {
+        "cname": "孝登寺",
+        "url": "/sight/naqu120387/55759.html",
+        "s_img": "",
+        "caddress": "西藏自治区那曲县那曲镇"
+      }
+    ]
+  },
+  {
+    "cname": "安多",
+    "url": "http://you.ctrip.com/sightlist/anduo120385.html",
+    "places": [
+      {
+        "cname": "错那湖",
+        "url": "/sight/anduo120385/109941.html",
+        "s_img": "http://m.chanyouji.cn/39569/1368936412409p17qtfft7fi3gksp6gcfhev312.jpg?imageView/1/w/220/h/140",
+        "caddress": "那曲地区安多县境内"
+      },
+      {
+        "cname": "格拉丹东雪山",
+        "url": "/sight/anduo120385/44020.html",
+        "s_img": "",
+        "caddress": "那曲地区安多县玛飞吉日乡"
+      }
+    ]
+  },
+  {
+    "cname": "贡嘎",
+    "url": "http://you.ctrip.com/sightlist/gongga120408.html",
+    "places": [
+      {
+        "cname": "夏珠林寺",
+        "url": "/sight/gongga120408/129067.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/456/714/816/a389b229167b4bb9bf0e5a651cd297f6_C_220_140.jpg",
+        "caddress": "山南地区贡嘎县"
+      },
+      {
+        "cname": "多吉扎寺",
+        "url": "/sight/gongga120408/55604.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/831/007/278/f170eba94d5a430b9a40b24934e40dce_C_220_140.jpg",
+        "caddress": "西藏自治区山南地区贡嘎县昌果乡多吉扎村"
+      },
+      {
+        "cname": "昌果沟文化遗址",
+        "url": "/sight/gongga120408/43866.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县昌果乡"
+      },
+      {
+        "cname": "土旦热麦寺",
+        "url": "/sight/gongga120408/129077.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县"
+      },
+      {
+        "cname": "贡嘎曲德寺",
+        "url": "/sight/gongga120408/129053.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县"
+      },
+      {
+        "cname": "顿布曲果寺",
+        "url": "/sight/gongga120408/129051.html",
+        "s_img": "",
+        "caddress": "山南地区贡嘎县杰德秀镇"
+      }
+    ]
+  },
+  {
+    "cname": "芒康",
+    "url": "http://you.ctrip.com/sightlist/mangkang2452.html",
+    "places": [
+      {
+        "cname": "红拉山滇金丝猴国家级自然保护区",
+        "url": "/sight/mangkang2452/56114.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/925/322/469/2426c2dee715445ab4f36bd71cf70daa_C_220_140.jpg",
+        "caddress": "昌都地区芒康县"
+      },
+      {
+        "cname": "盐井天主教堂",
+        "url": "/sight/mangkang2452/56094.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/663/241/241/045f951d0da440b89c19986c685d4f91_C_220_140.jpg",
+        "caddress": "昌都地区芒康县纳西乡上盐井村"
+      },
+      {
+        "cname": "莽错",
+        "url": "/sight/mangkang2452/56098.html",
+        "s_img": "",
+        "caddress": "昌都地区芒康县中部莽岭乡"
+      }
+    ]
+  },
+  {
+    "cname": "扎囊",
+    "url": "http://you.ctrip.com/sightlist/zhanang2451.html",
+    "places": [
+      {
+        "cname": "桑耶寺",
+        "url": "/sight/zhanang2451/11822.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/143/459/866/67fa41cf23d54763a217bbd8856b16b0_C_220_140.jpg",
+        "caddress": "山南地区扎囊县桑耶镇，雅鲁藏布江北岸的哈布山下"
+      },
+      {
+        "cname": "青朴修行地",
+        "url": "/sight/zhanang2451/11839.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/325/855/aa7287f1bc9240f49665d312337f6ea3_C_220_140.jpg",
+        "caddress": "西藏自治区扎囊县桑耶寺东北"
+      },
+      {
+        "cname": "敏珠林寺",
+        "url": "/sight/zhanang2451/11840.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/806/264/215/649e65f4aa7442b3b02bf65848906f39_C_220_140.jpg",
+        "caddress": "山南地区扎囊县扎期乡敏竹林村中"
+      },
+      {
+        "cname": "海布日神山",
+        "url": "/sight/zhanang2451/11826.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/554/464/327/31348ac62b294d16b5c0c92986cc975b_C_220_140.jpg",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "扎塘寺",
+        "url": "/sight/zhanang2451/55543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/652/815/302/3b5da3790eba4e73aa14ac0030ac4b56_C_220_140.jpg",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "囊色林庄园",
+        "url": "/sight/zhanang2451/11841.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县扎囊乡"
+      },
+      {
+        "cname": "聂玛隆圣洞",
+        "url": "/sight/zhanang2451/11825.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "扎羊宗溶洞",
+        "url": "/sight/zhanang2451/11842.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县"
+      },
+      {
+        "cname": "札玛止桑宫",
+        "url": "/sight/zhanang2451/11823.html",
+        "s_img": "",
+        "caddress": "山南地区扎囊县"
+      }
+    ]
+  },
+  {
+    "cname": "尼玛",
+    "url": "http://you.ctrip.com/sightlist/nima120383.html",
+    "places": [
+      {
+        "cname": "当惹雍错",
+        "url": "/sight/nima120383/44024.html",
+        "s_img": "http://p.chanyouji.cn/102028/1394433190439p18ilb3qbeqnj8o11kgg7291uti2.jpg?imageView/1/w/220/h/140",
+        "caddress": "那曲地区尼玛县当惹雍错"
+      },
+      {
+        "cname": "色林措",
+        "url": "/sight/nima120383/44023.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/726/451/448/a2dd59d821624198b87acb971c6936b6_C_220_140.jpg",
+        "caddress": "西藏自治区申扎县和班戈县境内"
+      },
+      {
+        "cname": "达果雪山",
+        "url": "/sight/nima120383/44006.html",
+        "s_img": "",
+        "caddress": "西藏自治区尼玛县布文达乡"
+      },
+      {
+        "cname": "象雄王国遗址",
+        "url": "/sight/nima120383/44012.html",
+        "s_img": "",
+        "caddress": "那曲地区尼玛县文部乡"
+      },
+      {
+        "cname": "达则错",
+        "url": "/sight/nima120383/132456.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/198/219/279/f9de39f9c8dc482585a280ea8e651c88_C_220_140.jpg",
+        "caddress": "西藏那曲地区尼玛县达则错"
+      }
+    ]
+  },
+  {
+    "cname": "日土",
+    "url": "http://you.ctrip.com/sightlist/ritu120147.html",
+    "places": [
+      {
+        "cname": "班公错",
+        "url": "/sight/ritu120147/4317.html",
+        "s_img": "http://p.chanyouji.cn/6313/1348641269208p1780kejae1q001pgvirh1811lio15.jpg?imageView/1/w/220/h/140",
+        "caddress": "阿里地区日土县东北部"
+      },
+      {
+        "cname": "界山达坂",
+        "url": "/sight/ritu120147/129041.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/423/037/485/a0ecb24b23834b459f014297be1bb805_C_220_140.jpg",
+        "caddress": "阿里地区日土县东汝乡松西村"
+      },
+      {
+        "cname": "日土岩画",
+        "url": "/sight/ritu120147/55998.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/075/629/194/fe47d542fe3646708f8b98eab0025fce_C_220_140.jpg",
+        "caddress": "西藏自治区阿里地区日土县"
+      }
+    ]
+  },
+  {
+    "cname": "加查",
+    "url": "http://you.ctrip.com/sightlist/jiacha120409.html",
+    "places": [
+      {
+        "cname": "拉姆拉错",
+        "url": "/sight/jiacha120409/11811.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/744/798/751/2c241e94f1b841d8941651a6137eae5f_C_220_140.jpg",
+        "caddress": "山南地区加查县县城东北部65公里"
+      },
+      {
+        "cname": "琼果杰寺",
+        "url": "/sight/jiacha120409/11817.html",
+        "s_img": "http://p.chanyouji.cn/72791/1381057079429p1866mla3i1q0det31s7k1a3p5hg2.jpg?imageView/1/w/220/h/140",
+        "caddress": "山南地区加查县崔久乡"
+      },
+      {
+        "cname": "那玉河谷",
+        "url": "/sight/jiacha120409/132899.html",
+        "s_img": "",
+        "caddress": "山南地区加查县"
+      }
+    ]
+  },
+  {
+    "cname": "米林",
+    "url": "http://you.ctrip.com/sightlist/milin2448.html",
+    "places": [
+      {
+        "cname": "佛掌沙丘",
+        "url": "/sight/milin2448/128975.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/206/980/643/62a11b884f45484198c04c24b491d7d6_C_220_140.jpg",
+        "caddress": "林芝地区米林县丹娘乡雅鲁藏布江北岸(近雅鲁藏布大峡谷)"
+      },
+      {
+        "cname": "直白村",
+        "url": "/sight/milin2448/1412455.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/077/331/039/bce7c3107e904675a9dcc617482533c6_C_220_140.jpg",
+        "caddress": "林芝地区米林县派镇"
+      },
+      {
+        "cname": "格嘎温泉",
+        "url": "/sight/milin2448/81963.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/859/886/390/dcb85d40826a4371a0592821922b8d80_C_220_140.jpg",
+        "caddress": "林芝地区米林县格嘎村"
+      },
+      {
+        "cname": "那木拉错",
+        "url": "/sight/milin2448/1493289.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/708/131/986/62f0779bc6fc4f3890c54d88ccfa21e3_C_220_140.jpg",
+        "caddress": "林芝地区米林县"
+      },
+      {
+        "cname": "大渡卡遗址",
+        "url": "/sight/milin2448/128983.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/913/351/049/d190b27e102f442fb10bd9251d7cae94_C_220_140.jpg",
+        "caddress": "西藏自治区林芝地区米林县"
+      },
+      {
+        "cname": "扎贡沟风景区",
+        "url": "/sight/milin2448/128988.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/737/971/380/e62d01ac8dbf41beb2b7c7da62dcd1ac_C_220_140.jpg",
+        "caddress": "林芝地区米林县南部的南伊珞巴民族乡扎贡沟内，距离县城7公里"
+      }
+    ]
+  },
+  {
+    "cname": "乃东",
+    "url": "http://you.ctrip.com/sightlist/naidong2441.html",
+    "places": [
+      {
+        "cname": "昌珠寺",
+        "url": "/sight/naidong2441/11836.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/405/289/192/bf641dd0220d4b04bb7d9514c8f3fb58_C_220_140.jpg",
+        "caddress": "山南地区乃东县泽当镇贡日山南麓"
+      },
+      {
+        "cname": "贡布日神山",
+        "url": "/sight/naidong2441/11827.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县雅鲁藏布江南侧"
+      },
+      {
+        "cname": "烈士陵园",
+        "url": "/sight/naidong2441/129078.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县安徽大道11号"
+      },
+      {
+        "cname": "吉如拉康寺",
+        "url": "/sight/naidong2441/55587.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      },
+      {
+        "cname": "泽当寺",
+        "url": "/sight/naidong2441/129071.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      },
+      {
+        "cname": "亚桑寺",
+        "url": "/sight/naidong2441/129068.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      },
+      {
+        "cname": "赞塘玉益拉康",
+        "url": "/sight/naidong2441/132892.html",
+        "s_img": "",
+        "caddress": "山南地区乃东县"
+      }
+    ]
+  },
+  {
+    "cname": "萨迦",
+    "url": "http://you.ctrip.com/sightlist/sajia2442.html",
+    "places": [
+      {
+        "cname": "萨迦寺",
+        "url": "/sight/sajia2442/4275.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/124/955/090/60709b271f83471f9e7292ba6cc4c239_C_220_140.jpg",
+        "caddress": "日喀则市萨迦县八思巴路奔波山下"
+      },
+      {
+        "cname": "刚钦寺",
+        "url": "/sight/sajia2442/54965.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/241/319/a7c3dbac169a454da7b4882bd56d102c_C_220_140.jpg",
+        "caddress": "日喀则地区萨迦县查速乡"
+      },
+      {
+        "cname": "刚坚寺",
+        "url": "/sight/sajia2442/1489338.html",
+        "s_img": "",
+        "caddress": "日喀则地区萨迦县"
+      }
+    ]
+  },
+  {
+    "cname": "措勤",
+    "url": "http://you.ctrip.com/sightlist/cuoqin120146.html",
+    "places": [
+      {
+        "cname": "扎日南木错",
+        "url": "/sight/cuoqin120146/132147.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/227/991/241/3ec5c48c3633488ab8e1021a8b75144f_C_220_140.jpg",
+        "caddress": "西藏措勤县扎日南木错"
+      },
+      {
+        "cname": "达瓦错",
+        "url": "/sight/cuoqin120146/129046.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县"
+      },
+      {
+        "cname": "措勤河",
+        "url": "/sight/cuoqin120146/132866.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县"
+      },
+      {
+        "cname": "布嘎寺",
+        "url": "/sight/cuoqin120146/132862.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县达雄乡夏东村"
+      },
+      {
+        "cname": "边拉拉康",
+        "url": "/sight/cuoqin120146/132863.html",
+        "s_img": "",
+        "caddress": "阿里地区措勤县磁石乡加饶村"
+      }
+    ]
+  },
+  {
+    "cname": "拉孜",
+    "url": "http://you.ctrip.com/sightlist/lazi2444.html",
+    "places": [
+      {
+        "cname": "觉囊寺",
+        "url": "/sight/lazi2444/54938.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/681/560/377/17a80799785840f9b28e8af6f3de3701_C_220_140.jpg",
+        "caddress": "日喀则地区拉孜县欧布琼山"
+      },
+      {
+        "cname": "平措林寺",
+        "url": "/sight/lazi2444/54931.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/990/339/700/1db17b5124e94543b2d4873c6c298497_C_220_140.jpg",
+        "caddress": "日喀则地区江孜县平措林乡"
+      }
+    ]
+  },
+  {
+    "cname": "亚东",
+    "url": "http://you.ctrip.com/sightlist/yadong120090.html",
+    "places": [
+      {
+        "cname": "卓木拉日峰",
+        "url": "/sight/yadong120090/81918.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/435/243/948/315c0739dada4b6ea4374f1e64f1e6e3_C_220_140.jpg",
+        "caddress": "日喀则地区亚东县"
+      },
+      {
+        "cname": "卓木拉日雪山",
+        "url": "/sight/yadong120090/132869.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/177/077/996/04163067da5447daba0a8ffa4bf7ef42_C_220_140.jpg",
+        "caddress": "日喀则地区亚东县帕里镇"
+      },
+      {
+        "cname": "东嘎寺",
+        "url": "/sight/yadong120090/132117.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/714/243/595/9cb6b07361bb4f4eba18fd8c7470edff_C_220_140.jpg",
+        "caddress": "日喀则地区亚东县上亚东乡西边山坡处，距县城13公里"
+      }
+    ]
+  },
+  {
+    "cname": "吉隆",
+    "url": "http://you.ctrip.com/sightlist/jilong120374.html",
+    "places": [
+      {
+        "cname": "大唐天竺使出铭",
+        "url": "/sight/jilong120374/1489353.html",
+        "s_img": "",
+        "caddress": "日喀则地区吉隆县"
+      },
+      {
+        "cname": "帕巴寺",
+        "url": "/sight/jilong120374/132873.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/352/636/254/b66470fb40b84a4687e59aaaa6c6afb8_C_220_140.jpg",
+        "caddress": "日喀则地区吉隆县东部"
+      }
+    ]
+  },
+  {
+    "cname": "卡若区",
+    "url": "http://you.ctrip.com/sightlist/karuo2453.html",
+    "places": [
+      {
+        "cname": "强巴林寺",
+        "url": "/sight/karuo2453/18690.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/171/383/787/8b38d07226c147c686faeef8a08d7b22_C_220_140.jpg",
+        "caddress": "昌都地区昌都县昌都镇"
+      },
+      {
+        "cname": "噶玛寺",
+        "url": "/sight/karuo2453/18702.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/724/134/6313f25995314f09bca55fb46ce730c2_C_220_140.jpg",
+        "caddress": "昌都地区昌都县扎曲河上游约120公里的白西山麓"
+      },
+      {
+        "cname": "谷布神山",
+        "url": "/sight/karuo2453/56090.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/206/476/e40f9093ce694e1da7a8786283922819_C_220_140.jpg",
+        "caddress": "西藏自治区昌都县日通乡"
+      },
+      {
+        "cname": "卡若文化遗址",
+        "url": "/sight/karuo2453/18689.html",
+        "s_img": "",
+        "caddress": "西藏自治区昌都县卡若镇"
+      },
+      {
+        "cname": "小恩达遗址",
+        "url": "/sight/karuo2453/56105.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/311/475/540/6ac14dcb6d9049b7ad549926985b71d5_C_220_140.jpg",
+        "caddress": "昌都地区昌都镇小恩达村"
+      },
+      {
+        "cname": "朱角山",
+        "url": "/sight/karuo2453/56101.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/095/507/560/f445789983ea46b695c0e088235e090a_C_220_140.jpg",
+        "caddress": "昌都地区昌都县俄洛镇"
+      },
+      {
+        "cname": "“大脚印”奇观",
+        "url": "/sight/karuo2453/43794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/607/751/796/e70606c8b9ff4dd1b12ee79c7f47e6b1_C_220_140.jpg",
+        "caddress": "西藏自治区昌都县昌都镇"
+      }
+    ]
+  },
+  {
+    "cname": "丁青",
+    "url": "http://you.ctrip.com/sightlist/dingqing2447.html",
+    "places": [
+      {
+        "cname": "孜珠寺",
+        "url": "/sight/dingqing2447/18700.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/661/114/726/b8009c7a420240b2ba995f590f600039_C_220_140.jpg",
+        "caddress": "西藏自治区丁青县觉恩乡"
+      },
+      {
+        "cname": "布托湖",
+        "url": "/sight/dingqing2447/18699.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/334/221/013/cec84b7962a24a08b6969998cea6e022_C_220_140.jpg",
+        "caddress": "西藏自治区丁青县县城北"
+      }
+    ]
+  },
+  {
+    "cname": "申扎",
+    "url": "http://you.ctrip.com/sightlist/shenzha120386.html",
+    "places": [
+      {
+        "cname": "申扎自然保护区",
+        "url": "/sight/shenzha120386/44018.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/092/342/248/b4d67c41d0d646ab826169945b4e012e_C_220_140.jpg",
+        "caddress": "西藏自治区申扎县境内"
+      },
+      {
+        "cname": "错鄂",
+        "url": "/sight/shenzha120386/55758.html",
+        "s_img": "",
+        "caddress": "那曲申扎县色林错"
+      }
+    ]
+  },
+  {
+    "cname": "仲巴",
+    "url": "http://you.ctrip.com/sightlist/zhongba120376.html",
+    "places": [
+      {
+        "cname": "帕羊",
+        "url": "/sight/zhongba120376/1489328.html",
+        "s_img": "",
+        "caddress": "日喀则地区仲巴县帕羊镇"
+      },
+      {
+        "cname": "杰玛央宗冰川",
+        "url": "/sight/zhongba120376/129035.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/465/911/489/a65401412d034bd9a732439b729730cc_C_220_140.jpg",
+        "caddress": "日喀则地区仲巴县和阿里地区普兰县交界处"
+      }
+    ]
+  },
+  {
+    "cname": "双湖特别区",
+    "url": "http://you.ctrip.com/sightlist/shuanghu120393.html",
+    "places": [
+      {
+        "cname": "普若岗日冰川",
+        "url": "/sight/shuanghu120393/55756.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/204/229/163/9cf08e275c44483988620b300177986b_C_220_140.jpg",
+        "caddress": "那曲地区羌塘西北部的双湖特别区东北部90公里"
+      }
+    ]
+  },
+  {
+    "cname": "类乌齐",
+    "url": "http://you.ctrip.com/sightlist/leiwuqi120400.html",
+    "places": [
+      {
+        "cname": "查杰玛大殿",
+        "url": "/sight/leiwuqi120400/18698.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M07/84/78/CghzgFTTIjuAZ-UUAADAz1QjRqc549_C_220_140.jpg",
+        "caddress": "西藏自治区昌都地区类乌齐县查杰玛大殿"
+      },
+      {
+        "cname": "伊日温泉",
+        "url": "/sight/leiwuqi120400/18707.html",
+        "s_img": "",
+        "caddress": "西藏自治区类乌齐县伊日乡"
+      },
+      {
+        "cname": "卡玛多塔林",
+        "url": "/sight/leiwuqi120400/18704.html",
+        "s_img": "",
+        "caddress": "西藏自治区类乌齐县国道317线右侧"
+      },
+      {
+        "cname": "德庆颇章神山",
+        "url": "/sight/leiwuqi120400/18691.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/567/582/713/ed873b395e594d428802928fd85246d3_C_220_140.jpg",
+        "caddress": "昌都类乌齐县类乌齐镇旁"
+      },
+      {
+        "cname": "长毛岭养鹿场",
+        "url": "/sight/leiwuqi120400/56097.html",
+        "s_img": "",
+        "caddress": "昌都地区类乌齐县长毛岭乡那登通"
+      },
+      {
+        "cname": "乃旦寺",
+        "url": "/sight/leiwuqi120400/18692.html",
+        "s_img": "",
+        "caddress": "昌都地区类乌齐县加桑区雨扎乡乌入村东南约二百米高的山上"
+      }
+    ]
+  },
+  {
+    "cname": "桑日",
+    "url": "http://you.ctrip.com/sightlist/sangri120413.html",
+    "places": [
+      {
+        "cname": "巴郎却康",
+        "url": "/sight/sangri120413/11812.html",
+        "s_img": "",
+        "caddress": "西藏自治区桑日县绒乡巴郎村"
+      },
+      {
+        "cname": "恰嘎曲德寺",
+        "url": "/sight/sangri120413/55605.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县绒乡"
+      },
+      {
+        "cname": "沃卡温泉",
+        "url": "/sight/sangri120413/11810.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县沃卡地区"
+      },
+      {
+        "cname": "曲龙寺",
+        "url": "/sight/sangri120413/11813.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县沃卡乡政府以南"
+      },
+      {
+        "cname": "卡玛当寺",
+        "url": "/sight/sangri120413/55607.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县城东约2.5公里的一处山腰上"
+      },
+      {
+        "cname": "桑日马鹿自然保护区",
+        "url": "/sight/sangri120413/129080.html",
+        "s_img": "",
+        "caddress": "山南地区桑日县增期乡"
+      }
+    ]
+  },
+  {
+    "cname": "错那",
+    "url": "http://you.ctrip.com/sightlist/cuona120414.html",
+    "places": [
+      {
+        "cname": "康格多山",
+        "url": "/sight/cuona120414/55527.html",
+        "s_img": "",
+        "caddress": "山南地区错那县"
+      },
+      {
+        "cname": "拿日雍错",
+        "url": "/sight/cuona120414/132894.html",
+        "s_img": "",
+        "caddress": "山南地区错那县"
+      }
+    ]
+  },
+  {
+    "cname": "琼结",
+    "url": "http://you.ctrip.com/sightlist/qiongjie2439.html",
+    "places": [
+      {
+        "cname": "藏王墓",
+        "url": "/sight/qiongjie2439/11837.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/416/039/519/b2d361687e524b2a8e4bdafc9fd7de95_C_220_140.jpg",
+        "caddress": "西藏自治区琼结县距泽当镇约90公里"
+      },
+      {
+        "cname": "藏王墓",
+        "url": "/sight/qiongjie2439/1417266.html",
+        "s_img": "",
+        "caddress": "山南地区琼果乡琼结县宗山西南方"
+      },
+      {
+        "cname": "日乌德钦寺",
+        "url": "/sight/qiongjie2439/129060.html",
+        "s_img": "",
+        "caddress": "山南地区琼结县"
+      }
+    ]
+  },
+  {
+    "cname": "康马",
+    "url": "http://you.ctrip.com/sightlist/kangma120372.html",
+    "places": [
+      {
+        "cname": "南尼寺",
+        "url": "/sight/kangma120372/54961.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/993/062/716/26460582ba07454c82b28e6cdc7f08e4_C_220_140.jpg",
+        "caddress": "日喀则地区康马县南尼村的郎钦山山麓"
+      },
+      {
+        "cname": "依玛寺",
+        "url": "/sight/kangma120372/129020.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/549/215/199/9967e076dcff4d03a5627887ab4ba676_C_220_140.jpg",
+        "caddress": "日喀则地区康马县萨玛达乡冲堆村"
+      }
+    ]
+  },
+  {
+    "cname": "南木林",
+    "url": "http://you.ctrip.com/sightlist/nanmulin120373.html",
+    "places": [
+      {
+        "cname": "格登曲廓林寺",
+        "url": "/sight/nanmulin120373/54940.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/398/272/675/dfcccbbfeee64aec9d4b106db6933a0e_C_220_140.jpg",
+        "caddress": "在日喀则南木林县境内，距县城约1公里"
+      },
+      {
+        "cname": "热拉雍仲林寺",
+        "url": "/sight/nanmulin120373/54924.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/423/892/080/773cb999525b4b43a9578aa943b08289_C_220_140.jpg",
+        "caddress": "日喀则地区南木林县奴马乡玉拉杰山麓"
+      }
+    ]
+  },
+  {
+    "cname": "朗县",
+    "url": "http://you.ctrip.com/sightlist/langxian120395.html",
+    "places": [
+      {
+        "cname": "巴尔曲德寺",
+        "url": "/sight/langxian120395/54936.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/371/220/538/17318b816a234a8a9a838de449436f35_C_220_140.jpg",
+        "caddress": "林芝地区朗县朗镇堆巴村"
+      },
+      {
+        "cname": "列山古墓群",
+        "url": "/sight/langxian120395/4618.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/234/417/936/1a28a1838d6e48a48cfc7bb95327b8e3_C_220_140.jpg",
+        "caddress": "林芝地区朗县东嘎乡列山南坡"
+      }
+    ]
+  },
+  {
+    "cname": "江达",
+    "url": "http://you.ctrip.com/sightlist/jingda120398.html",
+    "places": [
+      {
+        "cname": "生钦朗扎山",
+        "url": "/sight/jingda120398/18706.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/015/876/421/16a72e9720e2459b9065c4f609c0be5b_C_220_140.jpg",
+        "caddress": "西藏自治区江达县岗托乡境内"
+      },
+      {
+        "cname": "果布白宗山",
+        "url": "/sight/jingda120398/129083.html",
+        "s_img": "",
+        "caddress": "昌都地区江达县"
+      },
+      {
+        "cname": "波罗吉荣大峡谷",
+        "url": "/sight/jingda120398/18697.html",
+        "s_img": "",
+        "caddress": "昌都地区江达县同普乡与波罗乡交界处"
+      },
+      {
+        "cname": "波罗古泽",
+        "url": "/sight/jingda120398/18694.html",
+        "s_img": "",
+        "caddress": "昌都地区江达县波罗乡境内"
+      }
+    ]
+  },
+  {
+    "cname": "改则",
+    "url": "http://you.ctrip.com/sightlist/gaize120145.html",
+    "places": [
+      {
+        "cname": "洞错",
+        "url": "/sight/gaize120145/129040.html",
+        "s_img": "",
+        "caddress": "阿里地区改则县"
+      }
+    ]
+  },
+  {
+    "cname": "措美",
+    "url": "http://you.ctrip.com/sightlist/cuomei120410.html",
+    "places": [
+      {
+        "cname": "哲古错",
+        "url": "/sight/cuomei120410/132893.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/404/985/736/42c2c059ef6e4afebf48918f9c5aa5b7_C_220_140.jpg",
+        "caddress": "山南地区措美县"
+      }
+    ]
+  },
+  {
+    "cname": "白朗",
+    "url": "http://you.ctrip.com/sightlist/bailang120377.html",
+    "places": [
+      {
+        "cname": "嘎东寺",
+        "url": "/sight/bailang120377/54958.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/758/965/968/8577419f04b542098cde71dca37b6ffe_C_220_140.jpg",
+        "caddress": "日喀则地区白朗县"
+      },
+      {
+        "cname": "常美切巴寺",
+        "url": "/sight/bailang120377/129018.html",
+        "s_img": "",
+        "caddress": "日喀则地区白朗县城南洛江镇"
+      }
+    ]
+  },
+  {
+    "cname": "巴青",
+    "url": "http://you.ctrip.com/sightlist/baqing120392.html",
+    "places": [
+      {
+        "cname": "麦莫溶洞",
+        "url": "/sight/baqing120392/44008.html",
+        "s_img": "",
+        "caddress": "那曲地区巴青县与比如县布龙乡之间"
+      },
+      {
+        "cname": "门莫扎嘎山脉",
+        "url": "/sight/baqing120392/55762.html",
+        "s_img": "",
+        "caddress": "那曲地区巴青县"
+      }
+    ]
+  },
+  {
+    "cname": "洛扎",
+    "url": "http://you.ctrip.com/sightlist/luozha120411.html",
+    "places": [
+      {
+        "cname": "赛卡古托寺",
+        "url": "/sight/luozha120411/55536.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县城以南50公里处"
+      },
+      {
+        "cname": "吉堆吐蕃墓群",
+        "url": "/sight/luozha120411/55601.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县吉堆乡政府所在地南侧土坡上"
+      },
+      {
+        "cname": "桑噶方托寺",
+        "url": "/sight/luozha120411/55603.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县色乡"
+      },
+      {
+        "cname": "拉隆寺",
+        "url": "/sight/luozha120411/129055.html",
+        "s_img": "",
+        "caddress": "山南地区洛扎县扎日乡洛扎努曲河北岸"
+      }
+    ]
+  },
+  {
+    "cname": "曲松",
+    "url": "http://you.ctrip.com/sightlist/qusong120412.html",
+    "places": [
+      {
+        "cname": "拉加里王宫",
+        "url": "/sight/qusong120412/11820.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/969/407/511/91fca52da81c44f68e61e5a6678402ef_C_220_140.jpg",
+        "caddress": "山南地区曲松县城南侧"
+      }
+    ]
+  }
+]

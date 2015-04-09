@@ -1,0 +1,59 @@
+[
+  {
+    "cname": "华沙",
+    "suggest_places": [
+      {
+        "cname": "华沙",
+        "url": "/sight/warsaw1261/137239.html"
+      },
+      {
+        "cname": "城堡广场",
+        "url": "/sight/warsaw1261/85208.html"
+      },
+      {
+        "cname": "圣十字教堂",
+        "url": "/sight/warsaw1261/85149.html"
+      },
+      {
+        "cname": "纪念柱",
+        "url": "/sight/warsaw1261/137241.html"
+      },
+      {
+        "cname": "瓦津基公园",
+        "url": "/sight/warsaw1261/85210.html"
+      }
+    ],
+    "url": "/sightlist/warsaw1261.html"
+  },
+  {
+    "cname": "克拉科夫",
+    "suggest_places": [
+      {
+        "cname": "奥斯维辛集中营",
+        "url": "/sight/krakow1262/141392.html"
+      },
+      {
+        "cname": "中央广场",
+        "url": "/sight/krakow1262/85145.html"
+      },
+      {
+        "cname": "王宫",
+        "url": "/sight/krakow1262/85148.html"
+      },
+      {
+        "cname": "克拉科夫",
+        "url": "/sight/krakow1262/137245.html"
+      },
+      {
+        "cname": "华威城堡",
+        "url": "/sight/krakow1262/85146.html"
+      }
+    ],
+    "url": "/sightlist/krakow1262.html"
+  },
+  {
+    "cname": "弗罗茨瓦夫",
+    "suggest_places": [],
+    "url": "/sightlist/wroclaw1498.html"
+  }
+]

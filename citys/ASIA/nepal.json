@@ -1,0 +1,170 @@
+[
+  {
+    "cname": "加德满都",
+    "suggest_places": [
+      {
+        "cname": "加德满都杜巴广场",
+        "url": "/sight/kathmandu482/19241.html"
+      },
+      {
+        "cname": "泰米尔区",
+        "url": "/sight/kathmandu482/30012.html"
+      },
+      {
+        "cname": "博达哈大佛塔",
+        "url": "/sight/kathmandu482/19848.html"
+      },
+      {
+        "cname": "帕坦杜巴广场",
+        "url": "/sight/kathmandu482/50451.html"
+      },
+      {
+        "cname": "库玛丽女神庙",
+        "url": "/sight/kathmandu482/19840.html"
+      }
+    ],
+    "url": "/sightlist/kathmandu482.html"
+  },
+  {
+    "cname": "博卡拉",
+    "suggest_places": [
+      {
+        "cname": "费瓦湖",
+        "url": "/sight/pokhara597/137594.html"
+      },
+      {
+        "cname": "鱼尾峰",
+        "url": "/sight/pokhara597/136678.html"
+      },
+      {
+        "cname": "世界和平塔",
+        "url": "/sight/pokhara597/133959.html"
+      },
+      {
+        "cname": "萨朗科",
+        "url": "/sight/pokhara597/1410412.html"
+      },
+      {
+        "cname": "大卫瀑布",
+        "url": "/sight/pokhara597/19871.html"
+      }
+    ],
+    "url": "/sightlist/pokhara597.html"
+  },
+  {
+    "cname": "奇旺",
+    "suggest_places": [
+      {
+        "cname": "奇旺国家公园",
+        "url": "/sight/chitwan1036/26215.html"
+      },
+      {
+        "cname": "塔鲁文化屋",
+        "url": "/sight/chitwan1036/30154.html"
+      },
+      {
+        "cname": "大象饲养中心",
+        "url": "/sight/chitwan1036/30155.html"
+      }
+    ],
+    "url": "/sightlist/chitwan1036.html"
+  },
+  {
+    "cname": "巴德岗",
+    "suggest_places": [
+      {
+        "cname": "巴德岗杜巴广场",
+        "url": "/sight/bhaktapur24662/19855.html"
+      },
+      {
+        "cname": "陶器广场",
+        "url": "/sight/bhaktapur24662/50508.html"
+      },
+      {
+        "cname": "55窗宫",
+        "url": "/sight/bhaktapur24662/137590.html"
+      },
+      {
+        "cname": "尼亚塔波拉庙",
+        "url": "/sight/bhaktapur24662/137616.html"
+      },
+      {
+        "cname": "巴特萨拉女神庙",
+        "url": "/sight/bhaktapur24662/136744.html"
+      }
+    ],
+    "url": "/sightlist/bhaktapur24662.html"
+  },
+  {
+    "cname": "帕坦",
+    "suggest_places": [
+      {
+        "cname": "帕坦杜巴广场",
+        "url": "/sight/patan24661/50451.html"
+      },
+      {
+        "cname": "帕坦博物馆",
+        "url": "/sight/patan24661/19864.html"
+      },
+      {
+        "cname": "帕坦皇宫",
+        "url": "/sight/patan24661/19858.html"
+      },
+      {
+        "cname": "坎贝士瓦神庙",
+        "url": "/sight/patan24661/134843.html"
+      },
+      {
+        "cname": "帕坦大觉寺佛塔",
+        "url": "/sight/patan24661/134841.html"
+      }
+    ],
+    "url": "/sightlist/patan24661.html"
+  },
+  {
+    "cname": "纳加阔特",
+    "suggest_places": [
+      {
+        "cname": "纳加阔特",
+        "url": "/sight/nagarkot1198/19866.html"
+      }
+    ],
+    "url": "/sightlist/nagarkot1198.html"
+  },
+  {
+    "cname": "蓝毗尼",
+    "suggest_places": [
+      {
+        "cname": "蓝毗尼",
+        "url": "/sight/lumbini1330/146237.html"
+      },
+      {
+        "cname": "蓝毗尼中华寺",
+        "url": "/sight/lumbini1330/30147.html"
+      },
+      {
+        "cname": "蓝毗尼博物馆",
+        "url": "/sight/lumbini1330/30152.html"
+      },
+      {
+        "cname": "阿育王柱",
+        "url": "/sight/lumbini1330/30149.html"
+      },
+      {
+        "cname": "摩耶夫人祠",
+        "url": "/sight/lumbini1330/30150.html"
+      }
+    ],
+    "url": "/sightlist/lumbini1330.html"
+  },
+  {
+    "cname": "昆布",
+    "suggest_places": [
+      {
+        "cname": "萨加玛塔国家公园",
+        "url": "/sight/khumbu24653/19865.html"
+      }
+    ],
+    "url": "/sightlist/khumbu24653.html"
+  }
+]

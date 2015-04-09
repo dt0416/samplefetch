@@ -1,0 +1,48 @@
+[
+  {
+    "cname": "都柏林",
+    "suggest_places": [
+      {
+        "cname": "圣三一学院",
+        "url": "/sight/dublin819/25218.html"
+      },
+      {
+        "cname": "健力士黑啤展览馆",
+        "url": "/sight/dublin819/25216.html"
+      },
+      {
+        "cname": "圣帕特里克大教堂",
+        "url": "/sight/dublin819/25217.html"
+      },
+      {
+        "cname": "凤凰公园",
+        "url": "/sight/dublin819/25215.html"
+      },
+      {
+        "cname": "都柏林城堡",
+        "url": "/sight/dublin819/25214.html"
+      }
+    ],
+    "url": "/sightlist/dublin819.html"
+  },
+  {
+    "cname": "基拉尼",
+    "suggest_places": [],
+    "url": "/sightlist/killarney1573.html"
+  },
+  {
+    "cname": "County Wicklow",
+    "suggest_places": [
+      {
+        "cname": "宝尔势格庄园",
+        "url": "/sight/countywicklow21145/1409850.html"
+      }
+    ],
+    "url": "/sightlist/countywicklow21145.html"
+  },
+  {
+    "cname": "科克",
+    "suggest_places": [],
+    "url": "/sightlist/cork1715.html"
+  }
+]

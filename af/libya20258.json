@@ -1,0 +1,32 @@
+[
+  {
+    "cname": "Tripoli",
+    "url": "http://you.ctrip.com/sightlist/tripoli22250.html",
+    "places": [
+      {
+        "cname": "阿齐齐亚兵营",
+        "url": "/sight/tripoli22250/141938.html",
+        "s_img": "",
+        "caddress": "Bab al-Aziziya, Tripoli, Libya"
+      },
+      {
+        "cname": "的黎波里老城区",
+        "url": "/sight/tripoli22250/141937.html",
+        "s_img": "",
+        "caddress": "利比亚.Tripoli"
+      },
+      {
+        "cname": "莱普提斯",
+        "url": "/sight/tripoli22250/141941.html",
+        "s_img": "",
+        "caddress": "Leptis Magna, Al-Khums, Al Murqub, Libya"
+      },
+      {
+        "cname": "苏伯拉塔",
+        "url": "/sight/tripoli22250/141939.html",
+        "s_img": "",
+        "caddress": "Alaathar, Tripoli, 利比亚 ‎"
+      }
+    ]
+  }
+]

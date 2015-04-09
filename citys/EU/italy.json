@@ -1,0 +1,542 @@
+[
+  {
+    "cname": "罗马",
+    "suggest_places": [
+      {
+        "cname": "斗兽场",
+        "url": "/sight/rome303/139434.html"
+      },
+      {
+        "cname": "梵蒂冈",
+        "url": "/sight/rome303/138896.html"
+      },
+      {
+        "cname": "圣彼得大教堂",
+        "url": "/sight/rome303/23259.html"
+      },
+      {
+        "cname": "西班牙广场",
+        "url": "/sight/rome303/11974.html"
+      },
+      {
+        "cname": "威尼斯广场",
+        "url": "/sight/rome303/11980.html"
+      }
+    ],
+    "url": "/sightlist/rome303.html"
+  },
+  {
+    "cname": "威尼斯",
+    "suggest_places": [
+      {
+        "cname": "圣马可广场",
+        "url": "/sight/venice340/12074.html"
+      },
+      {
+        "cname": "叹息桥",
+        "url": "/sight/venice340/22928.html"
+      },
+      {
+        "cname": "大运河",
+        "url": "/sight/venice340/65956.html"
+      },
+      {
+        "cname": "圣马可大教堂",
+        "url": "/sight/venice340/12075.html"
+      },
+      {
+        "cname": "布拉诺岛",
+        "url": "/sight/venice340/140286.html"
+      }
+    ],
+    "url": "/sightlist/venice340.html"
+  },
+  {
+    "cname": "佛罗伦萨",
+    "suggest_places": [
+      {
+        "cname": "乌菲兹美术馆",
+        "url": "/sight/florence341/12023.html"
+      },
+      {
+        "cname": "圣母百花大教堂",
+        "url": "/sight/florence341/12018.html"
+      },
+      {
+        "cname": "佛罗伦萨",
+        "url": "/sight/florence341/139439.html"
+      },
+      {
+        "cname": "市政厅广场",
+        "url": "/sight/florence341/85090.html"
+      },
+      {
+        "cname": "老桥",
+        "url": "/sight/florence341/134731.html"
+      }
+    ],
+    "url": "/sightlist/florence341.html"
+  },
+  {
+    "cname": "梵蒂冈",
+    "suggest_places": [
+      {
+        "cname": "梵蒂冈",
+        "url": "/sight/vatican784/138896.html"
+      },
+      {
+        "cname": "圣彼得大教堂",
+        "url": "/sight/vatican784/23259.html"
+      },
+      {
+        "cname": "梵蒂冈博物馆",
+        "url": "/sight/vatican784/23258.html"
+      },
+      {
+        "cname": "圣彼得广场",
+        "url": "/sight/vatican784/23260.html"
+      },
+      {
+        "cname": "西斯廷教堂",
+        "url": "/sight/vatican784/65257.html"
+      }
+    ],
+    "url": "/sightlist/vatican784.html"
+  },
+  {
+    "cname": "米兰",
+    "suggest_places": [
+      {
+        "cname": "米兰大教堂",
+        "url": "/sight/milan304/12070.html"
+      },
+      {
+        "cname": "米兰",
+        "url": "/sight/milan304/139461.html"
+      },
+      {
+        "cname": "埃马努埃莱二世长廊",
+        "url": "/sight/milan304/12081.html"
+      },
+      {
+        "cname": "斯卡拉歌剧院",
+        "url": "/sight/milan304/138907.html"
+      },
+      {
+        "cname": "斯福尔采斯科城堡",
+        "url": "/sight/milan304/12077.html"
+      }
+    ],
+    "url": "/sightlist/milan304.html"
+  },
+  {
+    "cname": "比萨",
+    "suggest_places": [
+      {
+        "cname": "比萨斜塔",
+        "url": "/sight/pisa1761/67634.html"
+      },
+      {
+        "cname": "奇迹广场",
+        "url": "/sight/pisa1761/1416224.html"
+      },
+      {
+        "cname": "比萨军火库",
+        "url": "/sight/pisa1761/1487965.html"
+      },
+      {
+        "cname": "比萨墓园",
+        "url": "/sight/pisa1761/1484512.html"
+      },
+      {
+        "cname": "计算工具博物馆",
+        "url": "/sight/pisa1761/1487981.html"
+      }
+    ],
+    "url": "/sightlist/pisa1761.html"
+  },
+  {
+    "cname": "维罗纳",
+    "suggest_places": [
+      {
+        "cname": "朱丽叶故居",
+        "url": "/sight/verona720/22678.html"
+      },
+      {
+        "cname": "维罗纳",
+        "url": "/sight/verona720/139474.html"
+      },
+      {
+        "cname": "圆形竞技场",
+        "url": "/sight/verona720/22673.html"
+      },
+      {
+        "cname": "大教堂",
+        "url": "/sight/verona720/141845.html"
+      },
+      {
+        "cname": "加尔达湖",
+        "url": "/sight/verona720/139446.html"
+      }
+    ],
+    "url": "/sightlist/verona720.html"
+  },
+  {
+    "cname": "那不勒斯",
+    "suggest_places": [
+      {
+        "cname": "卡普里岛",
+        "url": "/sight/napoli747/76287.html"
+      },
+      {
+        "cname": "索伦托",
+        "url": "/sight/napoli747/76643.html"
+      },
+      {
+        "cname": "新城",
+        "url": "/sight/napoli747/22720.html"
+      },
+      {
+        "cname": "维苏威火山",
+        "url": "/sight/napoli747/146663.html"
+      },
+      {
+        "cname": "那不勒斯王宫",
+        "url": "/sight/napoli747/22722.html"
+      }
+    ],
+    "url": "/sightlist/napoli747.html"
+  },
+  {
+    "cname": "托斯卡纳",
+    "suggest_places": [
+      {
+        "cname": "圣母百花大教堂",
+        "url": "/sight/tuscany21198/12018.html"
+      },
+      {
+        "cname": "佛罗伦萨",
+        "url": "/sight/tuscany21198/139439.html"
+      },
+      {
+        "cname": "比萨斜塔",
+        "url": "/sight/tuscany21198/67634.html"
+      },
+      {
+        "cname": "市政厅广场",
+        "url": "/sight/tuscany21198/85090.html"
+      },
+      {
+        "cname": "乌菲兹美术馆",
+        "url": "/sight/tuscany21198/12023.html"
+      }
+    ],
+    "url": "/sightlist/tuscany21198.html"
+  },
+  {
+    "cname": "庞贝",
+    "suggest_places": [
+      {
+        "cname": "庞贝古城",
+        "url": "/sight/pompeii719/138949.html"
+      },
+      {
+        "cname": "阿波罗神殿中心广场",
+        "url": "/sight/pompeii719/22793.html"
+      },
+      {
+        "cname": "悲剧诗人之家",
+        "url": "/sight/pompeii719/22795.html"
+      },
+      {
+        "cname": "露天剧场",
+        "url": "/sight/pompeii719/22798.html"
+      },
+      {
+        "cname": "神秘庄",
+        "url": "/sight/pompeii719/22799.html"
+      }
+    ],
+    "url": "/sightlist/pompeii719.html"
+  },
+  {
+    "cname": "锡耶纳",
+    "suggest_places": [
+      {
+        "cname": "锡耶纳老城区",
+        "url": "/sight/siena1128/76639.html"
+      },
+      {
+        "cname": "锡耶纳大教堂博物馆",
+        "url": "/sight/siena1128/138912.html"
+      },
+      {
+        "cname": "贝壳广场",
+        "url": "/sight/siena1128/138911.html"
+      },
+      {
+        "cname": "圣吉米纳诺古城",
+        "url": "/sight/siena1128/67519.html"
+      },
+      {
+        "cname": "蒙塔奇诺",
+        "url": "/sight/siena1128/147133.html"
+      }
+    ],
+    "url": "/sightlist/siena1128.html"
+  },
+  {
+    "cname": "西西里岛",
+    "suggest_places": [
+      {
+        "cname": "巴勒莫",
+        "url": "/sight/sicily21192/133504.html"
+      },
+      {
+        "cname": "卡塔尼亚",
+        "url": "/sight/sicily21192/133505.html"
+      },
+      {
+        "cname": "陶尔米纳",
+        "url": "/sight/sicily21192/135506.html"
+      },
+      {
+        "cname": "埃特纳火山",
+        "url": "/sight/sicily21192/133515.html"
+      },
+      {
+        "cname": "阿格里真托",
+        "url": "/sight/sicily21192/133507.html"
+      }
+    ],
+    "url": "/sightlist/sicily21192.html"
+  },
+  {
+    "cname": "五渔村",
+    "suggest_places": [
+      {
+        "cname": "五渔村",
+        "url": "/sight/cinqueterre7742/110556.html"
+      },
+      {
+        "cname": "爱之路",
+        "url": "/sight/cinqueterre7742/1508468.html"
+      },
+      {
+        "cname": "多里亚城堡",
+        "url": "/sight/cinqueterre7742/1508446.html"
+      },
+      {
+        "cname": "科尔尼利亚",
+        "url": "/sight/cinqueterre7742/1508445.html"
+      },
+      {
+        "cname": "里奥马焦雷",
+        "url": "/sight/cinqueterre7742/1508491.html"
+      }
+    ],
+    "url": "/sightlist/cinqueterre7742.html"
+  },
+  {
+    "cname": "热那亚",
+    "suggest_places": [
+      {
+        "cname": "佛拉里广场",
+        "url": "/sight/genoa1042/72646.html"
+      },
+      {
+        "cname": "白之宫",
+        "url": "/sight/genoa1042/72643.html"
+      },
+      {
+        "cname": "斯皮诺拉宫国家美术馆",
+        "url": "/sight/genoa1042/72306.html"
+      },
+      {
+        "cname": "热那亚水族馆",
+        "url": "/sight/genoa1042/72304.html"
+      },
+      {
+        "cname": "加里波第路",
+        "url": "/sight/genoa1042/72308.html"
+      }
+    ],
+    "url": "/sightlist/genoa1042.html"
+  },
+  {
+    "cname": "博洛尼亚",
+    "suggest_places": [],
+    "url": "/sightlist/bologna1041.html"
+  },
+  {
+    "cname": "利古里亚大区",
+    "suggest_places": [],
+    "url": "/sightlist/liguria120355.html"
+  },
+  {
+    "cname": "San Gimignano",
+    "suggest_places": [
+      {
+        "cname": "圣吉米亚诺大教堂",
+        "url": "/sight/sangimignano6394/1410030.html"
+      },
+      {
+        "cname": "主教座堂广场",
+        "url": "/sight/sangimignano6394/1410031.html"
+      },
+      {
+        "cname": "水井广场",
+        "url": "/sight/sangimignano6394/1410025.html"
+      },
+      {
+        "cname": "格罗萨塔楼",
+        "url": "/sight/sangimignano6394/1410007.html"
+      },
+      {
+        "cname": "圣乔万尼门",
+        "url": "/sight/sangimignano6394/1410016.html"
+      }
+    ],
+    "url": "/sightlist/sangimignano6394.html"
+  },
+  {
+    "cname": "巴里",
+    "suggest_places": [],
+    "url": "/sightlist/bari1495.html"
+  },
+  {
+    "cname": "的里雅斯特",
+    "suggest_places": [],
+    "url": "/sightlist/trieste1740.html"
+  },
+  {
+    "cname": "都灵",
+    "suggest_places": [
+      {
+        "cname": "华伦天奴城堡",
+        "url": "/sight/turin1433/1483712.html"
+      },
+      {
+        "cname": "国家电影博物馆",
+        "url": "/sight/turin1433/74318.html"
+      },
+      {
+        "cname": "维托里奥广场",
+        "url": "/sight/turin1433/1483717.html"
+      },
+      {
+        "cname": "圣卡洛广场",
+        "url": "/sight/turin1433/74316.html"
+      },
+      {
+        "cname": "埃及博物馆",
+        "url": "/sight/turin1433/74320.html"
+      }
+    ],
+    "url": "/sightlist/turin1433.html"
+  },
+  {
+    "cname": "穆拉诺",
+    "suggest_places": [
+      {
+        "cname": "玻璃博物馆",
+        "url": "/sight/murano48303/134141.html"
+      },
+      {
+        "cname": "多纳托教堂",
+        "url": "/sight/murano48303/134142.html"
+      },
+      {
+        "cname": "Vetreria Artistica Colleoni snc ",
+        "url": "/sight/murano48303/134383.html"
+      },
+      {
+        "cname": "Calle San Cipriano",
+        "url": "/sight/murano48303/134394.html"
+      },
+      {
+        "cname": "Nuova Venier Glassworks ",
+        "url": "/sight/murano48303/134393.html"
+      }
+    ],
+    "url": "/sightlist/murano48303.html"
+  },
+  {
+    "cname": "卡塔尼亚",
+    "suggest_places": [
+      {
+        "cname": "卡塔尼亚",
+        "url": "/sight/catania734/133505.html"
+      },
+      {
+        "cname": "圣阿加塔大教堂",
+        "url": "/sight/catania734/1506017.html"
+      }
+    ],
+    "url": "/sightlist/catania734.html"
+  },
+  {
+    "cname": "里米尼",
+    "suggest_places": [],
+    "url": "/sightlist/rimini1120.html"
+  },
+  {
+    "cname": "帕多瓦",
+    "suggest_places": [],
+    "url": "/sightlist/padua1616.html"
+  },
+  {
+    "cname": "卡利亚里",
+    "suggest_places": [],
+    "url": "/sightlist/cagliari5359.html"
+  },
+  {
+    "cname": "陶尔米纳",
+    "suggest_places": [
+      {
+        "cname": "陶尔米纳",
+        "url": "/sight/taormina1647/135506.html"
+      }
+    ],
+    "url": "/sightlist/taormina1647.html"
+  },
+  {
+    "cname": "Tirano",
+    "suggest_places": [],
+    "url": "/sightlist/tirano47797.html"
+  },
+  {
+    "cname": "普拉托",
+    "suggest_places": [],
+    "url": "/sightlist/prato1547.html"
+  },
+  {
+    "cname": "Ceglie Messapica",
+    "suggest_places": [],
+    "url": "/sightlist/cegliemessapica7639.html"
+  },
+  {
+    "cname": "Massafra",
+    "suggest_places": [
+      {
+        "cname": "奔富",
+        "url": "/sight/massafra7640/96835.html"
+      }
+    ],
+    "url": "/sightlist/massafra7640.html"
+  },
+  {
+    "cname": "Ne",
+    "suggest_places": [
+      {
+        "cname": "Chelsea Market",
+        "url": "/sight/ne7781/122894.html"
+      },
+      {
+        "cname": "仙人掌花园",
+        "url": "/sight/ne7781/123062.html"
+      }
+    ],
+    "url": "/sightlist/ne7781.html"
+  }
+]

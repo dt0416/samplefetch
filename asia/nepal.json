@@ -1,0 +1,710 @@
+[
+  {
+    "cname": "加德满都",
+    "url": "http://you.ctrip.com/sightlist/kathmandu482.html",
+    "places": [
+      {
+        "cname": "加德满都杜巴广场",
+        "url": "/sight/kathmandu482/19241.html",
+        "s_img": "http://p.chanyouji.cn/60628/1375889376700p181cmah9u1i1pt0l9u9c2kag2n.jpg?imageView/1/w/220/h/140",
+        "caddress": "Layaku, Kathmandu 44600"
+      },
+      {
+        "cname": "泰米尔区",
+        "url": "/sight/kathmandu482/30012.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/763/404/895/a1974589d4b94ffba70bd6ca9fbb6aef_C_220_140.jpg",
+        "caddress": "Thamel, Kathmandu"
+      },
+      {
+        "cname": "博达哈大佛塔",
+        "url": "/sight/kathmandu482/19848.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/228/593/677/57227c4de1c7488f93ec8e237a32c014_C_220_140.jpg",
+        "caddress": "Boudhanath (Boudha), Kathmandu"
+      },
+      {
+        "cname": "帕坦杜巴广场",
+        "url": "/sight/patan24661/50451.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/198/365/381/56953b19144a4825802eaa30c4110333_C_220_140.jpg",
+        "caddress": "Mangal Bazaar, Patan 44700"
+      },
+      {
+        "cname": "库玛丽女神庙",
+        "url": "/sight/kathmandu482/19840.html",
+        "s_img": "http://p.chanyouji.cn/1374987909/00000000-0000-0000-0000-000000000156.jpg?imageView/1/w/220/h/140",
+        "caddress": "Kumari House, Layaku Marg, 44600"
+      },
+      {
+        "cname": "帕斯帕提那寺",
+        "url": "/sight/kathmandu482/19847.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/764/227/122/de27bae7e07a421ea964d226b9e49a6a_C_220_140.jpg",
+        "caddress": "Pashupati Nath Road, Kathmandu"
+      },
+      {
+        "cname": "斯瓦扬布纳寺",
+        "url": "/sight/kathmandu482/50257.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/689/029/786/fb1884adbe924ef39627965f835ea56f_C_220_140.jpg",
+        "caddress": "Swayambhu, Kathmandu 44600"
+      },
+      {
+        "cname": "梦想花园",
+        "url": "/sight/kathmandu482/133913.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/188/262/953/bbd9f13229b448008b61332a663ba53b_C_220_140.jpg",
+        "caddress": "Kesharmahal Marga Kathmandu 44600"
+      },
+      {
+        "cname": "独木庙",
+        "url": "/sight/kathmandu482/19246.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/767/848/288/236ab114c6874228a32ad964fd229b10_C_220_140.jpg",
+        "caddress": "Paropakar Marga， Kathmandu 44600"
+      },
+      {
+        "cname": "纳拉扬神庙",
+        "url": "/sight/kathmandu482/133882.html",
+        "s_img": "http://m.chanyouji.cn/attractions/36006.jpg?imageView/1/w/220/h/140",
+        "caddress": "Durbar Square, Kathmandu"
+      },
+      {
+        "cname": "帕坦博物馆",
+        "url": "/sight/patan24661/19864.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/270/269/819/8d2fb1c3b9514925acd9744317b367b7_C_220_140.jpg",
+        "caddress": "Royal Palace Complex | Durbar Marg, Patan (Lalitpur), Nepal"
+      },
+      {
+        "cname": "塔莱珠女神庙",
+        "url": "/sight/kathmandu482/136743.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/561/138/542/624e674488ab4d2d89c7ba27d9578f42_C_220_140.jpg",
+        "caddress": "Durbar Square, Kathmandu"
+      },
+      {
+        "cname": "纳拉扬希蒂王宫博物馆",
+        "url": "/sight/kathmandu482/133909.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/421/153/832/1131a3fe71a74b3b96af82d67e37db96_C_220_140.jpg",
+        "caddress": "Kanti Path, Kathmandu 44600"
+      },
+      {
+        "cname": "尼泊尔国家博物馆",
+        "url": "/sight/kathmandu482/133923.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/533/801/474/403111c91df24cca83fdb82ce3a8cf8c_C_220_140.jpg",
+        "caddress": "Chhauni, Kathmandu"
+      },
+      {
+        "cname": "哈努曼多卡宫",
+        "url": "/sight/kathmandu482/133899.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/185/268/964/c3f3d4406f1447f59354958e5c7d6b3b_C_220_140.jpg",
+        "caddress": "Ganga Path, Kathmandu 44600"
+      },
+      {
+        "cname": "阿育王比纳亚克寺",
+        "url": "/sight/kathmandu482/137613.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/173/969/218/0ca8edb7f68f47cb994c6332fad1e21c_C_220_140.jpg",
+        "caddress": "Ashok Binayak Marg, Kathmandu 44600"
+      },
+      {
+        "cname": "黑贝拉伯",
+        "url": "/sight/kathmandu482/137596.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/392/983/743/ec40dc7f43094ad58104a3629e7c89a6_C_220_140.jpg",
+        "caddress": "Hanuman Dhoka Rd, Kathmandu 44600"
+      },
+      {
+        "cname": "湿婆-帕尔瓦蒂庙",
+        "url": "/sight/kathmandu482/133888.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/482/815/165/6e9668c67e054c16928f0bb3b9438de0_C_220_140.jpg",
+        "caddress": "Khauma Tol, Bhaktapur 44800"
+      },
+      {
+        "cname": "贾格纳神庙 ",
+        "url": "/sight/kathmandu482/1416344.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M04/27/C6/CghzgVTcTfuAIO64AAHAWcNPOkg897_C_220_140.jpg",
+        "caddress": "Hanuman Dhoka Rd, Kathmandu 44600"
+      },
+      {
+        "cname": "卡凯喜瓦寺庙",
+        "url": "/sight/kathmandu482/1416390.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/795/838/603/03e3ae8b9b3d428c9b3308ca9264c7b2_C_220_140.jpg",
+        "caddress": "Hanuman Dhoka Rd, Kathmandu 44600"
+      },
+      {
+        "cname": "大钟",
+        "url": "/sight/kathmandu482/133873.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/969/786/278/0ce1da18c82f44f5bd8e2fb7ab393841_C_220_140.jpg",
+        "caddress": "Siddhidas Marg, Kathmandu 44600"
+      },
+      {
+        "cname": "比姆森塔",
+        "url": "/sight/kathmandu482/133908.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/967/574/739/61069d1fa0d344ef94f444b608dcf26e_C_220_140.jpg",
+        "caddress": "Te Bahal, Kathmandu"
+      },
+      {
+        "cname": "大鼓",
+        "url": "/sight/kathmandu482/1416603.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/628/770/377/d71f553177cb403dbb66bc24e8ac9cf5_C_220_140.jpg",
+        "caddress": "Kathmandu Durbar Square, Layaku, Kathmandu"
+      },
+      {
+        "cname": "帕坦皇宫",
+        "url": "/sight/patan24661/19858.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/637/760/925/ac27a0bc1a3b405aba02481f7afc6c7d_C_220_140.jpg",
+        "caddress": "帕坦杜巴广场东部"
+      },
+      {
+        "cname": "自然史博物馆",
+        "url": "/sight/kathmandu482/133926.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/456/784/f7c303e4a16a42419096ece361e3694f_C_220_140.jpg",
+        "caddress": "Around Swayambhunath"
+      },
+      {
+        "cname": "巴斯塔普塔",
+        "url": "/sight/kathmandu482/1416587.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/703/381/298/89471f314e8b4f279315b5931fc49ab4_C_220_140.jpg",
+        "caddress": "Pachpanna Jhyale Durbar, Jhochhen Rd"
+      },
+      {
+        "cname": "特里布文博物馆",
+        "url": "/sight/kathmandu482/133902.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/878/258/922/125a8fea10a343b499c56198a1344d8a_C_220_140.jpg",
+        "caddress": "Hanuman Dhoka Palace, Kathmandu Durbar Square"
+      },
+      {
+        "cname": "普拉塔普马拉国王雕像柱",
+        "url": "/sight/kathmandu482/1416352.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/037/328/370/d0eb93767cb145e8aca69d9ff80d6b2d_C_220_140.jpg",
+        "caddress": "Kanti Path, Kathmandu 44600"
+      },
+      {
+        "cname": "巴格沃蒂庙",
+        "url": "/sight/kathmandu482/1416327.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/011/101/486/5174e015d459458aa2f1f867feb2457d_C_220_140.jpg",
+        "caddress": "Handigaon, Kathmandu 44600"
+      },
+      {
+        "cname": "黑天庙",
+        "url": "/sight/kathmandu482/1416573.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/695/149/674/c3c45a83fe724f0882c36edfd8fcc839_C_220_140.jpg",
+        "caddress": "Jwagal, Patan 44600"
+      },
+      {
+        "cname": "玛卢路",
+        "url": "/sight/kathmandu482/1416426.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/617/636/697/30f07ba5e2444df6aa4ecde2ae8c7fd9_C_220_140.jpg",
+        "caddress": "Bhimsenthan, Kathmandu 44600"
+      },
+      {
+        "cname": "因陀罗神庙",
+        "url": "/sight/kathmandu482/1416579.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/935/930/805/609b27869948447d8e27c1736d691288_C_220_140.jpg",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "白巴伊拉布",
+        "url": "/sight/kathmandu482/1416342.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/742/149/473/8195c1f8cb384fafa4e569924bf70158_C_220_140.jpg",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "加德辛布佛塔",
+        "url": "/sight/kathmandu482/1416598.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/528/523/005/6d4663ff03664cbaa882d63603aa8b23_C_220_140.jpg",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "罗罕宫院",
+        "url": "/sight/kathmandu482/1416436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/750/763/810/39b27f5cb0504fce9b938d99cc3ac08b_C_220_140.jpg",
+        "caddress": "Ganga Path, Kathmandu 44600"
+      },
+      {
+        "cname": "科特广场",
+        "url": "/sight/kathmandu482/1416381.html",
+        "s_img": "",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "尼泊尔军事博物馆",
+        "url": "/sight/kathmandu482/1416351.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/296/735/173/445d110c52fc4982bff2459ad807adfb_C_220_140.jpg",
+        "caddress": "Chhauni Road, Kathmandu 44600"
+      },
+      {
+        "cname": "达克辛卡利神庙",
+        "url": "/sight/kathmandu482/1416353.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/268/287/136/8cd192ce6a9a491c8dbf8a07c81813bf_C_220_140.jpg",
+        "caddress": "Dakshinkali 44600"
+      },
+      {
+        "cname": "公园画廊",
+        "url": "/sight/kathmandu482/1416326.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/394/519/504/80f5fb3cd6744ade8dcfbf44e853a1ea_C_220_140.jpg",
+        "caddress": "Opposite to the Fire Brigade Road, Patan 44600"
+      },
+      {
+        "cname": "玛珠庙",
+        "url": "/sight/kathmandu482/1416568.html",
+        "s_img": "",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "王后湖",
+        "url": "/sight/kathmandu482/1416567.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/033/370/862/a47107cc8e8445db982e3f02d5a83c11_C_220_140.jpg",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "圣毗湿奴神庙",
+        "url": "/sight/kathmandu482/1416613.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/606/635/128/9173b60ce2b04dcd8d3a8ac69672192d_C_220_140.jpg",
+        "caddress": "Layaku, Kathmandu 44600"
+      },
+      {
+        "cname": "纳拉夫人神庙",
+        "url": "/sight/kathmandu482/1416391.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/355/174/174/1b5fc74e7e454a529770e4cb1af685cb_C_220_140.jpg",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "奇异街",
+        "url": "/sight/kathmandu482/1416566.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/645/709/328/32514707f1864077abb6e58b467e64f9_C_220_140.jpg",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "巴拉珠水上花园",
+        "url": "/sight/kathmandu482/133929.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/577/895/318/b9174b79a8794d65846d0fba6fcf5a6d_C_220_140.jpg",
+        "caddress": "Balaju, Kathmandu 44600"
+      },
+      {
+        "cname": "因陀罗广场",
+        "url": "/sight/kathmandu482/133905.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/763/636/793/aac180ddb3cc4ffaba2b24f59385e92c_C_220_140.jpg",
+        "caddress": "Chokchya Galli 29 Kathmandu 44600"
+      },
+      {
+        "cname": "火葬台",
+        "url": "/sight/kathmandu482/1416572.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/763/193/325/54d5335f9e1f42199412fbec5d10d675_C_220_140.jpg",
+        "caddress": "Teku, Pachali Bhairav, KTM, Nepal, Ward -12, Kathmandu"
+      },
+      {
+        "cname": "玛哈德喜瓦神庙",
+        "url": "/sight/kathmandu482/1416605.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/751/279/586/1e198f0e430a41f19e1f8d37dac47892_C_220_140.jpg",
+        "caddress": "Kathmandu 44600"
+      },
+      {
+        "cname": "阿山广场",
+        "url": "/sight/kathmandu482/133907.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/753/424/529/b08726ee564041f88d3269137cb265bc_C_220_140.jpg",
+        "caddress": "Chittadhar Marg, Kathmandu 44600"
+      },
+      {
+        "cname": "乔琴街",
+        "url": "/sight/kathmandu482/134019.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/929/418/863/eb581e7dd3d544699cf4ca0e2147e2e0_C_220_140.jpg",
+        "caddress": "Jhochhen Rd, Kathmandu, Central Region"
+      },
+      {
+        "cname": "马亨德拉国王纪念博物馆",
+        "url": "/sight/kathmandu482/133903.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/610/004/156/b26cd148c77c4ddd8e53b55a814105a2_C_220_140.jpg",
+        "caddress": "Ganga Path Kathmandu 44600"
+      },
+      {
+        "cname": "白麦群卓拿神庙",
+        "url": "/sight/kathmandu482/133906.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/626/929/953/dc8cd258713d4e16ba88e8de9e11c433_C_220_140.jpg",
+        "caddress": "Indra Chowk Kathmandu 44600"
+      },
+      {
+        "cname": "奇昌德拉寺院",
+        "url": "/sight/kathmandu482/133930.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/143/185/565/c45ff4c20f26476395443c8e943d50ac_C_220_140.jpg",
+        "caddress": "Gangalal Marga Kathmandu 44600"
+      },
+      {
+        "cname": "拿梭宫院",
+        "url": "/sight/kathmandu482/1416389.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/402/102/917/eb195736e3a94afaac6e22b5f134ae88_C_220_140.jpg",
+        "caddress": "Ganga Path, Kathmandu 44600"
+      }
+    ]
+  },
+  {
+    "cname": "博卡拉",
+    "url": "http://you.ctrip.com/sightlist/pokhara597.html",
+    "places": [
+      {
+        "cname": "费瓦湖",
+        "url": "/sight/pokhara597/137594.html",
+        "s_img": "http://p.chanyouji.cn/171321/1413082209325p194142mcphso170f19g61fe81ljj1p.jpg?imageView/1/w/220/h/140",
+        "caddress": "Phewa Lake, Pokhara 33700"
+      },
+      {
+        "cname": "鱼尾峰",
+        "url": "/sight/pokhara597/136678.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/746/573/173/06f9d91e0a204fc1a7626ac6f283f0ea_C_220_140.jpg",
+        "caddress": "Machhapuchhre, Kaski"
+      },
+      {
+        "cname": "世界和平塔",
+        "url": "/sight/pokhara597/133959.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/209/462/104/150718a5f462484a8a195c4e4fe1fef4_C_220_140.jpg",
+        "caddress": "World Peace Pagoda, Kaski"
+      },
+      {
+        "cname": "萨朗科",
+        "url": "/sight/pokhara597/1410412.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/818/372/510/f419a252fb8342dd967509591b684795_C_220_140.jpg",
+        "caddress": "博卡拉西北部"
+      },
+      {
+        "cname": "大卫瀑布",
+        "url": "/sight/pokhara597/19871.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/119/753/325/366bd039419b470bab0f6055d8c2cc19_C_220_140.jpg",
+        "caddress": "Davis Falls, Shital Path, Pokhara 33700"
+      },
+      {
+        "cname": "安娜普尔娜峰",
+        "url": "/sight/pokhara597/137592.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/351/560/314/615f1549128c4a46bac4ed86c21b896e_C_220_140.jpg",
+        "caddress": "Ghandruk 33700"
+      },
+      {
+        "cname": "夏克蒂女神庙",
+        "url": "/sight/pokhara597/136699.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/612/141/523/a4323d5a35924de5a3b49501b6f4b0e2_C_220_140.jpg",
+        "caddress": "位于费瓦湖的湖心岛"
+      },
+      {
+        "cname": "布恩山",
+        "url": "/sight/pokhara597/30033.html",
+        "s_img": "http://m.chanyouji.cn/attractions/156098.jpg?imageView/1/w/220/h/140",
+        "caddress": "Poon Hill, Poon Hill Marga, Dhawalagiri, Western Region 33711尼泊尔"
+      },
+      {
+        "cname": "博卡拉老城",
+        "url": "/sight/pokhara597/30181.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158394.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      },
+      {
+        "cname": "Ghorepani",
+        "url": "/sight/pokhara597/30035.html",
+        "s_img": "http://p.chanyouji.cn/28574/1363672233054p17m0iqs6f5l4gtqvotvpmjfi1b.jpg?imageView/1/w/220/h/140",
+        "caddress": "Poon Hill Marga, 33711"
+      },
+      {
+        "cname": "古谱特什瓦尔·玛哈德布洞穴",
+        "url": "/sight/pokhara597/133949.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/174/952/381/032f83e583e847cf9c36f8fd475e76b4_C_220_140.jpg",
+        "caddress": "Gupteshwor Mahadev Cave, Pokhara, Western Region"
+      },
+      {
+        "cname": "贝格纳斯湖",
+        "url": "/sight/pokhara597/133950.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/340/205/040/3879d149f4774a1cae9b5d40075b056c_C_220_140.jpg",
+        "caddress": "Begnas Tal, Lekhnath, Western Region"
+      },
+      {
+        "cname": "企鹅池",
+        "url": "/sight/pokhara597/133972.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/754/278/60d057da0b9041d39ca1948f68e24b56_C_220_140.jpg",
+        "caddress": "Hemja, 33700"
+      },
+      {
+        "cname": "巴拉赫寺",
+        "url": "/sight/pokhara597/19870.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/614/307/736/1f1382a671624de9858bd8d293b0839c_C_220_140.jpg",
+        "caddress": "Tal Barahi Temple, Pokhara, Western Region"
+      },
+      {
+        "cname": "廓尔喀杜巴",
+        "url": "/sight/pokhara597/19872.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/654/638/557/ab5c8919e0b04e78aaa51c50c226e306_C_220_140.jpg",
+        "caddress": "Durbar Heliport, Gorkha, Western Region"
+      },
+      {
+        "cname": "Ghandruk",
+        "url": "/sight/pokhara597/30034.html",
+        "s_img": "http://p.chanyouji.cn/28574/1363672152881p17m0iqs6f1qtn1lfb1nq05tbq66v.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      },
+      {
+        "cname": "国际山岳博物馆",
+        "url": "/sight/pokhara597/133947.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/768/097/345/4cc1e87777fa422eac62bfcc0637e29e_C_220_140.jpg",
+        "caddress": "International Mountain Museum, Pokhara, Western Region"
+      },
+      {
+        "cname": "塞蒂河",
+        "url": "/sight/pokhara597/133946.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/742/049/512/5872328ffebc41d0afbfacea328ff9cf_C_220_140.jpg",
+        "caddress": "Seti Gandaki River, Pokhara, Western Region"
+      },
+      {
+        "cname": "花之家",
+        "url": "/sight/pokhara597/133963.html",
+        "s_img": "",
+        "caddress": "Hana No Ie Agro Resort, Gandaki, Western Region"
+      },
+      {
+        "cname": "蝙蝠洞",
+        "url": "/sight/pokhara597/1482473.html",
+        "s_img": "",
+        "caddress": "Bat Cave, Pokhara, Western Region"
+      },
+      {
+        "cname": "达希林藏族村",
+        "url": "/sight/pokhara597/1482474.html",
+        "s_img": "",
+        "caddress": "Tashi Ling Tibetan Village, Pokhara, Western Region"
+      },
+      {
+        "cname": "宾杜巴希尼神庙",
+        "url": "/sight/pokhara597/133943.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/757/568/111/d11452f4d71b4fe6858120bfd66283f5_C_220_140.jpg",
+        "caddress": "Pokhara-Baglung Hwy Bindhyabasini, Pokhara"
+      },
+      {
+        "cname": "自然史博物馆",
+        "url": "/sight/pokhara597/133944.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/087/895/824/ca9bd6395b28469a96748ec6e0e29713_C_220_140.jpg",
+        "caddress": "Nadipur Rd Pokhara 33700, Nepal"
+      },
+      {
+        "cname": "比姆森庙",
+        "url": "/sight/pokhara597/1482482.html",
+        "s_img": "",
+        "caddress": "Ram Krishna Tole Rd, Pokhara 33700"
+      },
+      {
+        "cname": "Naya Pul‎",
+        "url": "/sight/pokhara597/30036.html",
+        "s_img": "http://p.chanyouji.cn/1372853601/2A8F370A-8BCB-4C2A-BE16-12E93A20C03B.jpg?imageView/1/w/220/h/140",
+        "caddress": "Lumle, 尼泊尔 ‎"
+      },
+      {
+        "cname": "塔诗林藏民村",
+        "url": "/sight/pokhara597/133964.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/249/698/280/bb7d146f5b1448d9b84cce0f7ce1bc53_C_220_140.jpg",
+        "caddress": "博卡拉，尼泊尔"
+      },
+      {
+        "cname": "博卡拉地区博物馆",
+        "url": "/sight/pokhara597/133945.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/129/274/039/e9ca063170ff472faeda44e2e9c48523_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "波格辛",
+        "url": "/sight/pokhara597/133961.html",
+        "s_img": "",
+        "caddress": ""
+      },
+      {
+        "cname": "普尔宗温泉",
+        "url": "/sight/pokhara597/133971.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/368/035/525/bc9fd4707d9e4a81bc50bc3dcd9f30f9_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "奇旺",
+    "url": "http://you.ctrip.com/sightlist/chitwan1036.html",
+    "places": [
+      {
+        "cname": "奇旺国家公园",
+        "url": "/sight/chitwan1036/26215.html",
+        "s_img": "http://p.chanyouji.cn/73763/1381321584637p186eiokglcii1u3ommftpm3ee17.jpg?imageView/1/w/220/h/140",
+        "caddress": "Headquarters, Kasara, Chitwan"
+      },
+      {
+        "cname": "塔鲁文化屋",
+        "url": "/sight/chitwan1036/30154.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158105.jpg?imageView/1/w/220/h/140",
+        "caddress": "New Sauraha Tharu Culture House   Bachhauli-2, Sauraha, Chitwan, Nepal, Sauraha +977尼泊尔"
+      },
+      {
+        "cname": "大象饲养中心",
+        "url": "/sight/chitwan1036/30155.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158111.jpg?imageView/1/w/220/h/140",
+        "caddress": "Baadreni Rd Royal Chitwan NP., Bharatpur 44204尼泊尔"
+      }
+    ]
+  },
+  {
+    "cname": "巴德岗",
+    "url": "http://you.ctrip.com/sightlist/bhaktapur24662.html",
+    "places": [
+      {
+        "cname": "巴德岗杜巴广场",
+        "url": "/sight/bhaktapur24662/19855.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/443/433/354/57f220319d144b89afd1fe4685a06909_C_220_140.jpg",
+        "caddress": "Khauma Tol, Bhaktapur 44800"
+      },
+      {
+        "cname": "陶器广场",
+        "url": "/sight/bhaktapur24662/50508.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/470/106/596/5dc2754c0d8b4beba4097859db02a8df_C_220_140.jpg",
+        "caddress": "Talako, Bhaktapur 44800尼泊尔"
+      },
+      {
+        "cname": "55窗宫",
+        "url": "/sight/bhaktapur24662/137590.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/210/981/821/02bd789ef516484db0a59c8ec961f1f3_C_220_140.jpg",
+        "caddress": "Khauma Tol, Bhaktapur 44800（巴德岗杜巴广场内）"
+      },
+      {
+        "cname": "尼亚塔波拉庙",
+        "url": "/sight/bhaktapur24662/137616.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/368/561/bda46efbac314f03928209c64fefb16f_C_220_140.jpg",
+        "caddress": "Khauma Tol, Bhaktapur 44800（巴德岗杜巴广场内）"
+      },
+      {
+        "cname": "巴特萨拉女神庙",
+        "url": "/sight/bhaktapur24662/136744.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M08/88/01/CghzgFTTSLyAT-ZfACJBp0h5XgU555_C_220_140.jpg",
+        "caddress": "Khauma Tol, Bhaktapur 44800（巴德岗杜巴广场内）"
+      }
+    ]
+  },
+  {
+    "cname": "帕坦",
+    "url": "http://you.ctrip.com/sightlist/patan24661.html",
+    "places": [
+      {
+        "cname": "帕坦杜巴广场",
+        "url": "/sight/patan24661/50451.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/198/365/381/56953b19144a4825802eaa30c4110333_C_220_140.jpg",
+        "caddress": "Mangal Bazaar, Patan 44700"
+      },
+      {
+        "cname": "帕坦博物馆",
+        "url": "/sight/patan24661/19864.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/270/269/819/8d2fb1c3b9514925acd9744317b367b7_C_220_140.jpg",
+        "caddress": "Royal Palace Complex | Durbar Marg, Patan (Lalitpur), Nepal"
+      },
+      {
+        "cname": "帕坦皇宫",
+        "url": "/sight/patan24661/19858.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/637/760/925/ac27a0bc1a3b405aba02481f7afc6c7d_C_220_140.jpg",
+        "caddress": "帕坦杜巴广场东部"
+      },
+      {
+        "cname": "坎贝士瓦神庙",
+        "url": "/sight/patan24661/134843.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/535/679/687/b43fcd2ce3494cd28fbacc6c0d3e8118_C_220_140.jpg",
+        "caddress": "Kwalakhu Road Patan 44700, Nepal"
+      },
+      {
+        "cname": "帕坦大觉寺佛塔",
+        "url": "/sight/patan24661/134841.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/177/492/180/bcb8ddda601c47d9b479e05a13cb3fe7_C_220_140.jpg",
+        "caddress": "帕坦杜巴广场的寺院内"
+      },
+      {
+        "cname": "红麦群卓拿神庙",
+        "url": "/sight/patan24661/134842.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/478/134/681/b6b77100c2834c0789e192b2f182133b_C_220_140.jpg",
+        "caddress": "Bungamati 44700 Nepal"
+      },
+      {
+        "cname": "帕坦动物园",
+        "url": "/sight/patan24661/134844.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/849/302/929/dc4a01eb87ab434e84f89b4a84ae4b88_C_220_140.jpg",
+        "caddress": "Jawalakhel, Patan, Nepal"
+      },
+      {
+        "cname": "帕坦黄金庙",
+        "url": "/sight/patan24661/123009.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/509/231/176/a178eb511c4e4c76ba3c0704303ff40c_C_220_140.jpg",
+        "caddress": "North of Durbar Square, Patan (Lalitpur), Nepal"
+      },
+      {
+        "cname": "帕坦黑天神庙",
+        "url": "/sight/patan24661/136763.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/577/464/912/3ac0767050054d67bed9ccff11a39764_C_220_140.jpg",
+        "caddress": "Durbar Marg, Patan (Lalitpur), Nepal"
+      }
+    ]
+  },
+  {
+    "cname": "纳加阔特",
+    "url": "http://you.ctrip.com/sightlist/nagarkot1198.html",
+    "places": [
+      {
+        "cname": "纳加阔特",
+        "url": "/sight/nagarkot1198/19866.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/205/836/892/ed1174c96bed483fb050fbe843aef79b_C_220_140.jpg",
+        "caddress": "加德满都以东约32公里处"
+      }
+    ]
+  },
+  {
+    "cname": "蓝毗尼",
+    "url": "http://you.ctrip.com/sightlist/lumbini1330.html",
+    "places": [
+      {
+        "cname": "蓝毗尼",
+        "url": "/sight/lumbini1330/146237.html",
+        "s_img": "http://m.chanyouji.cn/attractions/90965.jpg?imageView/1/w/220/h/140",
+        "caddress": "尼泊尔蓝毗尼"
+      },
+      {
+        "cname": "蓝毗尼中华寺",
+        "url": "/sight/lumbini1330/30147.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158065.jpg?imageView/1/w/220/h/140",
+        "caddress": "Vishnupura Rd Lumbini Development Trust 32900尼泊尔"
+      },
+      {
+        "cname": "蓝毗尼博物馆",
+        "url": "/sight/lumbini1330/30152.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158082.jpg?imageView/1/w/220/h/140",
+        "caddress": "Taulihawa Rd Lumbini Development Trust 32900尼泊尔"
+      },
+      {
+        "cname": "阿育王柱",
+        "url": "/sight/lumbini1330/30149.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158071.jpg?imageView/1/w/220/h/140",
+        "caddress": "Lumbini Development Trust 32900尼泊尔"
+      },
+      {
+        "cname": "摩耶夫人祠",
+        "url": "/sight/lumbini1330/30150.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158072.jpg?imageView/1/w/220/h/140",
+        "caddress": "Taulihawa Rd, Lumbini Development Trust 32800尼泊尔"
+      },
+      {
+        "cname": "蓝毗尼韩国寺",
+        "url": "/sight/lumbini1330/30148.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158066.jpg?imageView/1/w/220/h/140",
+        "caddress": "Vishnupura Rd Lumbini Development Trust 32900尼泊尔"
+      },
+      {
+        "cname": "蓝毗尼泰国寺",
+        "url": "/sight/lumbini1330/30153.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158084.jpg?imageView/1/w/220/h/140",
+        "caddress": "Unnamed Rd Lumbini Development Trust 32900尼泊尔"
+      },
+      {
+        "cname": "蓝毗尼德国寺",
+        "url": "/sight/lumbini1330/30151.html",
+        "s_img": "http://m.chanyouji.cn/attractions/158074.jpg?imageView/1/w/220/h/140",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "昆布",
+    "url": "http://you.ctrip.com/sightlist/khumbu24653.html",
+    "places": [
+      {
+        "cname": "萨加玛塔国家公园",
+        "url": "/sight/khumbu24653/19865.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M05/0B/37/CghzflSx8dWAfDNyAAQPlPQdvFw932_C_220_140.jpg",
+        "caddress": "尼泊尔喜马拉雅山区，首都加德满都东北的索洛--昆布地区"
+      }
+    ]
+  }
+]

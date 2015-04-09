@@ -1,0 +1,464 @@
+[
+  {
+    "cname": "耶路撒冷",
+    "url": "http://you.ctrip.com/sightlist/jerusalem552.html",
+    "places": [
+      {
+        "cname": "哭墙",
+        "url": "/sight/jerusalem552/18519.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/392/183/562/e986812c44d94ad59e1e9f189e445515_C_220_140.jpg",
+        "caddress": "HaKotel HaMa'aravi, Yerushalayim"
+      },
+      {
+        "cname": "橄榄山",
+        "url": "/sight/jerusalem552/18522.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/202/078/289/dcfaec4a8f144834987f78bb73c4c718_C_220_140.jpg",
+        "caddress": "Mount of Olives Road, east of Jerusalem, Jerusalem"
+      },
+      {
+        "cname": "圣墓教堂",
+        "url": "/sight/jerusalem552/78733.html",
+        "s_img": "http://p.chanyouji.cn/132771/1403535894197p18r4k43q01gk1vvt180p1one1chl3.jpg?imageView/1/w/220/h/140",
+        "caddress": "Suq Khan e-Zeit and Christian Quarter Rd. | Armenian Quarter, Jerusalem"
+      },
+      {
+        "cname": "圣殿山",
+        "url": "/sight/jerusalem552/139509.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/274/687/403/12e6d6198db5493498ca918707f6d393_C_220_140.jpg",
+        "caddress": "Temple Mount, West Bank, Jerusalem"
+      },
+      {
+        "cname": "苦路",
+        "url": "/sight/jerusalem552/78731.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/938/573/537/cb53d8f9eb534488bb5262882e643139_C_220_140.jpg",
+        "caddress": "Via Dolorosa"
+      },
+      {
+        "cname": "以色列犹太大屠杀纪念馆",
+        "url": "/sight/jerusalem552/18517.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/599/190/163/dd8320b9acfa4db59c4ee2aa2be1383d_C_220_140.jpg",
+        "caddress": "Yad Vashem, Har Hazikaron P.O.B. 3477 Jerusalem 9103401"
+      },
+      {
+        "cname": "伯利恒圣诞教堂",
+        "url": "/sight/jerusalem552/78729.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/357/971/075/debcb010d7134a59bb19cff71a0be061_C_220_140.jpg",
+        "caddress": "Church of the Nativity, Bethlehem, Jerusalem"
+      },
+      {
+        "cname": "锡安山",
+        "url": "/sight/jerusalem552/18523.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/222/091/639/38476cf7c4274879ae05915faa185ff2_C_220_140.jpg",
+        "caddress": "位于耶路撒冷以南"
+      },
+      {
+        "cname": "大马士革门",
+        "url": "/sight/jerusalem552/140171.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/683/917/232/d6b732058e484ee093c5a5071a99079e_C_220_140.jpg",
+        "caddress": "Old City Muslim Quarter"
+      },
+      {
+        "cname": "万国教堂",
+        "url": "/sight/jerusalem552/78727.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/055/676/754/ae0afd94ea5646278e76db7b6570e348_C_220_140.jpg",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "圆顶清真寺",
+        "url": "/sight/jerusalem552/18520.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/274/653/421/befd3b72e1ef4932be8aa40644489d75_C_220_140.jpg",
+        "caddress": "Temple Mount (Haram al-Sharif), Jerusalem, Israel"
+      },
+      {
+        "cname": "大卫王墓",
+        "url": "/sight/jerusalem552/138574.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/948/068/924/0a0ad59edad144aca28a3583ce2505e8_C_220_140.jpg",
+        "caddress": "锡安山上"
+      },
+      {
+        "cname": "客西马尼园",
+        "url": "/sight/jerusalem552/139501.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/141/872/010/6df9917d8ff24759bd9e5590b6de5f71_C_220_140.jpg",
+        "caddress": "Garden of Gethsemane, Derekh Yerikho"
+      },
+      {
+        "cname": "马可楼",
+        "url": "/sight/jerusalem552/139504.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/883/331/565/e2105f06557143c59f02568dc4bbd44d_C_220_140.jpg",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "昆兰",
+        "url": "/sight/jerusalem552/134341.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/704/954/465/d9a9e47699064149aefb186ca2431f54_C_220_140.jpg",
+        "caddress": "Wadi Qumran, Israel"
+      },
+      {
+        "cname": "主泣教堂",
+        "url": "/sight/jerusalem552/134435.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/541/654/095/14f52d8c6bef4ce7a127c81ed5ce603b_C_220_140.jpg",
+        "caddress": "耶路撒冷老城以东，橄榄山上"
+      },
+      {
+        "cname": "大卫城塔",
+        "url": "/sight/jerusalem552/18518.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/458/675/050/13d251abf01d4bc0bf7f5ef03186cc6e_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "鸡鸣堂",
+        "url": "/sight/jerusalem552/139500.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/540/621/425/faeef6f60b9c4ce481a19e2a11857b05_C_220_140.jpg",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "以色列博物馆",
+        "url": "/sight/jerusalem552/18516.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/672/070/497/332073480ea340d8a7903e6eebc6610a_C_220_140.jpg",
+        "caddress": "Givat Ram | Ruppin Rd., Jerusalem, Israel"
+      },
+      {
+        "cname": "马撒达古堡",
+        "url": "/sight/jerusalem552/18513.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/527/435/612/d5509e6988a24cb5af12f5e16e4a3c61_C_220_140.jpg",
+        "caddress": "Road 90, Ein Gedi, Israel"
+      },
+      {
+        "cname": "阿克萨清真寺",
+        "url": "/sight/jerusalem552/18521.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/990/359/bd3711de01c2402ab9a126e3e6f55eb7_C_220_140.jpg",
+        "caddress": "Jerusalem（以色列东北部）"
+      },
+      {
+        "cname": "圣母安眠堂",
+        "url": "/sight/jerusalem552/1410128.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/953/739/775/f13cf1dcb53d44bfb1af1a49de76a320_C_220_140.jpg",
+        "caddress": "Hagia Maria Sion Abbey, Jerusalem"
+      },
+      {
+        "cname": "巴地尔村",
+        "url": "/sight/jerusalem552/1508540.html",
+        "s_img": "",
+        "caddress": "Battir Southern Jerusalem"
+      },
+      {
+        "cname": "粪厂门",
+        "url": "/sight/jerusalem552/1508554.html",
+        "s_img": "",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "古罗马集市遗址",
+        "url": "/sight/jerusalem552/1508677.html",
+        "s_img": "",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "汲沦谷",
+        "url": "/sight/jerusalem552/1508647.html",
+        "s_img": "",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "金门",
+        "url": "/sight/jerusalem552/1508903.html",
+        "s_img": "",
+        "caddress": "Zion Gate"
+      },
+      {
+        "cname": "抹大拉的玛利亚教堂",
+        "url": "/sight/jerusalem552/1508671.html",
+        "s_img": "",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "狮门",
+        "url": "/sight/jerusalem552/1508648.html",
+        "s_img": "",
+        "caddress": "Sha'arei Khesed St 18 Jerusalem"
+      },
+      {
+        "cname": "希律门",
+        "url": "/sight/jerusalem552/1508681.html",
+        "s_img": "",
+        "caddress": "مافو بيتار 1-11"
+      },
+      {
+        "cname": "锡安门",
+        "url": "/sight/jerusalem552/1508713.html",
+        "s_img": "",
+        "caddress": "Old City"
+      },
+      {
+        "cname": "雅法门",
+        "url": "/sight/jerusalem552/1508921.html",
+        "s_img": "",
+        "caddress": "Old City"
+      },
+      {
+        "cname": "主祷文教堂",
+        "url": "/sight/jerusalem552/1508498.html",
+        "s_img": "",
+        "caddress": "הר הזיתים99730"
+      },
+      {
+        "cname": "国会山七烛台",
+        "url": "/sight/jerusalem552/134438.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/549/260/691/ec41de759c664d04b13ebf31ad281376_C_220_140.jpg",
+        "caddress": "耶路撒冷国会山上"
+      },
+      {
+        "cname": "大卫墓",
+        "url": "/sight/jerusalem552/1508669.html",
+        "s_img": "",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "路德会救赎主堂",
+        "url": "/sight/jerusalem552/1508652.html",
+        "s_img": "",
+        "caddress": "Jerusalem"
+      },
+      {
+        "cname": "圣若翰洗者主教座堂",
+        "url": "/sight/jerusalem552/1508661.html",
+        "s_img": "",
+        "caddress": "מבוא השער9574200"
+      },
+      {
+        "cname": "升天教堂",
+        "url": "/sight/jerusalem552/1508927.html",
+        "s_img": "",
+        "caddress": "Jerusalem"
+      }
+    ]
+  },
+  {
+    "cname": "特拉维夫",
+    "url": "http://you.ctrip.com/sightlist/telaviv260.html",
+    "places": [
+      {
+        "cname": "雅法老城",
+        "url": "/sight/telaviv260/18531.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/680/623/670/3af054ef77544ed4a77a4bb61458cbfc_C_220_140.jpg",
+        "caddress": "Jaffa Old City, Tel Aviv District"
+      },
+      {
+        "cname": "白城",
+        "url": "/sight/telaviv260/139485.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/645/786/581/884a8d31bba64077a0752730fc2e034e_C_220_140.jpg",
+        "caddress": "White City, Tel Aviv"
+      },
+      {
+        "cname": "拉宾广场",
+        "url": "/sight/telaviv260/78851.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/858/151/843/35be7e3e94a0436c87ae4653dac9a29a_C_220_140.jpg",
+        "caddress": "Tel Aviv"
+      },
+      {
+        "cname": "圣彼得教堂",
+        "url": "/sight/telaviv260/138566.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/251/975/905/7f2111123f5548e28e96b54790aeb64e_C_220_140.jpg",
+        "caddress": "Tel Aviv-Yafo"
+      },
+      {
+        "cname": "贝尔谢巴",
+        "url": "/sight/telaviv260/78850.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/108/366/498/fa7efe09956f46e59cd56f6dbb8e756c_C_220_140.jpg",
+        "caddress": "Beersheba"
+      },
+      {
+        "cname": "本古里安屋子",
+        "url": "/sight/telaviv260/139487.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/017/596/791/f1c5d608b9ff45a196561692d2eeb95d_C_220_140.jpg",
+        "caddress": "Tel Aviv-Yafo"
+      },
+      {
+        "cname": "比亚利克故居",
+        "url": "/sight/telaviv260/139489.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/399/927/020/a749cd9fa1a84aed8ce07216ad5b3bae_C_220_140.jpg",
+        "caddress": "Tel Aviv-Yafo"
+      },
+      {
+        "cname": "哈嘎那博物馆",
+        "url": "/sight/telaviv260/138559.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/138/283/918/129a77c032a04750a8b0d725a5b77421_C_220_140.jpg",
+        "caddress": "Tel Aviv-Yafo"
+      },
+      {
+        "cname": "犹太大流散博物馆",
+        "url": "/sight/telaviv260/138562.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/705/231/601/f0fd39d9d72f414ca22fd9ab7ca87d45_C_220_140.jpg",
+        "caddress": "Tel Aviv University Campus, Klausner Street"
+      },
+      {
+        "cname": "钻石交易中心 ",
+        "url": "/sight/telaviv260/139519.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/645/078/488/3f2452e33c4b40799b7ac7dc9ba2fcf2_C_220_140.jpg",
+        "caddress": "Ramat Gan"
+      },
+      {
+        "cname": "那塔尼亚",
+        "url": "/sight/telaviv260/18530.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/648/337/905/9b87aefae72140839a4f5147b4d3591a_C_220_140.jpg",
+        "caddress": "Netanya"
+      },
+      {
+        "cname": "硝皮匠西蒙旧居",
+        "url": "/sight/telaviv260/139515.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/079/758/508/65e8a0f47f77467eb54ab495d6c670fa_C_220_140.jpg",
+        "caddress": "8 Shimon Ha-Burski St"
+      },
+      {
+        "cname": "特拉维夫大学",
+        "url": "/sight/telaviv260/142602.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/640/868/931/7f10b091b6944067b2988c4a8cddd897_C_220_140.jpg",
+        "caddress": "Haim Levanon 55, Tel Aviv"
+      },
+      {
+        "cname": "特拉维夫艺术博物馆",
+        "url": "/sight/telaviv260/139514.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/623/913/721/dfacebd31e7d4e0999494e6cd5a63017_C_220_140.jpg",
+        "caddress": "27 Sha'ul HaMelech Ave around HaShalom Interchange, Tel Aviv"
+      },
+      {
+        "cname": "钻石博物馆",
+        "url": "/sight/telaviv260/1413543.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/824/179/600/e499001a4c1142f2a8302444b2d7922a_C_220_140.jpg",
+        "caddress": "Ramat Gan"
+      },
+      {
+        "cname": "和平大厦",
+        "url": "/sight/telaviv260/139497.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/815/230/825/1353df4d10bd42d48e50380e37865f9c_C_220_140.jpg",
+        "caddress": "Tel Aviv-Yafo"
+      },
+      {
+        "cname": "埃列兹以色列博物馆",
+        "url": "/sight/telaviv260/138556.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/119/107/809/cf1c613585d5470aacd3b7c7dc3769fb_C_220_140.jpg",
+        "caddress": "Haim Levanon St 2, Tel Aviv-Yafo"
+      }
+    ]
+  },
+  {
+    "cname": "加利利湖",
+    "url": "http://you.ctrip.com/sightlist/galilee1464.html",
+    "places": [
+      {
+        "cname": "加利利湖",
+        "url": "/sight/galilee1464/134396.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/793/965/484/25eaf33fca294285b1edecb7735da4d7_C_220_140.jpg",
+        "caddress": "以色列加利利海"
+      },
+      {
+        "cname": "约旦河洗礼处",
+        "url": "/sight/galilee1464/134437.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/576/157/549/44e26900251e4d6387a33f7236d9e68b_C_220_140.jpg",
+        "caddress": "The Baptismal Site (Bethany beyond the Jordan)"
+      },
+      {
+        "cname": "五饼二鱼堂",
+        "url": "/sight/galilee1464/78822.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/410/802/951/3506e08e3d644b15bfd292d339edfeda_C_220_140.jpg",
+        "caddress": "以色列加利利湖的西北岸，塔布加（Tabgha）境内，靠近迦百农"
+      },
+      {
+        "cname": "迦百农",
+        "url": "/sight/galilee1464/78824.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/021/674/182/37ef4ca9930c45b1a1b4922226eef22f_C_220_140.jpg",
+        "caddress": "以色列加利利湖西北岸，约旦河西五公里处"
+      },
+      {
+        "cname": "拿撒勒",
+        "url": "/sight/galilee1464/134429.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/538/711/408/714ca966b31f4cdb92b179a7b80b8eef_C_220_140.jpg",
+        "caddress": "以色列拿撒勒"
+      },
+      {
+        "cname": "提比利亚",
+        "url": "/sight/galilee1464/134425.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/746/451/441/dc2d24b7e5fb4fbf93af8237bcc7d77c_C_220_140.jpg",
+        "caddress": "以色列北部，加利利湖畔的下加利利地区"
+      },
+      {
+        "cname": "八福教堂",
+        "url": "/sight/galilee1464/78823.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/889/375/208/d9dde3cd416c43db82702c2171fc3ab2_C_220_140.jpg",
+        "caddress": "加利利湖附近的八福山上"
+      },
+      {
+        "cname": "圣彼得献心堂",
+        "url": "/sight/galilee1464/134436.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/712/467/597/6b2fdaa8f61e4166bbe7986a136d145e_C_220_140.jpg",
+        "caddress": "以色列北部，加利利湖北部沿岸"
+      },
+      {
+        "cname": "天主报喜堂",
+        "url": "/sight/galilee1464/78825.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/889/205/952/56f5dad4ef5e43d98e6b51620152e4d0_C_220_140.jpg",
+        "caddress": ""
+      }
+    ]
+  },
+  {
+    "cname": "死海",
+    "url": "http://you.ctrip.com/sightlist/deadsea2008.html",
+    "places": [
+      {
+        "cname": "死海",
+        "url": "/sight/deadsea2008/18514.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/872/059/530/b4fe7569abaa439eb64c714786a4ad2b_C_220_140.jpg",
+        "caddress": "The Dead Sea"
+      }
+    ]
+  },
+  {
+    "cname": "海法",
+    "url": "http://you.ctrip.com/sightlist/haifa2009.html",
+    "places": [
+      {
+        "cname": "巴哈伊花园 ",
+        "url": "/sight/haifa2009/134433.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g1/M06/6E/42/CghzfVTRx-6AUBFhAAFXRivTe1Q951_C_220_140.jpg",
+        "caddress": "以色列海法市的卡梅尔山上"
+      },
+      {
+        "cname": "凯撒利亚",
+        "url": "/sight/haifa2009/138568.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/985/658/632/ba1d75ec2f1b4530bc7e42514775db86_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "凯萨利阿",
+        "url": "/sight/haifa2009/18534.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/266/660/725/47ffc7f82d4849168d6014a642e9e607_C_220_140.jpg",
+        "caddress": ""
+      },
+      {
+        "cname": "迦密山",
+        "url": "/sight/haifa2009/134434.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/376/375/360/74d8f6ae2f044a9c870b3868313f9357_C_220_140.jpg",
+        "caddress": "以色列北部，濒临地中海，海法市东南方向"
+      },
+      {
+        "cname": "阿克古城 ",
+        "url": "/sight/haifa2009/134368.html",
+        "s_img": "",
+        "caddress": "以色列海法以北约30公里处，地中海东岸"
+      }
+    ]
+  },
+  {
+    "cname": "埃拉特",
+    "url": "http://you.ctrip.com/sightlist/eilat1465.html",
+    "places": [
+      {
+        "cname": "埃拉特",
+        "url": "/sight/eilat1465/134333.html",
+        "s_img": "",
+        "caddress": "以色列南部"
+      }
+    ]
+  }
+]

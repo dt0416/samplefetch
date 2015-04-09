@@ -1,0 +1,120 @@
+[
+  {
+    "cname": "德黑兰",
+    "suggest_places": [
+      {
+        "cname": "伊朗国家博物馆",
+        "url": "/sight/tehran949/141541.html"
+      },
+      {
+        "cname": "格列斯坦王宫",
+        "url": "/sight/tehran949/123121.html"
+      },
+      {
+        "cname": "萨德阿巴德王宫",
+        "url": "/sight/tehran949/141537.html"
+      },
+      {
+        "cname": "地毯博物馆",
+        "url": "/sight/tehran949/141986.html"
+      },
+      {
+        "cname": "大巴扎",
+        "url": "/sight/tehran949/141540.html"
+      }
+    ],
+    "url": "/sightlist/tehran949.html"
+  },
+  {
+    "cname": "亚兹德",
+    "suggest_places": [
+      {
+        "cname": "古城",
+        "url": "/sight/yazd24868/1410121.html"
+      },
+      {
+        "cname": "拜火庙",
+        "url": "/sight/yazd24868/141562.html"
+      },
+      {
+        "cname": "贾玛清真寺",
+        "url": "/sight/yazd24868/141557.html"
+      },
+      {
+        "cname": "豆拉塔巴特花园",
+        "url": "/sight/yazd24868/1410119.html"
+      },
+      {
+        "cname": "恰克恰克",
+        "url": "/sight/yazd24868/141559.html"
+      }
+    ],
+    "url": "/sightlist/yazd24868.html"
+  },
+  {
+    "cname": "设拉子",
+    "suggest_places": [
+      {
+        "cname": "波斯波利斯",
+        "url": "/sight/shiraz24875/122913.html"
+      },
+      {
+        "cname": "莫克清真寺",
+        "url": "/sight/shiraz24875/141549.html"
+      },
+      {
+        "cname": "哈菲兹墓",
+        "url": "/sight/shiraz24875/141553.html"
+      },
+      {
+        "cname": "帕萨尔加德",
+        "url": "/sight/shiraz24875/141555.html"
+      },
+      {
+        "cname": "天堂花园",
+        "url": "/sight/shiraz24875/141554.html"
+      }
+    ],
+    "url": "/sightlist/shiraz24875.html"
+  },
+  {
+    "cname": "伊斯法罕",
+    "suggest_places": [
+      {
+        "cname": "伊玛目广场",
+        "url": "/sight/isfahan1661/122858.html"
+      },
+      {
+        "cname": "三十三孔桥",
+        "url": "/sight/isfahan1661/123125.html"
+      },
+      {
+        "cname": "四十柱王宫",
+        "url": "/sight/isfahan1661/141546.html"
+      },
+      {
+        "cname": "伊玛目清真寺",
+        "url": "/sight/isfahan1661/141543.html"
+      },
+      {
+        "cname": "谢赫劳夫清真寺",
+        "url": "/sight/isfahan1661/141544.html"
+      }
+    ],
+    "url": "/sightlist/isfahan1661.html"
+  },
+  {
+    "cname": "卡尚",
+    "suggest_places": [
+      {
+        "cname": "布鲁杰尔迪古宅",
+        "url": "/sight/kashan24866/1409957.html"
+      },
+      {
+        "cname": "费恩庭园",
+        "url": "/sight/kashan24866/1409958.html"
+      }
+    ],
+    "url": "/sightlist/kashan24866.html"
+  }
+]

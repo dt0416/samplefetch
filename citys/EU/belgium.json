@@ -1,0 +1,102 @@
+[
+  {
+    "cname": "布鲁塞尔",
+    "suggest_places": [
+      {
+        "cname": "布鲁塞尔大广场",
+        "url": "/sight/brussels298/18508.html"
+      },
+      {
+        "cname": "布鲁塞尔",
+        "url": "/sight/brussels298/135635.html"
+      },
+      {
+        "cname": "布鲁塞尔原子塔 ",
+        "url": "/sight/brussels298/18498.html"
+      },
+      {
+        "cname": "撒尿小童  ",
+        "url": "/sight/brussels298/18505.html"
+      },
+      {
+        "cname": "圣米歇尔及圣古都勒大教堂",
+        "url": "/sight/brussels298/18526.html"
+      }
+    ],
+    "url": "/sightlist/brussels298.html"
+  },
+  {
+    "cname": "布鲁日",
+    "suggest_places": [
+      {
+        "cname": "布鲁日市政厅",
+        "url": "/sight/bruges1474/135626.html"
+      },
+      {
+        "cname": "圣血教堂",
+        "url": "/sight/bruges1474/135628.html"
+      },
+      {
+        "cname": "比根修道院",
+        "url": "/sight/bruges1474/137222.html"
+      },
+      {
+        "cname": "蒙林博物馆",
+        "url": "/sight/bruges1474/135620.html"
+      },
+      {
+        "cname": "巧克力博物馆",
+        "url": "/sight/bruges1474/135632.html"
+      }
+    ],
+    "url": "/sightlist/bruges1474.html"
+  },
+  {
+    "cname": "安特卫普",
+    "suggest_places": [
+      {
+        "cname": "钻石博物馆",
+        "url": "/sight/antwerp1029/25986.html"
+      },
+      {
+        "cname": "鲁本斯故居",
+        "url": "/sight/antwerp1029/25983.html"
+      },
+      {
+        "cname": "大广场",
+        "url": "/sight/antwerp1029/25981.html"
+      },
+      {
+        "cname": "圣母主教座堂",
+        "url": "/sight/antwerp1029/25985.html"
+      },
+      {
+        "cname": "安特卫普",
+        "url": "/sight/antwerp1029/137220.html"
+      }
+    ],
+    "url": "/sightlist/antwerp1029.html"
+  },
+  {
+    "cname": "根特",
+    "suggest_places": [
+      {
+        "cname": "钟楼",
+        "url": "/sight/ghent1473/79475.html"
+      },
+      {
+        "cname": "根特",
+        "url": "/sight/ghent1473/137233.html"
+      },
+      {
+        "cname": "圣尼古拉斯教堂",
+        "url": "/sight/ghent1473/79476.html"
+      },
+      {
+        "cname": "圣巴冯大教堂",
+        "url": "/sight/ghent1473/79474.html"
+      }
+    ],
+    "url": "/sightlist/ghent1473.html"
+  }
+]

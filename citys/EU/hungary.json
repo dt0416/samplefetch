@@ -1,0 +1,70 @@
+[
+  {
+    "cname": "布达佩斯",
+    "suggest_places": [
+      {
+        "cname": "链子桥",
+        "url": "/sight/budapest1109/52512.html"
+      },
+      {
+        "cname": "渔人堡",
+        "url": "/sight/budapest1109/52511.html"
+      },
+      {
+        "cname": "英雄广场",
+        "url": "/sight/budapest1109/52520.html"
+      },
+      {
+        "cname": "马加什教堂",
+        "url": "/sight/budapest1109/52510.html"
+      },
+      {
+        "cname": "匈牙利国会大厦",
+        "url": "/sight/budapest1109/52508.html"
+      }
+    ],
+    "url": "/sightlist/budapest1109.html"
+  },
+  {
+    "cname": "湖区",
+    "suggest_places": [
+      {
+        "cname": "巴拉顿湖区",
+        "url": "/sight/lakedistrict2103/139540.html"
+      },
+      {
+        "cname": "黑维兹温泉疗养湖",
+        "url": "/sight/lakedistrict2103/84915.html"
+      },
+      {
+        "cname": "蒂豪尼半岛",
+        "url": "/sight/lakedistrict2103/84912.html"
+      },
+      {
+        "cname": "班尼帝克汀修道院",
+        "url": "/sight/lakedistrict2103/84913.html"
+      }
+    ],
+    "url": "/sightlist/lakedistrict2103.html"
+  },
+  {
+    "cname": "Visegrad",
+    "suggest_places": [
+      {
+        "cname": "彩云古堡",
+        "url": "/sight/visegrad20634/81898.html"
+      }
+    ],
+    "url": "/sightlist/visegrad20634.html"
+  },
+  {
+    "cname": "Godollo",
+    "suggest_places": [
+      {
+        "cname": "格德勒皇宫",
+        "url": "/sight/godollo20639/81904.html"
+      }
+    ],
+    "url": "/sightlist/godollo20639.html"
+  }
+]

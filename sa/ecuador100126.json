@@ -1,0 +1,128 @@
+[
+  {
+    "cname": "基多",
+    "url": "http://you.ctrip.com/sightlist/quito1856.html",
+    "places": [
+      {
+        "cname": "基多大教堂",
+        "url": "/sight/quito1856/1417857.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/fd/tg/g2/M03/12/6D/CghzgFSb7_-ANnKqAAKl_9BkGro893_C_220_140.jpg",
+        "caddress": "Basilica del Voto Nacional, Carchi, Quito EC170130"
+      },
+      {
+        "cname": "独立广场",
+        "url": "/sight/quito1856/1417881.html",
+        "s_img": "",
+        "caddress": "Plaza de la Independencia, Old Town, Quito"
+      },
+      {
+        "cname": "孔帕尼亚耶稣大教堂",
+        "url": "/sight/quito1856/1674018.html",
+        "s_img": "",
+        "caddress": "Garcia Moreno y Sucre, Quito"
+      },
+      {
+        "cname": "圣弗朗西斯科修道院",
+        "url": "/sight/quito1856/1674017.html",
+        "s_img": "",
+        "caddress": "Cuencas y Sucre 477, Quito"
+      },
+      {
+        "cname": "赤道纪念碑",
+        "url": "/sight/quito1856/1417887.html",
+        "s_img": "",
+        "caddress": "Middle of the World, Pichincha"
+      }
+    ]
+  },
+  {
+    "cname": "加拉帕戈斯群岛",
+    "url": "http://you.ctrip.com/sightlist/galapagosislands20856.html",
+    "places": [
+      {
+        "cname": "Lobos岛",
+        "url": "/sight/galapagosislands20856/1414844.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/730/420/961/5e8e6d77cd5141a68a8acd56298ca08b_C_220_140.jpg",
+        "caddress": "Isla Lobos, Isia de San Cristóbal"
+      },
+      {
+        "cname": "Los Gemelos双坑",
+        "url": "/sight/galapagosislands20856/1414845.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/173/734/571/bed0c2be85f247cc912aca576f7057bf_C_220_140.jpg",
+        "caddress": "Pit Craters, Galapagos National Park"
+      },
+      {
+        "cname": "阿苏尔峰",
+        "url": "/sight/galapagosislands20856/1414818.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/385/056/100/2b6ea7550a4a4abcbe3d9cd42ec7319d_C_220_140.jpg",
+        "caddress": "Cerro Azul, Galapagos"
+      },
+      {
+        "cname": "阿约拉港",
+        "url": "/sight/galapagosislands20856/1414791.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/693/382/449/a1f00c7f89d24121acc9dadc0cec05bc_C_220_140.jpg",
+        "caddress": "Puerto Ayora, Isia Santa Cruz, Galapagos"
+      },
+      {
+        "cname": "巴尔特拉岛",
+        "url": "/sight/galapagosislands20856/1414821.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/709/685/601/ac25d3c210c14f3cbb1c215b0c847891_C_220_140.jpg",
+        "caddress": "Baltra Island, Galapagos"
+      },
+      {
+        "cname": "海龟湾海滩",
+        "url": "/sight/galapagosislands20856/1414809.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/208/000/348/f995ea2787114847bf4f32c9bd58349d_C_220_140.jpg",
+        "caddress": "Tortuga Bay, Galapagos"
+      },
+      {
+        "cname": "黑巴克里索港",
+        "url": "/sight/galapagosislands20856/1414838.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/014/263/025/a0377814dfaa45979d5b751681e33936_C_220_140.jpg",
+        "caddress": "Puerto Baquerizo Moreno, Isia San Cristóbal"
+      },
+      {
+        "cname": "军舰鸟山",
+        "url": "/sight/galapagosislands20856/1414840.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/833/761/904/e0ef2eefb3ef43159b18aa25ac56d112_C_220_140.jpg",
+        "caddress": "Cerro de las Tijeretas, Isia de San Cristóbal"
+      },
+      {
+        "cname": "圣克里斯托巴尔岛",
+        "url": "/sight/galapagosislands20856/1414798.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/774/678/713/374aaee319ad4242ab7d8e320f70fc2c_C_220_140.jpg",
+        "caddress": "San Cristóbal Island, Galapagos"
+      },
+      {
+        "cname": "圣克鲁斯岛",
+        "url": "/sight/galapagosislands20856/1414752.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/102/307/024/520eeb158cb146d0b39b6d8fec50062f_C_220_140.jpg",
+        "caddress": "Isia Santa Cruz, Galapagos"
+      },
+      {
+        "cname": "圣玛利亚岛",
+        "url": "/sight/galapagosislands20856/1414824.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/743/398/687/3bd14d2b865041d4b9667d7f4f198cee_C_220_140.jpg",
+        "caddress": "Isla Santa Maria, Galápagos"
+      },
+      {
+        "cname": "维里亚米尔港",
+        "url": "/sight/galapagosislands20856/1414837.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/241/325/819/e4cc38cd3eed48bcba541e8eb231a896_C_220_140.jpg",
+        "caddress": "Puerto Villamil, Isabela Island"
+      },
+      {
+        "cname": "伊莎贝尔岛",
+        "url": "/sight/galapagosislands20856/1414803.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/754/949/458/c21e26497c2f4fdb9ea216ea865a84a1_C_220_140.jpg",
+        "caddress": "Isabela Island, Galapagos"
+      },
+      {
+        "cname": "查尔斯·达尔文中心",
+        "url": "/sight/galapagosislands20856/1414794.html",
+        "s_img": "http://dimg02.c-ctrip.com/images/tg/698/534/880/dcfc6c86e6114f16bb5bb99fb8c9a14c_C_220_140.jpg",
+        "caddress": "Av. Charles Darwin, Puerto Ayora, Galapagos"
+      }
+    ]
+  }
+]

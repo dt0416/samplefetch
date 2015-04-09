@@ -1,0 +1,53 @@
+[
+  {
+    "cname": "哥本哈根",
+    "suggest_places": [
+      {
+        "cname": "小美人鱼像",
+        "url": "/sight/copenhagen449/25676.html"
+      },
+      {
+        "cname": "哥本哈根",
+        "url": "/sight/copenhagen449/137286.html"
+      },
+      {
+        "cname": "新港",
+        "url": "/sight/copenhagen449/25690.html"
+      },
+      {
+        "cname": "盖费昂喷泉",
+        "url": "/sight/copenhagen449/25694.html"
+      },
+      {
+        "cname": "玫瑰堡",
+        "url": "/sight/copenhagen449/25672.html"
+      }
+    ],
+    "url": "/sightlist/copenhagen449.html"
+  },
+  {
+    "cname": "Helsingor",
+    "suggest_places": [
+      {
+        "cname": "克伦堡宫",
+        "url": "/sight/helsingor10362/61878.html"
+      }
+    ],
+    "url": "/sightlist/helsingor10362.html"
+  },
+  {
+    "cname": "Hillerod",
+    "suggest_places": [
+      {
+        "cname": "菲特列堡",
+        "url": "/sight/hillerod10370/25673.html"
+      }
+    ],
+    "url": "/sightlist/hillerod10370.html"
+  },
+  {
+    "cname": "奥尔堡",
+    "suggest_places": [],
+    "url": "/sightlist/aalborg1497.html"
+  }
+]

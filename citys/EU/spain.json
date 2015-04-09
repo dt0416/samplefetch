@@ -1,0 +1,592 @@
+[
+  {
+    "cname": "巴塞罗那",
+    "suggest_places": [
+      {
+        "cname": "兰布拉大道",
+        "url": "/sight/barcelona381/110252.html"
+      },
+      {
+        "cname": "巴塞罗那",
+        "url": "/sight/barcelona381/138052.html"
+      },
+      {
+        "cname": "巴特罗之家",
+        "url": "/sight/barcelona381/12558.html"
+      },
+      {
+        "cname": "圣家族大教堂",
+        "url": "/sight/barcelona381/12556.html"
+      },
+      {
+        "cname": "米拉之家",
+        "url": "/sight/barcelona381/54680.html"
+      }
+    ],
+    "url": "/sightlist/barcelona381.html"
+  },
+  {
+    "cname": "马德里",
+    "suggest_places": [
+      {
+        "cname": "马德里王宫",
+        "url": "/sight/madrid378/12674.html"
+      },
+      {
+        "cname": "太阳门广场",
+        "url": "/sight/madrid378/52272.html"
+      },
+      {
+        "cname": "马约尔广场",
+        "url": "/sight/madrid378/52249.html"
+      },
+      {
+        "cname": "普拉多博物馆",
+        "url": "/sight/madrid378/12515.html"
+      },
+      {
+        "cname": "普拉多大道",
+        "url": "/sight/madrid378/110467.html"
+      }
+    ],
+    "url": "/sightlist/madrid378.html"
+  },
+  {
+    "cname": "塞维利亚",
+    "suggest_places": [
+      {
+        "cname": "塞维利亚大教堂",
+        "url": "/sight/sevilla380/140233.html"
+      },
+      {
+        "cname": "塞维利亚西班牙广场",
+        "url": "/sight/sevilla380/110449.html"
+      },
+      {
+        "cname": "阿卡扎堡（塞维利亚王宫）",
+        "url": "/sight/sevilla380/56758.html"
+      },
+      {
+        "cname": "大主教宫",
+        "url": "/sight/sevilla380/56787.html"
+      },
+      {
+        "cname": "黄金塔（航海博物馆）",
+        "url": "/sight/sevilla380/56764.html"
+      }
+    ],
+    "url": "/sightlist/sevilla380.html"
+  },
+  {
+    "cname": "格拉纳达",
+    "suggest_places": [
+      {
+        "cname": "阿尔罕布拉宫",
+        "url": "/sight/granada379/12536.html"
+      },
+      {
+        "cname": "格拉纳达大教堂",
+        "url": "/sight/granada379/12755.html"
+      },
+      {
+        "cname": "阿尔拜辛区",
+        "url": "/sight/granada379/57104.html"
+      },
+      {
+        "cname": "阿卡萨巴城堡",
+        "url": "/sight/granada379/138049.html"
+      },
+      {
+        "cname": "赫内拉里菲宫",
+        "url": "/sight/granada379/57112.html"
+      }
+    ],
+    "url": "/sightlist/granada379.html"
+  },
+  {
+    "cname": "托莱多",
+    "suggest_places": [
+      {
+        "cname": "托莱多",
+        "url": "/sight/toledo1958/52477.html"
+      },
+      {
+        "cname": "托莱多大教堂",
+        "url": "/sight/toledo1958/110466.html"
+      },
+      {
+        "cname": "托莱多阿尔卡萨尔城堡",
+        "url": "/sight/toledo1958/1483020.html"
+      },
+      {
+        "cname": "孔苏埃格拉",
+        "url": "/sight/toledo1958/1483063.html"
+      },
+      {
+        "cname": "托莱多市政厅",
+        "url": "/sight/toledo1958/1412445.html"
+      }
+    ],
+    "url": "/sightlist/toledo1958.html"
+  },
+  {
+    "cname": "塞哥维亚",
+    "suggest_places": [
+      {
+        "cname": "塞哥维亚",
+        "url": "/sight/segovia1631/52408.html"
+      },
+      {
+        "cname": "古罗马大渡槽",
+        "url": "/sight/segovia1631/110455.html"
+      },
+      {
+        "cname": "阿尔卡萨尔城堡",
+        "url": "/sight/segovia1631/110453.html"
+      },
+      {
+        "cname": "塞哥维亚大教堂",
+        "url": "/sight/segovia1631/110454.html"
+      }
+    ],
+    "url": "/sightlist/segovia1631.html"
+  },
+  {
+    "cname": "科尔多瓦",
+    "suggest_places": [
+      {
+        "cname": "大清真寺",
+        "url": "/sight/cordoba1341/57375.html"
+      },
+      {
+        "cname": "古罗马桥",
+        "url": "/sight/cordoba1341/57385.html"
+      },
+      {
+        "cname": "百花巷",
+        "url": "/sight/cordoba1341/57374.html"
+      },
+      {
+        "cname": "旧犹太人街",
+        "url": "/sight/cordoba1341/138277.html"
+      },
+      {
+        "cname": "阿卡扎堡",
+        "url": "/sight/cordoba1341/138034.html"
+      }
+    ],
+    "url": "/sightlist/cordoba1341.html"
+  },
+  {
+    "cname": "龙达",
+    "suggest_places": [
+      {
+        "cname": "龙达",
+        "url": "/sight/ronda8762/57358.html"
+      },
+      {
+        "cname": "龙达斗牛场",
+        "url": "/sight/ronda8762/138286.html"
+      },
+      {
+        "cname": "龙达新桥 ",
+        "url": "/sight/ronda8762/1410582.html"
+      }
+    ],
+    "url": "/sightlist/ronda8762.html"
+  },
+  {
+    "cname": "马拉加",
+    "suggest_places": [
+      {
+        "cname": "马拉加",
+        "url": "/sight/malaga1811/57200.html"
+      },
+      {
+        "cname": "米哈斯",
+        "url": "/sight/malaga1811/137153.html"
+      },
+      {
+        "cname": "马拉加大教堂",
+        "url": "/sight/malaga1811/138313.html"
+      },
+      {
+        "cname": "古罗马露天剧场",
+        "url": "/sight/malaga1811/1410583.html"
+      },
+      {
+        "cname": "阳光海岸",
+        "url": "/sight/malaga1811/1479749.html"
+      }
+    ],
+    "url": "/sightlist/malaga1811.html"
+  },
+  {
+    "cname": "瓦伦西亚",
+    "suggest_places": [
+      {
+        "cname": "艺术科学城",
+        "url": "/sight/valencia1080/135019.html"
+      },
+      {
+        "cname": "丝绸市场",
+        "url": "/sight/valencia1080/74508.html"
+      },
+      {
+        "cname": "瓦伦西亚大教堂",
+        "url": "/sight/valencia1080/135008.html"
+      },
+      {
+        "cname": "瓦伦西亚现代艺术学院",
+        "url": "/sight/valencia1080/135026.html"
+      },
+      {
+        "cname": "圣女教堂",
+        "url": "/sight/valencia1080/135030.html"
+      }
+    ],
+    "url": "/sightlist/valencia1080.html"
+  },
+  {
+    "cname": "安达卢西亚",
+    "suggest_places": [
+      {
+        "cname": "阿尔罕布拉宫",
+        "url": "/sight/andalusia4438/12536.html"
+      },
+      {
+        "cname": "塞维利亚大教堂",
+        "url": "/sight/andalusia4438/140233.html"
+      },
+      {
+        "cname": "大清真寺",
+        "url": "/sight/andalusia4438/57375.html"
+      },
+      {
+        "cname": "龙达",
+        "url": "/sight/andalusia4438/57358.html"
+      },
+      {
+        "cname": "塞维利亚西班牙广场",
+        "url": "/sight/andalusia4438/110449.html"
+      }
+    ],
+    "url": "/sightlist/andalusia4438.html"
+  },
+  {
+    "cname": "萨拉戈萨",
+    "suggest_places": [
+      {
+        "cname": "皮拉尔圣母教堂",
+        "url": "/sight/zaragoza1961/138335.html"
+      },
+      {
+        "cname": "萨拉戈萨",
+        "url": "/sight/zaragoza1961/55853.html"
+      },
+      {
+        "cname": "皮拉尔广场",
+        "url": "/sight/zaragoza1961/138332.html"
+      },
+      {
+        "cname": "拉塞欧大教堂",
+        "url": "/sight/zaragoza1961/1676873.html"
+      },
+      {
+        "cname": "阿尔哈菲利亚王宫",
+        "url": "/sight/zaragoza1961/1503961.html"
+      }
+    ],
+    "url": "/sightlist/zaragoza1961.html"
+  },
+  {
+    "cname": "米哈斯",
+    "suggest_places": [
+      {
+        "cname": "米哈斯",
+        "url": "/sight/mijas48392/137153.html"
+      },
+      {
+        "cname": "健行步道",
+        "url": "/sight/mijas48392/110444.html"
+      },
+      {
+        "cname": "马术场",
+        "url": "/sight/mijas48392/110445.html"
+      }
+    ],
+    "url": "/sightlist/mijas48392.html"
+  },
+  {
+    "cname": "巴斯克",
+    "suggest_places": [
+      {
+        "cname": "古根海姆博物馆",
+        "url": "/sight/basquecountry1343/57539.html"
+      },
+      {
+        "cname": "沃兰汀步行桥",
+        "url": "/sight/basquecountry1343/57623.html"
+      },
+      {
+        "cname": "格尔尼卡",
+        "url": "/sight/basquecountry1343/57540.html"
+      },
+      {
+        "cname": "贝壳湾",
+        "url": "/sight/basquecountry1343/57555.html"
+      },
+      {
+        "cname": "潘普洛纳",
+        "url": "/sight/basquecountry1343/57541.html"
+      }
+    ],
+    "url": "/sightlist/basquecountry1343.html"
+  },
+  {
+    "cname": "马略卡岛",
+    "suggest_places": [
+      {
+        "cname": "帕尔马",
+        "url": "/sight/mallorca9862/55819.html"
+      },
+      {
+        "cname": "马约卡岛",
+        "url": "/sight/mallorca9862/54773.html"
+      }
+    ],
+    "url": "/sightlist/mallorca9862.html"
+  },
+  {
+    "cname": "菲格拉斯",
+    "suggest_places": [
+      {
+        "cname": "达利剧院博物馆",
+        "url": "/sight/figueras9878/12511.html"
+      }
+    ],
+    "url": "/sightlist/figueras9878.html"
+  },
+  {
+    "cname": "锡切斯",
+    "suggest_places": [
+      {
+        "cname": "锡切斯",
+        "url": "/sight/sitges1955/54763.html"
+      }
+    ],
+    "url": "/sightlist/sitges1955.html"
+  },
+  {
+    "cname": "萨拉曼卡",
+    "suggest_places": [
+      {
+        "cname": "萨拉曼卡",
+        "url": "/sight/salamanca1956/52465.html"
+      },
+      {
+        "cname": "贝壳之家",
+        "url": "/sight/salamanca1956/138078.html"
+      },
+      {
+        "cname": "拉斯·杜耶纳斯修道院",
+        "url": "/sight/salamanca1956/138283.html"
+      },
+      {
+        "cname": "萨拉曼卡大学",
+        "url": "/sight/salamanca1956/138354.html"
+      },
+      {
+        "cname": "新艺术与装饰艺术博物馆",
+        "url": "/sight/salamanca1956/138338.html"
+      }
+    ],
+    "url": "/sightlist/salamanca1956.html"
+  },
+  {
+    "cname": "阿维拉",
+    "suggest_places": [
+      {
+        "cname": "四柱台",
+        "url": "/sight/avila9119/1483083.html"
+      },
+      {
+        "cname": "阿维拉",
+        "url": "/sight/avila9119/52407.html"
+      },
+      {
+        "cname": "圣特蕾莎修道院",
+        "url": "/sight/avila9119/1483087.html"
+      }
+    ],
+    "url": "/sightlist/avila9119.html"
+  },
+  {
+    "cname": "塔拉戈纳",
+    "suggest_places": [
+      {
+        "cname": "塔拉戈纳",
+        "url": "/sight/tarragona1594/54768.html"
+      },
+      {
+        "cname": "波布雷特修道院",
+        "url": "/sight/tarragona1594/55775.html"
+      }
+    ],
+    "url": "/sightlist/tarragona1594.html"
+  },
+  {
+    "cname": "马贝拉",
+    "suggest_places": [],
+    "url": "/sightlist/marbella1592.html"
+  },
+  {
+    "cname": "加的斯",
+    "suggest_places": [
+      {
+        "cname": "加的斯",
+        "url": "/sight/cadiz1629/56775.html"
+      }
+    ],
+    "url": "/sightlist/cadiz1629.html"
+  },
+  {
+    "cname": "莱里达",
+    "suggest_places": [
+      {
+        "cname": "莱里达",
+        "url": "/sight/lleida10010/54769.html"
+      }
+    ],
+    "url": "/sightlist/lleida10010.html"
+  },
+  {
+    "cname": "赫罗纳",
+    "suggest_places": [
+      {
+        "cname": "赫罗纳",
+        "url": "/sight/girona1763/54770.html"
+      }
+    ],
+    "url": "/sightlist/girona1763.html"
+  },
+  {
+    "cname": "福门特拉岛",
+    "suggest_places": [
+      {
+        "cname": "福门特拉岛",
+        "url": "/sight/formentera9861/54776.html"
+      }
+    ],
+    "url": "/sightlist/formentera9861.html"
+  },
+  {
+    "cname": "伊维萨岛",
+    "suggest_places": [
+      {
+        "cname": "伊维萨",
+        "url": "/sight/ibiza9864/54775.html"
+      },
+      {
+        "cname": "伊维萨岛",
+        "url": "/sight/ibiza9864/54772.html"
+      }
+    ],
+    "url": "/sightlist/ibiza9864.html"
+  },
+  {
+    "cname": "昆卡",
+    "suggest_places": [
+      {
+        "cname": "昆卡古城",
+        "url": "/sight/cuenca1628/54415.html"
+      }
+    ],
+    "url": "/sightlist/cuenca1628.html"
+  },
+  {
+    "cname": "布尔戈斯",
+    "suggest_places": [
+      {
+        "cname": "布尔戈斯",
+        "url": "/sight/burgos1744/52464.html"
+      }
+    ],
+    "url": "/sightlist/burgos1744.html"
+  },
+  {
+    "cname": "韦尔瓦",
+    "suggest_places": [
+      {
+        "cname": "多尼亚纳国家公园",
+        "url": "/sight/huelva8737/56872.html"
+      }
+    ],
+    "url": "/sightlist/huelva8737.html"
+  },
+  {
+    "cname": "Lon",
+    "suggest_places": [],
+    "url": "/sightlist/lon8983.html"
+  },
+  {
+    "cname": "索里亚",
+    "suggest_places": [
+      {
+        "cname": "索里亚",
+        "url": "/sight/soria9122/52466.html"
+      }
+    ],
+    "url": "/sightlist/soria9122.html"
+  },
+  {
+    "cname": "阿尔卡拉·德·埃纳雷斯",
+    "suggest_places": [
+      {
+        "cname": "阿尔卡拉城",
+        "url": "/sight/alcaladehenares10112/52404.html"
+      }
+    ],
+    "url": "/sightlist/alcaladehenares10112.html"
+  },
+  {
+    "cname": "阿兰胡埃斯",
+    "suggest_places": [
+      {
+        "cname": "阿兰胡埃斯",
+        "url": "/sight/aranjuez10132/52402.html"
+      }
+    ],
+    "url": "/sightlist/aranjuez10132.html"
+  },
+  {
+    "cname": "钦琼",
+    "suggest_places": [
+      {
+        "cname": "钦琼",
+        "url": "/sight/chinchon10164/52403.html"
+      }
+    ],
+    "url": "/sightlist/chinchon10164.html"
+  },
+  {
+    "cname": "Panticosa",
+    "suggest_places": [
+      {
+        "cname": "Panticosa Resort Spa",
+        "url": "/sight/panticosa48725/30024.html"
+      }
+    ],
+    "url": "/sightlist/panticosa48725.html"
+  },
+  {
+    "cname": "塔拉萨",
+    "suggest_places": [
+      {
+        "cname": "塔拉萨",
+        "url": "/sight/terrassa48989/54767.html"
+      }
+    ],
+    "url": "/sightlist/terrassa48989.html"
+  }
+]
